@@ -1,0 +1,10 @@
+<templateSet group="Testing">
+  <template name="st" value="@Test&#10;fun `GIVEN $GIVEN_CONDITION$ WHEN $WHEN_CONDITION$ THEN $THEN_ACTION$`() {&#10;        // arrange&#10;&#10;        // act&#10;&#10;        // assert&#10;&#10;    }" description="Simple test live template" toReformat="false" toShortenFQNames="true">
+    <variable name="GIVEN_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="WHEN_CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="THEN_ACTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>

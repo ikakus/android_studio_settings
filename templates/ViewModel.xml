@@ -1,0 +1,22 @@
+<templateSet group="ViewModel">
+  <template name="balv" value=" private val _$LIVEDATA$ = MutableLiveData&lt;$TYPE$&gt;()&#10; val $LIVEDATA$: LiveData&lt;$TYPE$&gt; = _$LIVEDATA$" description="Backed field live data" toReformat="true" toShortenFQNames="true">
+    <variable name="LIVEDATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="basle" value=" private val _$LIVEDATA$ = SingleLiveEvent&lt;$TYPE$&gt;()&#10; val $LIVEDATA$: LiveData&lt;$TYPE$&gt; = _$LIVEDATA$" description="Backed single live event" toReformat="true" toShortenFQNames="true">
+    <variable name="LIVEDATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="bvm" value="import androidx.lifecycle.LiveData&#10;import com.monese.monese.core.BaseViewModel&#10;import com.monese.monese.core.SingleLiveEvent&#10;import com.monese.monese.core.schedulers.BaseSchedulerProvider&#10;import javax.inject.Inject&#10;&#10;class $VIEWMODELNAME$ViewModel @Inject constructor(&#10;    schedulerProvider: BaseSchedulerProvider&#10;) : BaseViewModel(schedulerProvider) {&#10;&#10;    private val _viewEffect = SingleLiveEvent&lt;ViewEffect&gt;()&#10;    val viewEffect: LiveData&lt;ViewEffect&gt; = _viewEffect&#10;&#10;    private val _navigation = SingleLiveEvent&lt;Navigation&gt;()&#10;    val navigation: LiveData&lt;Navigation&gt; = _navigation&#10;&#10;    // rest of viewModel logic goes here... &#10;&#10;    sealed class ViewEffect {&#10;        data class Error(val msg: String) : ViewEffect()&#10;    }&#10;&#10;    sealed class Navigation {&#10;        object Finish : Navigation()&#10;    }&#10;}" description="View model backbone" toReformat="true" toShortenFQNames="true">
+    <variable name="VIEWMODELNAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_TOPLEVEL" value="true" />
+    </context>
+  </template>
+</templateSet>

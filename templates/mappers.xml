@@ -1,0 +1,14 @@
+<templateSet group="mappers">
+  <template name="mapDomToPres" value="class $NAME$DomainMapper @Inject constructor() &#10;    : Mapper&lt;$NAME$DomainModel, $NAME$Model&gt; {&#10;    override fun map(from: $NAME$DomainModel): $NAME$Model {&#10;        return $NAME$Model()&#10;    }&#10;}" description="Generate mapper Domanin -&gt; Presentation" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+  <template name="mapEntToDom" value="class $NAME$EntityMapper @Inject constructor()&#10;    : Mapper&lt;$NAME$Entity, $NAME$DomainModel&gt; &#10;    override fun map(from: $NAME$Entity?): $NAME$DomainModel {&#10;        return $NAME$DomainModel()&#10;    }&#10;}&#10;" description="Generate mapper Entity -&gt; Domain" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
