@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="nav_create_account" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
