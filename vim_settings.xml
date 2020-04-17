@@ -12,11 +12,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587152290843">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587152191345">
-        <mark key="[" line="106" column="19" />
-        <mark key="]" line="106" column="39" />
-        <mark key="." line="106" column="38" />
-        <mark key="^" line="106" column="39" />
+        <mark key="[" line="109" column="19" />
+        <mark key="]" line="109" column="39" />
+        <mark key="." line="109" column="38" />
+        <mark key="^" line="109" column="39" />
       </file>
     </filemarks>
     <jumps />
