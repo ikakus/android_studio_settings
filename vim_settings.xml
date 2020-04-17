@@ -3,12 +3,46 @@
     <editor />
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587152191345">
+        <mark key="[" line="106" column="19" />
+        <mark key="]" line="106" column="39" />
+        <mark key="." line="106" column="38" />
+        <mark key="^" line="106" column="39" />
+      </file>
+    </filemarks>
     <jumps />
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="4">
+        <text>v
+                val</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>v</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>v</text>
+      </register>
+    </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
