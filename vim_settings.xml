@@ -6,6 +6,7 @@
     <history>
       <history-search>
         <entry>lateinit var</entry>
+        <entry>isEnabled</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lateinit var/val/gc</entry>
@@ -20,6 +21,12 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -29,16 +36,22 @@
       <file name="/Dummy.txt" timestamp="1587234918528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587234828070">
-        <mark key="'" line="50" column="6" />
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="39" />
-        <mark key="." line="109" column="38" />
-        <mark key="^" line="109" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587237170856">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="35" column="48" />
+        <mark key="." line="46" column="4" />
+        <mark key="^" line="46" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/ItemDetailFragment.kt" timestamp="1587235443012" />
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/ui/slideshow/SlideshowFragment.kt" timestamp="1587235129481" />
-      <file name="/fragment.java" timestamp="1587235408279">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587237114781">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="49" column="48" />
+        <mark key="^" line="37" column="5" />
+        <mark key="." line="38" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1587236909822">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -46,16 +59,20 @@
       <jump line="83" column="4" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
       <jump line="50" column="6" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
+      <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciByZWN5Y2xlclZpZXc6IFJlY3ljbGVyVmlldwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgdmlld0FkYXB0ZXI6IERheXNSZWN5Y2xlclZpZXdBZGFwdGVyCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB2aWV3TWFuYWdlcjogUmVjeWNsZXJWaWV3LkxheW91dE1hbmFnZXIKCiAgICBwcml2YXRlIHZhciBkYXlzOiBNdXRhYmxlTGlzdDxCb29sZWFuPiA9IG11dGFibGVMaXN0T2YoKQogICAgcHJpdmF0ZSB2YWwgc3RyaWtlTGVuZ3RoID0gMTIKICAgIHByaXZhdGUgdmFyIGNoZWNrUG9zaXRpb24gPSAxCgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc3RvcmFnZTogU3RvcmFnZQoKICAgIHByaXZhdGUgdmFyIGFsYXJtSGVscGVyOiBBbGFybUhlbHBlcj8gPSBudWxsCg==</text>
+      </register>
       <register name="1" type="4">
         <text>v
                 val</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>v</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGxhdGVpbml0IHZhciByZWN5Y2xlclZpZXc6IFJlY3ljbGVyVmlldwogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgdmlld0FkYXB0ZXI6IERheXNSZWN5Y2xlclZpZXdBZGFwdGVyCiAgICBwcml2YXRlIGxhdGVpbml0IHZhciB2aWV3TWFuYWdlcjogUmVjeWNsZXJWaWV3LkxheW91dE1hbmFnZXIKCiAgICBwcml2YXRlIHZhciBkYXlzOiBNdXRhYmxlTGlzdDxCb29sZWFuPiA9IG11dGFibGVMaXN0T2YoKQogICAgcHJpdmF0ZSB2YWwgc3RyaWtlTGVuZ3RoID0gMTIKICAgIHByaXZhdGUgdmFyIGNoZWNrUG9zaXRpb24gPSAxCgogICAgcHJpdmF0ZSBsYXRlaW5pdCB2YXIgc3RvcmFnZTogU3RvcmFnZQoKICAgIHByaXZhdGUgdmFyIGFsYXJtSGVscGVyOiBBbGFybUhlbHBlcj8gPSBudWxsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -70,27 +87,28 @@
         <text>%s/lateinit var/val/gc</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>lateinit var</text>
+        <text>isEnabled</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>lateinit var</last-search>
-      <last-pattern>lateinit var</last-pattern>
+      <last-search>isEnabled</last-search>
+      <last-offset />
+      <last-pattern>isEnabled</last-pattern>
       <last-replace>val</last-replace>
       <last-substitute>lateinit var</last-substitute>
-      <last-dir>0</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
