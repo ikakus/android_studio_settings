@@ -25,6 +25,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/ui/gallery/GalleryViewModel.kt" timestamp="1587235254497" />
       <file name="/Dummy.txt" timestamp="1587234918528">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,7 +36,8 @@
         <mark key="." line="109" column="38" />
         <mark key="^" line="109" column="39" />
       </file>
-      <file name="/fragment.java" timestamp="1587234978620">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/ui/slideshow/SlideshowFragment.kt" timestamp="1587235129481" />
+      <file name="/fragment.java" timestamp="1587235408279">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
