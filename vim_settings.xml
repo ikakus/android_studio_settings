@@ -2,30 +2,47 @@
   <component name="VimEditorSettings">
     <editor />
   </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>lateinit var</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/lateinit var/val/gc</entry>
+      </history-cmd>
+    </history>
+  </component>
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587152290843">
+      <file name="/Dummy.txt" timestamp="1587234918528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587213473385">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587234828070">
+        <mark key="'" line="50" column="6" />
         <mark key="[" line="109" column="19" />
         <mark key="]" line="109" column="39" />
         <mark key="." line="109" column="38" />
         <mark key="^" line="109" column="39" />
       </file>
+      <file name="/fragment.java" timestamp="1587234978620">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="83" column="4" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
+      <jump line="50" column="6" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -46,13 +63,23 @@
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkCg==</text>
       </register>
+      <register name=":" type="4">
+        <text>%s/lateinit var/val/gc</text>
+      </register>
       <register name="-" type="4">
         <text>v</text>
+      </register>
+      <register name="/" type="4">
+        <text>lateinit var</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
+      <last-search>lateinit var</last-search>
+      <last-pattern>lateinit var</last-pattern>
+      <last-replace>val</last-replace>
+      <last-substitute>lateinit var</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
