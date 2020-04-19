@@ -79,6 +79,7 @@
         <mark key="." line="9" column="9" />
         <mark key="^" line="9" column="10" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/MyIntentService.kt" timestamp="1587308925036" />
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1587238203240">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="52" />
@@ -117,12 +118,12 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587287108732">
-        <mark key="'" line="11" column="55" />
-        <mark key="[" line="17" column="50" />
-        <mark key="]" line="17" column="56" />
-        <mark key="." line="17" column="55" />
-        <mark key="^" line="17" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587309927785">
+        <mark key="'" line="12" column="55" />
+        <mark key="[" line="28" column="3" />
+        <mark key="]" line="29" column="8" />
+        <mark key="." line="29" column="7" />
+        <mark key="^" line="29" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1587288099183">
         <mark key="[" line="25" column="0" />
@@ -169,8 +170,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZSA9IFN0b3JhZ2UocmVxdWlyZUNvbnRleHQoKSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHByaXZhdGUgQnJvYWRjYXN0UmVjZWl2ZXIgbVJlY2VpdmVyID0gbmV3IEJyb2FkY2FzdFJlY2VpdmVyKCkgewoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblJlY2VpdmUoQ29udGV4dCBjb250ZXh0LCBJbnRlbnQgaW50ZW50KSB7CiAgICAgICAgICAgIFN0cmluZyBkYXRlID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKCJEQVRFIik7CiAgICAgICAgICAgIG1EYXRlVGV4dC5zZXRUZXh0KGRhdGUpOwogICAgICAgIH0KICAgIH07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>@+id/title</text>
@@ -181,32 +182,32 @@
       <register name="0" type="4">
         <text encoding="base64">IHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihkYXlzKQogICAgICAgICAgICBwdXRTdHJpbmcoImRheXMiLCBqc29uVGV4dCkKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZSA9IFN0b3JhZ2UocmVxdWlyZUNvbnRleHQoKSkK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHByaXZhdGUgQnJvYWRjYXN0UmVjZWl2ZXIgbVJlY2VpdmVyID0gbmV3IEJyb2FkY2FzdFJlY2VpdmVyKCkgewoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgdm9pZCBvblJlY2VpdmUoQ29udGV4dCBjb250ZXh0LCBJbnRlbnQgaW50ZW50KSB7CiAgICAgICAgICAgIFN0cmluZyBkYXRlID0gaW50ZW50LmdldFN0cmluZ0V4dHJhKCJEQVRFIik7CiAgICAgICAgICAgIG1EYXRlVGV4dC5zZXRUZXh0KGRhdGUpOwogICAgICAgIH0KICAgIH07Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">dmlldz8uZmluZFZpZXdCeUlkPEJ1dHRvbj4oUi5pZC5idXR0b25fc3RhcnQpPy5hcHBseXsKICAgICAgICAgICAgdGhpcy5zZXRPbkNsaWNrTGlzdGVuZXIgeyAKICAgICAgICAgICAgICAgIHN0b3JhZ2Uuc2V0QWN0aXZlKHRydWUpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZSA9IFN0b3JhZ2UocmVxdWlyZUNvbnRleHQoKSkK</text>
       </register>
       <register name="4" type="4">
         <text encoding="base64">dmlldz8uZmluZFZpZXdCeUlkPEJ1dHRvbj4oUi5pZC5idXR0b25fc3RhcnQpPy5hcHBseXsKICAgICAgICAgICAgdGhpcy5zZXRPbkNsaWNrTGlzdGVuZXIgeyAKICAgICAgICAgICAgICAgIHN0b3JhZ2Uuc2V0QWN0aXZlKHRydWUpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihkYXlzKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">dmlldz8uZmluZFZpZXdCeUlkPEJ1dHRvbj4oUi5pZC5idXR0b25fc3RhcnQpPy5hcHBseXsKICAgICAgICAgICAgdGhpcy5zZXRPbkNsaWNrTGlzdGVuZXIgeyAKICAgICAgICAgICAgICAgIHN0b3JhZ2Uuc2V0QWN0aXZlKHRydWUpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGF5cyA9IAogICAgICAgIHZhbCBmcmFnbWVudCA9IGlmKHsK</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihkYXlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0RGF5cygpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGF5cyA9IAogICAgICAgIHZhbCBmcmFnbWVudCA9IGlmKHsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/.apply /?.apply/gc</text>
