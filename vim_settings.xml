@@ -55,6 +55,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -68,12 +71,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587284379280">
-        <mark key="'" line="9" column="55" />
-        <mark key="[" line="14" column="44" />
-        <mark key="]" line="14" column="23" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587285832644">
+        <mark key="'" line="11" column="55" />
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="37" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="19" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/startnew/StartNewFragment.kt" timestamp="1587284822324">
         <mark key="[" line="16" column="50" />
@@ -97,11 +100,11 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587285050794">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="82" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587285403555">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="41" />
+        <mark key="^" line="25" column="4" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1587236909822">
         <mark key="[" line="0" column="0" />
@@ -132,44 +135,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isEmpty</text>
       </register>
       <register name="-" type="4">
-        <text>active_strike</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text>Exam</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9hY3RpdmVfc3RyaWtlLCBjb250YWluZXIsIGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgbGF0ZWluaXQgdmFyIHN0b3JhZ2U6IFN0b3JhZ2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGF5cyA9IAogICAgICAgIHZhbCBmcmFnbWVudCA9IGlmKHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbml0RGF5cygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgPC9TY3JvbGxWaWV3Pgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIDxTY3JvbGxWaWV3CiAgICAgICAgYW5kcm9pZDpmaWxsVmlld3BvcnQ9InRydWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+CgogICAgICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC9jb250ZW50X21haW4iIC8+Cgog</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cjwv</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIub25DcmVhdGVWaWV3KGluZmxhdGVyLCBjb250YWluZXIsIHNhdmVkSW5zdGFuY2VTdGF0ZSkK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgPC9TY3JvbGxWaWV3Pgo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgICA8U2Nyb2xsVmlldwogICAgICAgIGFuZHJvaWQ6ZmlsbFZpZXdwb3J0PSJ0cnVlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJtYXRjaF9wYXJlbnQiPgoKICAgICAgICA8aW5jbHVkZSBsYXlvdXQ9IkBsYXlvdXQvY29udGVudF9tYWluIiAvPgoKICAgIDwvU2Nyb2xsVmlldz4=</text>
+        <text encoding="base64">ICAgIDxTY3JvbGxWaWV3CiAgICAgICAgYW5kcm9pZDpmaWxsVmlld3BvcnQ9InRydWUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+CgogICAgICAgIDxpbmNsdWRlIGxheW91dD0iQGxheW91dC9jb250ZW50X21haW4iIC8+Cgog</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9hbmRyb2lkeC5jb29yZGluYXRvcmxheW91dC53aWRnZXQuQ29vcmRpbmF0b3JMYXlvdXQ+Li4uLi4uLi4uLi4u</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/.apply /?.apply/gc</text>
