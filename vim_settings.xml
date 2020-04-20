@@ -1,0 +1,119 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts />
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" timestamp="1587369773417">
+        <mark key="'" line="127" column="55" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="46" column="53" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587369934247">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/PersonalBillingViewModel.kt" timestamp="1587369858598">
+        <mark key="'" line="266" column="42" />
+        <mark key="[" line="79" column="3" />
+        <mark key="]" line="79" column="53" />
+        <mark key="^" line="79" column="53" />
+        <mark key="." line="79" column="52" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/nocard/Inv2NoCardOrderedViewModel.kt" timestamp="1587369890661">
+        <mark key="'" line="119" column="35" />
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="35" column="53" />
+        <mark key="^" line="35" column="53" />
+        <mark key="." line="35" column="52" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyFormatter.kt" timestamp="1587369332175">
+        <mark key="[" line="48" column="69" />
+        <mark key="]" line="48" column="70" />
+        <mark key="." line="48" column="69" />
+        <mark key="^" line="48" column="70" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/accountregrade/changelimit/BizAr2LimitChoiceViewModel.kt" timestamp="1587369620202">
+        <mark key="[" line="100" column="84" />
+        <mark key="]" line="100" column="103" />
+        <mark key="^" line="100" column="103" />
+        <mark key="." line="100" column="102" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/accountregrade/model/BizCardLimitUiModel.kt" timestamp="1587369488359">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587369231810">
+        <mark key="[" line="104" column="7" />
+        <mark key="]" line="119" column="9" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/referral/onboarding/Inv4ReferralOnboardingViewModel.kt" timestamp="1587369919736">
+        <mark key="'" line="78" column="30" />
+        <mark key="[" line="22" column="71" />
+        <mark key="]" line="23" column="53" />
+        <mark key="^" line="23" column="53" />
+        <mark key="." line="23" column="52" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/InviteAndEarnViewModel.kt" timestamp="1587369817352">
+        <mark key="'" line="158" column="35" />
+        <mark key="[" line="39" column="83" />
+        <mark key="]" line="40" column="53" />
+        <mark key="^" line="40" column="53" />
+        <mark key="." line="40" column="52" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
+      <jump line="156" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/InviteAndEarnViewModel.kt" />
+      <jump line="264" column="42" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/PersonalBillingViewModel.kt" />
+      <jump line="117" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/nocard/Inv2NoCardOrderedViewModel.kt" />
+      <jump line="77" column="30" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/referral/onboarding/Inv4ReferralOnboardingViewModel.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="4">
+        <text encoding="base64">IEBKdm1TdGF0aWMKICAgICAgICBmdW4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tU3RyaW5nTm9aZXJvRGVjaW1hbCh2YWx1ZTogU3RyaW5nPywgY3VycmVuY3lDb2RlOiBTdHJpbmc/KTogU3RyaW5nIHsKICAgICAgICAgICAgaWYgKHZhbHVlID09IG51bGwgfHwgdmFsdWUgPT0gIm51bGwiIHx8IHZhbHVlLmlzRW1wdHkoKSB8fCB2YWx1ZS5jb250YWlucygi2aAiKSB8fCBjdXJyZW5jeUNvZGUgPT0gbnVsbCB8fCBjdXJyZW5jeUNvZGUubGVuZ3RoICE9IDMpIHJldHVybiAiIgogICAgICAgICAgICB2YWwgbnVtYmVyRm9ybWF0ID0gTnVtYmVyRm9ybWF0LmdldEN1cnJlbmN5SW5zdGFuY2UoTG9jYWxlTWFuYWdlci5nZXRMb2NhbGVGb3JDdXJyZW5jeUxvY2FsaXNhdGlvbigpKQogICAgICAgICAgICBudW1iZXJGb3JtYXQuY3VycmVuY3kgPSBqYXZhLnV0aWwuQ3VycmVuY3kuZ2V0SW5zdGFuY2UoY3VycmVuY3lDb2RlKQogICAgICAgICAgICB2YXIgbmV3VmFsdWUgPSBudW1iZXJGb3JtYXQuZm9ybWF0KHZhbHVlLnRvRG91YmxlKCkpCgogICAgICAgICAgICBpZiAobnVtYmVyRm9ybWF0IGlzIERlY2ltYWxGb3JtYXQpIHsKICAgICAgICAgICAgICAgIHZhbCBkZnMgPSBudW1iZXJGb3JtYXQuZGVjaW1hbEZvcm1hdFN5bWJvbHMKICAgICAgICAgICAgICAgIGlmIChuZXdWYWx1ZS5jb250YWlucyhkZnMuZGVjaW1hbFNlcGFyYXRvciArICIwMCIpKSB7CiAgICAgICAgICAgICAgICAgICAgbmV3VmFsdWUgPSBuZXdWYWx1ZS5yZXBsYWNlKGRmcy5kZWNpbWFsU2VwYXJhdG9yICsgIjAwIiwgIiIpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIHJldHVybiByZXBsYWNlUm9uQ3VycmVuY3lTeW1ib2wobmV3VmFsdWUpCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFkZG1vbmV5LmFkZDFhZGRtb25leS5BREQxQWRkTW9uZXlWaWV3TW9kZWwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+      </register>
+      <register name="-" type="4">
+        <text>CurrencyHelper</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
