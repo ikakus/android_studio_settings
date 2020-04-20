@@ -65,20 +65,16 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Locale.java" timestamp="1587382229706" />
-      <file name="/Dummy.txt" timestamp="1587386790567">
+      <file name="/Dummy.txt" timestamp="1587387722226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/locale/LocaleManagerNew.kt" timestamp="1587381506102" />
-      <file name="/fragment.kt" timestamp="1587379981174">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/topupfees/pt12feesbreakdown/model/Pt12TextModel.kt" timestamp="1587387348838">
-        <mark key="[" line="25" column="15" />
-        <mark key="]" line="25" column="15" />
-        <mark key="^" line="20" column="87" />
-        <mark key="." line="25" column="15" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="19" column="87" />
+        <mark key="." line="24" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/MMViewModel.kt" timestamp="1587387023741">
         <mark key="[" line="19" column="0" />
@@ -97,6 +93,12 @@
         <mark key="^" line="222" column="32" />
         <mark key="." line="222" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/rewards/details/Rew17CashBackEarningsViewModelTest.kt" timestamp="1587388023290">
+        <mark key="[" line="67" column="98" />
+        <mark key="]" line="67" column="115" />
+        <mark key="^" line="67" column="115" />
+        <mark key="." line="67" column="114" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" timestamp="1587382309326">
         <mark key="'" line="114" column="14" />
         <mark key="[" line="131" column="98" />
@@ -104,7 +106,12 @@
         <mark key="^" line="131" column="104" />
         <mark key="." line="131" column="103" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyFormatter.kt" timestamp="1587379649671" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/model/CashBackEarnings.kt" timestamp="1587387896613">
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="41" column="46" />
+        <mark key="^" line="41" column="46" />
+        <mark key="." line="41" column="45" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1587386578751">
         <mark key="[" line="105" column="51" />
         <mark key="]" line="105" column="20" />
@@ -116,6 +123,12 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/details/Rew17CashBackEarningsViewModel.kt" timestamp="1587387955013">
+        <mark key="[" line="37" column="42" />
+        <mark key="]" line="37" column="43" />
+        <mark key="^" line="37" column="43" />
+        <mark key="." line="37" column="42" />
       </file>
     </filemarks>
     <jumps>
@@ -154,8 +167,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwb3NpdENhbGN1bGF0aW9uPy5tYXBUb0Zlc3NCcmVha0Rvd24oKT8ubGV0IHsgZmVlQnJlYWtEb3duIC0+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CurrencyHelper</text>
       </register>
       <register name="-" type="4">
         <text>CurrencyHelper</text>
