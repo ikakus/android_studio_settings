@@ -23,7 +23,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587380182916">
+      <file name="/Dummy.txt" timestamp="1587382534258">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="." line="0" column="22" />
@@ -70,13 +70,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/bizaccounts/debitcard/fragments/Biz12s1DebitCardViewModel.kt" timestamp="1587374576478">
-        <mark key="'" line="100" column="27" />
-        <mark key="[" line="25" column="69" />
-        <mark key="]" line="26" column="53" />
-        <mark key="^" line="26" column="53" />
-        <mark key="." line="26" column="52" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/instanttopup/InstantTopUpViewModel.kt" timestamp="1587376701035">
         <mark key="'" line="408" column="43" />
         <mark key="[" line="444" column="29" />
@@ -84,19 +77,12 @@
         <mark key="." line="444" column="42" />
         <mark key="^" line="444" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/aftercreatingnewaccount/AfterCreatingNewAccountViewModel.kt" timestamp="1587374627218">
-        <mark key="'" line="118" column="27" />
-        <mark key="[" line="38" column="7" />
-        <mark key="]" line="38" column="35" />
-        <mark key="^" line="38" column="35" />
-        <mark key="." line="38" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" timestamp="1587381528857">
-        <mark key="'" line="21" column="52" />
-        <mark key="[" line="82" column="97" />
-        <mark key="]" line="82" column="100" />
-        <mark key="." line="82" column="99" />
-        <mark key="^" line="82" column="100" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" timestamp="1587382309326">
+        <mark key="'" line="114" column="14" />
+        <mark key="[" line="131" column="98" />
+        <mark key="]" line="131" column="104" />
+        <mark key="^" line="131" column="104" />
+        <mark key="." line="131" column="103" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/referral/earnings/Inv8EarningsViewModel.kt" timestamp="1587375070705">
         <mark key="'" line="9" column="49" />
@@ -109,6 +95,7 @@
         <mark key="." line="22" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyFormatter.kt" timestamp="1587379649671" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587382915928" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/setbudget/MM4s1SetBudgetViewModel.kt" timestamp="1587374928433">
         <mark key="'" line="115" column="31" />
         <mark key="[" line="30" column="67" />
@@ -134,6 +121,7 @@
         <mark key="^" line="56" column="53" />
         <mark key="." line="56" column="52" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Locale.java" timestamp="1587382229706" />
     </filemarks>
     <jumps>
       <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
@@ -165,48 +153,49 @@
       <jump line="46" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" />
       <jump line="62" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" />
       <jump line="17" column="52" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" />
+      <jump line="116" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>localeStrinwg</text>
+        <text>pl</text>
       </register>
       <register name="-" type="4">
-        <text>localeStrinwg</text>
+        <text>pl</text>
       </register>
       <register name="/" type="4">
         <text>when</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyeSB7IGxvY2FsZU1hbmFnZXIuZ2V0TG9jYWxlRm9yQ3VycmVuY3lMb2NhbGlzYXRpb24oKSB9IHJldHVybnMgTG9jYWxlLkNBTkFEQV9GUkVOQ0gK</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7IGxvY2FsZU1hbmFnZXIuZ2V0TG9jYWxlRm9yQ3VycmVuY3lMb2NhbGlzYXRpb24oKSB9IHJldHVybnMgTG9jYWxlLmZvckxhbmd1YWdlVGFnKCJwbCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHRVJNQU4K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhbGVNYW5hZ2VyID0gTG9jYWxlTWFuYWdlck5ldyhjb250ZXh0LCBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcikK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBHRVJNQU4K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcjogU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIK</text>
+        <text encoding="base64">ICAgICAgICBsb2NhbGVNYW5hZ2VyID0gTG9jYWxlTWFuYWdlck5ldyhjb250ZXh0LCBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcikK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBjb250ZXh0OiBDb250ZXh0Cg==</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcjogU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBNb2NrSyhyZWxheGVkID0gdHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBNb2NrSyhyZWxheGVkID0gdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBjb250ZXh0OiBDb250ZXh0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHMoIi1FVVIwLjkxIiwgY3VycmVuY3lGb3JtYXR0ZXIuZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tU3RyaW5nKCItMC45MSIsIEVVUl9DVVJSRU5DWV9DT0RFKSkK</text>
+        <text encoding="base64">ICAgIEBNb2NrSyhyZWxheGVkID0gdHJ1ZSkK</text>
       </register>
     </registers>
   </component>
