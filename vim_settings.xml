@@ -22,11 +22,25 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587467539445">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/joint/JointBillingViewModel.kt" timestamp="1587456494714">
+        <mark key="[" line="83" column="73" />
+        <mark key="]" line="84" column="42" />
+        <mark key="^" line="84" column="42" />
+        <mark key="." line="84" column="41" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresSectionList.kt" timestamp="1587390574075">
         <mark key="[" line="20" column="56" />
         <mark key="]" line="21" column="26" />
@@ -38,40 +52,6 @@
         <mark key="]" line="198" column="13" />
         <mark key="^" line="198" column="13" />
         <mark key="." line="198" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanViewModel.kt" timestamp="1587464102558">
-        <mark key="[" line="622" column="24" />
-        <mark key="]" line="632" column="41" />
-        <mark key="." line="632" column="40" />
-        <mark key="^" line="632" column="41" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/jointaccount/createaccount/plandetails/Jnt14PlanDetailsViewModelTest.kt" timestamp="1587461073220">
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="29" />
-        <mark key="^" line="40" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/A49OccupationIncomeActivity.kt" timestamp="1587464186367">
-        <mark key="[" line="49" column="50" />
-        <mark key="]" line="49" column="50" />
-        <mark key="^" line="49" column="50" />
-        <mark key="." line="49" column="49" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionView.kt" timestamp="1587462457723">
-        <mark key="]" line="8" column="73" />
-        <mark key="^" line="8" column="73" />
-        <mark key="." line="8" column="72" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587464188160">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/joint/JointBillingViewModel.kt" timestamp="1587456494714">
-        <mark key="[" line="83" column="73" />
-        <mark key="]" line="84" column="42" />
-        <mark key="^" line="84" column="42" />
-        <mark key="." line="84" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/changetopup/ChangeTopUpActivity.kt" timestamp="1587459484852">
         <mark key="[" line="247" column="47" />
@@ -85,23 +65,42 @@
         <mark key="." line="45" column="36" />
         <mark key="^" line="45" column="37" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanViewModel.kt" timestamp="1587464102558">
+        <mark key="[" line="622" column="24" />
+        <mark key="]" line="632" column="41" />
+        <mark key="." line="632" column="40" />
+        <mark key="^" line="632" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/jointaccount/createaccount/plandetails/Jnt14PlanDetailsViewModelTest.kt" timestamp="1587461073220">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="40" column="30" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" timestamp="1587467868996">
+        <mark key="'" line="95" column="15" />
+        <mark key="[" line="72" column="110" />
+        <mark key="]" line="104" column="16" />
+        <mark key="^" line="104" column="16" />
+        <mark key="." line="104" column="15" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/A49OccupationIncomeActivity.kt" timestamp="1587464186367">
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="49" column="50" />
+        <mark key="^" line="49" column="50" />
+        <mark key="." line="49" column="49" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyPlanModel.kt" timestamp="1587466545571">
+        <mark key="[" line="118" column="65" />
+        <mark key="]" line="119" column="30" />
+        <mark key="^" line="119" column="30" />
+        <mark key="." line="119" column="29" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/search/AviosStoresSearchFragment.kt" timestamp="1587459152472">
         <mark key="[" line="123" column="68" />
         <mark key="]" line="125" column="12" />
         <mark key="^" line="125" column="12" />
         <mark key="." line="125" column="11" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/changetopup/ChangeTopUpAdapter.kt" timestamp="1587390445361">
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="24" column="53" />
-        <mark key="^" line="24" column="53" />
-        <mark key="." line="24" column="52" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/adapter/AviosStoresActivitiesAdapterModel.kt" timestamp="1587390545680">
-        <mark key="[" line="76" column="54" />
-        <mark key="]" line="76" column="73" />
-        <mark key="^" line="76" column="73" />
-        <mark key="." line="76" column="72" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/search/AviosStoresSearchSectionList.kt" timestamp="1587456406003">
         <mark key="[" line="9" column="35" />
@@ -120,7 +119,11 @@
         <mark key="^" line="10" column="118" />
         <mark key="." line="10" column="117" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionAdapter.kt" timestamp="1587462395866" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionView.kt" timestamp="1587462457723">
+        <mark key="]" line="8" column="73" />
+        <mark key="^" line="8" column="73" />
+        <mark key="." line="8" column="72" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresListFragment.kt" timestamp="1587465550416">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -166,15 +169,19 @@
       <jump line="116" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" />
       <jump line="411" column="67" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/soforttopup/SofortTopUpViewModel.kt" />
       <jump line="465" column="28" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/paycontact/makepayment/PaymentCompleteFragment.kt" />
+      <jump line="37" column="37" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" />
+      <jump line="115" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" />
+      <jump line="97" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" />
+      <jump line="95" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>CurrencyHelper</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>stup</text>
