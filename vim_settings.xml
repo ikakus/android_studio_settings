@@ -27,22 +27,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587390238579">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresSectionList.kt" timestamp="1587390574075">
         <mark key="[" line="20" column="56" />
         <mark key="]" line="21" column="26" />
         <mark key="^" line="21" column="26" />
         <mark key="." line="21" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/topupfees/pt12feesbreakdown/model/Pt12TextModel.kt" timestamp="1587387348838">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="^" line="19" column="87" />
-        <mark key="." line="24" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/PersonalBillingViewModel.kt" timestamp="1587456530952">
+        <mark key="[" line="177" column="48" />
+        <mark key="]" line="177" column="67" />
+        <mark key="^" line="177" column="67" />
+        <mark key="." line="177" column="66" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyPlanModel.kt" timestamp="1587390222134">
+        <mark key="[" line="114" column="65" />
+        <mark key="]" line="115" column="30" />
+        <mark key="^" line="115" column="30" />
+        <mark key="." line="115" column="29" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587390238579">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="22" />
+        <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/joint/JointBillingViewModel.kt" timestamp="1587456494714">
+        <mark key="[" line="83" column="73" />
+        <mark key="]" line="84" column="42" />
+        <mark key="^" line="84" column="42" />
+        <mark key="." line="84" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/UtilsKotlin.kt" timestamp="1587390103261">
         <mark key="[" line="195" column="12" />
@@ -56,24 +68,17 @@
         <mark key="^" line="416" column="38" />
         <mark key="." line="416" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/soforttopup/SofortTopUpViewModel.kt" timestamp="1587387383263">
-        <mark key="'" line="413" column="67" />
-        <mark key="[" line="68" column="47" />
-        <mark key="]" line="69" column="53" />
-        <mark key="." line="69" column="52" />
-        <mark key="^" line="69" column="53" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/paycontact/makepayment/PaymentCompleteFragment.kt" timestamp="1587389030433">
         <mark key="'" line="470" column="28" />
         <mark key="]" line="82" column="65" />
         <mark key="." line="82" column="64" />
         <mark key="^" line="82" column="65" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyPlanModel.kt" timestamp="1587390222134">
-        <mark key="[" line="114" column="65" />
-        <mark key="]" line="115" column="30" />
-        <mark key="^" line="115" column="30" />
-        <mark key="." line="115" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/search/AviosStoresSearchFragment.kt" timestamp="1587456574039">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="41" column="53" />
+        <mark key="^" line="41" column="53" />
+        <mark key="." line="41" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/model/MoneyManagementModel.kt" timestamp="1587389467910">
         <mark key="[" line="441" column="35" />
@@ -90,6 +95,12 @@
         <mark key="^" line="76" column="73" />
         <mark key="." line="76" column="72" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/search/AviosStoresSearchSectionList.kt" timestamp="1587456406003">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/rewards/details/Rew17CashBackEarningsViewModelTest.kt" timestamp="1587388023290">
         <mark key="[" line="67" column="98" />
         <mark key="]" line="67" column="115" />
@@ -102,24 +113,6 @@
         <mark key="^" line="29" column="52" />
         <mark key="." line="29" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/model/CashBackEarnings.kt" timestamp="1587387896613">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="46" />
-        <mark key="^" line="41" column="46" />
-        <mark key="." line="41" column="45" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pots/additional/SavingsAdditionalInfoFragment.kt" timestamp="1587386993675">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="42" column="53" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1587386578751">
-        <mark key="[" line="105" column="51" />
-        <mark key="]" line="105" column="20" />
-        <mark key="." line="105" column="19" />
-        <mark key="^" line="105" column="20" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresListFragment.kt" timestamp="1587455673012">
         <mark key="[" line="193" column="16" />
         <mark key="]" line="193" column="17" />
@@ -128,6 +121,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/plandetails/model/Jnt14TextModel.kt" timestamp="1587390116835">
         <mark key="[" line="15" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/plandetails/Jnt14PlanDetailsViewModel.kt" timestamp="1587456452230">
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="48" column="69" />
+        <mark key="^" line="48" column="69" />
+        <mark key="." line="48" column="68" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/details/Rew17CashBackEarningsViewModel.kt" timestamp="1587387955013">
         <mark key="[" line="37" column="42" />
