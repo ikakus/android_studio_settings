@@ -121,10 +121,10 @@
         <mark key="." line="10" column="117" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionAdapter.kt" timestamp="1587462395866" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresListFragment.kt" timestamp="1587463977972">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresListFragment.kt" timestamp="1587465550416">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/plandetails/Jnt14PlanDetailsViewModel.kt" timestamp="1587456452230">
         <mark key="[" line="30" column="58" />
@@ -170,8 +170,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CurrencyHelper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
       </register>
       <register name="-" type="4">
         <text>CurrencyHelper</text>
@@ -186,31 +186,31 @@
     }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLndpdGhWaWV3TW9kZWwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLnZpc2libGUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLndpdGhWaWV3TW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm9ic2VydmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLnZpc2libGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmdvbmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm9ic2VydmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmRvT25BcHBseVdpbmRvd0luc2V0cwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmdvbmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmRlYm91bmNlZENsaWNrCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmRvT25BcHBseVdpbmRvd0luc2V0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmRlYm91bmNlZENsaWNrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBASW5qZWN0CiAgICBsYXRlaW5pdCB2YXIgZmVhdHVyZUZsYWdNYW5hZ2VyOiBGZWF0dXJlRmxhZ01hbmFnZQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICByCg==</text>
       </register>
     </registers>
   </component>
