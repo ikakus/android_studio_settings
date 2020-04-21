@@ -120,11 +120,11 @@
         <mark key="." line="105" column="19" />
         <mark key="^" line="105" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresListFragment.kt" timestamp="1587454100722">
-        <mark key="[" line="67" column="14" />
-        <mark key="]" line="67" column="15" />
-        <mark key="." line="67" column="15" />
-        <mark key="^" line="67" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/stores/list/AviosStoresListFragment.kt" timestamp="1587455673012">
+        <mark key="[" line="193" column="16" />
+        <mark key="]" line="193" column="17" />
+        <mark key="^" line="190" column="75" />
+        <mark key="." line="193" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/plandetails/model/Jnt14TextModel.kt" timestamp="1587390116835">
         <mark key="[" line="15" column="40" />
@@ -173,26 +173,64 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>by lazy {
-        DiffSectionAdapter(aviosStoresSectionList).apply {
-            setPaginationAdapterDelegate(
-                PaginationAdapterDelegate(),
-                paginationListener
-            )
-        }
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>requireNotNull(aviosStoresSectionList)</text>
       </register>
       <register name="/" type="4">
         <text>stup</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHZhbCBhZGFwdGVyOiBEaWZmU2VjdGlvbkFkYXB0ZXIgYnkgbGF6eSB7CiAgICAgICAgRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU3RvcmVzU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZSgKICAgICAgICAgICAgICAgIFBhZ2luYXRpb25BZGFwdGVyRGVsZWdhdGUoKSwKICAgICAgICAgICAgICAgIHBhZ2luYXRpb25MaXN0ZW5lcgogICAgICAgICAgICApCiAgICAgICAgfQogICAgfQ==</text>
+        <text>val aviosStoresSectionList1: AviosStoresSectionList by lazy {
+        AviosStoresSectionList(
+            aviosStoreSectionClickListener,
+            aviosStoreHeaderSectionClickListener,
+            aviosStoresRemoveFiltersSectionClickListener
+        )
+    }</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICBwYWdpbmF0aW9uTGlzdGVuZXIgPSAKICAgICAgICBvYmplY3QgOiBTZWN0aW9uQWRhcHRlci5PblBhZ2luYXRpb25MaXN0ZW5lciB7CiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBvbkxvYWRNb3JlKGNhbGxiYWNrOiBQYWdpbmF0aW9uQ2FsbGJhY2spIHsKICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5vbkxvYWRNb3JlKGF2aW9zU3RvcmVzU2VjdGlvbkxpc3Q/Lmhhc1N0b3JlcygpLCBhdmlvc1N0b3Jlc1NlY3Rpb25MaXN0LmlzTG9hZGluZygpKQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text>by lazy {
+        object : SectionAdapter.OnPaginationListener {
+            override fun onLoadMore(callback: PaginationCallback) {
+                viewModel.onLoadMore(aviosStoresSectionList.hasStores(), aviosStoresSectionList.isLoading())
+            }
+        }
+    }</text>
+      </register>
+      <register name="5" type="4">
+        <text>paginationListener: SectionAdapter.OnPaginationListener by lazy {
+        object : SectionAdapter.OnPaginationListener {
+            override fun onLoadMore(callback: PaginationCallback) {
+                viewModel.onLoadMore(aviosStoresSectionList?.hasStores(), aviosStoresSectionList.isLoading())
+            }
+        }
+    }</text>
+      </register>
+      <register name="6" type="4">
+        <text>by lazy {
+        AviosStoresSectionList(
+            aviosStoreSectionClickListener,
+            aviosStoreHeaderSectionClickListener,
+            aviosStoresRemoveFiltersSectionClickListener
+        )
+    }</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">OiBBdmlvc1N0b3Jlc1NlY3Rpb25MaXN0IGJ5IGxhenkgewogICAgICAgIEF2aW9zU3RvcmVzU2VjdGlvbkxpc3QoCiAgICAgICAgICAgIGF2aW9zU3RvcmVTZWN0aW9uQ2xpY2tMaXN0ZW5lciwKICAgICAgICAgICAgYXZpb3NTdG9yZUhlYWRlclNlY3Rpb25DbGlja0xpc3RlbmVyLAogICAgICAgICAgICBhdmlvc1N0b3Jlc1JlbW92ZUZpbHRlcnNTZWN0aW9uQ2xpY2tMaXN0ZW5lcgogICAgICAgICkKICAgIH0KICAgICAgICBhZGFwdGVyID0gRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU3RvcmVzU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZSgKICAgICAgICAgICAgICAgIFBhZ2luYXRpb25BZGFwdGVyRGVsZWdhdGUoKSwKICAgICAgICAgICAgICAgIHBhZ2luYXRpb25MaXN0ZW5lcgogICAgICAgICAgICApCiAgICAgICAgfQogICAgICAgIHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIgPSBTdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyKHJlcXVpcmVDb250ZXh0KCksIGFkYXB0ZXIpCiAgICAgICAgcnZfYXZpb3Nfc3RvcmVzX2NvbnRlbnQuYXBwbHkgewogICAgICAgICAgICBhZGFwdGVyID0gdGhpc0BBdmlvc1N0b3Jlc0xpc3RGcmFnbWVudC5hZGFwdGVyCiAgICAgICAgICAgIGxheW91dE1hbmFnZXIgPSBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyCiAgICAgICAgICAgIGFkZE9uU2Nyb2xsTGlzdGVuZXIoYXZpb3NTdG9yZXNTY3JvbGxMaXN0ZW5lcikKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>by lazy {
         DiffSectionAdapter(aviosStoresSectionList).apply {
             setPaginationAdapterDelegate(
@@ -202,29 +240,8 @@
         }
     }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdXJyZW5jeS5vckVtcHR5KCksCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVwb3NpdENhbGN1bGF0aW9uPy5tYXBUb0Zlc3NCcmVha0Rvd24oKT8ubGV0IHsgZmVlQnJlYWtEb3duIC0+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnVuIGdlbmVyYXRlT2xkUHJpY2VGcmVlVGllckVVQ2FyZChkY3VycmVuY3lGb3JtYXR0ZXI6IEN1cnJlbmN5Rm9ybWF0dGVyLCByeW5hbWljQ29uZmlndXJhdGlvbjogRHluYW1pY0NvbmZpZ3VyYXRpb24/LCBjb250ZXh0OiBDb250ZXh0KTogU3RyaW5nIHsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
   </component>
