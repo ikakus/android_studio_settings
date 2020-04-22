@@ -89,7 +89,11 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587543716968" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587551010171">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/transactions/views/UserWelcomePanelView.kt" timestamp="1587549936112">
         <mark key="[" line="215" column="25" />
         <mark key="]" line="215" column="44" />
@@ -152,7 +156,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMjUvMDQvMjAxOS4KICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">cHJpdmF0ZSA=</text>
@@ -164,31 +168,31 @@
         <text>fun View.show(show: Boolean?)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMjUvMDQvMjAxOS4KICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdXJyZW5jeUZvcm1hdHRlcjogQ3VycmVuY3lGb3JtYXR0ZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMTkvMTEvMjAxOC4KICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMjUvMDQvMjAxOS4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLlV0aWxzS290bGluCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjdXJyZW5jeUZvcm1hdHRlcjogQ3VycmVuY3lGb3JtYXR0ZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMTkvMTEvMjAxOC4KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLlV0aWxzS290bGluCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMDcvMTIvMjAxOC4KICovCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lGb3JtYXR0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
       </register>
     </registers>
   </component>
