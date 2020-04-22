@@ -11,6 +11,7 @@
         <entry>'when</entry>
         <entry>when</entry>
         <entry>stup</entry>
+        <entry>%s</entry>
       </history-search>
       <history-cmd />
       <history-expr />
@@ -60,13 +61,14 @@
         <mark key="." line="132" column="41" />
         <mark key="^" line="132" column="42" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/IncomeSpinnerAdapter.kt" timestamp="1587546560743">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/cache/ObjectCache.kt" timestamp="1587541799819" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/UtilsKotlin.kt" timestamp="1587474580876" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/MM3CategoryTransactionFragment.kt" timestamp="1587462658808">
-        <mark key="]" line="10" column="118" />
-        <mark key="^" line="10" column="118" />
-        <mark key="." line="10" column="117" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1587472301626">
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
@@ -126,52 +128,52 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lGb3JtYXR0ZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>CurrencyHelper</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>stup</text>
+        <text>%s</text>
       </register>
       <register name="0" type="4">
         <text>fun View.show(show: Boolean?)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lGb3JtYXR0ZXIK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMDcvMTIvMjAxOC4KICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lGb3JtYXR0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlcgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlcgo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlTWFuYWdlck5ldyA9IExvY2FsZU1hbmFnZXJOZXcoY29udGV4dCwgU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIoY29udGV4dCkpCiAgICAgICAgY3VycmVuY3lGb3JtYXR0ZXIgPSBDdXJyZW5jeUZvcm1hdHRlcihsb2NhbGVNYW5hZ2VyTmV3KQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlTWFuYWdlck5ldyA9IExvY2FsZU1hbmFnZXJOZXcoY29udGV4dCwgU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIoY29udGV4dCkpCiAgICAgICAgY3VycmVuY3lGb3JtYXR0ZXIgPSBDdXJyZW5jeUZvcm1hdHRlcihsb2NhbGVNYW5hZ2VyTmV3KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLndpdGhWaWV3TW9kZWwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLnZpc2libGUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLndpdGhWaWV3TW9kZWwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm9ic2VydmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLnZpc2libGUK</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>stup</last-search>
-      <last-offset />
-      <last-pattern>stup</last-pattern>
+      <last-search>%s</last-search>
+      <last-offset>CurrencyHelper/currencyFormatter/gc</last-offset>
+      <last-pattern>%s</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
