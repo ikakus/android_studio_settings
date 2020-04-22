@@ -31,17 +31,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/PersonalBillingViewModel.kt" timestamp="1587547333451">
-        <mark key="[" line="202" column="0" />
-        <mark key="]" line="202" column="50" />
-        <mark key="." line="202" column="49" />
-        <mark key="^" line="202" column="50" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/views/OnboardingSubscriptionPriceBottomSheet.kt" timestamp="1587549614939">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="34" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/spendingbudget/spending/views/section/MM2SectionAdapterModel.kt" timestamp="1587557942096">
+        <mark key="[" line="34" column="124" />
+        <mark key="]" line="38" column="86" />
+        <mark key="^" line="38" column="86" />
+        <mark key="." line="38" column="85" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/transactionlist/helpers/TransactionListHelper.kt" timestamp="1587550334936">
         <mark key="[" line="100" column="93" />
@@ -55,8 +49,12 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" timestamp="1587540463359">
-        <mark key="'" line="102" column="61" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/A49OccupationIncomeActivity.kt" timestamp="1587556999692">
+        <mark key="'" line="190" column="98" />
+        <mark key="[" line="190" column="82" />
+        <mark key="]" line="191" column="28" />
+        <mark key="^" line="191" column="28" />
+        <mark key="." line="191" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/transactionlist/helpers/ContisTransactionListHelper.kt" timestamp="1587550295616">
         <mark key="'" line="49" column="8" />
@@ -65,6 +63,12 @@
         <mark key="^" line="49" column="112" />
         <mark key="." line="49" column="111" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionView.kt" timestamp="1587557256741">
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="51" />
+        <mark key="^" line="23" column="51" />
+        <mark key="." line="23" column="50" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/PaymentPreviewDetails.kt" timestamp="1587553521713">
         <mark key="i" line="121" column="75" />
         <mark key="[" line="39" column="0" />
@@ -72,18 +76,38 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="174" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587554403761">
+      <file name="/Dummy.txt" timestamp="1587559008428">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/IncomeSpinnerAdapter.kt" timestamp="1587546560743" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/cache/ObjectCache.kt" timestamp="1587541799819" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/order/FundsOnOtherAccountConfirmationDialog.kt" timestamp="1587553806417">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="21" column="53" />
-        <mark key="^" line="21" column="53" />
-        <mark key="." line="21" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/IncomeSpinnerAdapter.kt" timestamp="1587556643863">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1587557149814">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/spendingbudget/spending/views/MM2SpendingPerMonthView.kt" timestamp="1587558198615">
+        <mark key="[" line="116" column="27" />
+        <mark key="]" line="116" column="28" />
+        <mark key="." line="116" column="27" />
+        <mark key="^" line="116" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/MM3CategoryTransactionFragment.kt" timestamp="1587557372470">
+        <mark key="'" line="200" column="62" />
+        <mark key="[" line="200" column="99" />
+        <mark key="]" line="200" column="118" />
+        <mark key="^" line="200" column="118" />
+        <mark key="." line="200" column="117" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionAdapter.kt" timestamp="1587557170633">
+        <mark key="'" line="109" column="45" />
+        <mark key="[" line="109" column="29" />
+        <mark key="]" line="109" column="46" />
+        <mark key="^" line="109" column="46" />
+        <mark key="." line="109" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/transactionlist/homepanel/HomePanelViewHolder.kt" timestamp="1587550202313">
         <mark key="[" line="38" column="29" />
@@ -91,16 +115,17 @@
         <mark key="^" line="38" column="48" />
         <mark key="." line="38" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1587547967767">
-        <mark key="'" line="53" column="32" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1587558876401">
+        <mark key="'" line="49" column="32" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587551010171">
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587558902739">
+        <mark key="'" line="69" column="32" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/transactions/views/UserWelcomePanelView.kt" timestamp="1587549936112">
         <mark key="[" line="215" column="25" />
@@ -162,15 +187,21 @@
       <jump line="101" column="61" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" />
       <jump line="53" column="32" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" />
       <jump line="49" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/transactionlist/helpers/ContisTransactionListHelper.kt" />
+      <jump line="184" column="98" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/A49OccupationIncomeActivity.kt" />
+      <jump line="108" column="45" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/views/MM3CategoryTransactionAdapter.kt" />
+      <jump line="196" column="62" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/moneymanagement/category/MM3CategoryTransactionFragment.kt" />
+      <jump line="24" column="16" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" />
+      <jump line="0" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" />
+      <jump line="69" column="32" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20ubW9uZXNlLm1vbmVzZS5oZWxwZXJzCgppbXBvcnQgYW5kcm9pZHguYW5ub3RhdGlvbi5EcmF3YWJsZVJlcwppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuUgppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuY29yZS5tb2RlbC5Db3VudHJ5CmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuQVVEX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5CR05fQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkJHTl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5CUkxfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkJSTF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5DQURfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkNBRF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5DSEZfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkNIRl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5DWktfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkNaS19TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5ES0tfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkRPTExBUl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5FVVJfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkVVUl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5HQlBfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkdCUF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5IS0RfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkhLRF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5IVUZfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkhVRl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5JTlJfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLklOUl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5LUk9OQV9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5NWE5fQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLk5PS19DVVJSRU5DWV9DT0RFCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuUExOX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5QTE5fU1lNQk9MCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuUk9OX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5ST05fU1lNQk9MCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuU0VLX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5TR0RfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLlRSWV9DVVJSRU5DWV9DT0RFCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuVFJZX1NZTUJPTAppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLlVTRF9DVVJSRU5DWV9DT0RFCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5sb2NhbGUuTG9jYWxlTWFuYWdlcgppbXBvcnQgamF2YS50ZXh0LkRlY2ltYWxGb3JtYXQKaW1wb3J0IGphdmEudGV4dC5OdW1iZXJGb3JtYXQKaW1wb3J0IGphdmEudXRpbC4qCgoKY29uc3QgdmFsIENVUlJFTkNZX0NPREVfTEVOR1RIID0gMwoKY2xhc3MgQ3VycmVuY3lIZWxwZXIgewogICAgY29tcGFuaW9uIG9iamVjdCB7CgogICAgICAgIHByaXZhdGUgdmFsIGN1cnJlbmN5VG9Db3VudHJ5TWFwID0gbWFwT2YoCiAgICAgICAgICAgIElOUl9DVVJSRU5DWV9DT0RFIHRvIENvdW50cnkuSU5ESUEKICAgICAgICApCgogICAgICAgIEBKdm1TdGF0aWMKICAgICAgICBmdW4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tRG91YmxlKG51bWJlckZvcm1hdDogTnVtYmVyRm9ybWF0LCB2YWx1ZTogRG91YmxlPywgY3VycmVuY3lDb2RlOiBTdHJpbmc/KTogU3RyaW5nIHsKICAgICAgICAgICAgaWYgKHZhbHVlID09IG51bGwgfHwgY3VycmVuY3lDb2RlID09IG51bGwgfHwgY3VycmVuY3lDb2RlLmxlbmd0aCAhPSAzKSByZXR1cm4gIiIKICAgICAgICAgICAgbnVtYmVyRm9ybWF0LmN1cnJlbmN5ID0gQ3VycmVuY3kuZ2V0SW5zdGFuY2UoY3VycmVuY3lDb2RlKQoKICAgICAgICAgICAgcmV0dXJuIHJlcGxhY2VSb25DdXJyZW5jeVN5bWJvbChudW1iZXJGb3JtYXQuZm9ybWF0KHZhbHVlLnRvRG91YmxlKCkpKQogICAgICAgIH0KCiAgICAgICAgZnVuIGdldENvdW50cnlJU08yZnJvbUN1cnJlbmN5Q29kZShjdXJyZW5jeUNvZGU6IFN0cmluZyk6IFN0cmluZz8gPQogICAgICAgICAgICBjdXJyZW5jeVRvQ291bnRyeU1hcFtjdXJyZW5jeUNvZGVdPy5pc28yCgogICAgICAgIEBKdm1PdmVybG9hZHMKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoIkNvbXBsZXhDb25kaXRpb24iLCAiUmV0dXJuQ291bnQiKQogICAgICAgIGZ1biBnZXRGb3JtYXR0ZWRDdXJyZW5jeUZyb21TdHJpbmcoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
@@ -179,33 +210,31 @@
         <text>fun View.show(show: Boolean?)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubW9uZXNlLm1vbmVzZS5oZWxwZXJzCgppbXBvcnQgYW5kcm9pZHguYW5ub3RhdGlvbi5EcmF3YWJsZVJlcwppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuUgppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuY29yZS5tb2RlbC5Db3VudHJ5CmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuQVVEX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5CR05fQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkJHTl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5CUkxfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkJSTF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5DQURfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkNBRF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5DSEZfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkNIRl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5DWktfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkNaS19TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5ES0tfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkRPTExBUl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5FVVJfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkVVUl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5HQlBfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkdCUF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5IS0RfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkhLRF9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5IVUZfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLkhVRl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5JTlJfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLklOUl9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5LUk9OQV9TWU1CT0wKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5NWE5fQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLk5PS19DVVJSRU5DWV9DT0RFCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuUExOX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5QTE5fU1lNQk9MCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuUk9OX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5ST05fU1lNQk9MCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuU0VLX0NVUlJFTkNZX0NPREUKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXJyZW5jeS5tb2RlbC5TR0RfQ1VSUkVOQ1lfQ09ERQppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLlRSWV9DVVJSRU5DWV9DT0RFCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kb21haW4uY3VycmVuY3kubW9kZWwuVFJZX1NZTUJPTAppbXBvcnQgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmN1cnJlbmN5Lm1vZGVsLlVTRF9DVVJSRU5DWV9DT0RFCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5sb2NhbGUuTG9jYWxlTWFuYWdlcgppbXBvcnQgamF2YS50ZXh0LkRlY2ltYWxGb3JtYXQKaW1wb3J0IGphdmEudGV4dC5OdW1iZXJGb3JtYXQKaW1wb3J0IGphdmEudXRpbC4qCgoKY29uc3QgdmFsIENVUlJFTkNZX0NPREVfTEVOR1RIID0gMwoKY2xhc3MgQ3VycmVuY3lIZWxwZXIgewogICAgY29tcGFuaW9uIG9iamVjdCB7CgogICAgICAgIHByaXZhdGUgdmFsIGN1cnJlbmN5VG9Db3VudHJ5TWFwID0gbWFwT2YoCiAgICAgICAgICAgIElOUl9DVVJSRU5DWV9DT0RFIHRvIENvdW50cnkuSU5ESUEKICAgICAgICApCgogICAgICAgIEBKdm1TdGF0aWMKICAgICAgICBmdW4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tRG91YmxlKG51bWJlckZvcm1hdDogTnVtYmVyRm9ybWF0LCB2YWx1ZTogRG91YmxlPywgY3VycmVuY3lDb2RlOiBTdHJpbmc/KTogU3RyaW5nIHsKICAgICAgICAgICAgaWYgKHZhbHVlID09IG51bGwgfHwgY3VycmVuY3lDb2RlID09IG51bGwgfHwgY3VycmVuY3lDb2RlLmxlbmd0aCAhPSAzKSByZXR1cm4gIiIKICAgICAgICAgICAgbnVtYmVyRm9ybWF0LmN1cnJlbmN5ID0gQ3VycmVuY3kuZ2V0SW5zdGFuY2UoY3VycmVuY3lDb2RlKQoKICAgICAgICAgICAgcmV0dXJuIHJlcGxhY2VSb25DdXJyZW5jeVN5bWJvbChudW1iZXJGb3JtYXQuZm9ybWF0KHZhbHVlLnRvRG91YmxlKCkpKQogICAgICAgIH0KCiAgICAgICAgZnVuIGdldENvdW50cnlJU08yZnJvbUN1cnJlbmN5Q29kZShjdXJyZW5jeUNvZGU6IFN0cmluZyk6IFN0cmluZz8gPQogICAgICAgICAgICBjdXJyZW5jeVRvQ291bnRyeU1hcFtjdXJyZW5jeUNvZGVdPy5pc28yCgogICAgICAgIEBKdm1PdmVybG9hZHMKICAgICAgICBASnZtU3RhdGljCiAgICAgICAgQFN1cHByZXNzV2FybmluZ3MoIkNvbXBsZXhDb25kaXRpb24iLCAiUmV0dXJuQ291bnQiKQogICAgICAgIGZ1biBnZXRGb3JtYXR0ZWRDdXJyZW5jeUZyb21TdHJpbmcoCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSmF2aXNhY3Igb24gMTUvMTEvMjAxOC4KICovCgo=</text>
       </register>
       <register name="3" type="2">
-        <text>/**
- * Created by kaspar on 06/07/16.
- */</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIGN1cnJlbmN5ID0gbWFuYWdlclByb3ZpZGVyLmFjY291bnRzRGF0YU1hbmFnZXIuYWNjb3VudHNEYXRhLnByaW1hcnlBY2NvdW50LmFjY291bnRDdXJyZW5jeS5uYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW5jb21lU3Bpbm5lckFkYXB0ZXIobGlzdCA9IGluY29tZXMsIGN1cnJlbmN5ID0gY3VycmVuY3kpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMjUvMDQvMjAxOS4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBjdXJyZW5jeUZvcm1hdHRlcjogQ3VycmVuY3lGb3JtYXR0ZXIsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGJ5IGxhenkgewogICAgICAgIHZhbCBjdXJyZW5jeSA9IG1hbmFnZXJQcm92aWRlci5hY2NvdW50c0RhdGFNYW5hZ2VyLmFjY291bnRzRGF0YS5wcmltYXJ5QWNjb3VudC5hY2NvdW50Q3VycmVuY3kubmFtZQogICAgICAgIEluY29tZVNwaW5uZXJBZGFwdGVyKGxpc3QgPSBpbmNvbWVzLCBjdXJyZW5jeSA9IGN1cnJlbmN5KQogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMTkvMTEvMjAxOC4KICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgcGF2ZWwgb24gMDcvMTIvMjAxOC4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLlV0aWxzS290bGluCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lIZWxwZXIK</text>
       </register>
     </registers>
   </component>
@@ -221,7 +250,7 @@
   <component name="VimSettings">
     <state version="6" enabled="true" />
     <notifications>
-      <idea-join enabled="false" />
+      <idea-join enabled="true" />
       <idea-put enabled="false" />
     </notifications>
   </component>
