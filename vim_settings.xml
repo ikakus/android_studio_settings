@@ -42,18 +42,12 @@
         <mark key="." line="632" column="40" />
         <mark key="^" line="632" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/jointaccount/createaccount/plandetails/Jnt14PlanDetailsViewModelTest.kt" timestamp="1587461073220">
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="40" column="30" />
-        <mark key="." line="40" column="29" />
-        <mark key="^" line="40" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" timestamp="1587468103749">
-        <mark key="'" line="101" column="61" />
-        <mark key="[" line="102" column="1" />
-        <mark key="]" line="102" column="8" />
-        <mark key="^" line="102" column="8" />
-        <mark key="." line="102" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/cards/virtual/create/CreateVirtualCardControlsViewModel.kt" timestamp="1587540463359">
+        <mark key="'" line="106" column="61" />
+        <mark key="[" line="72" column="34" />
+        <mark key="]" line="76" column="25" />
+        <mark key="^" line="76" column="25" />
+        <mark key="." line="76" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/A49OccupationIncomeActivity.kt" timestamp="1587464186367">
         <mark key="[" line="49" column="50" />
@@ -70,16 +64,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587472367587">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="." line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/changetopup/ChangeTopUpActivity.kt" timestamp="1587459484852">
-        <mark key="[" line="247" column="47" />
-        <mark key="]" line="247" column="66" />
-        <mark key="^" line="247" column="66" />
-        <mark key="." line="247" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" timestamp="1587539812066">
+        <mark key="[" line="132" column="25" />
+        <mark key="]" line="132" column="42" />
+        <mark key="." line="132" column="41" />
+        <mark key="^" line="132" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/occupationincome/IncomeSpinnerAdapter.kt" timestamp="1587462358467">
         <mark key="[" line="45" column="20" />
@@ -158,10 +147,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>fun View.show(show: Boolean?)</text>
+        <text>CurrencyHelper</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>CurrencyHelper</text>
       </register>
       <register name="/" type="4">
         <text>stup</text>
