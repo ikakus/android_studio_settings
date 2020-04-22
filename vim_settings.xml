@@ -108,11 +108,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1587286830245">
-        <mark key="[" line="73" column="33" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="38" />
-        <mark key="^" line="73" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1587536592814">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="22" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_new_strike.xml" timestamp="1587535148530">
         <mark key="[" line="10" column="22" />
@@ -120,12 +120,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587535862769">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587537080596">
         <mark key="'" line="182" column="38" />
-        <mark key="[" line="136" column="27" />
-        <mark key="]" line="136" column="27" />
-        <mark key="^" line="89" column="35" />
-        <mark key="." line="136" column="27" />
+        <mark key="[" line="244" column="73" />
+        <mark key="]" line="244" column="84" />
+        <mark key="^" line="244" column="84" />
+        <mark key="." line="244" column="83" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/startnew/StartNewStrikeFragment.kt" timestamp="1587286226991">
         <mark key="[" line="9" column="16" />
@@ -212,15 +212,16 @@
       <jump line="249" column="54" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="74" column="51" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="187" column="38" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
+      <jump line="51" column="8" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>EditText</text>
+        <text>lastDay?.let {  this }</text>
       </register>
       <register name="-" type="4">
-        <text>EditText</text>
+        <text>lastDay?.let {  this }</text>
       </register>
       <register name="/" type="4">
         <text>getLast</text>
@@ -229,32 +230,32 @@
         <text encoding="base64">TkVXX1NUUklLRV9TVEFSVEVEIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlID0gU3RvcmFnZSh0aGlzKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRGF0ZSgpCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cFN0b3JhZ2UoCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Imxhc3RDaGVja0RheSIsIA==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGZ1biBzZXR1cFN0b3JhZ2UoKSB7CiAgICAgICAgaWYgKHN0b3JhZ2UuY2hlY2tJZkZhaWxlZCgpKSB7CiAgICAgICAgICAgIHN0b3JhZ2UucmVzZXRBbGwoKQogICAgICAgIH0KICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="4">
-        <text>TextView
-        android:id=&quot;@+id/title&quot;</text>
+        <text encoding="base64">ICAgdmFsIGNhbCA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkKICAgICAgICBjYWwuYWRkKENhbGVuZGFyLkRBWV9PRl9ZRUFSLCAtMSk=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBzdG9yYWdlID0gU3RvcmFnZSh0aGlzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTmV3U3RyaWtlRnJhZ21lbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cFN0b3JhZ2UoCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHNlbmQgbG9jYWwgYnJvYWRjYXN0Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBwcml2YXRlIGZ1biBzZXR1cFN0b3JhZ2UoKSB7CiAgICAgICAgaWYgKHN0b3JhZ2UuY2hlY2tJZkZhaWxlZCgpKSB7CiAgICAgICAgICAgIHN0b3JhZ2UucmVzZXRBbGwoKQogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>TextView
+        android:id=&quot;@+id/title&quot;</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVG9hc3QubWFrZVRleHQoY29udGV4dCwgZGF0ZSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkK</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlID0gU3RvcmFnZSh0aGlzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/.apply /?.apply/gc</text>
