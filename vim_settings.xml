@@ -84,8 +84,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587315596083">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1587537196866">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/startnew/StartNewFragment.kt" timestamp="1587286208575">
         <mark key="[" line="9" column="9" />
@@ -121,11 +123,11 @@
         <mark key="." line="10" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587537080596">
-        <mark key="'" line="182" column="38" />
-        <mark key="[" line="244" column="73" />
-        <mark key="]" line="244" column="84" />
-        <mark key="^" line="244" column="84" />
-        <mark key="." line="244" column="83" />
+        <mark key="'" line="181" column="38" />
+        <mark key="[" line="243" column="73" />
+        <mark key="]" line="243" column="84" />
+        <mark key="^" line="243" column="84" />
+        <mark key="." line="243" column="83" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/startnew/StartNewStrikeFragment.kt" timestamp="1587286226991">
         <mark key="[" line="9" column="16" />
@@ -218,10 +220,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>lastDay?.let {  this }</text>
+        <text encoding="base64">IHJlY2VpdmVyIHVucmVnaXN0ZXI=</text>
       </register>
       <register name="-" type="4">
-        <text>lastDay?.let {  this }</text>
+        <text encoding="base64">IHJlY2VpdmVyIHVucmVnaXN0ZXI=</text>
       </register>
       <register name="/" type="4">
         <text>getLast</text>
