@@ -30,6 +30,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/PersonalBillingViewModel.kt" timestamp="1587542250977">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanViewModel.kt" timestamp="1587464102558">
         <mark key="[" line="622" column="24" />
         <mark key="]" line="632" column="41" />
@@ -53,9 +58,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/extensions/ViewExt.kt" timestamp="1587474312476">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="28" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587541663168">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" timestamp="1587539812066">
         <mark key="[" line="132" column="25" />
@@ -128,8 +130,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CurrencyHelper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lGb3JtYXR0ZXIK</text>
       </register>
       <register name="-" type="4">
         <text>CurrencyHelper</text>
@@ -141,31 +143,31 @@
         <text>fun View.show(show: Boolean?)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhlbHBlcnMuQ3VycmVuY3lGb3JtYXR0ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlcgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlcgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlTWFuYWdlck5ldyA9IExvY2FsZU1hbmFnZXJOZXcoY29udGV4dCwgU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIoY29udGV4dCkpCiAgICAgICAgY3VycmVuY3lGb3JtYXR0ZXIgPSBDdXJyZW5jeUZvcm1hdHRlcihsb2NhbGVNYW5hZ2VyTmV3KQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlTWFuYWdlck5ldyA9IExvY2FsZU1hbmFnZXJOZXcoY29udGV4dCwgU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIoY29udGV4dCkpCiAgICAgICAgY3VycmVuY3lGb3JtYXR0ZXIgPSBDdXJyZW5jeUZvcm1hdHRlcihsb2NhbGVNYW5hZ2VyTmV3KQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLndpdGhWaWV3TW9kZWwK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmV4dGVuc2lvbnMuc2hvdwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLnZpc2libGUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLndpdGhWaWV3TW9kZWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm9ic2VydmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLnZpc2libGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLmdvbmUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm9ic2VydmUK</text>
       </register>
     </registers>
   </component>
