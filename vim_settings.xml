@@ -26,6 +26,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -56,6 +59,7 @@
       <file name="/fragment.kt" timestamp="1587629006876">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1587632207275" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
         <mark key="'" line="329" column="12" />
       </file>
@@ -64,12 +68,6 @@
         <mark key="]" line="17" column="16" />
         <mark key="^" line="17" column="16" />
         <mark key="." line="17" column="15" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/bizaccounts/invoices/review/model/InvoiceItemModel.kt" timestamp="1587559728620">
-        <mark key="[" line="76" column="86" />
-        <mark key="]" line="76" column="103" />
-        <mark key="^" line="76" column="103" />
-        <mark key="." line="76" column="102" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587629053020" />
       <file name="/Dummy.txt" timestamp="1587560968354">
@@ -84,15 +82,8 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587566061275" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587631919909" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1587565148416" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/bizaccounts/invoices/review/BizInv8s0ViewModel.kt" timestamp="1587559755403">
-        <mark key="'" line="74" column="91" />
-        <mark key="[" line="24" column="53" />
-        <mark key="]" line="25" column="53" />
-        <mark key="^" line="25" column="53" />
-        <mark key="." line="25" column="52" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/delegates/RewardsEarningsHeaderAdapterDelegate.kt" timestamp="1587559936778">
         <mark key="[" line="38" column="105" />
         <mark key="]" line="38" column="123" />
@@ -106,6 +97,7 @@
         <mark key="." line="149" column="19" />
         <mark key="^" line="149" column="20" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.1/9060d692fda44da7a134d1e05d62fe02629f461a/fragment-1.2.1-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1587632590667" />
     </filemarks>
     <jumps>
       <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
@@ -161,6 +153,7 @@
       <jump line="0" column="43" filename="/Dummy.txt" />
       <jump line="316" column="45" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
       <jump line="329" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
+      <jump line="76" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
