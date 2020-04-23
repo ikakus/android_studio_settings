@@ -29,6 +29,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -50,6 +53,7 @@
         <mark key="^" line="11" column="93" />
         <mark key="." line="11" column="92" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/AndroidManifest.xml" timestamp="1587634839789" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/sections/RewardsEarningsCashAdapterModel.kt" timestamp="1587560079357">
         <mark key="[" line="20" column="39" />
         <mark key="]" line="20" column="58" />
@@ -62,12 +66,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1587632207275" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
         <mark key="'" line="329" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/delegates/RewardsEarningsCashAdapterDelegate.kt" timestamp="1587559882425">
-        <mark key="[" line="63" column="94" />
-        <mark key="]" line="17" column="16" />
-        <mark key="^" line="17" column="16" />
-        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587629053020" />
       <file name="/Dummy.txt" timestamp="1587560968354">
