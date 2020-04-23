@@ -79,7 +79,7 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587638106787" />
       <file name="/HomeActivity.kt" timestamp="1587643591588" />
-      <file name="/Dummy.txt" timestamp="1587643269111">
+      <file name="/Dummy.txt" timestamp="1587647521564">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -93,13 +93,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1587638240703">
         <mark key="'" line="67" column="6" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/Rew16EarningsFragment.kt" timestamp="1587640395534">
-        <mark key="'" line="84" column="8" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="^" line="148" column="20" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.1/9060d692fda44da7a134d1e05d62fe02629f461a/fragment-1.2.1-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1587632590667" />
     </filemarks>
