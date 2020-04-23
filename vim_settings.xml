@@ -55,12 +55,6 @@
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/sections/RewardsEarningsHeaderAdapterModel.kt" timestamp="1587560097261">
-        <mark key="[" line="11" column="76" />
-        <mark key="]" line="11" column="93" />
-        <mark key="^" line="11" column="93" />
-        <mark key="." line="11" column="92" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/AndroidManifest.xml" timestamp="1587634839789" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1587642249327">
         <mark key="[" line="87" column="56" />
@@ -70,16 +64,17 @@
       <file name="/fragment.kt" timestamp="1587629006876">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1587640662394">
-        <mark key="]" line="34" column="86" />
-        <mark key="^" line="34" column="86" />
-        <mark key="." line="34" column="85" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1587643178712">
+        <mark key="]" line="440" column="0" />
+        <mark key="^" line="440" column="0" />
+        <mark key="." line="440" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
         <mark key="'" line="329" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587638106787" />
-      <file name="/Dummy.txt" timestamp="1587640405998">
+      <file name="/HomeActivity.kt" timestamp="1587643577275" />
+      <file name="/Dummy.txt" timestamp="1587643269111">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
