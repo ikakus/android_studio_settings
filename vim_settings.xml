@@ -42,7 +42,6 @@
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/deeplink/executors/AddMoneyDeeplinkExecutor.kt" timestamp="1587564508694" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/deeplink/DeeplinkIntentProcessor.kt" timestamp="1587637654516" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/kapt/devDebug/com/monese/monese/di/components/DaggerInjector.java" timestamp="1587561110799" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/model/PricingModel.kt" timestamp="1587562429966">
         <mark key="[" line="86" column="15" />
         <mark key="]" line="86" column="32" />
@@ -72,19 +71,25 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
         <mark key="'" line="329" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MvvmBaseActivity.kt" timestamp="1587645312678">
+        <mark key="[" line="38" column="18" />
+        <mark key="]" line="38" column="28" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MvvmBaseFragment.kt" timestamp="1587645198202">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587638106787" />
-      <file name="/HomeActivity.kt" timestamp="1587643577275" />
+      <file name="/HomeActivity.kt" timestamp="1587643591588" />
       <file name="/Dummy.txt" timestamp="1587643269111">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
         <mark key="." line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/RewardsEarningsSectionList.kt" timestamp="1587560411912">
-        <mark key="[" line="14" column="72" />
-        <mark key="]" line="15" column="46" />
-        <mark key="^" line="15" column="46" />
-        <mark key="." line="15" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587641737238">
         <mark key="[" line="154" column="19" />
@@ -165,7 +170,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>or</text>
+        <text>monse_stack</text>
       </register>
       <register name="-" type="4">
         <text>or</text>
@@ -174,35 +179,35 @@
         <text>%s</text>
       </register>
       <register name="0" type="4">
-        <text>context.startActivity(HomeActivity.getReturnToIntent(context))</text>
+        <text>monse_stack</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfU0lOR0xFX1RPUAo=</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgic3RhY2s6ICRUQUciKQo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfU0lOR0xFX1RPUAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgb3IK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">b3IKICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>,
             Intent(Intent.ACTION_VIEW, uri</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHZhbCBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgICAgICAgICAgd2l0aChydl9yZXcxNl9lYXJuaW5ncykgewogICAgICAgICAgICAgICAgICAgIGFkYXB0ZXIgPSB0aGlzQFJldzE2RWFybmluZ3NGcmFnbWVudC5hZGFwdGVyCiAgICAgICAgICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGFkYXB0ZXIgPSBEaWZmU2VjdGlvbkFkYXB0ZXIoc2VjdGlvbkxpc3QpCiAgICAgICAgdmFsIHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIgPSBTdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyKHJlcXVpcmVDb250ZXh0KCksIGFkYXB0ZXIpCiAgICAgICAgd2l0aChydl9yZXcxNl9lYXJuaW5ncykgewogICAgICAgICAgICBhZGFwdGVyID0gdGhpc0BSZXcxNkVhcm5pbmdzRnJhZ21lbnQuYWRhcHRlcgogICAgICAgICAgICBsYXlvdXRNYW5hZ2VyID0gc3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcgogICAgICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBieSBsYXp5IHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
     </registers>
   </component>
