@@ -72,16 +72,10 @@
         <mark key="'" line="329" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MvvmBaseActivity.kt" timestamp="1587646019405">
-        <mark key="[" line="38" column="21" />
-        <mark key="]" line="38" column="22" />
-        <mark key="." line="38" column="21" />
-        <mark key="^" line="38" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MvvmBaseFragment.kt" timestamp="1587646010957">
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="17" column="21" />
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="21" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587638106787" />
       <file name="/HomeActivity.kt" timestamp="1587643591588" />
