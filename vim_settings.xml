@@ -40,7 +40,7 @@
         <mark key="^" line="86" column="32" />
         <mark key="." line="86" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1587567306384" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1587628512712" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/sections/RewardsEarningsHeaderAdapterModel.kt" timestamp="1587560097261">
         <mark key="[" line="11" column="76" />
         <mark key="]" line="11" column="93" />
@@ -53,14 +53,11 @@
         <mark key="^" line="20" column="58" />
         <mark key="." line="20" column="57" />
       </file>
+      <file name="/fragment.kt" timestamp="1587629006876">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
         <mark key="'" line="329" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/payments/common/MonetaryAmount.kt" timestamp="1587559695305">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="32" />
-        <mark key="^" line="18" column="32" />
-        <mark key="." line="18" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/delegates/RewardsEarningsCashAdapterDelegate.kt" timestamp="1587559882425">
         <mark key="[" line="63" column="94" />
@@ -74,6 +71,7 @@
         <mark key="^" line="76" column="103" />
         <mark key="." line="76" column="102" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587629053020" />
       <file name="/Dummy.txt" timestamp="1587560968354">
         <mark key="'" line="0" column="43" />
         <mark key="[" line="0" column="0" />
@@ -88,11 +86,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587566061275" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1587565148416" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587558902739">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/bizaccounts/invoices/review/BizInv8s0ViewModel.kt" timestamp="1587559755403">
         <mark key="'" line="74" column="91" />
         <mark key="[" line="24" column="53" />
