@@ -53,6 +53,9 @@
         <mark key="^" line="20" column="58" />
         <mark key="." line="20" column="57" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
+        <mark key="'" line="329" column="12" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/payments/common/MonetaryAmount.kt" timestamp="1587559695305">
         <mark key="[" line="18" column="15" />
         <mark key="]" line="18" column="32" />
@@ -85,12 +88,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587566061275" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1587565148416" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1587558876401">
-        <mark key="'" line="49" column="32" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587558902739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -169,6 +166,8 @@
       <jump line="142" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/Rew16EarningsFragment.kt" />
       <jump line="78" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/Rew16EarningsFragment.kt" />
       <jump line="0" column="43" filename="/Dummy.txt" />
+      <jump line="316" column="45" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
+      <jump line="329" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
