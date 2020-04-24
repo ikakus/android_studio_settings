@@ -40,15 +40,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/deeplink/executors/AddMoneyDeeplinkExecutor.kt" timestamp="1587564508694" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/deeplink/DeeplinkIntentProcessor.kt" timestamp="1587637654516" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/model/PricingModel.kt" timestamp="1587562429966">
-        <mark key="[" line="86" column="15" />
-        <mark key="]" line="86" column="32" />
-        <mark key="^" line="86" column="32" />
-        <mark key="." line="86" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyPlanModel.kt" timestamp="1587713854225">
+        <mark key="[" line="152" column="111" />
+        <mark key="]" line="134" column="108" />
+        <mark key="^" line="134" column="108" />
+        <mark key="." line="152" column="115" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1587628512712" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/model/PricingModel.kt" timestamp="1587713612260">
+        <mark key="[" line="85" column="45" />
+        <mark key="]" line="85" column="81" />
+        <mark key="^" line="85" column="81" />
+        <mark key="." line="85" column="80" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/deeplink/executors/RewardsDeeplinkExecutor.kt" timestamp="1587640171080">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="69" />
@@ -60,16 +64,34 @@
         <mark key="]" line="87" column="56" />
         <mark key="." line="87" column="56" />
       </file>
-      <file name="/fragment.kt" timestamp="1587629006876">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/model/Pt5ChangePlansModel.kt" timestamp="1587713995916">
+        <mark key="[" line="46" column="37" />
+        <mark key="]" line="47" column="30" />
+        <mark key="." line="47" column="29" />
+        <mark key="^" line="47" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyBusinessPlanModel.kt" timestamp="1587713822631">
+        <mark key="[" line="57" column="81" />
+        <mark key="]" line="57" column="98" />
+        <mark key="^" line="57" column="98" />
+        <mark key="." line="57" column="97" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1587643178712">
         <mark key="]" line="440" column="0" />
         <mark key="^" line="440" column="0" />
         <mark key="." line="440" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1587627397969">
-        <mark key="'" line="329" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/plandetails/model/Jnt14TextModel.kt" timestamp="1587713708128">
+        <mark key="[" line="41" column="99" />
+        <mark key="]" line="26" column="107" />
+        <mark key="^" line="26" column="107" />
+        <mark key="." line="41" column="118" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt8confirmplan/model/Pt8TextModel.kt" timestamp="1587714032548">
+        <mark key="[" line="38" column="88" />
+        <mark key="]" line="38" column="105" />
+        <mark key="^" line="38" column="105" />
+        <mark key="." line="38" column="104" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MvvmBaseActivity.kt" timestamp="1587646019405">
         <mark key="[" line="14" column="21" />
@@ -79,6 +101,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587638106787" />
       <file name="/HomeActivity.kt" timestamp="1587643591588" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/topupfees/pt12feesbreakdown/model/Pt12TextModel.kt" timestamp="1587713654105">
+        <mark key="[" line="21" column="59" />
+        <mark key="]" line="23" column="98" />
+        <mark key="^" line="23" column="98" />
+        <mark key="." line="23" column="97" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587641737238">
         <mark key="[" line="154" column="19" />
         <mark key="]" line="154" column="57" />
@@ -94,7 +122,6 @@
         <mark key="." line="85" column="0" />
         <mark key="^" line="81" column="25" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.1/9060d692fda44da7a134d1e05d62fe02629f461a/fragment-1.2.1-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1587632590667" />
     </filemarks>
     <jumps>
       <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
