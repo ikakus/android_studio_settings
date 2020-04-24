@@ -60,11 +60,11 @@
         <mark key="^" line="85" column="81" />
         <mark key="." line="85" column="80" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587718967951">
-        <mark key="[" line="31" column="39" />
-        <mark key="]" line="31" column="39" />
-        <mark key="^" line="33" column="27" />
-        <mark key="." line="31" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587720303287">
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="74" />
+        <mark key="^" line="31" column="74" />
+        <mark key="." line="31" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" timestamp="1587714445959">
         <mark key="'" line="475" column="68" />
