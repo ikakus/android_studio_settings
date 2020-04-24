@@ -48,6 +48,12 @@
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="35" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587733556632">
+        <mark key="[" line="118" column="18" />
+        <mark key="]" line="121" column="7" />
+        <mark key="^" line="118" column="18" />
+        <mark key="." line="118" column="18" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/business/BusinessBillingViewModel.kt" timestamp="1587715381062">
         <mark key="[" line="111" column="118" />
         <mark key="]" line="112" column="34" />
@@ -80,12 +86,11 @@
         <mark key="^" line="150" column="75" />
         <mark key="." line="150" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" timestamp="1587714445959">
-        <mark key="'" line="475" column="68" />
-        <mark key="[" line="475" column="105" />
-        <mark key="]" line="475" column="122" />
-        <mark key="^" line="475" column="122" />
-        <mark key="." line="475" column="121" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/AviosSectionList.kt" timestamp="1587733118895">
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="22" column="46" />
+        <mark key="^" line="22" column="46" />
+        <mark key="." line="22" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/model/Pt5ChangePlansModel.kt" timestamp="1587728633835">
         <mark key="[" line="105" column="12" />
@@ -105,6 +110,12 @@
         <mark key="^" line="38" column="25" />
         <mark key="." line="38" column="24" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/AviosSectionModel.kt" timestamp="1587733041805">
+        <mark key="[" line="29" column="78" />
+        <mark key="]" line="29" column="78" />
+        <mark key="^" line="29" column="61" />
+        <mark key="." line="29" column="78" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanViewModel.kt" timestamp="1587727820090">
         <mark key="'" line="183" column="87" />
         <mark key="[" line="69" column="35" />
@@ -112,12 +123,11 @@
         <mark key="." line="69" column="45" />
         <mark key="^" line="69" column="46" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/soforttopup/SofortTopUpViewModel.kt" timestamp="1587714590239">
-        <mark key="'" line="202" column="42" />
-        <mark key="[" line="203" column="81" />
-        <mark key="]" line="202" column="96" />
-        <mark key="^" line="202" column="96" />
-        <mark key="." line="203" column="86" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/AviosStoresAdapterDelegate.kt" timestamp="1587733003436">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="19" column="53" />
+        <mark key="^" line="19" column="53" />
+        <mark key="." line="19" column="52" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/views/planpricename/Pt5PlanNamePriceAdapter.kt" timestamp="1587729273672">
         <mark key="[" line="24" column="30" />
@@ -129,19 +139,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" timestamp="1587714473919">
-        <mark key="[" line="249" column="105" />
-        <mark key="]" line="132" column="42" />
-        <mark key="." line="249" column="111" />
-        <mark key="^" line="132" column="42" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/addcashdepositinfo/ADD23CashDespositInfoViewModel.kt" timestamp="1587714537884">
-        <mark key="'" line="205" column="72" />
-        <mark key="[" line="215" column="108" />
-        <mark key="]" line="205" column="126" />
-        <mark key="^" line="205" column="126" />
-        <mark key="." line="205" column="125" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" timestamp="1587726891590">
         <mark key="[" line="32" column="0" />
@@ -226,10 +223,14 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CurrencyHelper</text>
+        <text>DiffSectionAdapter by lazy {
+        DiffSectionAdapter(aviosSectionList).apply {
+            setPaginationAdapterDelegate(PaginationAdapterDelegate(), paginationListener)
+        }
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>CurrencyHelper</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -237,14 +238,18 @@
       <register name="0" type="2">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
+      <register name="1" type="4">
+        <text>DiffSectionAdapter by lazy {
+        DiffSectionAdapter(aviosSectionList).apply {
+            setPaginationAdapterDelegate(PaginationAdapterDelegate(), paginationListener)
+        }
+    }</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChMb2NhbGVNYW5hZ2VyLmdldExvY2FsZUZvckN1cnJlbmN5TG9jYWxpc2F0aW9uKCkpLnRoZW5SZXR1cm4oTG9jYWxlLkVOR0xJU0gpCg==</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChMb2NhbGVNYW5hZ2VyLmdldExvY2FsZUZvckN1cnJlbmN5TG9jYWxpc2F0aW9uKCkpLnRoZW5SZXR1cm4oTG9jYWxlLkVOR0xJU0gpCg==</text>
@@ -259,10 +264,10 @@
         <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChMb2NhbGVNYW5hZ2VyLmdldExvY2FsZUZvckN1cnJlbmN5TG9jYWxpc2F0aW9uKCkpLnRoZW5SZXR1cm4oTG9jYWxlLkVOR0xJU0gpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhMb2NhbGVNYW5hZ2VyOjpjbGFzcy5qYXZhKQo=</text>
+        <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChMb2NhbGVNYW5hZ2VyLmdldExvY2FsZUZvckN1cnJlbmN5TG9jYWxpc2F0aW9uKCkpLnRoZW5SZXR1cm4oTG9jYWxlLkVOR0xJU0gpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlciA9IG1vY2trKCkK</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhMb2NhbGVNYW5hZ2VyOjpjbGFzcy5qYXZhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
