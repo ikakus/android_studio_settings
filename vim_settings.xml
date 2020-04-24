@@ -79,12 +79,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1587638106787" />
       <file name="/HomeActivity.kt" timestamp="1587643591588" />
-      <file name="/Dummy.txt" timestamp="1587647521564">
-        <mark key="'" line="0" column="43" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1587641737238">
         <mark key="[" line="154" column="19" />
         <mark key="]" line="154" column="57" />
@@ -93,6 +87,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1587638240703">
         <mark key="'" line="67" column="6" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/Rew16EarningsFragment.kt" timestamp="1587713167193">
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="81" column="25" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.1/9060d692fda44da7a134d1e05d62fe02629f461a/fragment-1.2.1-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1587632590667" />
     </filemarks>
@@ -156,11 +156,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>monse_stack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>or</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
@@ -169,32 +169,31 @@
         <text>monse_stack</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgic3RhY2s6ICRUQUciKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfU0lOR0xFX1RPUAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgb3IK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">b3IKICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,
-            Intent(Intent.ACTION_VIEW, uri</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHZhbCBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgICAgICAgICAgd2l0aChydl9yZXcxNl9lYXJuaW5ncykgewogICAgICAgICAgICAgICAgICAgIGFkYXB0ZXIgPSB0aGlzQFJldzE2RWFybmluZ3NGcmFnbWVudC5hZGFwdGVyCiAgICAgICAgICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGFkYXB0ZXIgPSBEaWZmU2VjdGlvbkFkYXB0ZXIoc2VjdGlvbkxpc3QpCiAgICAgICAgdmFsIHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIgPSBTdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyKHJlcXVpcmVDb250ZXh0KCksIGFkYXB0ZXIpCiAgICAgICAgd2l0aChydl9yZXcxNl9lYXJuaW5ncykgewogICAgICAgICAgICBhZGFwdGVyID0gdGhpc0BSZXcxNkVhcm5pbmdzRnJhZ21lbnQuYWRhcHRlcgogICAgICAgICAgICBsYXlvdXRNYW5hZ2VyID0gc3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcgogICAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5IHsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5IHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgic3RhY2s6ICRUQUciKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfU0lOR0xFX1RPUAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSW50ZW50LkZMQUdfQUNUSVZJVFlfTkVXX1RBU0sgb3IK</text>
       </register>
     </registers>
   </component>
