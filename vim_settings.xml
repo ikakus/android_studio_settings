@@ -60,12 +60,6 @@
         <mark key="^" line="125" column="65" />
         <mark key="." line="125" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/model/PricingModel.kt" timestamp="1587713612260">
-        <mark key="[" line="85" column="45" />
-        <mark key="]" line="85" column="81" />
-        <mark key="^" line="85" column="81" />
-        <mark key="." line="85" column="80" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587727246578">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="103" column="0" />
@@ -74,6 +68,18 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/debitcard/business/Biz12s1DebitCardViewModelTest.kt" timestamp="1587726776152" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/views/planpricename/Pt5PlanNamePriceStrip.kt" timestamp="1587729320327">
+        <mark key="[" line="107" column="63" />
+        <mark key="]" line="107" column="82" />
+        <mark key="^" line="107" column="82" />
+        <mark key="." line="107" column="81" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/views/Pt5ChangeSelectPlanView.kt" timestamp="1587729362216">
+        <mark key="[" line="135" column="52" />
+        <mark key="]" line="150" column="75" />
+        <mark key="^" line="150" column="75" />
+        <mark key="." line="150" column="74" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" timestamp="1587714445959">
         <mark key="'" line="475" column="68" />
         <mark key="[" line="475" column="105" />
@@ -87,17 +93,11 @@
         <mark key="." line="105" column="28" />
         <mark key="^" line="105" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyBusinessPlanModel.kt" timestamp="1587713822631">
-        <mark key="[" line="57" column="81" />
-        <mark key="]" line="57" column="98" />
-        <mark key="^" line="57" column="98" />
-        <mark key="." line="57" column="97" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/plandetails/model/Jnt14TextModel.kt" timestamp="1587713708128">
-        <mark key="[" line="41" column="99" />
-        <mark key="]" line="26" column="107" />
-        <mark key="^" line="26" column="107" />
-        <mark key="." line="41" column="118" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanFragment.kt" timestamp="1587729395862">
+        <mark key="[" line="266" column="63" />
+        <mark key="]" line="266" column="82" />
+        <mark key="^" line="266" column="82" />
+        <mark key="." line="266" column="81" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt8confirmplan/model/Pt8TextModel.kt" timestamp="1587728649939">
         <mark key="[" line="38" column="8" />
@@ -119,6 +119,12 @@
         <mark key="^" line="202" column="96" />
         <mark key="." line="203" column="86" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/views/planpricename/Pt5PlanNamePriceAdapter.kt" timestamp="1587729273672">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="27" column="52" />
+        <mark key="^" line="27" column="52" />
+        <mark key="." line="27" column="51" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587727931959">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -129,16 +135,6 @@
         <mark key="]" line="132" column="42" />
         <mark key="." line="249" column="111" />
         <mark key="^" line="132" column="42" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/test/java/com/monese/monese/domain/paypal/common/usecase/GetShouldShowPayPalUseCaseTest.kt" timestamp="1587714199910">
-        <mark key="[" line="22" column="4" />
-        <mark key="]" line="22" column="77" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/topupfees/pt12feesbreakdown/model/Pt12TextModel.kt" timestamp="1587713654105">
-        <mark key="[" line="21" column="59" />
-        <mark key="]" line="23" column="98" />
-        <mark key="^" line="23" column="98" />
-        <mark key="." line="23" column="97" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/addcashdepositinfo/ADD23CashDespositInfoViewModel.kt" timestamp="1587714537884">
         <mark key="'" line="205" column="72" />
@@ -156,6 +152,12 @@
         <mark key="]" line="93" column="23" />
         <mark key="." line="93" column="23" />
         <mark key="^" line="93" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/views/planpricename/Pt5PlanNamePriceView.kt" timestamp="1587729334327">
+        <mark key="[" line="24" column="47" />
+        <mark key="]" line="24" column="66" />
+        <mark key="^" line="24" column="66" />
+        <mark key="." line="24" column="65" />
       </file>
     </filemarks>
     <jumps>
