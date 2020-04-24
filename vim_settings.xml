@@ -42,6 +42,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/pots/transfermoney/PotTransferMoneyViewModelTest.kt" timestamp="1587723134793">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="35" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/business/BusinessBillingViewModel.kt" timestamp="1587715381062">
         <mark key="[" line="111" column="118" />
         <mark key="]" line="112" column="34" />
@@ -60,11 +64,11 @@
         <mark key="^" line="85" column="81" />
         <mark key="." line="85" column="80" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587720303287">
-        <mark key="[" line="31" column="13" />
-        <mark key="]" line="31" column="74" />
-        <mark key="^" line="31" column="74" />
-        <mark key="." line="31" column="73" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587723224486">
+        <mark key="[" line="37" column="55" />
+        <mark key="]" line="37" column="66" />
+        <mark key="^" line="37" column="66" />
+        <mark key="." line="37" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" timestamp="1587714445959">
         <mark key="'" line="475" column="68" />
@@ -117,7 +121,6 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="22" />
       </file>
-      <file name="/HomeActivity.kt" timestamp="1587643591588" />
       <file name="/Dummy.txt" timestamp="1587718822539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -218,40 +221,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>amount</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
       </register>
-      <register name="0" type="4">
-        <text>private val getSelectedAccountUseCase: GetSelectedAccountUseCase = mockk()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBNb2NrS0Fubm90YXRpb25zLmluaXQodGhpcykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gb3JpZ2luYWxWYWx1ZS5nZXRBbW91bnQoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlciA9IG1vY2trKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQocmVzdWx0ID09IDEwMDAudG9CaWdEZWNpbWFsKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gb3JpZ2luYWxWYWx1ZS5nZXRBbW91bnQoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text>Fix empty screen</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocmVzdWx0ID09IDEwMDAudG9CaWdEZWNpbWFsKCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text>}</text>
+        <text>Fix empty screen</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUHJpY2luZ01vZGVsRXh0ZW5zaW9uc1Rlc3Qgewo=</text>
+        <text>}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cgo=</text>
+        <text encoding="base64">Y2xhc3MgUHJpY2luZ01vZGVsRXh0ZW5zaW9uc1Rlc3Qgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
