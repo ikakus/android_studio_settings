@@ -60,11 +60,11 @@
         <mark key="^" line="85" column="81" />
         <mark key="." line="85" column="80" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587714373591">
-        <mark key="[" line="101" column="72" />
-        <mark key="]" line="65" column="74" />
-        <mark key="^" line="65" column="74" />
-        <mark key="." line="101" column="88" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587718967951">
+        <mark key="[" line="31" column="39" />
+        <mark key="]" line="31" column="39" />
+        <mark key="^" line="33" column="27" />
+        <mark key="." line="31" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" timestamp="1587714445959">
         <mark key="'" line="475" column="68" />
@@ -118,6 +118,11 @@
         <mark key="^" line="14" column="22" />
       </file>
       <file name="/HomeActivity.kt" timestamp="1587643591588" />
+      <file name="/Dummy.txt" timestamp="1587718822539">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" timestamp="1587714473919">
         <mark key="[" line="249" column="105" />
         <mark key="]" line="132" column="42" />
@@ -213,10 +218,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>GetSelectedAccountUseCase</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>GetSelectedAccountUseCase</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>%s</text>
@@ -225,31 +230,31 @@
         <text>private val getSelectedAccountUseCase: GetSelectedAccountUseCase = mockk()</text>
       </register>
       <register name="1" type="2">
-        <text>}</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gb3JpZ2luYWxWYWx1ZS5nZXRBbW91bnQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUHJpY2luZ01vZGVsRXh0ZW5zaW9uc1Rlc3Qgewo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQocmVzdWx0ID09IDEwMDAudG9CaWdEZWNpbWFsKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cgo=</text>
+        <text>Fix empty screen</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cg==</text>
+        <text>}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUHJpY2luZ01vZGVsRXh0ZW5zaW9uc1Rlc3Qgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgICAgICAgQEJlZm9yZQogICAgICAgIGZ1biBzZXRVcCgpIHsKICAgICAgICAgICAgUG93ZXJNb2NraXRvLm1vY2tTdGF0aWMoTG9jYWxlTWFuYWdlcjo6Y2xhc3MuamF2YSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFwcGx5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
   </component>
