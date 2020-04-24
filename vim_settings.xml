@@ -54,18 +54,6 @@
         <mark key="." line="92" column="27" />
         <mark key="^" line="147" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/business/BusinessBillingViewModel.kt" timestamp="1587715381062">
-        <mark key="[" line="111" column="118" />
-        <mark key="]" line="112" column="34" />
-        <mark key="^" line="112" column="34" />
-        <mark key="." line="112" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/model/PtMyPlanModel.kt" timestamp="1587715082910">
-        <mark key="[" line="125" column="48" />
-        <mark key="]" line="125" column="65" />
-        <mark key="^" line="125" column="65" />
-        <mark key="." line="125" column="64" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" timestamp="1587727246578">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="103" column="0" />
@@ -97,6 +85,12 @@
         <mark key="]" line="105" column="29" />
         <mark key="." line="105" column="28" />
         <mark key="^" line="105" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/CashBackPendingRewardsAdapterDelegate.kt" timestamp="1587735208857">
+        <mark key="[" line="17" column="62" />
+        <mark key="]" line="17" column="84" />
+        <mark key="^" line="17" column="84" />
+        <mark key="." line="17" column="83" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanFragment.kt" timestamp="1587729395862">
         <mark key="[" line="266" column="63" />
@@ -143,6 +137,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/helpers/CurrencyHelperTest.kt" timestamp="1587726891590">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="89" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/CashbackEarningsSectionModel.kt" timestamp="1587735252987">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="70" />
+        <mark key="^" line="19" column="70" />
+        <mark key="." line="19" column="69" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyFormatter.kt" timestamp="1587727432170">
         <mark key="[" line="93" column="23" />
@@ -223,10 +223,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>Error: ClassFormatError</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Error: ClassFormatError</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -234,35 +234,35 @@
       <register name="0" type="2">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgIHJ2X3JldzdfYXZpb3NfY29udGVudC5hcHBseSB7CiAgICAgICAgICAgIGFkYXB0ZXIgPSB0aGlzQFJldzdBdmlvc0ZyYWdtZW50LmFkYXB0ZXIKICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgYWRkT25TY3JvbGxMaXN0ZW5lcihhdmlvc1Njcm9sbExpc3RlbmVyKQogICAgICAgIH0K</text>
+      <register name="1" type="4">
+        <text>val currencyFormat</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgIHJ2X3JldzdfYXZpb3NfY29udGVudC5hcHBseSB7CiAgICAgICAgICAgIGFkYXB0ZXIgPSB0aGlzQFJldzdBdmlvc0ZyYWdtZW50LmFkYXB0ZXIKICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgYWRkT25TY3JvbGxMaXN0ZW5lcihhdmlvc1Njcm9sbExpc3RlbmVyKQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZShQYWdpbmF0aW9uQWRhcHRlckRlbGVnYXRlKCksIHBhZ2luYXRpb25MaXN0ZW5lcikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZShQYWdpbmF0aW9uQWRhcHRlckRlbGVnYXRlKCksIHBhZ2luYXRpb25MaXN0ZW5lcikKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZShQYWdpbmF0aW9uQWRhcHRlckRlbGVnYXRlKCksIHBhZ2luYXRpb25MaXN0ZW5lcikKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>{
         AviosSectionList(aviosOfferSectionClickListener)
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHsKICAgICAgICAgICAgRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgICAgIHNldFBhZ2luYXRpb25BZGFwdGVyRGVsZWdhdGUoUGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZSgpLCBwYWdpbmF0aW9uTGlzdGVuZXIpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>DiffSectionAdapter by lazy {
         DiffSectionAdapter(aviosSectionList).apply {
             setPaginationAdapterDelegate(PaginationAdapterDelegate(), paginationListener)
         }
     }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
