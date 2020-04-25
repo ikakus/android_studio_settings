@@ -180,11 +180,11 @@
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/notification/BackgroundService.kt" timestamp="1587816106626">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="23" column="79" />
-        <mark key="^" line="15" column="8" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/notification/BackgroundService.kt" timestamp="1587816831690">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="11" column="7" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1587798201839">
         <mark key="[" line="0" column="14" />
@@ -281,11 +281,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm90aWZpY2F0aW9uTWFuYWdlciA9CiAgICAgICAgICAgIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKSBhcyBOb3RpZmljYXRpb25NYW5hZ2VyCiAgICAgICAgdmFsIG5vdGlmaWNhdGlvbiA9CiAgICAgICAgICAgIGludGVudC5nZXRQYXJjZWxhYmxlRXh0cmE8Tm90aWZpY2F0aW9uPihOT1RJRklDQVRJT04pCiAgICAgICAgdmFsIGlkID0gaW50ZW50LmdldEludEV4dHJhKE5PVElGSUNBVElPTl9JRCwgMCkKICAgICAgICBub3RpZmljYXRpb25NYW5hZ2VyLm5vdGlmeShpZCwgbm90aWZpY2F0aW9uKQogICAgICAgIFRvYXN0Lm1ha2VUZXh0KGNvbnRleHQsIlJlbWluZGVyIEFjdGl2YXRlZCIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>set</text>
