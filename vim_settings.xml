@@ -139,13 +139,13 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587794586632">
-        <mark key="'" line="50" column="25" />
-        <mark key="i" line="72" column="45" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="44" column="5" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="27" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587794633071">
+        <mark key="'" line="51" column="25" />
+        <mark key="i" line="73" column="45" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="33" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1587535242294">
         <mark key="'" line="33" column="0" />
@@ -222,11 +222,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>days</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>getLast</text>
@@ -235,7 +235,7 @@
         <text encoding="base64">ICAgICAgICB2YWwgc2F2ZWRTdHJpbmcgPSBzaGFyZWRQcmVmLmdldFN0cmluZygiZGF5cyIsIG51bGwpCiAgICAgICAgc2F2ZWRTdHJpbmc/LmxldCB7CiAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZVRva2VuPExpc3Q8Qm9vbGVhbj4+KCkge30udHlwZQogICAgICAgICAgICB2YWwgZGF5cyA9IEdzb24oKS5mcm9tSnNvbjxMaXN0PEJvb2xlYW4+PihzYXZlZFN0cmluZywgdHlwZSkKCiAgICAgICAgICAgIHJldHVybiBkYXlzLnRvTXV0YWJsZUxpc3QoKQogICAgICAgIH0gPzogcmV0dXJuIGVtcHR5TGlzdCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBjaGVja0lmRmFpbGVkKCk6IEJvb2xlYW4gewogICAgICAgIHZhbCBsYXN0RGF5ID0gZ2V0TGFzdENoZWNrZWREYXkoKQogICAgICAgIHZhbCBjYWxlbmRhckxhc3RkYXkgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpLmFwcGx5IHsKICAgICAgICAgICAgdGltZSA9IGxhc3REYXkgPzogRGF0ZSgpCiAgICAgICAgfQoKICAgICAgICB2YWwgY2FsZW5kYXJUb2RheSA9IENhbGVuZGFyLmdldEluc3RhbmNlKCkuYXBwbHkgewogICAgICAgICAgICB0aW1lID0gRGF0ZSgpCiAgICAgICAgfQogICAgICAgIHZhbCBtYXhEYXlzRGlmZiA9IDEKICAgICAgICByZXR1cm4gY2FsZW5kYXJUb2RheS5nZXREYXkoKSAtIGNhbGVuZGFyTGFzdGRheS5nZXREYXkoKSA+IG1heERheXNEaWZmCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -247,10 +247,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXlzID0gIkRheXMiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXlzID0gIkRheXMiCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
