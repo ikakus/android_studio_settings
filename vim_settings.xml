@@ -75,12 +75,6 @@
         <mark key="^" line="116" column="42" />
         <mark key="." line="116" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/AviosSectionList.kt" timestamp="1587733118895">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="22" column="46" />
-        <mark key="^" line="22" column="46" />
-        <mark key="." line="22" column="45" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/CashBackPendingRewardsAdapterDelegate.kt" timestamp="1587735208857">
         <mark key="[" line="17" column="62" />
         <mark key="]" line="17" column="84" />
@@ -96,17 +90,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyResource.java" timestamp="1587736980630">
         <mark key="[" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/AviosSectionModel.kt" timestamp="1587733041805">
-        <mark key="[" line="29" column="78" />
-        <mark key="]" line="29" column="78" />
-        <mark key="^" line="29" column="61" />
-        <mark key="." line="29" column="78" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/AviosStoresAdapterDelegate.kt" timestamp="1587733003436">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="19" column="53" />
-        <mark key="^" line="19" column="53" />
-        <mark key="." line="19" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/BalanceSwitcher.kt" timestamp="1587738563858">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="17" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="47" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" timestamp="1587737143415">
         <mark key="[" line="45" column="25" />
@@ -124,11 +112,11 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanFragment.kt" timestamp="1587729395862">
-        <mark key="[" line="266" column="63" />
-        <mark key="]" line="266" column="82" />
-        <mark key="^" line="266" column="82" />
-        <mark key="." line="266" column="81" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/viewmodel/AviosAccountDetailViewModel.kt" timestamp="1587738540139">
+        <mark key="[" line="129" column="12" />
+        <mark key="]" line="129" column="12" />
+        <mark key="." line="129" column="11" />
+        <mark key="^" line="129" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/CashBackRewardsAdapterDelegate.kt" timestamp="1587736042826">
         <mark key="[" line="63" column="16" />
@@ -136,16 +124,27 @@
         <mark key="^" line="20" column="77" />
         <mark key="." line="63" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587737181869">
+      <file name="/Dummy.txt" timestamp="1587738601782">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/RewardsOverviewSectionModel.kt" timestamp="1587736428662">
         <mark key="[" line="111" column="42" />
         <mark key="]" line="112" column="26" />
         <mark key="^" line="112" column="26" />
         <mark key="." line="112" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/choose/models/ChooseAccountAdapterDelegate.kt" timestamp="1587738503742">
+        <mark key="[" line="240" column="31" />
+        <mark key="]" line="240" column="31" />
+        <mark key="." line="240" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/home/adapter/AviosActivitiesAdapterModel.kt" timestamp="1587738524380">
+        <mark key="[" line="301" column="12" />
+        <mark key="]" line="301" column="12" />
+        <mark key="." line="301" column="11" />
+        <mark key="^" line="301" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/RewardsOverviewSectionList.kt" timestamp="1587736436675">
         <mark key="[" line="59" column="56" />
@@ -220,11 +219,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>CurrencyHelper</text>
       </register>
       <register name="-" type="4">
-        <text>CurrencyHelper.</text>
+        <text>CurrencyHelper</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
