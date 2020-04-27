@@ -44,12 +44,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/OverviewVuelingSectionAdapterDelegate.kt" timestamp="1587736401844">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="24" column="53" />
-        <mark key="^" line="24" column="53" />
-        <mark key="." line="24" column="52" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587973557089">
         <mark key="'" line="178" column="1" />
         <mark key="[" line="179" column="0" />
@@ -102,6 +96,7 @@
         <mark key="." line="301" column="11" />
         <mark key="^" line="301" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationRequestEntity.kt" timestamp="1587985111508" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/credit/cashadvance/confirmation/CA1s3ConfirmationViewModelTest.kt" timestamp="1587977317867">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
