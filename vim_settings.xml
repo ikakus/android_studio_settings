@@ -44,42 +44,29 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1587973822671">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/RewardsOverviewSectionModel.kt" timestamp="1587736428662">
+        <mark key="[" line="111" column="42" />
+        <mark key="]" line="112" column="26" />
+        <mark key="^" line="112" column="26" />
+        <mark key="." line="112" column="25" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/OverviewVuelingSectionAdapterDelegate.kt" timestamp="1587736401844">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="24" column="53" />
         <mark key="^" line="24" column="53" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587734218535">
-        <mark key="[" line="92" column="27" />
-        <mark key="]" line="147" column="20" />
-        <mark key="." line="92" column="27" />
-        <mark key="^" line="147" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/CashBackEarningsSectionList.kt" timestamp="1587736102791">
-        <mark key="[" line="23" column="64" />
-        <mark key="]" line="24" column="26" />
-        <mark key="^" line="24" column="26" />
-        <mark key="." line="24" column="25" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/details/Rew17CashBackEarningsFragment.kt" timestamp="1587735374454">
-        <mark key="'" line="100" column="29" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="36" column="4" />
-        <mark key="^" line="36" column="4" />
-        <mark key="." line="36" column="3" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/OverviewBritishAirwaysSectionAdapterDelegate.kt" timestamp="1587736350393">
-        <mark key="[" line="24" column="4" />
-        <mark key="]" line="116" column="42" />
-        <mark key="^" line="116" column="42" />
-        <mark key="." line="116" column="41" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/CashBackPendingRewardsAdapterDelegate.kt" timestamp="1587735208857">
-        <mark key="[" line="17" column="62" />
-        <mark key="]" line="17" column="84" />
-        <mark key="^" line="17" column="84" />
-        <mark key="." line="17" column="83" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587973557089">
+        <mark key="'" line="178" column="1" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="80" column="73" />
+        <mark key="." line="179" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/OverviewAviosSectionAdapterDelegate.kt" timestamp="1587736187820">
         <mark key="[" line="100" column="32" />
@@ -90,50 +77,22 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyResource.java" timestamp="1587736980630">
         <mark key="[" line="2" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/BalanceSwitcher.kt" timestamp="1587738563858">
-        <mark key="[" line="47" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/BalanceSwitcher.kt" timestamp="1587971810119">
+        <mark key="[" line="49" column="13" />
         <mark key="]" line="47" column="17" />
         <mark key="." line="47" column="16" />
         <mark key="^" line="47" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/CashBackEarningsSectionList.kt" timestamp="1587736102791">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" timestamp="1587737143415">
         <mark key="[" line="45" column="25" />
         <mark key="]" line="45" column="25" />
         <mark key="." line="45" column="25" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/CashbackEarningsSectionModel.kt" timestamp="1587736084656">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="63" />
-        <mark key="^" line="35" column="63" />
-        <mark key="." line="35" column="62" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587737151505">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/viewmodel/AviosAccountDetailViewModel.kt" timestamp="1587738540139">
-        <mark key="[" line="129" column="12" />
-        <mark key="]" line="129" column="12" />
-        <mark key="." line="129" column="11" />
-        <mark key="^" line="129" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/CashBackRewardsAdapterDelegate.kt" timestamp="1587736042826">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="16" />
-        <mark key="^" line="20" column="77" />
-        <mark key="." line="63" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587738601782">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/RewardsOverviewSectionModel.kt" timestamp="1587736428662">
-        <mark key="[" line="111" column="42" />
-        <mark key="]" line="112" column="26" />
-        <mark key="^" line="112" column="26" />
-        <mark key="." line="112" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/choose/models/ChooseAccountAdapterDelegate.kt" timestamp="1587738503742">
         <mark key="[" line="240" column="31" />
@@ -146,11 +105,41 @@
         <mark key="." line="301" column="11" />
         <mark key="^" line="301" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/CashbackEarningsSectionModel.kt" timestamp="1587736084656">
+        <mark key="[" line="35" column="46" />
+        <mark key="]" line="35" column="63" />
+        <mark key="^" line="35" column="63" />
+        <mark key="." line="35" column="62" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/CashBackRewardsAdapterDelegate.kt" timestamp="1587736042826">
+        <mark key="[" line="63" column="16" />
+        <mark key="]" line="63" column="16" />
+        <mark key="^" line="20" column="77" />
+        <mark key="." line="63" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/viewmodel/AviosAccountDetailViewModel.kt" timestamp="1587738540139">
+        <mark key="[" line="129" column="12" />
+        <mark key="]" line="129" column="12" />
+        <mark key="." line="129" column="11" />
+        <mark key="^" line="129" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyHelper.kt" timestamp="1587737151505">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginActivity.kt" timestamp="1587973757919" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/RewardsOverviewSectionList.kt" timestamp="1587736436675">
         <mark key="[" line="59" column="56" />
         <mark key="]" line="60" column="26" />
         <mark key="^" line="60" column="26" />
         <mark key="." line="60" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/delegates/OverviewBritishAirwaysSectionAdapterDelegate.kt" timestamp="1587736350393">
+        <mark key="[" line="24" column="4" />
+        <mark key="]" line="116" column="42" />
+        <mark key="^" line="116" column="42" />
+        <mark key="." line="116" column="41" />
       </file>
     </filemarks>
     <jumps>
@@ -215,12 +204,13 @@
       <jump line="183" column="87" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanViewModel.kt" />
       <jump line="66" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" />
       <jump line="96" column="29" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/details/Rew17CashBackEarningsFragment.kt" />
+      <jump line="183" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>CurrencyHelper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>CurrencyHelper</text>
@@ -235,30 +225,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBASnZtT3ZlcmxvYWRzCiAgICAgICAgQEp2bVN0YXRpYwogICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJDb21wbGV4Q29uZGl0aW9uIiwgIlJldHVybkNvdW50IikKICAgICAgICBmdW4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tU3RyaW5nKAogICAgICAgICAgICB2YWx1ZTogU3RyaW5nPywKICAgICAgICAgICAgY3VycmVuY3lDb2RlOiBTdHJpbmc/LAogICAgICAgICAgICBoaWRlRGVjaW1hbElmTm9DZW50c1RoZXJlOiBCb29sZWFuID0gZmFsc2UKICAgICAgICApOiBTdHJpbmcgewogICAgICAgICAgICBpZiAodmFsdWUgPT0gbnVsbCB8fAogICAgICAgICAgICAgICAgdmFsdWUuaXNFbXB0eSgpIHx8CiAgICAgICAgICAgICAgICBjdXJyZW5jeUNvZGUgPT0gbnVsbCB8fAogICAgICAgICAgICAgICAgKGN1cnJlbmN5Q29kZS5sZW5ndGggIT0gQ1VSUkVOQ1lfQ09ERV9MRU5HVEggJiYgY3VycmVuY3lDb2RlICE9IEFWSU9TX0NVUkVOQ1lfQ09ERSkKICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIiIKICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgbmV3VmFsdWUgPSB2YWx1ZQoKICAgICAgICAgICAgaWYgKG5ld1ZhbHVlLmNvbnRhaW5zKCIsIikgJiYgbmV3VmFsdWUuY29udGFpbnMoIi4iKSkgewogICAgICAgICAgICAgICAgbmV3VmFsdWUgPSBuZXdWYWx1ZS5yZXBsYWNlKCIsIiwgIiIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG5ld1ZhbHVlLmNvbnRhaW5zKCIsIikpIHsKICAgICAgICAgICAgICAgIG5ld1ZhbHVlID0gbmV3VmFsdWUucmVwbGFjZSgiLCIsICIuIikKICAgICAgICAgICAgfQogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgbmV3VmFsdWUgPSByZXBsYWNlTm9uc3RhbmRhcmREaWdpdHMobmV3VmFsdWUpCgogICAgICAgICAgICAgICAgaWYgKGhpZGVEZWNpbWFsSWZOb0NlbnRzVGhlcmUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tU3RyaW5nTm9aZXJvRGVjaW1hbChuZXdWYWx1ZSwgY3VycmVuY3lDb2RlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdmFsIG51bWJlckZvcm1hdCA9IE51bWJlckZvcm1hdC5nZXRDdXJyZW5jeUluc3RhbmNlKExvY2FsZU1hbmFnZXIuZ2V0TG9jYWxlRm9yQ3VycmVuY3lMb2NhbGlzYXRpb24oKSkKICAgICAgICAgICAgICAgIG51bWJlckZvcm1hdC5jdXJyZW5jeSA9IGphdmEudXRpbC5DdXJyZW5jeS5nZXRJbnN0YW5jZShjdXJyZW5jeUNvZGUpCiAgICAgICAgICAgICAgICByZXR1cm4gcmVwbGFjZVJvbkN1cnJlbmN5U3ltYm9sKG51bWJlckZvcm1hdC5mb3JtYXQobmV3VmFsdWUudG9Eb3VibGUoKSkpCiAgICAgICAgICAgIH0gY2F0Y2ggKG51bWJlckZvcm1hdEV4Y2VwdGlvbjogTnVtYmVyRm9ybWF0RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIiIKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgQEp2bVN0YXRpYwogICAgICAgIGZ1biBnZXRGb3JtYXR0ZWRDdXJyZW5jeUZyb21TdHJpbmdOb1plcm9EZWNpbWFsKHZhbHVlOiBTdHJpbmc/LCBjdXJyZW5jeUNvZGU6IFN0cmluZz8pOiBTdHJpbmcgewogICAgICAgICAgICBpZiAodmFsdWUgPT0gbnVsbCB8fCB2YWx1ZSA9PSAibnVsbCIgfHwgdmFsdWUuaXNFbXB0eSgpIHx8IHZhbHVlLmNvbnRhaW5zKCLZoCIpIHx8IGN1cnJlbmN5Q29kZSA9PSBudWxsIHx8IGN1cnJlbmN5Q29kZS5sZW5ndGggIT0gMykgcmV0dXJuICIiCiAgICAgICAgICAgIHZhbCBudW1iZXJGb3JtYXQgPSBOdW1iZXJGb3JtYXQuZ2V0Q3VycmVuY3lJbnN0YW5jZShMb2NhbGVNYW5hZ2VyLmdldExvY2FsZUZvckN1cnJlbmN5TG9jYWxpc2F0aW9uKCkpCiAgICAgICAgICAgIG51bWJlckZvcm1hdC5jdXJyZW5jeSA9IGphdmEudXRpbC5DdXJyZW5jeS5nZXRJbnN0YW5jZShjdXJyZW5jeUNvZGUpCiAgICAgICAgICAgIHZhciBuZXdWYWx1ZSA9IG51bWJlckZvcm1hdC5mb3JtYXQodmFsdWUudG9Eb3VibGUoKSkKCiAgICAgICAgICAgIGlmIChudW1iZXJGb3JtYXQgaXMgRGVjaW1hbEZvcm1hdCkgewogICAgICAgICAgICAgICAgdmFsIGRmcyA9IG51bWJlckZvcm1hdC5kZWNpbWFsRm9ybWF0U3ltYm9scwogICAgICAgICAgICAgICAgaWYgKG5ld1ZhbHVlLmNvbnRhaW5zKGRmcy5kZWNpbWFsU2VwYXJhdG9yICsgIjAwIikpIHsKICAgICAgICAgICAgICAgICAgICBuZXdWYWx1ZSA9IG5ld1ZhbHVlLnJlcGxhY2UoZGZzLmRlY2ltYWxTZXBhcmF0b3IgKyAiMDAiLCAiIikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHJlcGxhY2VSb25DdXJyZW5jeVN5bWJvbChuZXdWYWx1ZSkKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>val currencyFormat</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgIHJ2X3JldzdfYXZpb3NfY29udGVudC5hcHBseSB7CiAgICAgICAgICAgIGFkYXB0ZXIgPSB0aGlzQFJldzdBdmlvc0ZyYWdtZW50LmFkYXB0ZXIKICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgYWRkT25TY3JvbGxMaXN0ZW5lcihhdmlvc1Njcm9sbExpc3RlbmVyKQogICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgICAgICBydl9yZXc3X2F2aW9zX2NvbnRlbnQuYXBwbHkgewogICAgICAgICAgICAgICAgYWRhcHRlciA9IHRoaXNAUmV3N0F2aW9zRnJhZ21lbnQuYWRhcHRlcgogICAgICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgICAgIGFkZE9uU2Nyb2xsTGlzdGVuZXIoYXZpb3NTY3JvbGxMaXN0ZW5lcikKICAgICAgICAgICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICBidG5fdHJ5X2FnYWluLnRocm90dGxlQ2xpY2sgewogICAgICAgICAgICAgICAgdmlld01vZGVsLm9uUmV0cnlHZXRBdmlvc1N0b3JlcygpCiAgICAgICAgICAgIH0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZShQYWdpbmF0aW9uQWRhcHRlckRlbGVnYXRlKCksIHBhZ2luYXRpb25MaXN0ZW5lcikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGFwdGVyID0gRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgc2V0UGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZShQYWdpbmF0aW9uQWRhcHRlckRlbGVnYXRlKCksIHBhZ2luYXRpb25MaXN0ZW5lcikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBASnZtT3ZlcmxvYWRzCiAgICAgICAgQEp2bVN0YXRpYwogICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJDb21wbGV4Q29uZGl0aW9uIiwgIlJldHVybkNvdW50IikKICAgICAgICBmdW4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tU3RyaW5nKAogICAgICAgICAgICB2YWx1ZTogU3RyaW5nPywKICAgICAgICAgICAgY3VycmVuY3lDb2RlOiBTdHJpbmc/LAogICAgICAgICAgICBoaWRlRGVjaW1hbElmTm9DZW50c1RoZXJlOiBCb29sZWFuID0gZmFsc2UKICAgICAgICApOiBTdHJpbmcgewogICAgICAgICAgICBpZiAodmFsdWUgPT0gbnVsbCB8fAogICAgICAgICAgICAgICAgdmFsdWUuaXNFbXB0eSgpIHx8CiAgICAgICAgICAgICAgICBjdXJyZW5jeUNvZGUgPT0gbnVsbCB8fAogICAgICAgICAgICAgICAgKGN1cnJlbmN5Q29kZS5sZW5ndGggIT0gQ1VSUkVOQ1lfQ09ERV9MRU5HVEggJiYgY3VycmVuY3lDb2RlICE9IEFWSU9TX0NVUkVOQ1lfQ09ERSkKICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIiIKICAgICAgICAgICAgfQogICAgICAgICAgICB2YXIgbmV3VmFsdWUgPSB2YWx1ZQoKICAgICAgICAgICAgaWYgKG5ld1ZhbHVlLmNvbnRhaW5zKCIsIikgJiYgbmV3VmFsdWUuY29udGFpbnMoIi4iKSkgewogICAgICAgICAgICAgICAgbmV3VmFsdWUgPSBuZXdWYWx1ZS5yZXBsYWNlKCIsIiwgIiIpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG5ld1ZhbHVlLmNvbnRhaW5zKCIsIikpIHsKICAgICAgICAgICAgICAgIG5ld1ZhbHVlID0gbmV3VmFsdWUucmVwbGFjZSgiLCIsICIuIikKICAgICAgICAgICAgfQogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgbmV3VmFsdWUgPSByZXBsYWNlTm9uc3RhbmRhcmREaWdpdHMobmV3VmFsdWUpCgogICAgICAgICAgICAgICAgaWYgKGhpZGVEZWNpbWFsSWZOb0NlbnRzVGhlcmUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gZ2V0Rm9ybWF0dGVkQ3VycmVuY3lGcm9tU3RyaW5nTm9aZXJvRGVjaW1hbChuZXdWYWx1ZSwgY3VycmVuY3lDb2RlKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgdmFsIG51bWJlckZvcm1hdCA9IE51bWJlckZvcm1hdC5nZXRDdXJyZW5jeUluc3RhbmNlKExvY2FsZU1hbmFnZXIuZ2V0TG9jYWxlRm9yQ3VycmVuY3lMb2NhbGlzYXRpb24oKSkKICAgICAgICAgICAgICAgIG51bWJlckZvcm1hdC5jdXJyZW5jeSA9IGphdmEudXRpbC5DdXJyZW5jeS5nZXRJbnN0YW5jZShjdXJyZW5jeUNvZGUpCiAgICAgICAgICAgICAgICByZXR1cm4gcmVwbGFjZVJvbkN1cnJlbmN5U3ltYm9sKG51bWJlckZvcm1hdC5mb3JtYXQobmV3VmFsdWUudG9Eb3VibGUoKSkpCiAgICAgICAgICAgIH0gY2F0Y2ggKG51bWJlckZvcm1hdEV4Y2VwdGlvbjogTnVtYmVyRm9ybWF0RXhjZXB0aW9uKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIiIKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgQEp2bVN0YXRpYwogICAgICAgIGZ1biBnZXRGb3JtYXR0ZWRDdXJyZW5jeUZyb21TdHJpbmdOb1plcm9EZWNpbWFsKHZhbHVlOiBTdHJpbmc/LCBjdXJyZW5jeUNvZGU6IFN0cmluZz8pOiBTdHJpbmcgewogICAgICAgICAgICBpZiAodmFsdWUgPT0gbnVsbCB8fCB2YWx1ZSA9PSAibnVsbCIgfHwgdmFsdWUuaXNFbXB0eSgpIHx8IHZhbHVlLmNvbnRhaW5zKCLZoCIpIHx8IGN1cnJlbmN5Q29kZSA9PSBudWxsIHx8IGN1cnJlbmN5Q29kZS5sZW5ndGggIT0gMykgcmV0dXJuICIiCiAgICAgICAgICAgIHZhbCBudW1iZXJGb3JtYXQgPSBOdW1iZXJGb3JtYXQuZ2V0Q3VycmVuY3lJbnN0YW5jZShMb2NhbGVNYW5hZ2VyLmdldExvY2FsZUZvckN1cnJlbmN5TG9jYWxpc2F0aW9uKCkpCiAgICAgICAgICAgIG51bWJlckZvcm1hdC5jdXJyZW5jeSA9IGphdmEudXRpbC5DdXJyZW5jeS5nZXRJbnN0YW5jZShjdXJyZW5jeUNvZGUpCiAgICAgICAgICAgIHZhciBuZXdWYWx1ZSA9IG51bWJlckZvcm1hdC5mb3JtYXQodmFsdWUudG9Eb3VibGUoKSkKCiAgICAgICAgICAgIGlmIChudW1iZXJGb3JtYXQgaXMgRGVjaW1hbEZvcm1hdCkgewogICAgICAgICAgICAgICAgdmFsIGRmcyA9IG51bWJlckZvcm1hdC5kZWNpbWFsRm9ybWF0U3ltYm9scwogICAgICAgICAgICAgICAgaWYgKG5ld1ZhbHVlLmNvbnRhaW5zKGRmcy5kZWNpbWFsU2VwYXJhdG9yICsgIjAwIikpIHsKICAgICAgICAgICAgICAgICAgICBuZXdWYWx1ZSA9IG5ld1ZhbHVlLnJlcGxhY2UoZGZzLmRlY2ltYWxTZXBhcmF0b3IgKyAiMDAiLCAiIikKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgcmV0dXJuIHJlcGxhY2VSb25DdXJyZW5jeVN5bWJvbChuZXdWYWx1ZSkKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>{
-        AviosSectionList(aviosOfferSectionClickListener)
-    }</text>
+        <text>val currencyFormat</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgRGlmZlNlY3Rpb25BZGFwdGVyKGF2aW9zU2VjdGlvbkxpc3QpLmFwcGx5IHsKICAgICAgICAgICAgICAgIHNldFBhZ2luYXRpb25BZGFwdGVyRGVsZWdhdGUoUGFnaW5hdGlvbkFkYXB0ZXJEZWxlZ2F0ZSgpLCBwYWdpbmF0aW9uTGlzdGVuZXIpCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgIHJ2X3JldzdfYXZpb3NfY29udGVudC5hcHBseSB7CiAgICAgICAgICAgIGFkYXB0ZXIgPSB0aGlzQFJldzdBdmlvc0ZyYWdtZW50LmFkYXB0ZXIKICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgYWRkT25TY3JvbGxMaXN0ZW5lcihhdmlvc1Njcm9sbExpc3RlbmVyKQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
