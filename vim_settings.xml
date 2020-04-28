@@ -123,12 +123,13 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588094310593">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588096641861" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588096394738">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="4" column="19" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="9" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_new_strike.xml" timestamp="1587535148530">
         <mark key="[" line="10" column="22" />
@@ -281,11 +282,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>HOT</text>
       </register>
       <register name="/" type="4">
         <text>HIST</text>
@@ -297,28 +298,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgYWN0aXZlLmNvcHkodGl0bGUgPSB0aXRsZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyh0aXRsZSwgdGl0bGUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBmdW4gZ2V0TGFzdENoZWNrZWREYXkoKTogRGF0ZT8gewogICAgICAgIHZhbCBtaWxsaXMgPSBzaGFyZWRQcmVmLmdldExvbmcoTEFTVF9DSEVDS19EQVksIC0xKQogICAgICAgIHJldHVybiBpZiAobWlsbGlzIDwgMCkgewogICAgICAgICAgICBudWxsCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRGF0ZShtaWxsaXMpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIENPTEQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRGaXJzdENoZWNrZWREYXkoKTogRGF0ZSB7CiAgICAgICAgcmV0dXJuIERhdGUoc2hhcmVkUHJlZi5nZXRMb25nKEZJUlNUX0NIRUNLX0RBWSwgRGF0ZSgpLnRpbWUpKQogICAgfQoKICAgIGZ1biBzYXZlTGFzdENoZWNrZGF5KCkgewogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgcHV0TG9uZyhMQVNUX0NIRUNLX0RBWSwgRGF0ZSgpLnRpbWUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQ==</text>
+      <register name="5" type="4">
+        <text>sharedPref.getBoolean(ACTIVE, false)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgIAogICAgZnVuIHNhdmVGaXJzdENoZWNrZGF5KCkgewogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgcHV0TG9uZyhGSVJTVF9DSEVDS19EQVksIERhdGUoKS50aW1lKQogICAgICAgICAgICBjb21taXQoKQogICAgICAgIH0KICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IGZ1biByZXNldFN0cmlrZSgpIHsKICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyhEQVlTLCAiIikKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9CiAgICB9Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0Qm9vbGVhbihBQ1RJVkUsIGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHV0TG9uZyhMQVNUX0NIRUNLX0RBWSwgLTEpCg==</text>
+        <text encoding="base64">CiAgICBmdW4gZ2V0TGFzdENoZWNrZWREYXkoKTogRGF0ZT8gewogICAgICAgIHZhbCBtaWxsaXMgPSBzaGFyZWRQcmVmLmdldExvbmcoTEFTVF9DSEVDS19EQVksIC0xKQogICAgICAgIHJldHVybiBpZiAobWlsbGlzIDwgMCkgewogICAgICAgICAgICBudWxsCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRGF0ZShtaWxsaXMpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
