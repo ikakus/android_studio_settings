@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>recyclerView</entry>
-        <entry>exam</entry>
-        <entry>Exam</entry>
-        <entry>days</entry>
         <entry>button</entry>
         <entry>int</entry>
         <entry>this</entry>
@@ -25,6 +21,10 @@
         <entry>_</entry>
         <entry>list</entry>
         <entry>set</entry>
+        <entry>get</entry>
+        <entry>typeto</entry>
+        <entry>boole</entry>
+        <entry>HIST</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lateinit var/val/gc</entry>
@@ -101,7 +101,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/notification/NotificationHelper.kt" timestamp="1587815549701" />
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/startnew/StartNewFragment.kt" timestamp="1587286208575">
         <mark key="[" line="9" column="9" />
         <mark key="]" line="9" column="10" />
@@ -124,11 +123,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1587800732159">
-        <mark key="[" line="22" column="32" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="25" column="36" />
-        <mark key="^" line="25" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588094310593">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_new_strike.xml" timestamp="1587535148530">
         <mark key="[" line="10" column="22" />
@@ -271,48 +271,54 @@
       <jump line="20" column="17" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
       <jump line="21" column="8" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/activity_main.xml" />
       <jump line="51" column="57" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
+      <jump line="97" column="34" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="105" column="37" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="108" column="42" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="4" column="25" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" />
+      <jump line="9" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" />
+      <jump line="95" column="25" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>HIST</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX2xpc3QiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ib3Jpem9udGFsPSIzNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JBY2NlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJMaXN0IgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9idXR0b25fY2hlY2siIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbm90aWZpY2F0aW9uTWFuYWdlciA9CiAgICAgICAgICAgIGNvbnRleHQuZ2V0U3lzdGVtU2VydmljZShDb250ZXh0Lk5PVElGSUNBVElPTl9TRVJWSUNFKSBhcyBOb3RpZmljYXRpb25NYW5hZ2VyCiAgICAgICAgdmFsIG5vdGlmaWNhdGlvbiA9CiAgICAgICAgICAgIGludGVudC5nZXRQYXJjZWxhYmxlRXh0cmE8Tm90aWZpY2F0aW9uPihOT1RJRklDQVRJT04pCiAgICAgICAgdmFsIGlkID0gaW50ZW50LmdldEludEV4dHJhKE5PVElGSUNBVElPTl9JRCwgMCkKICAgICAgICBub3RpZmljYXRpb25NYW5hZ2VyLm5vdGlmeShpZCwgbm90aWZpY2F0aW9uKQogICAgICAgIFRvYXN0Lm1ha2VUZXh0KGNvbnRleHQsIlJlbWluZGVyIEFjdGl2YXRlZCIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">CiAgICBmdW4gZ2V0TGFzdENoZWNrZWREYXkoKTogRGF0ZT8gewogICAgICAgIHZhbCBtaWxsaXMgPSBzaGFyZWRQcmVmLmdldExvbmcoTEFTVF9DSEVDS19EQVksIC0xKQogICAgICAgIHJldHVybiBpZiAobWlsbGlzIDwgMCkgewogICAgICAgICAgICBudWxsCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRGF0ZShtaWxsaXMpCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3Py5maW5kVmlld0J5SWQ8VGV4dFZpZXc+KFIuaWQudGl0bGUpPy5hcHBseSB7CiAgICAgICAgICAgIGFkZFRleHRDaGFuZ2VkTGlzdGVuZXIob2JqZWN0IDogVGV4dFdhdGNoZXIgewogICAgICAgICAgICAgICAgcHJpdmF0ZSB2YXIgdGltZXI6IFRpbWVyID0gVGltZXIoKQogICAgICAgICAgICAgICAgcHJpdmF0ZSB2YWwgREVMQVk6IExvbmcgPSAxMDAwIC8vIG1pbGxpc2Vjb25kcwoKCiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gYWZ0ZXJUZXh0Q2hhbmdlZChzOiBFZGl0YWJsZT8pIHsKICAgICAgICAgICAgICAgICAgICB2YWwgdGl0bGUgPSBzLnRvU3RyaW5nKCkKICAgICAgICAgICAgICAgICAgICB0aW1lci5jYW5jZWwoKQogICAgICAgICAgICAgICAgICAgIHRpbWVyID0gVGltZXIoKQogICAgICAgICAgICAgICAgICAgIHRpbWVyLnNjaGVkdWxlKAogICAgICAgICAgICAgICAgICAgICAgICBvYmplY3QgOiBUaW1lclRhc2soKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gcnVuKCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0b3JhZ2Uuc2V0VGl0bGUodGl0bGUpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZUFjdGl2aXR5KCkucnVuT25VaVRocmVhZCB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRvYXN0Lm1ha2VUZXh0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZUNvbnRleHQoKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJUaXRsZSBzYXZlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBUb2FzdC5MRU5HVEhfU0hPUlQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKS5zaG93KCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgICAgIERFTEFZCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBiZWZvcmVUZXh0Q2hhbmdlZCgKICAgICAgICAgICAgICAgICAgICBzOiBDaGFyU2VxdWVuY2U/LAogICAgICAgICAgICAgICAgICAgIHN0YXJ0OiBJbnQsCiAgICAgICAgICAgICAgICAgICAgY291bnQ6IEludCwKICAgICAgICAgICAgICAgICAgICBhZnRlcjogSW50CiAgICAgICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICBvdmVycmlkZSBmdW4gb25UZXh0Q2hhbmdlZChzOiBDaGFyU2VxdWVuY2U/LCBzdGFydDogSW50LCBiZWZvcmU6IEludCwgY291bnQ6IEludCkgewogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgfSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRGaXJzdENoZWNrZWREYXkoKTogRGF0ZSB7CiAgICAgICAgcmV0dXJuIERhdGUoc2hhcmVkUHJlZi5nZXRMb25nKEZJUlNUX0NIRUNLX0RBWSwgRGF0ZSgpLnRpbWUpKQogICAgfQoKICAgIGZ1biBzYXZlTGFzdENoZWNrZGF5KCkgewogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgcHV0TG9uZyhMQVNUX0NIRUNLX0RBWSwgRGF0ZSgpLnRpbWUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgeG1sbnM6YXBwPSJodHRwOi8vc2NoZW1hcy5hbmRyb2lkLmNvbS9hcGsvcmVzLWF1dG8iCg==</text>
+        <text encoding="base64">CiAgIAogICAgZnVuIHNhdmVGaXJzdENoZWNrZGF5KCkgewogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgcHV0TG9uZyhGSVJTVF9DSEVDS19EQVksIERhdGUoKS50aW1lKQogICAgICAgICAgICBjb21taXQoKQogICAgICAgIH0KICAgIH0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Igo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGZ1biByZXNldFN0cmlrZSgpIHsKICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyhEQVlTLCAiIikKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxCdXR0b24KICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2J1dHRvbl9saXN0IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luSG9yaXpvbnRhbD0iMzZkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjE2ZHAiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kVGludD0iQGNvbG9yL2NvbG9yQWNjZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iTGlzdCIKICAgICAgICBhbmRyb2lkOnRleHRDb2xvcj0iQGNvbG9yL3doaXRlIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkAraWQvYnV0dG9uX2NoZWNrIiAvPgoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0Qm9vbGVhbihBQ1RJVkUsIGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHV0TG9uZyhMQVNUX0NIRUNLX0RBWSwgLTEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -321,9 +327,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>set</last-search>
+      <last-search>HIST</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>HIST</last-pattern>
       <last-replace>?.apply</last-replace>
       <last-substitute encoding="base64">LmFwcGx5IA==</last-substitute>
       <last-dir>1</last-dir>
