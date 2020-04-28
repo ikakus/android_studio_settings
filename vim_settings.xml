@@ -123,11 +123,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588098812400">
-        <mark key="[" line="62" column="35" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="61" column="28" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588101563905">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="64" column="5" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588096394738">
         <mark key="'" line="9" column="0" />
@@ -287,7 +287,7 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
+      <register name="&quot;" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
@@ -299,26 +299,26 @@
       <register name="0" type="4">
         <text encoding="base64">PEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX2xpc3QiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ib3Jpem9udGFsPSIzNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JBY2NlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJMaXN0IgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9idXR0b25fY2hlY2siIC8+Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgYWN0aXZlLmNvcHkodGl0bGUgPSB0aXRsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyh0aXRsZSwgdGl0bGUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgYWN0aXZlLmNvcHkodGl0bGUgPSB0aXRsZSkK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyh0aXRsZSwgdGl0bGUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIENPTEQK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>sharedPref.getBoolean(ACTIVE, false)</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
