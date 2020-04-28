@@ -108,6 +108,7 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/rewards/usecase/GetCashBackOffersWithoutLocationUseCase.kt" timestamp="1588072099122" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyFormatter.kt" timestamp="1587976936388">
         <mark key="[" line="2" column="48" />
         <mark key="]" line="2" column="48" />
@@ -123,12 +124,6 @@
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/RewardsOverviewSectionList.kt" timestamp="1587736436675">
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="60" column="26" />
-        <mark key="^" line="60" column="26" />
-        <mark key="." line="60" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/DateUtils.kt" timestamp="1587975479411">
         <mark key="[" line="0" column="0" />
