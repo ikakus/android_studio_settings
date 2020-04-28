@@ -49,11 +49,7 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/DynamicConfigurationDomainModel.kt" timestamp="1588080908769">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsModule.kt" timestamp="1588085801880" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/OperationalResponseEntity.kt" timestamp="1588081672766">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="5" column="0" />
@@ -79,33 +75,27 @@
       <file name="/Dummy.txt" timestamp="1588084282140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588082306361">
-        <mark key="[" line="552" column="16" />
-        <mark key="]" line="552" column="10" />
-        <mark key="^" line="552" column="10" />
-        <mark key="." line="552" column="9" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588085711911">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+        <mark key="." line="11" column="37" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.5.0/7df16bb4c79c8ead555f3ded50139c453ebff8c8/adapter-rxjava2-2.5.0-sources.jar!/retrofit2/adapter/rxjava2/RxJava2CallAdapterFactory.java" timestamp="1588085918858" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588085710445">
+        <mark key="]" line="558" column="33" />
+        <mark key="^" line="558" column="33" />
+        <mark key="." line="558" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/bizaccounts/onboarding/model/PricingAndPlansDomainModel.kt" timestamp="1588083993571" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/PricingEntity.kt" timestamp="1588080600323">
-        <mark key="[" line="75" column="40" />
-        <mark key="]" line="75" column="40" />
-        <mark key="." line="75" column="40" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/cache/ConfigurationCache.kt" timestamp="1588085505650" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetDynamicConfigurationUseCase.kt" timestamp="1588082820257">
         <mark key="[" line="8" column="29" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/ConfigurationResponseEntity.kt" timestamp="1588081138277">
-        <mark key="[" line="16" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/cache/DynamicConfigurationCache.kt" timestamp="1588084130891">
         <mark key="[" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationResponseEntity.kt" timestamp="1588080894094">
-        <mark key="[" line="16" column="18" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="10" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/repository/ConfigurationRepositoryImpl.kt" timestamp="1588085669453" />
     </filemarks>
     <jumps>
       <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
