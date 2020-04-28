@@ -44,7 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588066943538">
+      <file name="/Dummy.txt" timestamp="1588068616020">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -59,11 +59,12 @@
         <mark key="^" line="80" column="73" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/DynamicConfigurationDomainModel.kt" timestamp="1588066956913">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/DynamicConfigurationDomainModel.kt" timestamp="1588068685349">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
+      <file name="/DynamicConfigurationResponseEntity.kt" timestamp="1588067781623" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/models/DynamicConfiguration.kt" timestamp="1588057981082">
         <mark key="[" line="84" column="2" />
         <mark key="]" line="84" column="2" />
@@ -138,10 +139,11 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationResponseEntity.kt" timestamp="1588066963011">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationResponseEntity.kt" timestamp="1588068690782">
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="16" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -214,7 +216,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGltaXRzPy5tYXBUb0RvbWFpbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJyYWw/Lm1hcFRvRG9tYWluKCksCg==</text>
       </register>
       <register name="-" type="4">
         <text>banksHiddenFxFee</text>
@@ -226,31 +228,31 @@
         <text>DynamicConfigurationRequestEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGltaXRzPy5tYXBUb0RvbWFpbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJyYWw/Lm1hcFRvRG9tYWluKCksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW1pdHM6IEFjY291bnRMaW1pdHNEb21haW5Nb2RlbD8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIHZhbCByZWZlcnJhbDogUmVmZXJyYWxEb21haW5Nb2RlbD8gPSBudWxsLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpY2luZz8ubWFwVG9Eb21haW4oKSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICB2YWwgcG9zdENvZGVBbnl3aGVyZTogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gInN1cHBvcnRfcGhvbmVfbnIiKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBwcmljaW5nOiBQcmljaW5nRG9tYWluTW9kZWw/ID0gbnVsbCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBsaW1pdHM6IEFjY291bnRMaW1pdHNSZXF1ZXN0RW50aXR5PyA9IG51bGwsCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBASnNvbihuYW1lID0gImdvb2dsZV9hcGlfa2V5IikKICAgIHZhbCBnb29nbGVBcGlLZXk6IFN0cmluZz8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJpZHNjYW5fdGltZW91dCIpCiAgICB2YWwgaWRzY2FuVGltZW91dDogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gIm1peHBhbmVsX3Rva2VuIik=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibGltaXRzIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ29vZ2xlQXBpS2V5LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGltaXRzPy5tYXBUb0RvbWFpbigpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBnb29nbGVBcGlLZXk6IFN0cmluZz8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIHZhbCBsaW1pdHM6IEFjY291bnRMaW1pdHNEb21haW5Nb2RlbD8gPSBudWxsLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2NtUHJvamVjdE51bWJlciwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
