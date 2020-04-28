@@ -44,7 +44,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588068616020">
+      <file name="/Dummy.txt" timestamp="1588070350107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -59,8 +59,8 @@
         <mark key="^" line="80" column="73" />
         <mark key="." line="179" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/DynamicConfigurationDomainModel.kt" timestamp="1588068685349">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/DynamicConfigurationDomainModel.kt" timestamp="1588070294046">
+        <mark key="[" line="18" column="8" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -139,11 +139,11 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationResponseEntity.kt" timestamp="1588069760305">
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="16" column="34" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationResponseEntity.kt" timestamp="1588070135074">
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="51" column="9" />
+        <mark key="^" line="51" column="9" />
+        <mark key="." line="51" column="8" />
       </file>
     </filemarks>
     <jumps>
@@ -216,7 +216,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWZlcnJhbDogUmVmZXJyYWxSZXF1ZXN0RW50aXR5PyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicmVmZXJyYWxfYXZpb3NfYm9udXNfZW5hYmxlZCIpCiAgICB2YWwgcmVmZXJyYWxBdmlvc0JvbnVzRW5hYmxlZDogQm9vbGVhbj8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJncmFkdWFsX29uYm9hcmRpbmdfZW5hYmxlZCIpCiAgICB2YWwgZ3JhZHVhbE9uYm9hcmRpbmdFbmFibGVkOiBCb29sZWFuPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gInByaWNpbmdfdGVybWluYXRvcl9lbmFibGVkIikKICAgIHZhbCBwcmljZVRlcm1pbmF0b3JFbmFibGVkOiBCb29sZWFuPyA9IG51bGwsCg==</text>
       </register>
       <register name="-" type="4">
         <text>banksHiddenFxFee</text>
@@ -228,31 +228,31 @@
         <text>DynamicConfigurationRequestEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWZlcnJhbDogUmVmZXJyYWxSZXF1ZXN0RW50aXR5PyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicmVmZXJyYWxfYXZpb3NfYm9udXNfZW5hYmxlZCIpCiAgICB2YWwgcmVmZXJyYWxBdmlvc0JvbnVzRW5hYmxlZDogQm9vbGVhbj8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJncmFkdWFsX29uYm9hcmRpbmdfZW5hYmxlZCIpCiAgICB2YWwgZ3JhZHVhbE9uYm9hcmRpbmdFbmFibGVkOiBCb29sZWFuPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gInByaWNpbmdfdGVybWluYXRvcl9lbmFibGVkIikKICAgIHZhbCBwcmljZVRlcm1pbmF0b3JFbmFibGVkOiBCb29sZWFuPyA9IG51bGwsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicmVmZXJyYWwiKQo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicmVmZXJyYWxfYXZpb3NfYm9udXNfZW5hYmxlZCIpCiAgICB2YWwgcmVmZXJyYWxBdmlvc0JvbnVzRW5hYmxlZDogQm9vbGVhbj8gPSBudWxsLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJyYWw/Lm1hcFRvRG9tYWluKCksCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic2t5cGVfaWQiKQogICAgdmFsIHNreXBlSWQ6IFN0cmluZz8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJvcGVuX2hvdXJzX21lc3NhZ2UiKQogICAgdmFsIG9wZW5Ib3Vyc01lc3NhZ2U6IFN0cmluZz8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJtb25lc2VfZnhfZmVlIikKICAgIHZhbCBtb25lc2VGeEZlZTogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gIm1vbmVzZV9taW5pbXVtX2ZlZSIpCiAgICB2YWwgbW9uZXNlTWluaW11bUZlZTogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gImJhbmtzX2Z4X2ZlZSIpCiAgICB2YWwgYmFua3NGeEZlZTogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gImJhbmtzX2hpZGRlbl9meF9mZWUiKQogICAgdmFsIGJhbmtzSGlkZGVuRnhGZWU6IFN0cmluZz8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJwYXlwb2ludF9mZWUiKQogICAgdmFsIHBheVBvaW50RmVlOiBTdHJpbmc/ID0gbnVsbCwKICAgIEBKc29uKG5hbWUgPSAiZmFjZWJvb2tfZW5hYmxlZCIpCiAgICB2YWwgaXNGYWNlYm9va0VuYWJsZWQ6IEJvb2xlYW4gPSBmYWxzZSwKICAgIEBKc29uKG5hbWUgPSAidmlkZW9fc2VsZmllX2VuYWJsZWQiKQogICAgdmFsIGlzVmlkZW9TZWxmaWVFbmFibGVkOiBCb29sZWFuID0gZmFsc2UsCiAgICBASnNvbihuYW1lID0gIm9uYm9hcmRpbmdfZGlzYWJsZWQiKQogICAgdmFsIGlzT25Cb2FyZGluZ0Rpc2FibGVkOiBCb29sZWFuID0gZmFsc2UsCiAgICBASnNvbihuYW1lID0gIm1vbnRobHlfZmVlX2V1ciIpCiAgICB2YWwgbW9udGhseUZlZUVVUjogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gIm1vbnRobHlfZmVlX2dicCIpCiAgICB2YWwgbW9udGhseUZlZUdCUDogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCByZWZlcnJhbDogUmVmZXJyYWxEb21haW5Nb2RlbD8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiZ2NtX3Byb2plY3RfbnVtYiIpCiAgICB2YWwgZ2NtUHJvamVjdE51bWJlcjogU3RyaW5nPyA9IG51bGwsCiAgICBASnNvbihuYW1lID0gImRvY3VtZW50X3Jldmlld190aW1lIikKICAgIHZhbCBkb2N1bWVudFJldmlld1RpbWU6IFN0cmluZz8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJmcmVzaF9kZXNrX2RvbWFpbiIpCiAgICB2YWwgZnJlc2hkZXNrRG9tYWluOiBTdHJpbmc/ID0gbnVsbCwKICAgIEBKc29uKG5hbWUgPSAiZnJlc2hfZGVza19hcHBfaWQiKQogICAgdmFsIGZyZXNoZGVza0FwcElkOiBTdHJpbmc/ID0gbnVsbCwKICAgIEBKc29uKG5hbWUgPSAiZnJlc2hfZGVza19hcHBfc2VjcmV0IikKICAgIHZhbCBmcmVzaGRlc2tBcHBTZWNyZXQ6IFN0cmluZz8gPSBudWxsLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpY2luZz8ubWFwVG9Eb21haW4oKSwK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBwcmljaW5nOiBQcmljaW5nRG9tYWluTW9kZWw/ID0gbnVsbCwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBKc29uKG5hbWUgPSAic3VwcG9ydF90ZXh0IikKICAgIHZhbCBzdXBwb3J0VGV4dDogU3RyaW5nPyA9IG51bGws</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaW1pdHM6IEFjY291bnRMaW1pdHNSZXF1ZXN0RW50aXR5PyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIHZhbCByZWZlcnJhbDogUmVmZXJyYWxSZXF1ZXN0RW50aXR5PyA9IG51bGwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibGltaXRzIikK</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicmVmZXJyYWwiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGltaXRzPy5tYXBUb0RvbWFpbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmZXJyYWw/Lm1hcFRvRG9tYWluKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
