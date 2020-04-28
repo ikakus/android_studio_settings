@@ -44,28 +44,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587973557089">
-        <mark key="'" line="178" column="1" />
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="80" column="73" />
-        <mark key="." line="179" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/BalanceSwitcher.kt" timestamp="1587971810119">
-        <mark key="[" line="49" column="13" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="16" />
-        <mark key="^" line="12" column="17" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/DateUtils.kt" timestamp="1587975479411">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="42" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/credit/cashadvance/request/CA1s2RequestCashAdvanceViewModelTest.kt" timestamp="1587977323172">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587977402725">
         <mark key="[" line="0" column="0" />
       </file>
@@ -75,8 +53,21 @@
         <mark key="^" line="112" column="26" />
         <mark key="." line="112" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587973557089">
+        <mark key="'" line="178" column="1" />
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="^" line="80" column="73" />
+        <mark key="." line="179" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyResource.java" timestamp="1587736980630">
         <mark key="[" line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/BalanceSwitcher.kt" timestamp="1587971810119">
+        <mark key="[" line="49" column="13" />
+        <mark key="]" line="12" column="17" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" timestamp="1587976478026">
         <mark key="'" line="165" column="0" />
@@ -96,7 +87,11 @@
         <mark key="." line="301" column="11" />
         <mark key="^" line="301" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationRequestEntity.kt" timestamp="1587985111508" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/model/DynamicConfigurationRequestEntity.kt" timestamp="1588055358071">
+        <mark key="[" line="161" column="4" />
+        <mark key="]" line="161" column="36" />
+        <mark key="." line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/credit/cashadvance/confirmation/CA1s3ConfirmationViewModelTest.kt" timestamp="1587977317867">
         <mark key="[" line="164" column="0" />
         <mark key="]" line="164" column="0" />
@@ -113,12 +108,20 @@
         <mark key="." line="129" column="11" />
         <mark key="^" line="129" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginActivity.kt" timestamp="1587973757919" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/RewardsOverviewSectionList.kt" timestamp="1587736436675">
         <mark key="[" line="59" column="56" />
         <mark key="]" line="60" column="26" />
         <mark key="^" line="60" column="26" />
         <mark key="." line="60" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/DateUtils.kt" timestamp="1587975479411">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/credit/cashadvance/request/CA1s2RequestCashAdvanceViewModelTest.kt" timestamp="1587977323172">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -190,8 +193,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV2ZXJ5IHsgQ3VycmVuY3lIZWxwZXIuZ2V0Q3VycmVuY3lTeW1ib2woIkdCUCIpIH0gcmV0dXJucyAiwqMiCg==</text>
+      <register name="&quot;" type="4">
+        <text>DynamicConfigurationRequestEntity</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -199,35 +202,35 @@
       <register name="/" type="4">
         <text>assert</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGZpbGU6U3VwcHJlc3NXYXJuaW5ncygiVG9vTWFueUZ1bmN0aW9ucyIpCg==</text>
+      <register name="0" type="4">
+        <text>DynamicConfigurationRequestEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV2ZXJ5IHsgQ3VycmVuY3lIZWxwZXIuZ2V0Q3VycmVuY3lTeW1ib2woIkdCUCIpIH0gcmV0dXJucyAiwqMiCg==</text>
+        <text encoding="base64">ZnVuIER5bmFtaWNDb25maWd1cmF0aW9uRG9tYWluTW9kZWwubWFwVG9SZXF1ZXN0RW50aXR5KCk6IER5bmFtaWNDb25maWd1cmF0aW9uUmVxdWVzdEVudGl0eSA9CiAgICBEeW5hbWljQ29uZmlndXJhdGlvblJlcXVlc3RFbnRpdHkoCiAgICAgICAgZ29vZ2xlQXBpS2V5LAogICAgICAgIGlkc2NhblRpbWVvdXQsCiAgICAgICAgbWl4cGFuZWxUb2tlbiwKICAgICAgICBwb3N0Q29kZUFueXdoZXJlLAogICAgICAgIHN1cHBvcnRQaG9uZU5yLAogICAgICAgIHN1cHBvcnRUZXh0LAogICAgICAgIGxpbWl0cz8ubWFwVG9SZXF1ZXN0RW50aXR5KCksCiAgICAgICAgc2Vzc2lvbkxlbmd0aCwKICAgICAgICBnY21Qcm9qZWN0TnVtYmVyLAogICAgICAgIGRvY3VtZW50UmV2aWV3VGltZSwKICAgICAgICBmcmVzaGRlc2tEb21haW4sCiAgICAgICAgZnJlc2hkZXNrQXBwSWQsCiAgICAgICAgZnJlc2hkZXNrQXBwU2VjcmV0LAogICAgICAgIHNvZnRVcGRhdGVNZXNzYWdlLAogICAgICAgIGhhcmRVcGRhdGVNZXNzYWdlLAogICAgICAgIGludGVyY29tSWQsCiAgICAgICAgaW50ZXJjb21LZXksCiAgICAgICAgc2t5cGVJZCwKICAgICAgICBvcGVuSG91cnNNZXNzYWdlLAogICAgICAgIG1vbmVzZUZ4RmVlLAogICAgICAgIG1vbmVzZU1pbmltdW1GZWUsCiAgICAgICAgYmFua3NGeEZlZSwKICAgICAgICBiYW5rc0hpZGRlbkZ4RmVlLAogICAgICAgIHBheVBvaW50RmVlLAogICAgICAgIGlzRmFjZWJvb2tFbmFibGVkLAogICAgICAgIGlzVmlkZW9TZWxmaWVFbmFibGVkLAogICAgICAgIGlzT25Cb2FyZGluZ0Rpc2FibGVkLAogICAgICAgIG1vbnRobHlGZWVFVVIsCiAgICAgICAgbW9udGhseUZlZUdCUCwKICAgICAgICBwcmljaW5nPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBvcGVyYXRpb25hbD8ubWFwVG9SZXF1ZXN0RW50aXR5KCksCiAgICAgICAgY3JlZGl0Q29uZmlndXJhdGlvbj8ubWFwVG9SZXF1ZXN0RW50aXR5KCksCiAgICAgICAgc3VwcG9ydFBob25lcywKICAgICAgICBpcExvY2F0aW9uLAogICAgICAgIHJlZmVycmFsPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBvbmZpZG9Nb2JpbGVUb2tlbiwKICAgICAgICBpc0F2aW9zRW5hYmxlZCwKICAgICAgICByZWZlcnJhbEF2aW9zQm9udXNFbmFibGVkLAogICAgICAgIGdyYWR1YWxPbmJvYXJkaW5nRW5hYmxlZCwKICAgICAgICBwcmljZVRlcm1pbmF0b3JFbmFibGVkLAogICAgICAgIHByb21vdGlvbnNFbmFibGVkCiAgICApCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gICAgICAgIGV2ZXJ5IHsgQ3VycmVuY3lIZWxwZXIuZ2V0Q3VycmVuY3lTeW1ib2woIkdCUCIpIH0gcmV0dXJucyAiwqMiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGNsYXNzOlN1cHByZXNzV2FybmluZ3MoIk1hdGNoaW5nRGVjbGFyYXRpb25OYW1lIikK</text>
+        <text encoding="base64">Ly8gICAgICAgIGV2ZXJ5IHsgQ3VycmVuY3lIZWxwZXIuZ2V0Q3VycmVuY3lTeW1ib2woIkdCUCIpIH0gcmV0dXJucyAiwqMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">QGNsYXNzOlN1cHByZXNzV2FybmluZ3MoIk1hdGNoaW5nRGVjbGFyYXRpb25OYW1lIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBzdGlja3lIZWFkZXJMYXlvdXRNYW5hZ2VyID0gU3RpY2t5SGVhZGVyTGF5b3V0TWFuYWdlcihyZXF1aXJlQ29udGV4dCgpLCBhZGFwdGVyKQogICAgICAgICAgICBydl9yZXc3X2F2aW9zX2NvbnRlbnQuYXBwbHkgewogICAgICAgICAgICAgICAgYWRhcHRlciA9IHRoaXNAUmV3N0F2aW9zRnJhZ21lbnQuYWRhcHRlcgogICAgICAgICAgICAgICAgbGF5b3V0TWFuYWdlciA9IHN0aWNreUhlYWRlckxheW91dE1hbmFnZXIKICAgICAgICAgICAgICAgIGFkZE9uU2Nyb2xsTGlzdGVuZXIoYXZpb3NTY3JvbGxMaXN0ZW5lcikKICAgICAgICAgICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
