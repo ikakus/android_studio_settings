@@ -123,7 +123,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588096641861" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588097271660">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588096394738">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="4" />
@@ -286,7 +291,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>HOT</text>
+        <text>getHistory</text>
       </register>
       <register name="/" type="4">
         <text>HIST</text>
@@ -298,19 +303,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgYWN0aXZlLmNvcHkodGl0bGUgPSB0aXRsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyh0aXRsZSwgdGl0bGUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgYWN0aXZlLmNvcHkodGl0bGUgPSB0aXRsZSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyh0aXRsZSwgdGl0bGUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIENPTEQK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>sharedPref.getBoolean(ACTIVE, false)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -319,7 +324,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBmdW4gZ2V0TGFzdENoZWNrZWREYXkoKTogRGF0ZT8gewogICAgICAgIHZhbCBtaWxsaXMgPSBzaGFyZWRQcmVmLmdldExvbmcoTEFTVF9DSEVDS19EQVksIC0xKQogICAgICAgIHJldHVybiBpZiAobWlsbGlzIDwgMCkgewogICAgICAgICAgICBudWxsCiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgRGF0ZShtaWxsaXMpCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
