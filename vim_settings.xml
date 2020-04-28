@@ -44,14 +44,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587977402725">
+      <file name="/Dummy.txt" timestamp="1588057363912">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/sections/RewardsOverviewSectionModel.kt" timestamp="1587736428662">
-        <mark key="[" line="111" column="42" />
-        <mark key="]" line="112" column="26" />
-        <mark key="^" line="112" column="26" />
-        <mark key="." line="112" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" timestamp="1587973557089">
         <mark key="'" line="178" column="1" />
@@ -59,6 +53,12 @@
         <mark key="]" line="179" column="0" />
         <mark key="^" line="80" column="73" />
         <mark key="." line="179" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/DynamicConfigurationDomainModel.kt" timestamp="1588057947941" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/models/DynamicConfiguration.kt" timestamp="1588057981082">
+        <mark key="[" line="84" column="2" />
+        <mark key="]" line="84" column="2" />
+        <mark key="." line="84" column="2" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/CurrencyResource.java" timestamp="1587736980630">
         <mark key="[" line="2" column="39" />
@@ -108,6 +108,11 @@
         <mark key="]" line="129" column="12" />
         <mark key="." line="129" column="11" />
         <mark key="^" line="129" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/ConfirmCardOrderFeeDialog.kt" timestamp="1588058286328">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/lists/RewardsOverviewSectionList.kt" timestamp="1587736436675">
         <mark key="[" line="59" column="56" />
@@ -198,7 +203,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>assert</text>
@@ -210,28 +215,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text>f</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzRXVyb0FjY291bnQ6IEJvb2xlYW4/ID0gbnVsbAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">dW4gRHluYW1pY0NvbmZpZ3VyYXRpb25Eb21haW5Nb2RlbC5tYXBUb1JlcXVlc3RFbnRpdHkoKTogRHluYW1pY0NvbmZpZ3VyYXRpb25SZXF1ZXN0RW50aXR5ID0KICAgIER5bmFtaWNDb25maWd1cmF0aW9uUmVxdWVzdEVudGl0eSgKICAgICAgICBnb29nbGVBcGlLZXksCiAgICAgICAgaWRzY2FuVGltZW91dCwKICAgICAgICBtaXhwYW5lbFRva2VuLAogICAgICAgIHBvc3RDb2RlQW55d2hlcmUsCiAgICAgICAgc3VwcG9ydFBob25lTnIsCiAgICAgICAgc3VwcG9ydFRleHQsCiAgICAgICAgbGltaXRzPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBzZXNzaW9uTGVuZ3RoLAogICAgICAgIGdjbVByb2plY3ROdW1iZXIsCiAgICAgICAgZG9jdW1lbnRSZXZpZXdUaW1lLAogICAgICAgIGZyZXNoZGVza0RvbWFpbiwKICAgICAgICBmcmVzaGRlc2tBcHBJZCwKICAgICAgICBmcmVzaGRlc2tBcHBTZWNyZXQsCiAgICAgICAgc29mdFVwZGF0ZU1lc3NhZ2UsCiAgICAgICAgaGFyZFVwZGF0ZU1lc3NhZ2UsCiAgICAgICAgaW50ZXJjb21JZCwKICAgICAgICBpbnRlcmNvbUtleSwKICAgICAgICBza3lwZUlkLAogICAgICAgIG9wZW5Ib3Vyc01lc3NhZ2UsCiAgICAgICAgbW9uZXNlRnhGZWUsCiAgICAgICAgbW9uZXNlTWluaW11bUZlZSwKICAgICAgICBiYW5rc0Z4RmVlLAogICAgICAgIGJhbmtzSGlkZGVuRnhGZWUsCiAgICAgICAgcGF5UG9pbnRGZWUsCiAgICAgICAgaXNGYWNlYm9va0VuYWJsZWQsCiAgICAgICAgaXNWaWRlb1NlbGZpZUVuYWJsZWQsCiAgICAgICAgaXNPbkJvYXJkaW5nRGlzYWJsZWQsCiAgICAgICAgbW9udGhseUZlZUVVUiwKICAgICAgICBtb250aGx5RmVlR0JQLAogICAgICAgIHByaWNpbmc/Lm1hcFRvUmVxdWVzdEVudGl0eSgpLAogICAgICAgIG9wZXJhdGlvbmFsPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBjcmVkaXRDb25maWd1cmF0aW9uPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBzdXBwb3J0UGhvbmVzLAogICAgICAgIGlwTG9jYXRpb24sCiAgICAgICAgcmVmZXJyYWw/Lm1hcFRvUmVxdWVzdEVudGl0eSgpLAogICAgICAgIG9uZmlkb01vYmlsZVRva2VuLAogICAgICAgIGlzQXZpb3NFbmFibGVkLAogICAgICAgIHJlZmVycmFsQXZpb3NCb251c0VuYWJsZWQsCiAgICAgICAgZ3JhZHVhbE9uYm9hcmRpbmdFbmFibGVkLAogICAgICAgIHByaWNlVGVybWluYXRvckVuYWJsZWQsCiAgICAgICAgcHJvbW90aW9uc0VuYWJsZWQKICAgICkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGR5bmFtaWNDb25maWd1cmF0aW9uOiBEeW5hbWljQ29uZmlndXJhdGlvbj8gPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuIER5bmFtaWNDb25maWd1cmF0aW9uRG9tYWluTW9kZWwubWFwVG9SZXF1ZXN0RW50aXR5KCk6IER5bmFtaWNDb25maWd1cmF0aW9uUmVxdWVzdEVudGl0eSA9CiAgICBEeW5hbWljQ29uZmlndXJhdGlvblJlcXVlc3RFbnRpdHkoCiAgICAgICAgZ29vZ2xlQXBpS2V5LAogICAgICAgIGlkc2NhblRpbWVvdXQsCiAgICAgICAgbWl4cGFuZWxUb2tlbiwKICAgICAgICBwb3N0Q29kZUFueXdoZXJlLAogICAgICAgIHN1cHBvcnRQaG9uZU5yLAogICAgICAgIHN1cHBvcnRUZXh0LAogICAgICAgIGxpbWl0cz8ubWFwVG9SZXF1ZXN0RW50aXR5KCksCiAgICAgICAgc2Vzc2lvbkxlbmd0aCwKICAgICAgICBnY21Qcm9qZWN0TnVtYmVyLAogICAgICAgIGRvY3VtZW50UmV2aWV3VGltZSwKICAgICAgICBmcmVzaGRlc2tEb21haW4sCiAgICAgICAgZnJlc2hkZXNrQXBwSWQsCiAgICAgICAgZnJlc2hkZXNrQXBwU2VjcmV0LAogICAgICAgIHNvZnRVcGRhdGVNZXNzYWdlLAogICAgICAgIGhhcmRVcGRhdGVNZXNzYWdlLAogICAgICAgIGludGVyY29tSWQsCiAgICAgICAgaW50ZXJjb21LZXksCiAgICAgICAgc2t5cGVJZCwKICAgICAgICBvcGVuSG91cnNNZXNzYWdlLAogICAgICAgIG1vbmVzZUZ4RmVlLAogICAgICAgIG1vbmVzZU1pbmltdW1GZWUsCiAgICAgICAgYmFua3NGeEZlZSwKICAgICAgICBiYW5rc0hpZGRlbkZ4RmVlLAogICAgICAgIHBheVBvaW50RmVlLAogICAgICAgIGlzRmFjZWJvb2tFbmFibGVkLAogICAgICAgIGlzVmlkZW9TZWxmaWVFbmFibGVkLAogICAgICAgIGlzT25Cb2FyZGluZ0Rpc2FibGVkLAogICAgICAgIG1vbnRobHlGZWVFVVIsCiAgICAgICAgbW9udGhseUZlZUdCUCwKICAgICAgICBwcmljaW5nPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBvcGVyYXRpb25hbD8ubWFwVG9SZXF1ZXN0RW50aXR5KCksCiAgICAgICAgY3JlZGl0Q29uZmlndXJhdGlvbj8ubWFwVG9SZXF1ZXN0RW50aXR5KCksCiAgICAgICAgc3VwcG9ydFBob25lcywKICAgICAgICBpcExvY2F0aW9uLAogICAgICAgIHJlZmVycmFsPy5tYXBUb1JlcXVlc3RFbnRpdHkoKSwKICAgICAgICBvbmZpZG9Nb2JpbGVUb2tlbiwKICAgICAgICBpc0F2aW9zRW5hYmxlZCwKICAgICAgICByZWZlcnJhbEF2aW9zQm9udXNFbmFibGVkLAogICAgICAgIGdyYWR1YWxPbmJvYXJkaW5nRW5hYmxlZCwKICAgICAgICBwcmljZVRlcm1pbmF0b3JFbmFibGVkLAogICAgICAgIHByb21vdGlvbnNFbmFibGVkCiAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV2ZXJ5IHsgQ3VycmVuY3lIZWxwZXIuZ2V0Q3VycmVuY3lTeW1ib2woIkdCUCIpIH0gcmV0dXJucyAiwqMiCg==</text>
+        <text encoding="base64">ZnVuIGdlbmVyYXRlT2xkUHJpY2VGcmVlVGllclVLQ2FyZCgKICAgIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlciwKICAgIGR5bmFtaWNDb25maWd1cmF0aW9uOiBEeW5hbWljQ29uZmlndXJhdGlvbj8sCiAgICBjb250ZXh0OiBDb250ZXh0Cik6IFN0cmluZyB7CiAgICByZXR1cm4gaWYgKGR5bmFtaWNDb25maWd1cmF0aW9uPy5wcmljaW5nPy5mcmVlVGllclVLICE9IG51bGwKICAgICkgewogICAgICAgIGNvbnRleHQuZ2V0U3RyaW5nKAogICAgICAgICAgICBSLnN0cmluZy5hMV93YXNfcHJpY2UsCiAgICAgICAgICAgIGN1cnJlbmN5Rm9ybWF0dGVyLmdldEZvcm1hdHRlZEN1cnJlbmN5RnJvbVN0cmluZygKICAgICAgICAgICAgICAgIGR5bmFtaWNDb25maWd1cmF0aW9uLnByaWNpbmcuZnJlZVRpZXJVSz8uY2FyZEZlZSwKICAgICAgICAgICAgICAgIEdCUF9DVVJSRU5DWV9DT0RFCiAgICAgICAgICAgICkKICAgICAgICApCiAgICB9IGVsc2UgIiIKfQoKZnVuIGdlbmVyYXRlT2xkUHJpY2VGcmVlVGllckVVQ2FyZCgKICAgIGN1cnJlbmN5Rm9ybWF0dGVyOiBDdXJyZW5jeUZvcm1hdHRlciwKICAgIGR5bmFtaWNDb25maWd1cmF0aW9uOiBEeW5hbWljQ29uZmlndXJhdGlvbj8sCiAgICBjb250ZXh0OiBDb250ZXh0Cik6IFN0cmluZyB7CiAgICByZXR1cm4gaWYgKGR5bmFtaWNDb25maWd1cmF0aW9uPy5wcmljaW5nPy5mcmVlVGllclVLICE9IG51bGwKICAgICkgewogICAgICAgIGNvbnRleHQuZ2V0U3RyaW5nKAogICAgICAgICAgICBSLnN0cmluZy5hMV93YXNfcHJpY2UsCiAgICAgICAgICAgIGN1cnJlbmN5Rm9ybWF0dGVyLmdldEZvcm1hdHRlZEN1cnJlbmN5RnJvbVN0cmluZygKICAgICAgICAgICAgICAgIGR5bmFtaWNDb25maWd1cmF0aW9uLnByaWNpbmcuZnJlZVRpZXJFdXI/LmNhcmRGZWUsCiAgICAgICAgICAgICAgICBFVVJfQ1VSUkVOQ1lfQ09ERQogICAgICAgICAgICApCiAgICAgICAgKQogICAgfSBlbHNlICIiCn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGV2ZXJ5IHsgQ3VycmVuY3lIZWxwZXIuZ2V0Q3VycmVuY3lTeW1ib2woIkdCUCIpIH0gcmV0dXJucyAiwqMiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QGNsYXNzOlN1cHByZXNzV2FybmluZ3MoIk1hdGNoaW5nRGVjbGFyYXRpb25OYW1lIikK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHNhZmVMZXQoaXNFdXJvQWNjb3VudCwgZHluYW1pY0NvbmZpZ3VyYXRpb24pIHsgaXNFdXJvLCBjb25maWcgLT4KICAgICAgICAgICAgICAgIHZhbCBwcmljZVZhbHVlID0gaWYgKGlzRXVybykgewogICAgICAgICAgICAgICAgICAgIGdlbmVyYXRlT2xkUHJpY2VGcmVlVGllckVVQ2FyZChjdXJyZW5jeUZvcm1hdHRlciwgY29uZmlnLCBjb250ZXh0KQogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBnZW5lcmF0ZU9sZFByaWNlRnJlZVRpZXJVS0NhcmQoY3VycmVuY3lGb3JtYXR0ZXIsIGNvbmZpZywgY29udGV4dCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGE0NHM0X2RpYWxvZ190aXRsZT8udGV4dCA9IGNvbnRleHQuZ2V0U3RyaW5nKFIuc3RyaW5nLmE0NF9zNF9zMV9kaWFsb2dfdGl0bGUpCiAgICAgICAgICAgICAgICBhNDRzNF90ZXh0X21lc3NhZ2VfZGVzY3JpcHRpb24uZnJvbUh0bWxTdHJpa2VUaHJvdWdoKAogICAgICAgICAgICAgICAgICAgIGNvbnRleHQuZ2V0U3RyaW5nKAogICAgICAgICAgICAgICAgICAgICAgICBSLnN0cmluZy5hNDRfczZiX29yZGVyX2NhcmRfZnJlZV9wcm9tb3Rpb24sCiAgICAgICAgICAgICAgICAgICAgICAgIHByaWNlVmFsdWUKICAgICAgICAgICAgICAgICAgICApLCBwcmljZVZhbHVlCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CiAgICBmdW4gc2V0RHluYW1pY0NvbmZpZ3VyYXRpb24oZHluYW1pY0NvbmZpZ3VyYXRpb246IER5bmFtaWNDb25maWd1cmF0aW9uKSB7CiAgICAgICAgdGhpcy5keW5hbWljQ29uZmlndXJhdGlvbiA9IGR5bmFtaWNDb25maWd1cmF0aW9uCiAgICB9CgogICAgZnVuIHNldElzRXVyb0FjY291bnQoaXNFdXJvQWNjb3VudDogQm9vbGVhbikgewogICAgICAgIHRoaXMuaXNFdXJvQWNjb3VudCA9IGlzRXVyb0FjY291bnQKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBhbmlvbiBvYmplY3Qgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
