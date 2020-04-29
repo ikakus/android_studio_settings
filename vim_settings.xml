@@ -57,19 +57,19 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588155628538">
-        <mark key="'" line="16" column="54" />
-        <mark key="[" line="29" column="10" />
-        <mark key="]" line="30" column="52" />
-        <mark key="^" line="30" column="52" />
-        <mark key="." line="30" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588157842771">
+        <mark key="'" line="17" column="54" />
+        <mark key="[" line="15" column="36" />
+        <mark key="]" line="15" column="57" />
+        <mark key="^" line="15" column="57" />
+        <mark key="." line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588156733923">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588157794943">
         <mark key="'" line="221" column="37" />
-        <mark key="[" line="61" column="22" />
-        <mark key="]" line="61" column="30" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
         <mark key="^" line="61" column="30" />
-        <mark key="." line="61" column="29" />
+        <mark key="." line="224" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.kt" timestamp="1588151195122">
         <mark key="[" line="41" column="38" />
@@ -113,10 +113,12 @@
         <mark key="]" line="37" column="30" />
         <mark key="." line="37" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ApiModule.kt" timestamp="1588156183448">
-        <mark key="]" line="82" column="4" />
-        <mark key="^" line="82" column="4" />
-        <mark key="." line="82" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ApiModule.kt" timestamp="1588157598484">
+        <mark key="'" line="92" column="38" />
+        <mark key="[" line="92" column="22" />
+        <mark key="]" line="92" column="23" />
+        <mark key="^" line="92" column="23" />
+        <mark key="." line="92" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -193,48 +195,49 @@
       <jump line="19" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" />
       <jump line="15" column="54" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" />
       <jump line="107" column="50" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" />
+      <jump line="91" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ApiModule.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>ZENDESK</text>
       </register>
       <register name="/" type="4">
         <text>getcon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEFQSV9VUkwgPSAiaHR0cHM6Ly9hcGkuZGV2Lm1vbmVzZS5jb20vbW9uZXNlLWFwaS0wLjEvYXBpIjsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEBQcm92aWRlcwogICAgZnVuIHByb3ZpZGVaZW5kZXNrQXBpKEBOYW1lZChaRU5ERVNLKSByZXRyb2ZpdDogUmV0cm9maXQpOiBaZW5kZXNrQXBpID0gcmV0cm9maXQuY3JlYXRlKFplbmRlc2tBcGk6OmNsYXNzLmphdmEp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRSZXNwb25zZSgpOiBDYWxsPFQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLmxpYi5HcmFwaFF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRSZXNwb25zZSgpOiBDYWxsPFQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wcmFjdG8uZmFicmljLmNvcmUudXRpbHMuTG9nVXRpbHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLmxpYi5HcmFwaFF1ZXJ5Owo=</text>
       </register>
       <register name="6" type="2">
-        <text>Add dummy repo</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wcmFjdG8uZmFicmljLmNvcmUudXRpbHMuTG9nVXRpbHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc0NhcmRQYXltZW50czogQm9vbGVhbiA9IGZhbHNlLAo=</text>
+        <text>Add dummy repo</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYXZpb3NfcmVmZXJyYWxfYm9udXNfYW1vdW50IikKICAgIHZhbCBhdmlvc1JlZmVycmFsQm9udXNBbW91bnQ6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpc0NhcmRQYXltZW50czogQm9vbGVhbiA9IGZhbHNlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfY291bnQiKQogICAgdmFsIHNvZm9ydEZyZWVDb3VudDogU3RyaW5nPyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYXZpb3NfcmVmZXJyYWxfYm9udXNfYW1vdW50IikKICAgIHZhbCBhdmlvc1JlZmVycmFsQm9udXNBbW91bnQ6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
