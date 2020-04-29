@@ -13,6 +13,9 @@
         <entry>stup</entry>
         <entry>%s</entry>
         <entry>assert</entry>
+        <entry>Log</entry>
+        <entry>log</entry>
+        <entry>value</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -44,14 +47,52 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588151986837">
+        <mark key="'" line="220" column="37" />
+        <mark key="[" line="220" column="21" />
+        <mark key="]" line="220" column="38" />
+        <mark key="^" line="220" column="38" />
+        <mark key="." line="220" column="37" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
         <mark key="[" line="490" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588152012581">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588150687739">
+        <mark key="[" line="37" column="30" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/indelivery/DebitCardInDeliveryViewModel.kt" timestamp="1588149251399" />
-      <file name="/Dummy.txt" timestamp="1588146200029">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.kt" timestamp="1588151195122">
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="38" />
+        <mark key="." line="41" column="38" />
+        <mark key="^" line="39" column="35" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588150724340">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588151643002">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" timestamp="1588151466944">
+        <mark key="'" line="48" column="65" />
+        <mark key="[" line="48" column="90" />
+        <mark key="]" line="48" column="90" />
+        <mark key="." line="48" column="90" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/amazon/repository/AmazonRepositoryImpl.kt" timestamp="1588150402249">
+        <mark key="[" line="23" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -119,48 +160,52 @@
       <jump line="183" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" />
       <jump line="163" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" />
       <jump line="165" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" />
+      <jump line="73" column="13" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" />
+      <jump line="77" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" />
+      <jump line="48" column="65" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" />
+      <jump line="220" column="37" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text>Add dummy repo</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEFQSV9VUkwgPSAiaHR0cHM6Ly9hcGkuZGV2Lm1vbmVzZS5jb20vbW9uZXNlLWFwaS0wLjEvYXBpIjsK</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>BASE_URL</text>
       </register>
       <register name="/" type="4">
-        <text>assert</text>
+        <text>value</text>
       </register>
-      <register name="0" type="4">
-        <text>DynamicConfigurationRequestEntity</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEFQSV9VUkwgPSAiaHR0cHM6Ly9hcGkuZGV2Lm1vbmVzZS5jb20vbW9uZXNlLWFwaS0wLjEvYXBpIjsK</text>
       </register>
       <register name="1" type="2">
-        <text>Add dummy repo</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLmxpYi5HcmFwaFF1ZXJ5Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc0NhcmRQYXltZW50czogQm9vbGVhbiA9IGZhbHNlLAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5wcmFjdG8uZmFicmljLmNvcmUudXRpbHMuTG9nVXRpbHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYXZpb3NfcmVmZXJyYWxfYm9udXNfYW1vdW50IikKICAgIHZhbCBhdmlvc1JlZmVycmFsQm9udXNBbW91bnQ6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text>Add dummy repo</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfY291bnQiKQogICAgdmFsIHNvZm9ydEZyZWVDb3VudDogU3RyaW5nPyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpc0NhcmRQYXltZW50czogQm9vbGVhbiA9IGZhbHNlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfdW50aWwiKQogICAgdmFsIHNvZm9ydEZyZWVVbnRpbDogRGF0ZT8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYXZpb3NfcmVmZXJyYWxfYm9udXNfYW1vdW50IikKICAgIHZhbCBhdmlvc1JlZmVycmFsQm9udXNBbW91bnQ6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWVfYWN0aXZlX2J1c2luZXNzXzEiKQogICAgdmFsIGFjdGl2ZUJ1c2luZXNzTW9udGhseUZlZTogU3RyaW5nPyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfY291bnQiKQogICAgdmFsIHNvZm9ydEZyZWVDb3VudDogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X3BlcmNlbnRhZ2UiKQogICAgdmFsIHdlY2hhdFBlcmNlbnRhZ2U6IFN0cmluZz8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfdW50aWwiKQogICAgdmFsIHNvZm9ydEZyZWVVbnRpbDogRGF0ZT8gPSBudWxsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X2ZlZV9taW5pbXVtIikKICAgIHZhbCB3ZWNoYXRGZWVNaW5pbXVtOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWVfYWN0aXZlX2J1c2luZXNzXzEiKQogICAgdmFsIGFjdGl2ZUJ1c2luZXNzTW9udGhseUZlZTogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWUiKQogICAgdmFsIG1vbnRobHlGZWU6IFN0cmluZz8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X3BlcmNlbnRhZ2UiKQogICAgdmFsIHdlY2hhdFBlcmNlbnRhZ2U6IFN0cmluZz8gPSBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
@@ -169,9 +214,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>assert</last-search>
-      <last-offset>CurrencyHelper/currencyFormatter/gc</last-offset>
-      <last-pattern>assert</last-pattern>
+      <last-search>value</last-search>
+      <last-offset />
+      <last-pattern>value</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
