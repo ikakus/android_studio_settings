@@ -47,21 +47,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588151986837">
-        <mark key="'" line="220" column="37" />
-        <mark key="[" line="220" column="21" />
-        <mark key="]" line="220" column="38" />
-        <mark key="^" line="220" column="38" />
-        <mark key="." line="220" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588152467416">
+        <mark key="'" line="221" column="37" />
+        <mark key="[" line="70" column="50" />
+        <mark key="]" line="70" column="66" />
+        <mark key="^" line="70" column="66" />
+        <mark key="." line="70" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
         <mark key="[" line="490" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588152012581">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="33" />
-        <mark key="^" line="5" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588152069097">
+        <mark key="[" line="5" column="45" />
+        <mark key="]" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="^" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588150687739">
         <mark key="[" line="37" column="30" />
@@ -168,11 +168,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEFQSV9VUkwgPSAiaHR0cHM6Ly9hcGkuZGV2Lm1vbmVzZS5jb20vbW9uZXNlLWFwaS0wLjEvYXBpIjsK</text>
+      <register name="&quot;" type="4">
+        <text>API_URL</text>
       </register>
       <register name="-" type="4">
-        <text>BASE_URL</text>
+        <text>API_URL</text>
       </register>
       <register name="/" type="4">
         <text>value</text>
