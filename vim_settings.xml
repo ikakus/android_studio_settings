@@ -57,12 +57,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588157842771">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588159177253">
         <mark key="'" line="17" column="54" />
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="57" />
-        <mark key="^" line="15" column="57" />
-        <mark key="." line="15" column="56" />
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="23" column="42" />
+        <mark key="^" line="23" column="42" />
+        <mark key="." line="23" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588158632602">
         <mark key="'" line="221" column="37" />
@@ -87,11 +87,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
         <mark key="[" line="490" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588155026161">
-        <mark key="[" line="558" column="0" />
-        <mark key="]" line="562" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588159385921">
+        <mark key="[" line="561" column="17" />
+        <mark key="]" line="561" column="17" />
         <mark key="^" line="561" column="4" />
-        <mark key="." line="562" column="28" />
+        <mark key="." line="561" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588152069097">
         <mark key="[" line="5" column="45" />
@@ -200,11 +200,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>eeeeeeee</text>
       </register>
       <register name="-" type="4">
-        <text>ZENDESK</text>
+        <text>eeeeeeee</text>
       </register>
       <register name="/" type="4">
         <text>getcon</text>
