@@ -91,12 +91,15 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587802100641">
+      <file name="/Dummy.txt" timestamp="1588188336252">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -123,12 +126,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588186399212">
-        <mark key="'" line="84" column="30" />
-        <mark key="[" line="84" column="24" />
-        <mark key="]" line="84" column="28" />
-        <mark key="." line="84" column="27" />
-        <mark key="^" line="84" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588189226958">
+        <mark key="'" line="64" column="30" />
+        <mark key="[" line="32" column="34" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588184805694">
         <mark key="'" line="9" column="0" />
@@ -143,12 +146,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588186645887">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588189495225">
         <mark key="'" line="48" column="57" />
-        <mark key="[" line="192" column="40" />
-        <mark key="]" line="192" column="38" />
-        <mark key="^" line="192" column="40" />
-        <mark key="." line="192" column="38" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="149" column="47" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Extensions.kt" timestamp="1587798437812">
         <mark key="'" line="2" column="0" />
@@ -180,11 +183,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1587535242294">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1588187385355">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="23" />
+        <mark key="]" line="32" column="24" />
+        <mark key="." line="32" column="24" />
         <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1587798201839">
@@ -300,44 +303,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text>getH</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGlzdG9yeTogTGlzdDxTdHJpa2VEdG8+ID0gYXJyYXlMaXN0T2Yoc3RyaWtlKQogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgdmFsIGFjdGl2ZSA9IGdldEFjdGl2ZSgpID86IHJldHVybiBudWxsCiAgICAgICAgdmFsIGRheSA9IGFjdGl2ZS5kYXlzLmxhc3RPck51bGwgeyBpdCA+IDAgfSA/OiByZXR1cm4gbnVsbAogICAgICAgIHJldHVybiBEYXRlKGRheSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwby5nZXRIaXN0b3J5KCkuZmlyc3QgeyBpdC5zdGF0dXMgPT0gU3RyaWtlU3RhdHVzLkFDVElWRSB9LnRpdGxlCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgiZGQuTU0uWVlZWSIsIExvY2FsZS5nZXREZWZhdWx0KCkpCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgREFZUyA9ICJkYXlzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgiZGQuTU0uWVlZWSIsIExvY2FsZS5nZXREZWZhdWx0KCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgRklSU1RfQ0hFQ0tfREFZID0gImZpcnN0Q2hlY2tEYXkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgiZGQuTU0uWVlZWSIsIExvY2FsZS5nZXREZWZhdWx0KCkpCiAgICAgICAgICAgICAgICB0ZXh0ID0gZGF0ZUZvcm1hdC5mb3JtYXQoZGF0ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgTEFTVF9DSEVDS19EQVkgPSAibGFzdENoZWNrRGF5Igpwcml2YXRlIGNvbnN0IHZhbCBUSVRMRSA9ICJ0aXRsZSIKcHJpdmF0ZSBjb25zdCB2YWwgQUNUSVZFID0gImFjdGl2ZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2hhcmVkUHJlZi5nZXRCb29sZWFuKEFDVElWRSwgZmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRhdGVGb3JtYXQgPSBTaW1wbGVEYXRlRm9ybWF0KCJkZC5NTS5ZWVlZIiwgTG9jYWxlLmdldERlZmF1bHQoKSkKICAgICAgICAgICAgdGV4dCA9IGRhdGVGb3JtYXQuZm9ybWF0KGRhdGUpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyhUSVRMRSwgIiIpCiAgICAgICAgICAgIHB1dExvbmcoTEFTVF9DSEVDS19EQVksIC0xKQogICAgICAgICAgICBwdXRTdHJpbmcoREFZUywgIiIpCiAgICAgICAgICAgIHB1dEJvb2xlYW4oQUNUSVZFLCBmYWxzZSkKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRGF0ZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHB1dFdob2xlKGhpc3Rvcnk6IExpc3Q8U3RyaWtlRHRvPikgewogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBHc29uKCkudG9Kc29uKGhpc3RvcnkpCiAgICAgICAgICAgIHB1dFN0cmluZyhISVNUT1JZLCBqc29uVGV4dCkKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBEYXRlKHNoYXJlZFByZWYuZ2V0TG9uZyhGSVJTVF9DSEVDS19EQVksIERhdGUoKS50aW1lKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHZhbCBqc29uVGV4dDogU3RyaW5nID0gY29tLmdvb2dsZS5nc29uLkdzb24oKS50b0pzb24oaGlzdG9yeSkKICAgICAgICAgICAgcHV0U3RyaW5nKEhJU1RPUlksIGpzb25UZXh0KQogICAgICAgICAgICBjb21taXQoKQogICAgICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgIHN0b3JhZ2Uuc2F2ZURheXMoZGF5cykK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
