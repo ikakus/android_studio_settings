@@ -123,18 +123,19 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588184549256">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588186399212">
+        <mark key="'" line="84" column="30" />
+        <mark key="[" line="84" column="24" />
+        <mark key="]" line="84" column="28" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588096394738">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588184805694">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="9" />
-        <mark key="^" line="9" column="10" />
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="11" column="8" />
+        <mark key="." line="11" column="7" />
+        <mark key="^" line="11" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_new_strike.xml" timestamp="1587535148530">
         <mark key="[" line="10" column="22" />
@@ -142,12 +143,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1587801791634">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588186645887">
         <mark key="'" line="48" column="57" />
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="60" column="4" />
-        <mark key="^" line="60" column="4" />
-        <mark key="." line="60" column="3" />
+        <mark key="[" line="192" column="40" />
+        <mark key="]" line="192" column="38" />
+        <mark key="^" line="192" column="40" />
+        <mark key="." line="192" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Extensions.kt" timestamp="1587798437812">
         <mark key="'" line="2" column="0" />
@@ -171,10 +172,10 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1587801441709">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1588185904745">
         <mark key="'" line="20" column="17" />
         <mark key="i" line="73" column="45" />
-        <mark key="[" line="48" column="0" />
+        <mark key="[" line="50" column="29" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="48" column="0" />
@@ -191,6 +192,12 @@
         <mark key="]" line="1" column="15" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysRecyclerViewAdapter.kt" timestamp="1588186593698">
+        <mark key="[" line="38" column="31" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="30" />
+        <mark key="^" line="13" column="31" />
       </file>
       <file name="/fragment.java" timestamp="1587624325668">
         <mark key="[" line="0" column="0" />
@@ -287,15 +294,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
       <jump line="58" column="3" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
       <jump line="62" column="4" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="109" column="57" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="84" column="30" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5LmFkZChzdHJpa2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>toMutableList()</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>getH</text>
@@ -304,31 +313,31 @@
         <text encoding="base64">ICAgICAgICB2YWwgaGlzdG9yeTogTGlzdDxTdHJpa2VEdG8+ID0gYXJyYXlMaXN0T2Yoc3RyaWtlKQogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5LmFkZChzdHJpa2UpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwby5nZXRIaXN0b3J5KCkuZmlyc3QgeyBpdC5zdGF0dXMgPT0gU3RyaWtlU3RhdHVzLkFDVElWRSB9LnRpdGxlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5ZGRgZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgREFZUyA9ICJkYXlzIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgRklSU1RfQ0hFQ0tfREFZID0gImZpcnN0Q2hlY2tEYXkiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBmdW4gc2F2ZUhpc3Rvcnkoc3RyaWtlOiBTdHJpa2VEdG8pIHsKICAgICAgICB2YWwgaGlzdG9yeTogTGlzdDxTdHJpa2VEdG8+ID0gYXJyYXlMaXN0T2Yoc3RyaWtlKQogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQoKICAgIGZ1biBnZXRIaXN0b3J5KCk6IExpc3Q8U3RyaWtlRHRvPiB7CiAgICAgICAgdmFsIHNhdmVkU3RyaW5nID0gc2hhcmVkUHJlZi5nZXRTdHJpbmcoSElTVE9SWSwgbnVsbCkKICAgICAgICBzYXZlZFN0cmluZz8ubGV0IHsKICAgICAgICAgICAgdmFsIHR5cGUgPSBvYmplY3QgOiBUeXBlVG9rZW48TGlzdDxTdHJpa2VEdG8+PigpIHt9LnR5cGUKICAgICAgICAgICAgcmV0dXJuIEdzb24oKS5mcm9tSnNvbihzYXZlZFN0cmluZywgdHlwZSkKICAgICAgICB9ID86IHJldHVybiBlbXB0eUxpc3QoKQogICAgfQo=</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgTEFTVF9DSEVDS19EQVkgPSAibGFzdENoZWNrRGF5Igpwcml2YXRlIGNvbnN0IHZhbCBUSVRMRSA9ICJ0aXRsZSIKcHJpdmF0ZSBjb25zdCB2YWwgQUNUSVZFID0gImFjdGl2ZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2hhcmVkUHJlZi5nZXRCb29sZWFuKEFDVElWRSwgZmFsc2UpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZhciBzaGFyZWRQcmVmID0KICAgICAgICBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKERCX05BTUUsIENvbnRleHQuTU9ERV9QUklWQVRFKQoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyhUSVRMRSwgIiIpCiAgICAgICAgICAgIHB1dExvbmcoTEFTVF9DSEVDS19EQVksIC0xKQogICAgICAgICAgICBwdXRTdHJpbmcoREFZUywgIiIpCiAgICAgICAgICAgIHB1dEJvb2xlYW4oQUNUSVZFLCBmYWxzZSkKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHB1dFdob2xlKGhpc3Rvcnk6IExpc3Q8U3RyaWtlRHRvPikgewogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBHc29uKCkudG9Kc29uKGhpc3RvcnkpCiAgICAgICAgICAgIHB1dFN0cmluZyhISVNUT1JZLCBqc29uVGV4dCkKICAgICAgICAgICAgY29tbWl0KCkKICAgICAgICB9CiAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHZhbCBqc29uVGV4dDogU3RyaW5nID0gY29tLmdvb2dsZS5nc29uLkdzb24oKS50b0pzb24oaGlzdG9yeSkKICAgICAgICAgICAgcHV0U3RyaW5nKEhJU1RPUlksIGpzb25UZXh0KQogICAgICAgICAgICBjb21taXQoKQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
