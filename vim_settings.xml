@@ -43,7 +43,16 @@
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
+        <mark key="[" line="490" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588146200029">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+    </filemarks>
     <jumps>
       <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
       <jump line="156" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/InviteAndEarnViewModel.kt" />
@@ -113,8 +122,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text>Add dummy repo</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -126,31 +135,31 @@
         <text>DynamicConfigurationRequestEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBpc0NhcmRQYXltZW50czogQm9vbGVhbiA9IGZhbHNlLAo=</text>
+        <text>Add dummy repo</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYXZpb3NfcmVmZXJyYWxfYm9udXNfYW1vdW50IikKICAgIHZhbCBhdmlvc1JlZmVycmFsQm9udXNBbW91bnQ6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBpc0NhcmRQYXltZW50czogQm9vbGVhbiA9IGZhbHNlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfY291bnQiKQogICAgdmFsIHNvZm9ydEZyZWVDb3VudDogU3RyaW5nPyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYXZpb3NfcmVmZXJyYWxfYm9udXNfYW1vdW50IikKICAgIHZhbCBhdmlvc1JlZmVycmFsQm9udXNBbW91bnQ6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfdW50aWwiKQogICAgdmFsIHNvZm9ydEZyZWVVbnRpbDogRGF0ZT8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfY291bnQiKQogICAgdmFsIHNvZm9ydEZyZWVDb3VudDogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWVfYWN0aXZlX2J1c2luZXNzXzEiKQogICAgdmFsIGFjdGl2ZUJ1c2luZXNzTW9udGhseUZlZTogU3RyaW5nPyA9IG51bGwsCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic29mb3J0X2ZyZWVfdW50aWwiKQogICAgdmFsIHNvZm9ydEZyZWVVbnRpbDogRGF0ZT8gPSBudWxsLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X3BlcmNlbnRhZ2UiKQogICAgdmFsIHdlY2hhdFBlcmNlbnRhZ2U6IFN0cmluZz8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWVfYWN0aXZlX2J1c2luZXNzXzEiKQogICAgdmFsIGFjdGl2ZUJ1c2luZXNzTW9udGhseUZlZTogU3RyaW5nPyA9IG51bGwsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X2ZlZV9taW5pbXVtIikKICAgIHZhbCB3ZWNoYXRGZWVNaW5pbXVtOiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X3BlcmNlbnRhZ2UiKQogICAgdmFsIHdlY2hhdFBlcmNlbnRhZ2U6IFN0cmluZz8gPSBudWxsLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWUiKQogICAgdmFsIG1vbnRobHlGZWU6IFN0cmluZz8gPSBudWxsLAo=</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAid2VjaGF0X2ZlZV9taW5pbXVtIikKICAgIHZhbCB3ZWNoYXRGZWVNaW5pbXVtOiBTdHJpbmc/ID0gbnVsbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibG9jYWxfcGF5bWVudCIpCiAgICB2YWwgbG9jYWxQYXltZW50OiBTdHJpbmc/ID0gbnVsbCwK</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAibW9udGhseV9mZWUiKQogICAgdmFsIG1vbnRobHlGZWU6IFN0cmluZz8gPSBudWxsLAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
