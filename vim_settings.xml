@@ -123,11 +123,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588101563905">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="64" column="5" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588183559095">
+        <mark key="'" line="62" column="4" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
+        <mark key="^" line="111" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588096394738">
         <mark key="'" line="9" column="0" />
@@ -283,42 +284,46 @@
       <jump line="4" column="25" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" />
       <jump line="9" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" />
       <jump line="95" column="25" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="116" column="3" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="18" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="58" column="3" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="62" column="4" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getHistory</text>
       </register>
       <register name="/" type="4">
-        <text>HIST</text>
+        <text>getH</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PEJ1dHRvbgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYnV0dG9uX2xpc3QiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ib3Jpem9udGFsPSIzNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iMTZkcCIKICAgICAgICBhbmRyb2lkOmJhY2tncm91bmRUaW50PSJAY29sb3IvY29sb3JBY2NlbnQiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJMaXN0IgogICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivd2hpdGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQCtpZC9idXR0b25fY2hlY2siIC8+Cg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaGlzdG9yeTogTGlzdDxTdHJpa2VEdG8+ID0gYXJyYXlMaXN0T2Yoc3RyaWtlKQogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmdW4gc2F2ZUhpc3Rvcnkoc3RyaWtlOiBTdHJpa2VEdG8pIHsKICAgICAgICB2YWwgaGlzdG9yeTogTGlzdDxTdHJpa2VEdG8+ID0gYXJyYXlMaXN0T2Yoc3RyaWtlKQogICAgICAgIHdpdGgoc2hhcmVkUHJlZi5lZGl0KCkpIHsKICAgICAgICAgICAgdmFsIGpzb25UZXh0OiBTdHJpbmcgPSBjb20uZ29vZ2xlLmdzb24uR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQoKICAgIGZ1biBnZXRIaXN0b3J5KCk6IExpc3Q8U3RyaWtlRHRvPiB7CiAgICAgICAgdmFsIHNhdmVkU3RyaW5nID0gc2hhcmVkUHJlZi5nZXRTdHJpbmcoSElTVE9SWSwgbnVsbCkKICAgICAgICBzYXZlZFN0cmluZz8ubGV0IHsKICAgICAgICAgICAgdmFsIHR5cGUgPSBvYmplY3QgOiBUeXBlVG9rZW48TGlzdDxTdHJpa2VEdG8+PigpIHt9LnR5cGUKICAgICAgICAgICAgcmV0dXJuIEdzb24oKS5mcm9tSnNvbihzYXZlZFN0cmluZywgdHlwZSkKICAgICAgICB9ID86IHJldHVybiBlbXB0eUxpc3QoKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgYWN0aXZlLmNvcHkodGl0bGUgPSB0aXRsZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHB1dFN0cmluZyh0aXRsZSwgdGl0bGUpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZhciBzaGFyZWRQcmVmID0KICAgICAgICBjb250ZXh0LmdldFNoYXJlZFByZWZlcmVuY2VzKERCX05BTUUsIENvbnRleHQuTU9ERV9QUklWQVRFKQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIENPTEQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>sharedPref.getBoolean(ACTIVE, false)</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -333,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>HIST</last-search>
+      <last-search>getH</last-search>
       <last-offset />
-      <last-pattern>HIST</last-pattern>
+      <last-pattern>getH</last-pattern>
       <last-replace>?.apply</last-replace>
       <last-substitute encoding="base64">LmFwcGx5IA==</last-substitute>
       <last-dir>1</last-dir>
