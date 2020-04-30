@@ -72,7 +72,7 @@
         <mark key="." line="91" column="21" />
         <mark key="^" line="91" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/testquery.graphql" timestamp="1588245482710" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/testquery.graphql" timestamp="1588246266032" />
       <file name="/GraphQL.result.json" timestamp="1588168686295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -110,8 +110,8 @@
         <mark key="^" line="564" column="64" />
         <mark key="." line="564" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588239560698">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588247111120">
+        <mark key="[" line="6" column="72" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="6" />
