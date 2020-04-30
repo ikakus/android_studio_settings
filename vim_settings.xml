@@ -5,8 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>int</entry>
-        <entry>this</entry>
         <entry>pri</entry>
         <entry>day</entry>
         <entry>getLast</entry>
@@ -25,6 +23,8 @@
         <entry>HIST</entry>
         <entry>get</entry>
         <entry>getH</entry>
+        <entry>updated</entry>
+        <entry>fin</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lateinit var/val/gc</entry>
@@ -126,12 +126,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588190422748">
-        <mark key="'" line="59" column="30" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="32" />
-        <mark key="^" line="25" column="35" />
-        <mark key="." line="52" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588225639036">
+        <mark key="'" line="53" column="60" />
+        <mark key="[" line="53" column="23" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588184805694">
         <mark key="'" line="9" column="0" />
@@ -299,48 +299,50 @@
       <jump line="62" column="4" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
       <jump line="109" column="57" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
       <jump line="84" column="30" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="53" column="60" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>getH</text>
+        <text>fin</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHZhbCBhY3RpdmUgPSByZXBvLmdldCgpLmZpcnN0T3JOdWxsIHsgaXQuc3RhdHVzID09IFN0cmlrZVN0YXR1cy5BQ1RJVkUgfQogICAgICAgIHZhbCB1cGRhdGVkID0gYWN0aXZlPy5jb3B5KHN0YXR1cyA9IFN0cmlrZVN0YXR1cy5GQUlMRUQpCiAgICAgICAgdXBkYXRlZD8ubGV0IHsKICAgICAgICAgICAgcmVwby51cGRhdGUodXBkYXRlZCkKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGRlY3JlbWVudFBvc2l0aW9uKCk6IEJvb2xlYW4gewogICAgICAgIGlmIChjaGVja1Bvc2l0aW9uID4gMCkgewogICAgICAgICAgICBjaGVja1Bvc2l0aW9uLS0KICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlZC5sZXQgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yYWdlLnNhdmVMYXN0Q2hlY2tkYXkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVwZGF0ZWQgPSBhY3RpdmUuY29weShkYXlzID0gZGF5cykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZS5zYXZlRmlyc3RDaGVja2RheSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGF5cyA9IGFjdGl2ZT8uZGF5cz8KICAgICAgICB2YWwgdXBkYXRlZCA9IGFjdGl2ZT8uY29weShkYXlzID0gZGF5cykKICAgICAgICB1cGRhdGVkPy5sZXQgewogICAgICAgICAgICByZXBvLnVwZGF0ZSh1cGRhdGVkKQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tDb3VudCA9PSAwKSB7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGRlY3JlbWVudFBvc2l0aW9uKCk6IEJvb2xlYW4gewogICAgICAgIGlmIChjaGVja1Bvc2l0aW9uID4gMCkgewogICAgICAgICAgICBjaGVja1Bvc2l0aW9uLS0KICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2hlY2tDb3VudCA9IGRheXMuY291bnQgeyBpdCA+IDAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlLnNhdmVMYXN0Q2hlY2tkYXkoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -349,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getH</last-search>
+      <last-search>fin</last-search>
       <last-offset />
-      <last-pattern>getH</last-pattern>
+      <last-pattern>fin</last-pattern>
       <last-replace>?.apply</last-replace>
       <last-substitute encoding="base64">LmFwcGx5IA==</last-substitute>
       <last-dir>1</last-dir>
