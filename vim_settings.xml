@@ -21,6 +21,7 @@
         <entry>tofo</entry>
         <entry>todo</entry>
         <entry>getcon</entry>
+        <entry>inse</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -52,7 +53,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588164459275">
+      <file name="/Dummy.txt" timestamp="1588231187293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -85,6 +86,10 @@
         <mark key="]" line="224" column="0" />
         <mark key="^" line="61" column="30" />
         <mark key="." line="224" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1588231904570">
+        <mark key="[" line="47" column="21" />
+        <mark key="]" line="47" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.kt" timestamp="1588151195122">
         <mark key="[" line="41" column="38" />
@@ -122,6 +127,13 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/amazon/repository/AmazonRepositoryImpl.kt" timestamp="1588150402249">
         <mark key="[" line="23" column="62" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/arcore-android-sdk/samples/Graphqltest/app/build.gradle" timestamp="1588231679565">
+        <mark key="'" line="38" column="3" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="39" column="54" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588170758963">
         <mark key="[" line="116" column="30" />
@@ -212,48 +224,49 @@
       <jump line="15" column="54" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" />
       <jump line="107" column="50" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" />
       <jump line="91" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ApiModule.kt" />
+      <jump line="37" column="3" filename="$USER_HOME$/AndroidStudioProjects/arcore-android-sdk/samples/Graphqltest/app/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>2.2.0</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>insert latest version)</text>
       </register>
       <register name="/" type="4">
-        <text>getcon</text>
+        <text>inse</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IEBQcm92aWRlcwogICAgZnVuIHByb3ZpZGVaZW5kZXNrQXBpKEBOYW1lZChaRU5ERVNLKSByZXRyb2ZpdDogUmV0cm9maXQpOiBaZW5kZXNrQXBpID0gcmV0cm9maXQuY3JlYXRlKFplbmRlc2tBcGk6OmNsYXNzLmphdmEp</text>
+        <text>2.2.0</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>mGraphProcessor.getQuery(methodAnnotations)</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9Mb2dVdGlscy5sb2dFeGNlcHRpb24oZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy9Mb2dVdGlscy5sb2dFeGNlcHRpb24oZSkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRSZXNwb25zZSgpOiBDYWxsPFQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLmxpYi5HcmFwaFF1ZXJ5Owo=</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRSZXNwb25zZSgpOiBDYWxsPFQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5wcmFjdG8uZmFicmljLmNvcmUudXRpbHMuTG9nVXRpbHM7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLmxpYi5HcmFwaFF1ZXJ5Owo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
@@ -262,9 +275,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>getcon</last-search>
+      <last-search>inse</last-search>
       <last-offset />
-      <last-pattern>getcon</last-pattern>
+      <last-pattern>inse</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
