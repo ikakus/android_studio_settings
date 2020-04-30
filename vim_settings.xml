@@ -81,12 +81,12 @@
       <file name="/GraphQL.result.json" timestamp="1588168686295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588233881121">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588243094907">
         <mark key="'" line="221" column="37" />
-        <mark key="[" line="70" column="67" />
-        <mark key="]" line="70" column="67" />
-        <mark key="^" line="61" column="30" />
-        <mark key="." line="70" column="67" />
+        <mark key="[" line="219" column="75" />
+        <mark key="]" line="219" column="89" />
+        <mark key="^" line="219" column="89" />
+        <mark key="." line="219" column="88" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1588231904570">
         <mark key="[" line="47" column="21" />
@@ -121,11 +121,11 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588241217142">
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588242860236">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
         <mark key="^" line="13" column="19" />
-        <mark key="." line="9" column="12" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" timestamp="1588151466944">
         <mark key="'" line="48" column="65" />
@@ -239,16 +239,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text>addConverterFactory(MoshiConverterFactory.create(moshi))</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>ql</text>
       </register>
       <register name="0" type="4">
-        <text>QLResp</text>
+        <text>addConverterFactory(MoshiConverterFactory.create(moshi))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBTdHJpbmcgR1JBUEhfUUxfQVBJX1VSTCA9ICJodHRwczovL3N3YXBpLmFwaXMuZ3VydSI7Cg==</text>
