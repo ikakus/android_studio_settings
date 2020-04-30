@@ -54,7 +54,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588231187293">
+      <file name="/Dummy.txt" timestamp="1588245066970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -72,12 +72,7 @@
         <mark key="." line="91" column="21" />
         <mark key="^" line="91" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/testquery.graphql" timestamp="1588170030191">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="9" column="3" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="9" column="2" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/testquery.graphql" timestamp="1588245482710" />
       <file name="/GraphQL.result.json" timestamp="1588168686295">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,10 +116,10 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588242860236">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588245659686">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="19" />
+        <mark key="^" line="3" column="14" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" timestamp="1588151466944">
@@ -238,11 +233,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>addConverterFactory(MoshiConverterFactory.create(moshi))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgQEpzb24obmFtZSA9ICJhbGxGaWxtcyIpCi8vICAgIHZhbCBhbGxGaWxtczogQWxsRmlsbXM/ID0gbnVsbAovLwovL0BKc29uQ2xhc3MoZ2VuZXJhdGVBZGFwdGVyID0gdHJ1ZSkKLy9kYXRhIGNsYXNzIEFsbEZpbG1zKAovLyAgICBASnNvbihuYW1lID0gImZpbG1zIikKLy8gICAgdmFsIGZpbG1zOiBMaXN0PEZpbG0+PyA9IG51bGwKLy8pCi8vCi8vQEpzb25DbGFzcyhnZW5lcmF0ZUFkYXB0ZXIgPSB0cnVlKQovL2RhdGEgY2xhc3MgRmlsbSgKLy8gICAgQEpzb24obmFtZSA9ICJlcGlzb2RlSUQiKQovLyAgICB2YWwgZXBpc29kZUlEOiBJbnQ/ID0gbnVsbCwKLy8gICAgQEpzb24obmFtZSA9ICJpZCIpCi8vICAgIHZhbCBpZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIEBKc29uKG5hbWUgPSAidGl0bGUiKQovLyAgICB2YWwgdGl0bGU6IFN0cmluZz8gPSBudWxsCi8vKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text>ql</text>
@@ -251,31 +246,31 @@
         <text>addConverterFactory(MoshiConverterFactory.create(moshi))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBTdHJpbmcgR1JBUEhfUUxfQVBJX1VSTCA9ICJodHRwczovL3N3YXBpLmFwaXMuZ3VydSI7Cg==</text>
+        <text encoding="base64">Ly8gICAgQEpzb24obmFtZSA9ICJhbGxGaWxtcyIpCi8vICAgIHZhbCBhbGxGaWxtczogQWxsRmlsbXM/ID0gbnVsbAovLwovL0BKc29uQ2xhc3MoZ2VuZXJhdGVBZGFwdGVyID0gdHJ1ZSkKLy9kYXRhIGNsYXNzIEFsbEZpbG1zKAovLyAgICBASnNvbihuYW1lID0gImZpbG1zIikKLy8gICAgdmFsIGZpbG1zOiBMaXN0PEZpbG0+PyA9IG51bGwKLy8pCi8vCi8vQEpzb25DbGFzcyhnZW5lcmF0ZUFkYXB0ZXIgPSB0cnVlKQovL2RhdGEgY2xhc3MgRmlsbSgKLy8gICAgQEpzb24obmFtZSA9ICJlcGlzb2RlSUQiKQovLyAgICB2YWwgZXBpc29kZUlEOiBJbnQ/ID0gbnVsbCwKLy8gICAgQEpzb24obmFtZSA9ICJpZCIpCi8vICAgIHZhbCBpZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIEBKc29uKG5hbWUgPSAidGl0bGUiKQovLyAgICB2YWwgdGl0bGU6IFN0cmluZz8gPSBudWxsCi8vKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgQEpzb24obmFtZSA9ICJkYXRhIikK</text>
       </register>
-      <register name="3" type="4">
-        <text>mGraphProcessor.getQuery(methodAnnotations)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly9ASnNvbkNsYXNzKGdlbmVyYXRlQWRhcHRlciA9IHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Mb2dVdGlscy5sb2dFeGNlcHRpb24oZSk7Cg==</text>
+        <text encoding="base64">Ly9ASnNvbkNsYXNzKGdlbmVyYXRlQWRhcHRlciA9IHRydWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9Mb2dVdGlscy5sb2dFeGNlcHRpb24oZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zcXVhcmV1cC5tb3NoaS5Kc29uQ2xhc3MKCmltcG9ydCBjb20uc3F1YXJldXAubW9zaGkuSnNvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">Ly8gICAgcHVibGljIHN0YXRpYyBTdHJpbmcgR1JBUEhfUUxfQVBJX1VSTCA9ICJodHRwczovL3N3YXBpLmFwaXMuZ3VydSI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXRSZXNwb25zZSgpOiBDYWxsPFQ+Cg==</text>
+      <register name="9" type="4">
+        <text>mGraphProcessor.getQuery(methodAnnotations)</text>
       </register>
       <register name=":" type="4">
         <text>%s/assert/assertEquals/gc</text>
