@@ -59,12 +59,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588170551932">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588240682441">
         <mark key="'" line="17" column="54" />
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="21" column="20" />
-        <mark key="^" line="23" column="42" />
-        <mark key="." line="21" column="20" />
+        <mark key="[" line="28" column="75" />
+        <mark key="]" line="28" column="75" />
+        <mark key="^" line="28" column="53" />
+        <mark key="." line="28" column="75" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" timestamp="1588169323449">
         <mark key="[" line="91" column="12" />
@@ -121,11 +121,11 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588239892663">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588241217142">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
         <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="18" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" timestamp="1588151466944">
         <mark key="'" line="48" column="65" />
@@ -239,10 +239,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text>ql</text>
