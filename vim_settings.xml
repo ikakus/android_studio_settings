@@ -22,6 +22,7 @@
         <entry>todo</entry>
         <entry>getcon</entry>
         <entry>inse</entry>
+        <entry>ql</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -107,8 +108,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
         <mark key="[" line="490" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588171662373">
-        <mark key="[" line="563" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588232511870">
+        <mark key="'" line="558" column="0" />
+        <mark key="[" line="561" column="12" />
         <mark key="]" line="563" column="54" />
         <mark key="^" line="563" column="54" />
         <mark key="." line="563" column="53" />
@@ -225,6 +227,7 @@
       <jump line="107" column="50" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" />
       <jump line="91" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ApiModule.kt" />
       <jump line="37" column="3" filename="$USER_HOME$/AndroidStudioProjects/arcore-android-sdk/samples/Graphqltest/app/build.gradle" />
+      <jump line="558" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -236,7 +239,7 @@
         <text>insert latest version)</text>
       </register>
       <register name="/" type="4">
-        <text>inse</text>
+        <text>ql</text>
       </register>
       <register name="0" type="4">
         <text>2.2.0</text>
@@ -275,9 +278,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>inse</last-search>
+      <last-search>ql</last-search>
       <last-offset />
-      <last-pattern>inse</last-pattern>
+      <last-pattern>ql</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
