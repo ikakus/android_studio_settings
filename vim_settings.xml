@@ -99,7 +99,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588188336252">
+      <file name="/Dummy.txt" timestamp="1588189517656">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -126,12 +126,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="93" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588189226958">
-        <mark key="'" line="64" column="30" />
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="35" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588190422748">
+        <mark key="'" line="59" column="30" />
+        <mark key="[" line="52" column="32" />
+        <mark key="]" line="52" column="32" />
+        <mark key="^" line="25" column="35" />
+        <mark key="." line="52" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588184805694">
         <mark key="'" line="9" column="0" />
@@ -146,12 +146,12 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="10" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588189495225">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588190205887">
         <mark key="'" line="48" column="57" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
+        <mark key="[" line="166" column="16" />
+        <mark key="]" line="166" column="16" />
         <mark key="^" line="149" column="47" />
-        <mark key="." line="147" column="0" />
+        <mark key="." line="166" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Extensions.kt" timestamp="1587798437812">
         <mark key="'" line="2" column="0" />
@@ -303,44 +303,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>getH</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgdmFsIGFjdGl2ZSA9IGdldEFjdGl2ZSgpID86IHJldHVybiBudWxsCiAgICAgICAgdmFsIGRheSA9IGFjdGl2ZS5kYXlzLmxhc3RPck51bGwgeyBpdCA+IDAgfSA/OiByZXR1cm4gbnVsbAogICAgICAgIHJldHVybiBEYXRlKGRheSk=</text>
+        <text encoding="base64">IHZhbCBhY3RpdmUgPSByZXBvLmdldCgpLmZpcnN0T3JOdWxsIHsgaXQuc3RhdHVzID09IFN0cmlrZVN0YXR1cy5BQ1RJVkUgfQogICAgICAgIHZhbCB1cGRhdGVkID0gYWN0aXZlPy5jb3B5KHN0YXR1cyA9IFN0cmlrZVN0YXR1cy5GQUlMRUQpCiAgICAgICAgdXBkYXRlZD8ubGV0IHsKICAgICAgICAgICAgcmVwby51cGRhdGUodXBkYXRlZCkKICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGRlY3JlbWVudFBvc2l0aW9uKCk6IEJvb2xlYW4gewogICAgICAgIGlmIChjaGVja1Bvc2l0aW9uID4gMCkgewogICAgICAgICAgICBjaGVja1Bvc2l0aW9uLS0KICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGZhbHNlCiAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgiZGQuTU0uWVlZWSIsIExvY2FsZS5nZXREZWZhdWx0KCkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgiZGQuTU0uWVlZWSIsIExvY2FsZS5nZXREZWZhdWx0KCkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBkYXRlRm9ybWF0ID0gU2ltcGxlRGF0ZUZvcm1hdCgiZGQuTU0uWVlZWSIsIExvY2FsZS5nZXREZWZhdWx0KCkpCiAgICAgICAgICAgICAgICB0ZXh0ID0gZGF0ZUZvcm1hdC5mb3JtYXQoZGF0ZSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdG9yYWdlLnNhdmVMYXN0Q2hlY2tkYXkoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3RvcmFnZS5zYXZlRmlyc3RDaGVja2RheSgpCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRhdGVGb3JtYXQgPSBTaW1wbGVEYXRlRm9ybWF0KCJkZC5NTS5ZWVlZIiwgTG9jYWxlLmdldERlZmF1bHQoKSkKICAgICAgICAgICAgdGV4dCA9IGRhdGVGb3JtYXQuZm9ybWF0KGRhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY2hlY2tDb3VudCA9PSAwKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRGF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2hlY2tDb3VudCA9IGRheXMuY291bnQgeyBpdCA+IDAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBEYXRlKHNoYXJlZFByZWYuZ2V0TG9uZyhGSVJTVF9DSEVDS19EQVksIERhdGUoKS50aW1lKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHN0b3JhZ2Uuc2F2ZURheXMoZGF5cykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
