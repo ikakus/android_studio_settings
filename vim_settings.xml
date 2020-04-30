@@ -107,17 +107,17 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
         <mark key="[" line="490" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588239766994">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588255877405">
         <mark key="'" line="559" column="0" />
-        <mark key="[" line="564" column="62" />
-        <mark key="]" line="564" column="62" />
-        <mark key="^" line="564" column="64" />
-        <mark key="." line="564" column="62" />
+        <mark key="[" line="562" column="11" />
+        <mark key="]" line="562" column="18" />
+        <mark key="^" line="562" column="18" />
+        <mark key="." line="562" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588253803878">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588255862062">
         <mark key="[" line="6" column="72" />
-        <mark key="]" line="6" column="6" />
-        <mark key="." line="6" column="5" />
+        <mark key="]" line="6" column="72" />
+        <mark key="." line="6" column="72" />
         <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588253397499">
@@ -238,14 +238,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>featureConfigurations {
-    moneseApi {
-      sessionLength
-    }
-  }</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>ql</text>
