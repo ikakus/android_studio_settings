@@ -81,12 +81,12 @@
       <file name="/GraphQL.result.json" timestamp="1588168686295">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588158632602">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588233881121">
         <mark key="'" line="221" column="37" />
-        <mark key="[" line="70" column="66" />
-        <mark key="]" line="224" column="0" />
+        <mark key="[" line="70" column="67" />
+        <mark key="]" line="70" column="67" />
         <mark key="^" line="61" column="30" />
-        <mark key="." line="224" column="0" />
+        <mark key="." line="70" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1588231904570">
         <mark key="[" line="47" column="21" />
@@ -115,10 +115,10 @@
         <mark key="^" line="563" column="54" />
         <mark key="." line="563" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588168320781">
-        <mark key="[" line="5" column="78" />
-        <mark key="]" line="5" column="78" />
-        <mark key="." line="5" column="78" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1588234359317">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="70" />
+        <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" timestamp="1588151466944">
@@ -232,17 +232,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>2.2.0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEdSQVBIX1FMX0FQSV9VUkwgPSAiaHR0cHM6Ly9zd2FwaS5hcGlzLmd1cnUiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>insert latest version)</text>
+        <text>+ &quot;/&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ql</text>
       </register>
-      <register name="0" type="4">
-        <text>2.2.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEdSQVBIX1FMX0FQSV9VUkwgPSAiaHR0cHM6Ly9zd2FwaS5hcGlzLmd1cnUiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
