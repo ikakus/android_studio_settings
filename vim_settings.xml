@@ -110,6 +110,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1588362887559">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1587801421751">
         <mark key="'" line="7" column="4" />
         <mark key="[" line="58" column="0" />
@@ -131,17 +134,18 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588226059650">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588362899036">
         <mark key="'" line="48" column="57" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="55" column="47" />
-        <mark key="." line="55" column="0" />
+        <mark key="[" line="156" column="24" />
+        <mark key="]" line="156" column="24" />
+        <mark key="^" line="154" column="16" />
+        <mark key="." line="156" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588226888660">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588362591421">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Extensions.kt" timestamp="1587798437812">
         <mark key="'" line="2" column="0" />
@@ -307,11 +311,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">CmVudW0gY2xhc3MgU3RyaWtlU3RhdHVzIHsKICAgIEFDVElWRSwKICAgIEZBSUxFRCwKICAgIERPTkUKfQ==</text>
+      <register name="*" type="4">
+        <text>this@ActiveStrikeFragment.</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>this@ActiveStrikeFragment.</text>
       </register>
       <register name="/" type="4">
         <text>act</text>
@@ -323,32 +327,32 @@
     DONE
 }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CmVudW0gY2xhc3MgU3RyaWtlU3RhdHVzIHsKICAgIEFDVElWRSwKICAgIEZBSUxFRCwKICAgIERPTkUKfQ==</text>
+      <register name="1" type="4">
+        <text>repo.get()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwbyhjb250ZXh0OiBDb250ZXh0KSB7CgogICAgcHJpdmF0ZSB2YXIgc2hhcmVkUHJlZiA9CiAgICAgICAgY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcyhEQl9OQU1FLCBDb250ZXh0Lk1PREVfUFJJVkFURSkKCiAgICBmdW4gcHV0KHN0cmlrZTogU3RyaWtlRHRvKSB7CiAgICAgICAgdmFsIGhpc3Rvcnk6IEFycmF5TGlzdDxTdHJpa2VEdG8+ID0gQXJyYXlMaXN0KGdldCgpKQogICAgICAgIGhpc3RvcnkuYWRkKHN0cmlrZSkKICAgICAgICBwdXRXaG9sZShoaXN0b3J5KQogICAgfQoKICAgIGZ1biB1cGRhdGUoc3RyaWtlOiBTdHJpa2VEdG8pIHsKICAgICAgICB2YWwgcmVzdE9mTGlzdCA9IGdldCgpLmZpbHRlciB7IGl0LnN0YXR1cyAhPSBTdHJpa2VTdGF0dXMuQUNUSVZFIH0udG9NdXRhYmxlTGlzdCgpCiAgICAgICAgcmVzdE9mTGlzdC5hZGQoc3RyaWtlKQogICAgICAgIHB1dFdob2xlKHJlc3RPZkxpc3QpCiAgICB9CgogICAgZnVuIGdldCgpOiBMaXN0PFN0cmlrZUR0bz4gewogICAgICAgIHZhbCBzYXZlZFN0cmluZyA9IHNoYXJlZFByZWYuZ2V0U3RyaW5nKEhJU1RPUlksIG51bGwpCiAgICAgICAgc2F2ZWRTdHJpbmc/LmxldCB7CiAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZVRva2VuPExpc3Q8U3RyaWtlRHRvPj4oKSB7fS50eXBlCiAgICAgICAgICAgIHJldHVybiBHc29uKCkuZnJvbUpzb24oc2F2ZWRTdHJpbmcsIHR5cGUpCiAgICAgICAgfSA/OiByZXR1cm4gZW1wdHlMaXN0KCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBwdXRXaG9sZShoaXN0b3J5OiBMaXN0PFN0cmlrZUR0bz4pIHsKICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHZhbCBqc29uVGV4dDogU3RyaW5nID0gR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQp9</text>
+        <text encoding="base64">CmVudW0gY2xhc3MgU3RyaWtlU3RhdHVzIHsKICAgIEFDVElWRSwKICAgIEZBSUxFRCwKICAgIERPTkUKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgUmVwbyhjb250ZXh0OiBDb250ZXh0KSB7CgogICAgcHJpdmF0ZSB2YXIgc2hhcmVkUHJlZiA9CiAgICAgICAgY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcyhEQl9OQU1FLCBDb250ZXh0Lk1PREVfUFJJVkFURSkKCiAgICBmdW4gcHV0KHN0cmlrZTogU3RyaWtlRHRvKSB7CiAgICAgICAgdmFsIGhpc3Rvcnk6IEFycmF5TGlzdDxTdHJpa2VEdG8+ID0gQXJyYXlMaXN0KGdldCgpKQogICAgICAgIGhpc3RvcnkuYWRkKHN0cmlrZSkKICAgICAgICBwdXRXaG9sZShoaXN0b3J5KQogICAgfQoKICAgIGZ1biB1cGRhdGUoc3RyaWtlOiBTdHJpa2VEdG8pIHsKICAgICAgICB2YWwgcmVzdE9mTGlzdCA9IGdldCgpLmZpbHRlciB7IGl0LnN0YXR1cyAhPSBTdHJpa2VTdGF0dXMuQUNUSVZFIH0udG9NdXRhYmxlTGlzdCgpCiAgICAgICAgcmVzdE9mTGlzdC5hZGQoc3RyaWtlKQogICAgICAgIHB1dFdob2xlKHJlc3RPZkxpc3QpCiAgICB9CgogICAgZnVuIGdldCgpOiBMaXN0PFN0cmlrZUR0bz4gewogICAgICAgIHZhbCBzYXZlZFN0cmluZyA9IHNoYXJlZFByZWYuZ2V0U3RyaW5nKEhJU1RPUlksIG51bGwpCiAgICAgICAgc2F2ZWRTdHJpbmc/LmxldCB7CiAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZVRva2VuPExpc3Q8U3RyaWtlRHRvPj4oKSB7fS50eXBlCiAgICAgICAgICAgIHJldHVybiBHc29uKCkuZnJvbUpzb24oc2F2ZWRTdHJpbmcsIHR5cGUpCiAgICAgICAgfSA/OiByZXR1cm4gZW1wdHlMaXN0KCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBwdXRXaG9sZShoaXN0b3J5OiBMaXN0PFN0cmlrZUR0bz4pIHsKICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHZhbCBqc29uVGV4dDogU3RyaW5nID0gR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldEFjdGl2ZSgpOiBTdHJpa2VEdG8/IHsKICAgICAgICByZXR1cm4gcmVwby5nZXQoKS5maXJzdE9yTnVsbCB7IGl0LnN0YXR1cyA9PSBTdHJpa2VTdGF0dXMuQUNUSVZFIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0b3JhZ2UgPSBTdG9yYWdlKHJlcXVpcmVDb250ZXh0KCkpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldEFjdGl2ZSgpOiBTdHJpa2VEdG8/IHsKICAgICAgICByZXR1cm4gcmVwby5nZXQoKS5maXJzdE9yTnVsbCB7IGl0LnN0YXR1cyA9PSBTdHJpa2VTdGF0dXMuQUNUSVZFIH0KICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZSA9IFN0b3JhZ2UocmVxdWlyZUNvbnRleHQoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0b3JhZ2UgPSBTdG9yYWdlKHJlcXVpcmVDb250ZXh0KCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlcG8gPSBSZXBvKGNvbnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZSA9IFN0b3JhZ2UocmVxdWlyZUNvbnRleHQoKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlLmNvcHkoZGF5cyA9IGRheXMpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlcG8gPSBSZXBvKGNvbnRleHQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlLmNvcHkoZGF5cyA9IGRheXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
