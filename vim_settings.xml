@@ -5,10 +5,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>day</entry>
-        <entry>getLast</entry>
-        <entry encoding="base64">XDxnZXRMYXN0Q2hlY2tlZERheVw+</entry>
-        <entry encoding="base64">XDx2YWxcPg==</entry>
         <entry>rese</entry>
         <entry>if(</entry>
         <entry>if</entry>
@@ -25,6 +21,10 @@
         <entry>updated</entry>
         <entry>fin</entry>
         <entry>act</entry>
+        <entry>onRe</entry>
+        <entry>ac</entry>
+        <entry>his</entry>
+        <entry>:</entry>
       </history-search>
       <history-cmd>
         <entry>%s/lateinit var/val/gc</entry>
@@ -102,23 +102,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588227555881">
+      <file name="/Dummy.txt" timestamp="1588369542819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeDto.kt" timestamp="1588227547458">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeDto.kt" timestamp="1588364617890">
+        <mark key="[" line="4" column="14" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1588362887559">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1587801421751">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="9" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/StrikeDto.kt" timestamp="1588184805694">
         <mark key="'" line="9" column="0" />
@@ -134,25 +127,18 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588362899036">
-        <mark key="'" line="48" column="57" />
-        <mark key="[" line="156" column="24" />
-        <mark key="]" line="156" column="24" />
-        <mark key="^" line="154" column="16" />
-        <mark key="." line="156" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588369740885">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="103" column="71" />
+        <mark key="]" line="103" column="82" />
+        <mark key="^" line="103" column="82" />
+        <mark key="." line="103" column="81" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588362591421">
-        <mark key="[" line="9" column="21" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="30" />
-        <mark key="^" line="38" column="32" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Extensions.kt" timestamp="1587798437812">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="30" />
-        <mark key="^" line="9" column="30" />
-        <mark key="." line="9" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588365785605">
+        <mark key="[" line="86" column="8" />
+        <mark key="]" line="86" column="18" />
+        <mark key="." line="86" column="17" />
+        <mark key="^" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Strike.kt" timestamp="1588226238133">
         <mark key="[" line="45" column="0" />
@@ -187,9 +173,19 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="29" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588227360603">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="28" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588369402602">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="77" column="73" />
+        <mark key="." line="77" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1588369532220">
+        <mark key="'" line="10" column="32" />
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="10" column="41" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1588227244150">
         <mark key="[" line="2" column="14" />
@@ -202,6 +198,12 @@
         <mark key="]" line="14" column="14" />
         <mark key="^" line="14" column="14" />
         <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryActivity.kt" timestamp="1588369516884">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="10" column="48" />
+        <mark key="." line="10" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysRecyclerViewAdapter.kt" timestamp="1588186593698">
         <mark key="[" line="38" column="31" />
@@ -238,7 +240,6 @@
       <jump line="211" column="12" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="213" column="15" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="190" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
-      <jump line="103" column="40" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="114" column="40" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="73" column="40" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="28" column="60" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" />
@@ -304,6 +305,9 @@
       <jump line="54" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
       <jump line="53" column="60" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
       <jump line="55" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" />
+      <jump line="10" column="32" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" />
+      <jump line="103" column="8" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -312,47 +316,43 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
       <register name="*" type="4">
-        <text>this@ActiveStrikeFragment.</text>
+        <text>history</text>
       </register>
       <register name="-" type="4">
-        <text>this@ActiveStrikeFragment.</text>
+        <text>history</text>
       </register>
       <register name="/" type="4">
-        <text>act</text>
+        <text>:</text>
       </register>
       <register name="0" type="2">
-        <text>enum class StrikeStatus {
-    ACTIVE,
-    FAILED,
-    DONE
-}</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfaGlzdG9yeSkKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>repo.get()</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgVG9hc3QubWFrZVRleHQodGhpc0BNYWluQWN0aXZpdHksIGRheXMudG9TdHJpbmcoKSwgVG9hc3QuTEVOR1RIX1NIT1JUKS5zaG93KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmVudW0gY2xhc3MgU3RyaWtlU3RhdHVzIHsKICAgIEFDVElWRSwKICAgIEZBSUxFRCwKICAgIERPTkUKfQ==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIGRheXMgPSBzdHJpa2UuZ2V0SGlzdG9yeSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwbyhjb250ZXh0OiBDb250ZXh0KSB7CgogICAgcHJpdmF0ZSB2YXIgc2hhcmVkUHJlZiA9CiAgICAgICAgY29udGV4dC5nZXRTaGFyZWRQcmVmZXJlbmNlcyhEQl9OQU1FLCBDb250ZXh0Lk1PREVfUFJJVkFURSkKCiAgICBmdW4gcHV0KHN0cmlrZTogU3RyaWtlRHRvKSB7CiAgICAgICAgdmFsIGhpc3Rvcnk6IEFycmF5TGlzdDxTdHJpa2VEdG8+ID0gQXJyYXlMaXN0KGdldCgpKQogICAgICAgIGhpc3RvcnkuYWRkKHN0cmlrZSkKICAgICAgICBwdXRXaG9sZShoaXN0b3J5KQogICAgfQoKICAgIGZ1biB1cGRhdGUoc3RyaWtlOiBTdHJpa2VEdG8pIHsKICAgICAgICB2YWwgcmVzdE9mTGlzdCA9IGdldCgpLmZpbHRlciB7IGl0LnN0YXR1cyAhPSBTdHJpa2VTdGF0dXMuQUNUSVZFIH0udG9NdXRhYmxlTGlzdCgpCiAgICAgICAgcmVzdE9mTGlzdC5hZGQoc3RyaWtlKQogICAgICAgIHB1dFdob2xlKHJlc3RPZkxpc3QpCiAgICB9CgogICAgZnVuIGdldCgpOiBMaXN0PFN0cmlrZUR0bz4gewogICAgICAgIHZhbCBzYXZlZFN0cmluZyA9IHNoYXJlZFByZWYuZ2V0U3RyaW5nKEhJU1RPUlksIG51bGwpCiAgICAgICAgc2F2ZWRTdHJpbmc/LmxldCB7CiAgICAgICAgICAgIHZhbCB0eXBlID0gb2JqZWN0IDogVHlwZVRva2VuPExpc3Q8U3RyaWtlRHRvPj4oKSB7fS50eXBlCiAgICAgICAgICAgIHJldHVybiBHc29uKCkuZnJvbUpzb24oc2F2ZWRTdHJpbmcsIHR5cGUpCiAgICAgICAgfSA/OiByZXR1cm4gZW1wdHlMaXN0KCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBwdXRXaG9sZShoaXN0b3J5OiBMaXN0PFN0cmlrZUR0bz4pIHsKICAgICAgICB3aXRoKHNoYXJlZFByZWYuZWRpdCgpKSB7CiAgICAgICAgICAgIHZhbCBqc29uVGV4dDogU3RyaW5nID0gR3NvbigpLnRvSnNvbihoaXN0b3J5KQogICAgICAgICAgICBwdXRTdHJpbmcoSElTVE9SWSwganNvblRleHQpCiAgICAgICAgICAgIGNvbW1pdCgpCiAgICAgICAgfQogICAgfQp9</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoZWNrKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cFN0cmlrZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldEFjdGl2ZSgpOiBTdHJpa2VEdG8/IHsKICAgICAgICByZXR1cm4gcmVwby5nZXQoKS5maXJzdE9yTnVsbCB7IGl0LnN0YXR1cyA9PSBTdHJpa2VTdGF0dXMuQUNUSVZFIH0KICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHN0b3JhZ2UgPSBTdG9yYWdlKHJlcXVpcmVDb250ZXh0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRTY3JlZW5zKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3RvcmFnZSA9IFN0b3JhZ2UocmVxdWlyZUNvbnRleHQoKSkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgc3RyaWtlID0gZ2V0QWN0aXZlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlcG8gPSBSZXBvKGNvbnRleHQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKHN0cmlrZSAhPSBudWxsKSB7Ik5vIGFjdGl2ZSBzdHJpa2UifQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlLmNvcHkoZGF5cyA9IGRheXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -361,9 +361,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>act</last-search>
+      <last-search>:</last-search>
       <last-offset />
-      <last-pattern>act</last-pattern>
+      <last-pattern>:</last-pattern>
       <last-replace>?.apply</last-replace>
       <last-substitute encoding="base64">LmFwcGx5IA==</last-substitute>
       <last-dir>1</last-dir>
