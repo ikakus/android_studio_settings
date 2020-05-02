@@ -34,8 +34,8 @@
         <entry>set incsearch</entry>
         <entry>wq</entry>
         <entry>%s/STRIKELENGTH/totalDays/gc</entry>
-        <entry>source ~/.ideavimrc</entry>
         <entry>imap</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,12 +143,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588435109029">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588435390959">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="34" />
-        <mark key="^" line="25" column="8" />
-        <mark key="." line="25" column="8" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1588405417317">
         <mark key="'" line="16" column="8" />
@@ -157,12 +157,12 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryAdapter.kt" timestamp="1588416384652">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryAdapter.kt" timestamp="1588435739155">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="19" column="67" />
-        <mark key="]" line="19" column="67" />
-        <mark key="^" line="18" column="12" />
-        <mark key="." line="19" column="67" />
+        <mark key="[" line="28" column="80" />
+        <mark key="]" line="28" column="80" />
+        <mark key="^" line="28" column="80" />
+        <mark key="." line="28" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/values/styles.xml" timestamp="1588434469774">
         <mark key="[" line="12" column="0" />
@@ -175,10 +175,11 @@
         <mark key="." line="13" column="35" />
         <mark key="^" line="13" column="46" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588435214857">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588435756821">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryActivity.kt" timestamp="1588433331282">
         <mark key="[" line="16" column="27" />
@@ -313,11 +314,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">OmltYXAga2ogPEVzYz4=</text>
+      <register name="*" type="4">
+        <text>jj</text>
       </register>
       <register name="-" type="4">
-        <text>ic_launcher_foreground</text>
+        <text>jj</text>
       </register>
       <register name="/" type="4">
         <text>day_</text>
@@ -354,7 +355,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLmluZmxhdGUoUi5sYXlvdXQuaGlzdG9yeV9pdGVtX3ZpZXcsIHBhcmVudCwgZmFsc2UpIGFzIExpbmVhckxheW91dAo=</text>
       </register>
       <register name=":" type="4">
-        <text>imap</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
   </component>
