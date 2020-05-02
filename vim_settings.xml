@@ -102,7 +102,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588369542819">
+      <file name="/Dummy.txt" timestamp="1588369774932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeDto.kt" timestamp="1588364617890">
@@ -150,13 +150,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/activity_main.xml" timestamp="1587801629620">
-        <mark key="'" line="19" column="8" />
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="33" />
-        <mark key="^" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1588226577860">
         <mark key="'" line="21" column="17" />
