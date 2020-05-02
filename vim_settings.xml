@@ -103,7 +103,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588405511962">
+      <file name="/Dummy.txt" timestamp="1588413685911">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeDto.kt" timestamp="1588364617890">
@@ -135,11 +135,11 @@
         <mark key="^" line="68" column="31" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588413547548">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588413849782">
         <mark key="[" line="4" column="30" />
-        <mark key="]" line="86" column="18" />
-        <mark key="." line="86" column="17" />
-        <mark key="^" line="86" column="18" />
+        <mark key="]" line="21" column="5" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="21" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Strike.kt" timestamp="1588226238133">
         <mark key="[" line="45" column="0" />
