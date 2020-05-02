@@ -34,6 +34,8 @@
         <entry>set incsearch</entry>
         <entry>wq</entry>
         <entry>%s/STRIKELENGTH/totalDays/gc</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>imap</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -62,7 +64,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -83,7 +85,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -103,11 +105,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588431451527">
+      <file name="/Dummy.txt" timestamp="1588435196267">
         <mark key="'" line="0" column="64" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeDto.kt" timestamp="1588364617890">
         <mark key="[" line="4" column="14" />
@@ -116,13 +119,6 @@
       </file>
       <file name="/fragment.kt" timestamp="1588362887559">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Storage.kt" timestamp="1588226167946">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="17" />
-        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/activity_history.xml" timestamp="1588416161417">
         <mark key="[" line="6" column="46" />
@@ -143,30 +139,16 @@
         <mark key="." line="21" column="4" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/Strike.kt" timestamp="1588226238133">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="72" column="4" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysAdapter.kt" timestamp="1588415763971">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/MainActivity.kt" timestamp="1588226577860">
-        <mark key="'" line="21" column="17" />
-        <mark key="i" line="75" column="45" />
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588369402602">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="^" line="77" column="73" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588435109029">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="25" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1588405417317">
         <mark key="'" line="16" column="8" />
@@ -182,17 +164,21 @@
         <mark key="^" line="18" column="12" />
         <mark key="." line="19" column="67" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1588227244150">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/values/styles.xml" timestamp="1588434469774">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/utils/StrikeEntity.kt" timestamp="1588226195853">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="14" />
-        <mark key="^" line="14" column="14" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/drawable/launch_screen.xml" timestamp="1588435066150">
+        <mark key="[" line="13" column="35" />
+        <mark key="]" line="13" column="35" />
+        <mark key="." line="13" column="35" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588435214857">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryActivity.kt" timestamp="1588433331282">
         <mark key="[" line="16" column="27" />
@@ -214,6 +200,12 @@
       </file>
       <file name="/fragment.java" timestamp="1588227533322">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/AndroidManifest.xml" timestamp="1588434743707">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="17" column="51" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -322,10 +314,10 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
       <register name="*" type="2">
-        <text>Make strike length constant private, and use strike data instead</text>
+        <text encoding="base64">OmltYXAga2ogPEVzYz4=</text>
       </register>
       <register name="-" type="4">
-        <text>match_parent</text>
+        <text>ic_launcher_foreground</text>
       </register>
       <register name="/" type="4">
         <text>day_</text>
@@ -334,35 +326,35 @@
         <text>history_item_text</text>
       </register>
       <register name="1" type="2">
-        <text>Make strike length constant private, and use strike data instead</text>
+        <text encoding="base64">OmltYXAga2ogPEVzYz4=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">OmltYXAgamsgPEVzYz4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">OmltYXAgaWkgPEVzYz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHNlbGVjdG9yIHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI+Cgo8L3NlbGVjdG9yPg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text>Make strike length constant private, and use strike data instead</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmluZmxhdGUoUi5sYXlvdXQuaGlzdG9yeV9pdGVtX3ZpZXcsIHBhcmVudCwgZmFsc2UpIGFzIExpbmVhckxheW91dAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="8" type="4">
         <text>t
         return</text>
       </register>
-      <register name="4" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLmluZmxhdGUoUi5sYXlvdXQuaGlzdG9yeV9pdGVtX3ZpZXcsIHBhcmVudCwgZmFsc2UpIGFzIExpbmVhckxheW91dAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0iYW5kcm9pZHguYXBwY29tcGF0LmFwcC5BbGVydENvbnRyb2xsZXIkUmVjeWNsZUxpc3RWaWV3Igo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/STRIKELENGTH/totalDays/gc</text>
+        <text>imap</text>
       </register>
     </registers>
   </component>
