@@ -152,7 +152,7 @@
         <mark key="^" line="3" column="8" />
         <mark key="." line="3" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588493000337">
+      <file name="/Dummy.txt" timestamp="1588494058441">
         <mark key="'" line="0" column="64" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
@@ -173,17 +173,17 @@
         <mark key="^" line="17" column="56" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588492007436">
-        <mark key="'" line="153" column="8" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+        <mark key="'" line="151" column="8" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588493948721">
-        <mark key="'" line="23" column="17" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588494028657">
+        <mark key="'" line="24" column="17" />
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="26" column="46" />
+        <mark key="." line="26" column="45" />
+        <mark key="^" line="26" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1588489699956">
         <mark key="[" line="35" column="0" />
