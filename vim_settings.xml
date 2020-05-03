@@ -105,20 +105,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588435196267">
+      <file name="/Dummy.txt" timestamp="1588450254129">
         <mark key="'" line="0" column="64" />
-        <mark key="[" line="0" column="9" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/core/base/BaseActivity.kt" timestamp="1588450235995">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeDto.kt" timestamp="1588364617890">
         <mark key="[" line="4" column="14" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1588362887559">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/activity_history.xml" timestamp="1588416161417">
         <mark key="[" line="6" column="46" />
@@ -126,12 +129,12 @@
         <mark key="." line="7" column="32" />
         <mark key="^" line="7" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588406509661">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" timestamp="1588450175403">
         <mark key="'" line="151" column="8" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+        <mark key="[" line="20" column="29" />
+        <mark key="]" line="20" column="29" />
         <mark key="^" line="68" column="31" />
-        <mark key="." line="16" column="0" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1588413849782">
         <mark key="[" line="4" column="30" />
@@ -143,26 +146,35 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588435390959">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1588450197258">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="37" />
+        <mark key="^" line="18" column="38" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588450088844">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="21" />
         <mark key="^" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="." line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1588405417317">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/core/base/BaseFragment.kt" timestamp="1588450225574">
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1588450165512">
         <mark key="'" line="16" column="8" />
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="16" column="38" />
-        <mark key="^" line="16" column="38" />
-        <mark key="." line="16" column="37" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="37" />
+        <mark key="^" line="10" column="37" />
+        <mark key="." line="10" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryAdapter.kt" timestamp="1588435780132">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryAdapter.kt" timestamp="1588449921346">
         <mark key="'" line="29" column="0" />
-        <mark key="[" line="28" column="79" />
-        <mark key="]" line="28" column="79" />
-        <mark key="^" line="28" column="79" />
-        <mark key="." line="28" column="78" />
+        <mark key="[" line="15" column="82" />
+        <mark key="]" line="15" column="82" />
+        <mark key="^" line="15" column="82" />
+        <mark key="." line="15" column="81" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/values/styles.xml" timestamp="1588434469774">
         <mark key="[" line="12" column="0" />
@@ -181,11 +193,11 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryActivity.kt" timestamp="1588433331282">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/history/HistoryActivity.kt" timestamp="1588450148068">
+        <mark key="[" line="11" column="24" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/history_item_view.xml" timestamp="1588416450329">
         <mark key="[" line="4" column="27" />
@@ -199,7 +211,7 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1588227533322">
+      <file name="/fragment.java" timestamp="1588450016044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/AndroidManifest.xml" timestamp="1588434743707">
@@ -315,10 +327,10 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
       <register name="*" type="4">
-        <text>jj</text>
+        <text>Fragment</text>
       </register>
       <register name="-" type="4">
-        <text>jj</text>
+        <text>Fragment</text>
       </register>
       <register name="/" type="4">
         <text>day_</text>
