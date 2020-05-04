@@ -54,11 +54,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588576367393">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588258374005">
         <mark key="'" line="17" column="54" />
         <mark key="[" line="30" column="50" />
@@ -87,6 +82,7 @@
         <mark key="^" line="219" column="89" />
         <mark key="." line="219" column="88" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Extensions.kt" timestamp="1588580563804" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1588231904570">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="25" />
@@ -97,12 +93,11 @@
         <mark key="." line="41" column="38" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1588155829737">
-        <mark key="'" line="107" column="50" />
-        <mark key="[" line="212" column="35" />
-        <mark key="]" line="211" column="4" />
-        <mark key="^" line="211" column="4" />
-        <mark key="." line="211" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1588580108054">
+        <mark key="[" line="128" column="60" />
+        <mark key="]" line="128" column="60" />
+        <mark key="^" line="128" column="60" />
+        <mark key="." line="128" column="59" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
         <mark key="[" line="490" column="0" />
