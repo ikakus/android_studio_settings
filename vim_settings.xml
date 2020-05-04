@@ -127,11 +127,8 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588600115581">
-        <mark key="[" line="84" column="20" />
-        <mark key="]" line="84" column="20" />
-        <mark key="." line="84" column="20" />
-        <mark key="^" line="121" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588602207047">
+        <mark key="^" line="122" column="85" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainer.kt" timestamp="1588600881997">
         <mark key="[" line="8" column="30" />
@@ -220,20 +217,20 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lckJ1aWxkZXI+IGFkYXB0ZXIgPSBtb3NoaS5hZGFwdGVyKHR5cGUsIGpzb25Bbm5vdGF0aW9ucyhwYXJhbWV0ZXJBbm5vdGF0aW9ucykpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.getMQuery()</text>
       </register>
       <register name="/" type="4">
         <text>ql</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhcnltVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
+      <register name="0" type="4">
+        <text>QueryContainerBuilder</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lckJ1aWxkZXI+IGFkYXB0ZXIgPSBtb3NoaS5hZGFwdGVyKHR5cGUsIGpzb25Bbm5vdGF0aW9ucyhwYXJhbWV0ZXJBbm5vdGF0aW9ucykpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -242,22 +239,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicXVlcnkiKQogICAgdmFyIG1RdWVyeTogU3RyaW5nPyA9IG51bGwKCiAgICBASnNvbihuYW1lID0gInZhcmlhYmxlcyIpCiAgICB2YXIgbVZhcmlhYmxlczogSGFzaE1hcDxTdHJpbmcsIEFueT4/ID0gSGFzaE1hcCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicXVlcnkiKQogICAgdmFyIG1RdWVyeTogU3RyaW5nPyA9IG51bGwKCiAgICBASnNvbihuYW1lID0gInZhcmlhYmxlcyIpCiAgICB2YXIgbVZhcmlhYmxlczogSGFzaE1hcDxTdHJpbmcsIEFueT4/ID0gSGFzaE1hcCgpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">cHVibGljIGNsYXNzIFF1ZXJ5Q29udGFpbmVyQnVpbGRlciAgIHsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgcHJpdmF0ZSBRdWVyeUNvbnRhaW5lckJ1aWxkZXIoUGFyY2VsIGluKSB7CiAgICAgICAgbVF1ZXJ5Q29udGFpbmVyID0gaW4ucmVhZFBhcmNlbGFibGUoUXVlcnlDb250YWluZXIuY2xhc3MuZ2V0Q2xhc3NMb2FkZXIoKSk7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCB3cml0ZVRvUGFyY2VsKFBhcmNlbCBkZXN0LCBpbnQgZmxhZ3MpIHsKICAgICAgICBkZXN0LndyaXRlUGFyY2VsYWJsZShtUXVlcnlDb250YWluZXIsIGZsYWdzKTsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBpbnQgZGVzY3JpYmVDb250ZW50cygpIHsKICAgICAgICByZXR1cm4gMDsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIENyZWF0b3I8UXVlcnlDb250YWluZXJCdWlsZGVyPiBDUkVBVE9SID0gbmV3IENyZWF0b3I8UXVlcnlDb250YWluZXJCdWlsZGVyPigpIHsKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBwdWJsaWMgUXVlcnlDb250YWluZXJCdWlsZGVyIGNyZWF0ZUZyb21QYXJjZWwoUGFyY2VsIGluKSB7CiAgICAgICAgICAgIHJldHVybiBuZXcgUXVlcnlDb250YWluZXJCdWlsZGVyKGluKTsKICAgICAgICB9CgogICAgICAgIEBPdmVycmlkZQogICAgICAgIHB1YmxpYyBRdWVyeUNvbnRhaW5lckJ1aWxkZXJbXSBuZXdBcnJheShpbnQgc2l6ZSkgewogICAgICAgICAgICByZXR1cm4gbmV3IFF1ZXJ5Q29udGFpbmVyQnVpbGRlcltzaXplXTsKICAgICAgICB9CiAgICB9Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QFBhcmNlbGl6ZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBDUkVBVE9SOiBDcmVhdG9yPFF1ZXJ5Q29udGFpbmVyPiA9IG9iamVjdCA6IENyZWF0b3I8UXVlcnlDb250YWluZXI/PigpIHsKICAgICAgICAgICAgZnVuIGNyZWF0ZUZyb21QYXJjZWwoYGluYDogUGFyY2VsKTogUXVlcnlDb250YWluZXIgewogICAgICAgICAgICAgICAgcmV0dXJuIFF1ZXJ5Q29udGFpbmVyKGBpbmApCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGZ1biBuZXdBcnJheShzaXplOiBJbnQpOiBBcnJheTxRdWVyeUNvbnRhaW5lcj8+IHsKICAgICAgICAgICAgICAgIHJldHVybiBhcnJheU9mTnVsbHMoc2l6ZSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBpbnRlcm5hbCBjb25zdHJ1Y3RvcihgaW5gOiBQYXJjZWwpIHsKICAgICAgICBtUXVlcnkgPSBgaW5gLnJlYWRTdHJpbmcoKQogICAgICAgIG1WYXJpYWJsZXMgPSBgaW5gLnJlYWRIYXNoTWFwKFdlYWtIYXNoTWFwOjpjbGFzcy5qYXZhLmdldENsYXNzTG9hZGVyKCkpCiAgICB9CgogICAgZnVuIHdyaXRlVG9QYXJjZWwoZGVzdDogUGFyY2VsLCBmbGFnczogSW50KSB7CiAgICAgICAgZGVzdC53cml0ZVN0cmluZyhtUXVlcnkpCiAgICAgICAgZGVzdC53cml0ZU1hcChtVmFyaWFibGVzKQogICAgfQoKICAgIGZ1biBkZXNjcmliZUNvbnRlbnRzKCk6IEludCB7CiAgICAgICAgcmV0dXJuIDAKICAgIH0=</text>
+        <text encoding="base64">IGNvbXBhbmlvbiBvYmplY3QgewogICAgICAgIHZhbCBDUkVBVE9SOiBDcmVhdG9yPFF1ZXJ5Q29udGFpbmVyPiA9IG9iamVjdCA6IENyZWF0b3I8UXVlcnlDb250YWluZXI/PigpIHsKICAgICAgICAgICAgZnVuIGNyZWF0ZUZyb21QYXJjZWwoYGluYDogUGFyY2VsKTogUXVlcnlDb250YWluZXIgewogICAgICAgICAgICAgICAgcmV0dXJuIFF1ZXJ5Q29udGFpbmVyKGBpbmApCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGZ1biBuZXdBcnJheShzaXplOiBJbnQpOiBBcnJheTxRdWVyeUNvbnRhaW5lcj8+IHsKICAgICAgICAgICAgICAgIHJldHVybiBhcnJheU9mTnVsbHMoc2l6ZSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
