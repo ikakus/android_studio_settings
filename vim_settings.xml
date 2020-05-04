@@ -120,11 +120,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588592200930">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="16" column="1" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588593899834">
+        <mark key="[" line="176" column="3" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="8" column="14" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" timestamp="1588151466944">
         <mark key="'" line="48" column="65" />
@@ -142,7 +142,7 @@
         <mark key="^" line="39" column="54" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588170758963">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588593745720">
         <mark key="[" line="116" column="30" />
         <mark key="]" line="116" column="30" />
         <mark key="." line="116" column="30" />
