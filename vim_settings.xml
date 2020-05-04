@@ -27,6 +27,7 @@
       <history-cmd>
         <entry>visplit</entry>
         <entry>%s/assert/assertEquals/gc</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -57,12 +58,12 @@
       <file name="/Dummy.txt" timestamp="1588582003077">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588582279325">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" timestamp="1588585333952">
         <mark key="'" line="14" column="54" />
-        <mark key="[" line="32" column="26" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="32" column="30" />
+        <mark key="[" line="18" column="48" />
+        <mark key="]" line="18" column="48" />
+        <mark key="." line="18" column="47" />
+        <mark key="^" line="18" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" timestamp="1588169323449">
         <mark key="[" line="91" column="12" />
@@ -85,6 +86,12 @@
         <mark key="^" line="220" column="89" />
         <mark key="." line="224" column="0" />
       </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1588585319615">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="4" column="17" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="17" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1588231904570">
         <mark key="[" line="47" column="21" />
         <mark key="]" line="47" column="25" />
@@ -100,9 +107,6 @@
         <mark key="]" line="128" column="60" />
         <mark key="^" line="128" column="60" />
         <mark key="." line="128" column="59" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Utils.kt" timestamp="1588146027608">
-        <mark key="[" line="490" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588582072392">
         <mark key="'" line="559" column="0" />
@@ -152,6 +156,7 @@
         <mark key="^" line="92" column="23" />
         <mark key="." line="92" column="22" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588586989133" />
     </filemarks>
     <jumps>
       <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
@@ -235,7 +240,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ29uZmlndXJhdGlvbkRvbWFpbk1vZGVsKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Call</text>
@@ -244,41 +249,41 @@
         <text>ql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLmQoInFsXyRpdCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ29uZmlndXJhdGlvbkRvbWFpbk1vZGVsKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ29uZmlndXJhdGlvbkRvbWFpbk1vZGVsKCkpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGFwaS5nZXRSZXNwb25zZShxdWVyeSkuZW5xdWV1ZShvYmplY3QgOiBDYWxsYmFjazxRTFJlc3A+IHsKLy8gICAgICAgICAgICBvdmVycmlkZSBmdW4gb25GYWlsdXJlKGNhbGw6IENhbGw8UUxSZXNwPiwgdDogVGhyb3dhYmxlKSB7Ci8vICAgICAgICAgICAgICAgIFRpbWJlci5lKCJxbF8iICsgdC5tZXNzYWdlKQovLyAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICBvdmVycmlkZSBmdW4gb25SZXNwb25zZShjYWxsOiBDYWxsPFFMUmVzcD4sIHJlc3BvbnNlOiBSZXNwb25zZTxRTFJlc3A+KSB7Ci8vICAgICAgICAgICAgICAgIFRpbWJlci5kKCJxbF8lcyIsIHJlc3BvbnNlLmJvZHkoKS50b1N0cmluZygpKQovLyAgICAgICAgICAgICAgICB2YWwgYm9keSA9IHJlc3BvbnNlLmJvZHkoKT8uZGF0YT8uZmVhdHVyZUNvbmZpZ3VyYXRpb25zPy5tb25lc2VBcGk/LnNlc3Npb25MZW5ndGgKLy8gICAgICAgICAgICB9Ci8vCi8vICAgICAgICB9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ29uZmlndXJhdGlvbkRvbWFpbk1vZGVsKCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ29uZmlndXJhdGlvbkRvbWFpbk1vZGVsKCkpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZENhbGxBZGFwdGVyRmFjdG9yeShSeEphdmEyQ2FsbEFkYXB0ZXJGYWN0b3J5LmNyZWF0ZSgpKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC8vICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIEdSQVBIX1FMX0FQSV9VUkwgPSAiaHR0cHM6Ly9zd2FwaS5hcGlzLmd1cnUiOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>featureConfigurations {
     moneseApi {
       sessionLength
     }
   }</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Ly8gICAgQEpzb24obmFtZSA9ICJhbGxGaWxtcyIpCi8vICAgIHZhbCBhbGxGaWxtczogQWxsRmlsbXM/ID0gbnVsbAovLwovL0BKc29uQ2xhc3MoZ2VuZXJhdGVBZGFwdGVyID0gdHJ1ZSkKLy9kYXRhIGNsYXNzIEFsbEZpbG1zKAovLyAgICBASnNvbihuYW1lID0gImZpbG1zIikKLy8gICAgdmFsIGZpbG1zOiBMaXN0PEZpbG0+PyA9IG51bGwKLy8pCi8vCi8vQEpzb25DbGFzcyhnZW5lcmF0ZUFkYXB0ZXIgPSB0cnVlKQovL2RhdGEgY2xhc3MgRmlsbSgKLy8gICAgQEpzb24obmFtZSA9ICJlcGlzb2RlSUQiKQovLyAgICB2YWwgZXBpc29kZUlEOiBJbnQ/ID0gbnVsbCwKLy8gICAgQEpzb24obmFtZSA9ICJpZCIpCi8vICAgIHZhbCBpZDogU3RyaW5nPyA9IG51bGwsCi8vICAgIEBKc29uKG5hbWUgPSAidGl0bGUiKQovLyAgICB2YWwgdGl0bGU6IFN0cmluZz8gPSBudWxsCi8vKQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgQEpzb24obmFtZSA9ICJkYXRhIikK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly9ASnNvbkNsYXNzKGdlbmVyYXRlQWRhcHRlciA9IHRydWUpCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly9ASnNvbkNsYXNzKGdlbmVyYXRlQWRhcHRlciA9IHRydWUpCg==</text>
-      </register>
       <register name=":" type="4">
-        <text>%s/assert/assertEquals/gc</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
   </component>
