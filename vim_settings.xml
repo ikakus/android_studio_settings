@@ -129,12 +129,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1588609297989">
-        <mark key="'" line="1" column="12" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="63" column="66" />
-        <mark key="." line="63" column="0" />
-        <mark key="^" line="25" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1588610645619">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/failed/FailedFragment.kt" timestamp="1588530848484">
         <mark key="'" line="10" column="6" />
@@ -175,10 +175,10 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysAdapter.kt" timestamp="1588609542487">
-        <mark key="[" line="38" column="39" />
-        <mark key="]" line="38" column="98" />
-        <mark key="." line="38" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysAdapter.kt" timestamp="1588609715529">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="66" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588530979721">
         <mark key="'" line="30" column="0" />
@@ -239,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="106" column="12" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="183" column="29" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
       <jump line="186" column="12" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/ActiveStrikeFragment.kt" />
@@ -339,6 +338,7 @@
       <jump line="4" column="4" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/values/dimens.xml" />
       <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" />
       <jump line="1" column="12" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" />
+      <jump line="7" column="13" filename="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -347,43 +347,43 @@
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
       <register name="*" type="4">
-        <text>holder.itemView.day_view_layout_back.setBackgroundDrawable(</text>
+        <text>black</text>
       </register>
       <register name="-" type="4">
-        <text>holder.itemView.day_view_layout_back.setBackgroundDrawable(</text>
+        <text>black</text>
       </register>
       <register name="/" type="4">
-        <text>tot</text>
+        <text>bla</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3RlcnRpYXJ5X3RleHRfbGlnaHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob2xkZXIuaXRlbVZpZXcuZGF5X3ZpZXdfbGF5b3V0X2JhY2suc2V0QmFja2dyb3VuZERyYXdhYmxlKGJhY2tncm91bmQpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBob2xkZXIuaXRlbVZpZXcuZGF5X3ZpZXdfbGF5b3V0X2JhY2suZWxldmF0aW9uID0gd2hlbiB7CiAgICAgICAgICAgIGRheXNbcG9zaXRpb25dID4gMCAtPiB7CiAgICAgICAgICAgICAgICAxMGYKICAgICAgICAgICAgfQogICAgICAgICAgICBwb3NpdGlvbiA9PSBjaGVja1Bvc2l0aW9uICYmICF0b2RheSAtPiB7CiAgICAgICAgICAgICAgICAyMGYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIC0+IHsKICAgICAgICAgICAgICAgIDBmCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcuZGF5X3ZpZXdfbGF5b3V0LnNldFBhZGRpbmcoMTUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjhkcCIK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdIb3Jpem9udGFsPSI1NmRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnJlc291cmNlcy5nZXREcmF3YWJsZShSLmRyYXdhYmxlLmRheV91bmNoZWNrZWQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjcwZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnJlc291cmNlcy5nZXREcmF3YWJsZShSLmRyYXdhYmxlLmRheV91bmNoZWNrZWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjI3OGRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBob2xkZXIuaXRlbVZpZXcuZGF5X3ZpZXdfbGF5b3V0X2JhY2suc2V0QmFja2dyb3VuZERyYXdhYmxlKGJhY2tncm91bmQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICA8YW5kcm9pZHguY2FyZHZpZXcud2lkZ2V0LkNhcmRWaWV3CiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfaG9yaXpvbnRhbCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjMyZHAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnJlc291cmNlcy5nZXREcmF3YWJsZShSLmRyYXdhYmxlLmRheV9jdXJyZW50KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvYW5kcm9pZHguY2FyZHZpZXcud2lkZ2V0LkNhcmRWaWV3Pgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICBob2xkZXIuaXRlbVZpZXcuZGF5X3ZpZXdfbGF5b3V0X2JhY2suZWxldmF0aW9uID0gd2hlbiB7CiAgICAgICAgICAgIGRheXNbcG9zaXRpb25dID4gMCAtPiB7CiAgICAgICAgICAgICAgICAxMGYKICAgICAgICAgICAgfQogICAgICAgICAgICBwb3NpdGlvbiA9PSBjaGVja1Bvc2l0aW9uICYmICF0b2RheSAtPiB7CiAgICAgICAgICAgICAgICAyMGYKICAgICAgICAgICAgfQogICAgICAgICAgICBlbHNlIC0+IHsKICAgICAgICAgICAgICAgIDBmCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvZGF5c19jYXJkIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjhkcCIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbj0iLTMyZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdIb3Jpem9udGFsPSI1NmRwIgo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -392,9 +392,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tot</last-search>
+      <last-search>bla</last-search>
       <last-offset />
-      <last-pattern>tot</last-pattern>
+      <last-pattern>bla</last-pattern>
       <last-replace>totalDays</last-replace>
       <last-substitute>STRIKELENGTH</last-substitute>
       <last-dir>1</last-dir>
