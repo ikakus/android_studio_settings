@@ -129,12 +129,12 @@
         <mark key="." line="5" column="37" />
         <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1588609270735">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1588609297989">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="66" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="24" column="65" />
+        <mark key="[" line="6" column="34" />
+        <mark key="]" line="63" column="66" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="25" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/failed/FailedFragment.kt" timestamp="1588530848484">
         <mark key="'" line="10" column="6" />
@@ -175,10 +175,10 @@
         <mark key="^" line="7" column="27" />
         <mark key="." line="13" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysAdapter.kt" timestamp="1588608721149">
-        <mark key="[" line="49" column="6" />
-        <mark key="]" line="49" column="6" />
-        <mark key="." line="49" column="6" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/active/DaysAdapter.kt" timestamp="1588609542487">
+        <mark key="[" line="38" column="39" />
+        <mark key="]" line="38" column="98" />
+        <mark key="." line="38" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/home/MainActivity.kt" timestamp="1588530979721">
         <mark key="'" line="30" column="0" />
@@ -346,11 +346,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3RlcnRpYXJ5X3RleHRfbGlnaHQiCg==</text>
+      <register name="*" type="4">
+        <text>holder.itemView.day_view_layout_back.setBackgroundDrawable(</text>
       </register>
       <register name="-" type="4">
-        <text>white</text>
+        <text>holder.itemView.day_view_layout_back.setBackgroundDrawable(</text>
       </register>
       <register name="/" type="4">
         <text>tot</text>
