@@ -65,12 +65,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Onfido.kt" timestamp="1588671558517" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" timestamp="1588673574880">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="21" column="8" />
-        <mark key="^" line="20" column="4" />
-        <mark key="." line="21" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" timestamp="1588679004232">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="22" column="80" />
+        <mark key="^" line="22" column="80" />
+        <mark key="." line="22" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" timestamp="1588671599810">
         <mark key="[" line="0" column="58" />
@@ -79,6 +78,12 @@
         <mark key="[" line="6" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/configuration.graphql" timestamp="1588673018940" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588679026386">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="39" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588677219035">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -112,8 +117,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="565" column="104" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Mixpanel.kt" timestamp="1588671563305">
-        <mark key="[" line="0" column="57" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/MoneseApi.kt" timestamp="1588678971875">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Avios.kt" timestamp="1588671579434">
         <mark key="[" line="0" column="58" />
@@ -209,11 +217,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text>Add graphQl error entity</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>MoneseApi</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>st</text>
