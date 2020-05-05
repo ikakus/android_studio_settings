@@ -59,77 +59,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/HashMapAdapter.kt" timestamp="1588670521912">
-        <mark key="[" line="23" column="81" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Onfido.kt" timestamp="1588671558517" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588671539305">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="6" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588670878571">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" timestamp="1588671599810">
+        <mark key="[" line="0" column="58" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainer.kt" timestamp="1588671823174">
+        <mark key="[" line="6" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588672057558">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.5.0/93d9b40cbc398b07b6e3e13a7dd49f8b835b34ee/converter-moshi-2.5.0-sources.jar!/retrofit2/converter/moshi/MoshiConverterFactory.java" timestamp="1588599385193">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="88" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/SupportPhone.kt" timestamp="1588671583097">
+        <mark key="[" line="0" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/build/generated/source/kaptKotlin/devDebug/com/monese/monese/data/configuration/graphql/ConfDataJsonAdapter.kt" timestamp="1588669854209" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" timestamp="1588605743459">
-        <mark key="[" line="89" column="12" />
-        <mark key="]" line="89" column="22" />
-        <mark key="." line="89" column="21" />
-        <mark key="^" line="89" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Operational.kt" timestamp="1588671594123">
+        <mark key="[" line="0" column="58" />
       </file>
-      <file name="/fragment.kt" timestamp="1588603851301">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/model/GraphQlResponseEntity.kt" timestamp="1588672123977">
+        <mark key="[" line="45" column="1" />
+        <mark key="]" line="45" column="1" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.5.0/93d9b40cbc398b07b6e3e13a7dd49f8b835b34ee/converter-moshi-2.5.0-sources.jar!/retrofit2/converter/moshi/MoshiRequestBodyConverter.java" timestamp="1588597951473">
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="38" column="64" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Intercom.kt" timestamp="1588671570362">
+        <mark key="[" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588664256337">
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="^" line="222" column="71" />
-        <mark key="." line="222" column="0" />
-      </file>
-      <file name="/QueryContainer.kt" timestamp="1588663232070" />
-      <file name="/QueryContainerBuilder.java" timestamp="1588663332556" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588670013924">
-        <mark key="'" line="559" column="0" />
-        <mark key="[" line="565" column="86" />
-        <mark key="]" line="565" column="103" />
-        <mark key="." line="565" column="86" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588671647974">
+        <mark key="'" line="562" column="34" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="565" column="104" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588670008697">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Mixpanel.kt" timestamp="1588671563305">
+        <mark key="[" line="0" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainerBuilder.kt" timestamp="1588670574304">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Avios.kt" timestamp="1588671579434">
+        <mark key="[" line="0" column="58" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588663202266">
-        <mark key="[" line="132" column="40" />
-        <mark key="]" line="133" column="1" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="1" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainer.kt" timestamp="1588670545515">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="21" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementResponseEntity.kt" timestamp="1588670330512">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="36" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1588603854730">
+      <file name="/fragment.java" timestamp="1588671839903">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -211,48 +187,49 @@
       <jump line="37" column="3" filename="$USER_HOME$/AndroidStudioProjects/arcore-android-sdk/samples/Graphqltest/app/build.gradle" />
       <jump line="558" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" />
       <jump line="84" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" />
+      <jump line="564" column="34" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>HashMap</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>HashMap</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>st</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CmNsYXNzIERhdGFUb1N0cmluZ0FkYXB0ZXIgewoKICAgIEBUb0pzb24KICAgIEBUaHJvd3MoSU9FeGNlcHRpb246OmNsYXNzKQogICAgZnVuIHRvSnNvbih3cml0ZXI6IEpzb25Xcml0ZXIsIEBEYXRhU3RyaW5nIHM6IFN0cmluZykgewogICAgICAgIC8vIGRvIG5vdGhpbmcKICAgICAgICBMb2cuZSgiRGF0YVRvU3RyaW5nQWRhcHRlciIsICJ0b0pzb24oKTogTm8gY29udmVyc2lvbiB0byBqc29uIGF2YWlsYWJsZSIpCiAgICB9CgogICAgQEZyb21Kc29uCiAgICBARGF0YVN0cmluZwogICAgZnVuIGZyb21Kc29uKHJlYWRlcjogSnNvblJlYWRlciwgZGVsZWdhdGU6IEpzb25BZGFwdGVyPEFueT4pOiBTdHJpbmcgewogICAgICAgIC8vIE5vdyB0aGUgaW50ZXJtZWRpYXRlIGRhdGEgb2JqZWN0IChhIE1hcCkgY29tZXMgaGVyZQogICAgICAgIHZhbCBkYXRhID0gcmVhZGVyLnJlYWRKc29uVmFsdWUoKQogICAgICAgIC8vIEp1c3QgZGVsZWdhdGUgdG8gSnNvbkFkYXB0ZXI8T2JqZWN0Piwgc28gd2UgZ290IGEgSlNPTiBzdHJpbmcgb2YgdGhlIG9iamVjdAogICAgICAgIHJldHVybiBkZWxlZ2F0ZS50b0pzb24oZGF0YSkKICAgIH0KfQ==</text>
+      <register name="0" type="4">
+        <text>GraphQlError</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLkNvbmZpZ3VyYXRpb25EYXRhCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kYXRhLmNvbmZpZ3VyYXRpb24uZ3JhcGhxbC5HcmFwaFFsUmVzcG9uc2VFbnRpdHkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IC8vIE5vdyB0aGUgaW50ZXJtZWRpYXRlIGRhdGEgb2JqZWN0IChhIE1hcCkgY29tZXMgaGVyZQogICAgICAgIHZhbCBkYXRhID0gd3JpdGVyLgogICAgICAgIC8vIEp1c3QgZGVsZWdhdGUgdG8gSnNvbkFkYXB0ZXI8T2JqZWN0Piwgc28gd2UgZ290IGEgSlNPTiBzdHJpbmcgb2YgdGhlIG9iamVjdAogICAgICAgIHJldHVybiBkZWxlZ2F0ZS50b0pzb24oZGF0YSk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAvLyBOb3cgdGhlIGludGVybWVkaWF0ZSBkYXRhIG9iamVjdCAoYSBNYXApIGNvbWVzIGhlcmUKICAgICAgICB2YWwgZGF0YSA9IHJlYWRlci5yZWFkSnNvblZhbHVlKCkKICAgICAgICAvLyBKdXN0IGRlbGVnYXRlIHRvIEpzb25BZGFwdGVyPE9iamVjdD4sIHNvIHdlIGdvdCBhIEpTT04gc3RyaW5nIG9mIHRoZSBvYmplY3QKICAgICAgICByZXR1cm4gZGVsZWdhdGUudG9Kc29uKGRhdGEp</text>
+      <register name="3" type="2">
+        <text encoding="base64">QEpzb25DbGFzcyhnZW5lcmF0ZUFkYXB0ZXIgPSB0cnVlKQpkYXRhIGNsYXNzIEdyYXBoUWxSZXNwb25zZUVudGl0eTxUPigKICAgIEBKc29uKG5hbWUgPSAiZGF0YSIpCiAgICB2YWwgZGF0YTogVD8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJkYXRhUHJlc2VudCIpCiAgICB2YWwgZGF0YVByZXNlbnQ6IEJvb2xlYW4/ID0gbnVsbCwKICAgIEBKc29uKG5hbWUgPSAiZXJyb3JzIikKICAgIHZhbCBlcnJvcnM6IExpc3Q8QW55Pj8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJleHRlbnNpb25zIikKICAgIHZhbCBleHRlbnNpb25zOiBBbnk/ID0gbnVsbAop</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBkbyBub3RoaW5nCiAgICAgICAgTG9nLmUoIkRhdGFUb1N0cmluZ0FkYXB0ZXIiLCAidG9Kc29uKCk6IE5vIGNvbnZlcnNpb24gdG8ganNvbiBhdmFpbGFibGUiKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkQ29udmVydGVyRmFjdG9yeShNb3NoaUNvbnZlcnRlckZhY3RvcnkuY3JlYXRlKG1vc2hpKSkK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IC8vIE5vdyB0aGUgaW50ZXJtZWRpYXRlIGRhdGEgb2JqZWN0IChhIE1hcCkgY29tZXMgaGVyZQogICAgICAgIHZhbCBkYXRhID0gd3JpdGVyLgogICAgICAgIC8vIEp1c3QgZGVsZWdhdGUgdG8gSnNvbkFkYXB0ZXI8T2JqZWN0Piwgc28gd2UgZ290IGEgSlNPTiBzdHJpbmcgb2YgdGhlIG9iamVjdAogICAgICAgIHJldHVybiBkZWxlZ2F0ZS50b0pzb24oZGF0YSk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAvLyBOb3cgdGhlIGludGVybWVkaWF0ZSBkYXRhIG9iamVjdCAoYSBNYXApIGNvbWVzIGhlcmUKICAgICAgICB2YWwgZGF0YSA9IHJlYWRlci5yZWFkSnNvblZhbHVlKCkKICAgICAgICAvLyBKdXN0IGRlbGVnYXRlIHRvIEpzb25BZGFwdGVyPE9iamVjdD4sIHNvIHdlIGdvdCBhIEpTT04gc3RyaW5nIG9mIHRoZSBvYmplY3QKICAgICAgICByZXR1cm4gZGVsZWdhdGUudG9Kc29uKGRhdGEp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBkbyBub3RoaW5nCiAgICAgICAgTG9nLmUoIkRhdGFUb1N0cmluZ0FkYXB0ZXIiLCAidG9Kc29uKCk6IE5vIGNvbnZlcnNpb24gdG8ganNvbiBhdmFpbGFibGUiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text>`Use moshi`</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkQ29udmVydGVyRmFjdG9yeShNb3NoaUNvbnZlcnRlckZhY3RvcnkuY3JlYXRlKG1vc2hpKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGFwdGVyID0gYWRhcHRlcjsK</text>
+        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
