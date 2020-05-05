@@ -65,11 +65,12 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" timestamp="1588679004232">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="22" column="80" />
-        <mark key="^" line="22" column="80" />
-        <mark key="." line="22" column="79" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" timestamp="1588680759536">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="27" column="52" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="35" column="70" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" timestamp="1588671599810">
         <mark key="[" line="0" column="58" />
@@ -77,14 +78,14 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainer.kt" timestamp="1588671823174">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/configuration.graphql" timestamp="1588673018940" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588679026386">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/configuration.graphql" timestamp="1588679482654" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588680160041">
         <mark key="[" line="17" column="39" />
         <mark key="]" line="17" column="39" />
         <mark key="." line="17" column="38" />
         <mark key="^" line="17" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588677219035">
+      <file name="/Dummy.txt" timestamp="1588680729406">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -107,15 +108,18 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="45" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Intercom.kt" timestamp="1588671570362">
-        <mark key="[" line="0" column="57" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588673598173">
         <mark key="'" line="562" column="34" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
         <mark key="^" line="565" column="104" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/CustomerSupport.kt" timestamp="1588680038248">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="41" />
+        <mark key="." line="10" column="40" />
+        <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/MoneseApi.kt" timestamp="1588678971875">
         <mark key="[" line="8" column="23" />
@@ -213,15 +217,19 @@
       <jump line="558" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" />
       <jump line="84" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" />
       <jump line="564" column="34" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" />
+      <jump line="32" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
+      <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
+      <jump line="31" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
+      <jump line="33" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text>st</text>
@@ -230,31 +238,31 @@
         <text encoding="base64">QFN1cHByZXNzTGludCgiQ2hlY2tSZXN1bHQiKQpAU2luZ2xldG9uCg==</text>
       </register>
       <register name="1" type="2">
-        <text>Add graphQl error entity</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbmZpZ3VyYXRpb25Eb21haW5kZWwoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLkVudGl0eQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLkNvbmZpZ3VyYXRpb25EYXRhCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kYXRhLmNvbmZpZ3VyYXRpb24uZ3JhcGhxbC5HcmFwaFFsUmVzcG9uc2VFbnRpdHkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBtYXBTdXBwb3JQaG9uZU51bWJlcnMoKSA=</text>
+      </register>
+      <register name="3" type="2">
+        <text>Add graphQl error entity</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbmZpZ3VyYXRpb25Eb21haW5kZWwoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy53M2MuZG9tLkVudGl0eQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">QEpzb25DbGFzcyhnZW5lcmF0ZUFkYXB0ZXIgPSB0cnVlKQpkYXRhIGNsYXNzIEdyYXBoUWxSZXNwb25zZUVudGl0eTxUPigKICAgIEBKc29uKG5hbWUgPSAiZGF0YSIpCiAgICB2YWwgZGF0YTogVD8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJkYXRhUHJlc2VudCIpCiAgICB2YWwgZGF0YVByZXNlbnQ6IEJvb2xlYW4/ID0gbnVsbCwKICAgIEBKc29uKG5hbWUgPSAiZXJyb3JzIikKICAgIHZhbCBlcnJvcnM6IExpc3Q8QW55Pj8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJleHRlbnNpb25zIikKICAgIHZhbCBleHRlbnNpb25zOiBBbnk/ID0gbnVsbAop</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuY29uZmlndXJhdGlvbi5ncmFwaHFsLkNvbmZpZ3VyYXRpb25EYXRhCmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5kYXRhLmNvbmZpZ3VyYXRpb24uZ3JhcGhxbC5HcmFwaFFsUmVzcG9uc2VFbnRpdHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8vIE5vdyB0aGUgaW50ZXJtZWRpYXRlIGRhdGEgb2JqZWN0IChhIE1hcCkgY29tZXMgaGVyZQogICAgICAgIHZhbCBkYXRhID0gd3JpdGVyLgogICAgICAgIC8vIEp1c3QgZGVsZWdhdGUgdG8gSnNvbkFkYXB0ZXI8T2JqZWN0Piwgc28gd2UgZ290IGEgSlNPTiBzdHJpbmcgb2YgdGhlIG9iamVjdAogICAgICAgIHJldHVybiBkZWxlZ2F0ZS50b0pzb24oZGF0YSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">QEpzb25DbGFzcyhnZW5lcmF0ZUFkYXB0ZXIgPSB0cnVlKQpkYXRhIGNsYXNzIEdyYXBoUWxSZXNwb25zZUVudGl0eTxUPigKICAgIEBKc29uKG5hbWUgPSAiZGF0YSIpCiAgICB2YWwgZGF0YTogVD8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJkYXRhUHJlc2VudCIpCiAgICB2YWwgZGF0YVByZXNlbnQ6IEJvb2xlYW4/ID0gbnVsbCwKICAgIEBKc29uKG5hbWUgPSAiZXJyb3JzIikKICAgIHZhbCBlcnJvcnM6IExpc3Q8QW55Pj8gPSBudWxsLAogICAgQEpzb24obmFtZSA9ICJleHRlbnNpb25zIikKICAgIHZhbCBleHRlbnNpb25zOiBBbnk/ID0gbnVsbAop</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
