@@ -18,6 +18,14 @@
   </action>
   <action id="Console.Execute.Multiline" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
   <action id="ExpandExpandableComponent">
@@ -40,11 +48,23 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta alt right" />
   </action>
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="NewScratchFile" />
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
   <action id="OpenElementInNewWindow" />
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift meta l" />
