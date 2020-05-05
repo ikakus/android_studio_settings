@@ -90,12 +90,11 @@
         <mark key="[" line="38" column="41" />
         <mark key="]" line="38" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588598529545">
-        <mark key="'" line="222" column="37" />
-        <mark key="[" line="223" column="64" />
-        <mark key="]" line="223" column="71" />
-        <mark key="^" line="223" column="71" />
-        <mark key="." line="223" column="70" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1588664256337">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="^" line="222" column="71" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="/QueryContainer.kt" timestamp="1588663232070" />
       <file name="/QueryContainerBuilder.java" timestamp="1588663332556" />
@@ -212,8 +211,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>containsVariable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkQ29udmVydGVyRmFjdG9yeShNb3NoaUNvbnZlcnRlckZhY3RvcnkuY3JlYXRlKG1vc2hpKSkK</text>
       </register>
       <register name="-" type="4">
         <text>containsVariable</text>
@@ -225,31 +224,31 @@
         <text>HashMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkQ29udmVydGVyRmFjdG9yeShNb3NoaUNvbnZlcnRlckZhY3RvcnkuY3JlYXRlKG1vc2hpKSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
       </register>
       <register name="3" type="2">
-        <text>`Use moshi`</text>
+        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGFwdGVyID0gYWRhcHRlcjsK</text>
+        <text>`Use moshi`</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEpzb25BZGFwdGVyPFF1ZXJ5Q29udGFpbmVyQnVpbGRlcj4gYWRhcHRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGFwdGVyID0gYWRhcHRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lckJ1aWxkZXI+IGFkYXB0ZXIgPSBtb3NoaS5hZGFwdGVyKHR5cGUsIGpzb25Bbm5vdGF0aW9ucyhwYXJhbWV0ZXJBbm5vdGF0aW9ucykpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEpzb25BZGFwdGVyPFF1ZXJ5Q29udGFpbmVyQnVpbGRlcj4gYWRhcHRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lckJ1aWxkZXI+IGFkYXB0ZXIgPSBtb3NoaS5hZGFwdGVyKHR5cGUsIGpzb25Bbm5vdGF0aW9ucyhwYXJhbWV0ZXJBbm5vdGF0aW9ucykpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
