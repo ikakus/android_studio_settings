@@ -59,17 +59,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588604039895">
+      <file name="/Dummy.txt" timestamp="1588663101149">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-moshi/2.5.0/93d9b40cbc398b07b6e3e13a7dd49f8b835b34ee/converter-moshi-2.5.0-sources.jar!/retrofit2/converter/moshi/MoshiConverterFactory.java" timestamp="1588599385193">
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="88" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainerBuilder.java" timestamp="1588661841684">
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/testquery.graphql" timestamp="1588590148035">
         <mark key="[" line="1" column="2" />
@@ -100,27 +97,34 @@
         <mark key="^" line="223" column="71" />
         <mark key="." line="223" column="70" />
       </file>
+      <file name="/QueryContainer.kt" timestamp="1588663232070" />
+      <file name="/QueryContainerBuilder.java" timestamp="1588663332556" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1588592262003">
         <mark key="'" line="558" column="0" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588599485540">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/QlModel.kt" timestamp="1588662944305">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588662204856">
-        <mark key="[" line="121" column="48" />
-        <mark key="]" line="121" column="48" />
-        <mark key="." line="121" column="48" />
-        <mark key="^" line="121" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainerBuilder.kt" timestamp="1588663623965">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
+        <mark key="." line="19" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainer.kt" timestamp="1588661846450">
-        <mark key="[" line="8" column="10" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="10" />
-        <mark key="^" line="12" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQLConverter.java" timestamp="1588663202266">
+        <mark key="[" line="132" column="40" />
+        <mark key="]" line="133" column="1" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="133" column="1" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/QueryContainer.kt" timestamp="1588663582037">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="19" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="10" column="19" />
       </file>
       <file name="/fragment.java" timestamp="1588603854730">
         <mark key="[" line="0" column="0" />
@@ -209,43 +213,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonAnnotations(parameterAnnotations)</text>
+        <text>containsVariable</text>
       </register>
       <register name="-" type="4">
-        <text>jsonAnnotations(parameterAnnotations)</text>
+        <text>containsVariable</text>
       </register>
       <register name="/" type="4">
         <text>st</text>
       </register>
       <register name="0" type="4">
-        <text>jsonAnnotations(parameterAnnotations)</text>
+        <text>HashMap</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGFwdGVyID0gYWRhcHRlcjsK</text>
+        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEpzb25BZGFwdGVyPFF1ZXJ5Q29udGFpbmVyQnVpbGRlcj4gYWRhcHRlcjsK</text>
+        <text encoding="base64">ICAgIHZhciBtVmFyaWFibGVzOiBIYXNoTWFwPFN0cmluZywgQW55Pj8gPSBIYXNoTWFwKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lckJ1aWxkZXI+IGFkYXB0ZXIgPSBtb3NoaS5hZGFwdGVyKHR5cGUsIGpzb25Bbm5vdGF0aW9ucyhwYXJhbWV0ZXJBbm5vdGF0aW9ucykpOwo=</text>
+        <text>`Use moshi`</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hZGFwdGVyID0gYWRhcHRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZpbmFsIEpzb25BZGFwdGVyPFF1ZXJ5Q29udGFpbmVyQnVpbGRlcj4gYWRhcHRlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lckJ1aWxkZXI+IGFkYXB0ZXIgPSBtb3NoaS5hZGFwdGVyKHR5cGUsIGpzb25Bbm5vdGF0aW9ucyhwYXJhbWV0ZXJBbm5vdGF0aW9ucykpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBRdWVyeUNvbnRhaW5lckJ1aWxkZXIgYWRkVmFyaWFibGUoU3RyaW5nIGtleSwgT2JqZWN0IHZhbHVlKSB7CiAgICAgICAgbVF1ZXJ5Q29udGFpbmVyLnNldFZhcmlhYmxlKGtleSwgdmFsdWUpOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBib29sZWFuIGNvbnRhaW5zVmFyaWFibGUoU3RyaW5nIGtleSkgewogICAgICAgIHJldHVybiBtUXVlcnlDb250YWluZXIuY29udGFpbnNWYXJpYWJsZShrZXkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uQWRhcHRlcjxRdWVyeUNvbnRhaW5lcj4gYWRhcHRlciA9IG1vc2hpLmFkYXB0ZXIodHlwZSwganNvbkFubm90YXRpb25zKHBhcmFtZXRlckFubm90YXRpb25zKSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICBmdW4gc2V0UXVlcnkocXVlcnk6IFN0cmluZykgewogICAgICAgIHRoaXMucXVlcnkgPSBxdWVyeQogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
