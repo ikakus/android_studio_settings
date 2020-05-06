@@ -62,7 +62,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588749059436">
+      <file name="/Dummy.txt" timestamp="1588750502800">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -82,6 +82,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Operational.kt" timestamp="1588685531873">
         <mark key="[" line="6" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1588750671954">
+        <mark key="[" line="128" column="54" />
+        <mark key="]" line="214" column="0" />
+        <mark key="." line="214" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" timestamp="1588685826836">
         <mark key="'" line="20" column="38" />
@@ -104,8 +109,10 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588749653751">
-        <mark key="[" line="8" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588750882836">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/OperationalDomainModel.kt" timestamp="1588685565027">
         <mark key="[" line="4" column="11" />
@@ -124,11 +131,11 @@
         <mark key="." line="6" column="25" />
         <mark key="^" line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/configuration.graphql" timestamp="1588749151313">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="21" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/configuration.graphql" timestamp="1588750216101">
+        <mark key="[" line="31" column="93" />
+        <mark key="]" line="31" column="93" />
         <mark key="^" line="21" column="2" />
-        <mark key="." line="21" column="2" />
+        <mark key="." line="31" column="93" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Avios.kt" timestamp="1588741771221">
         <mark key="[" line="6" column="17" />
@@ -240,11 +247,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>raisinEnabled</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;not implemented&quot;)</text>
+        <text>FRENCH&quot;</text>
       </register>
       <register name="/" type="4">
         <text>av</text>
@@ -253,31 +260,31 @@
         <text>raisinEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25mUmVwby5nZXRDb25maWd1cmF0aW9uKCkuYmFzZVN1YnNjcmliZSB7IH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZSZXBvOiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeUdyYXBoUWwsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJWSVBfUEFDS0FHRV9FVVIiLAovLyAgICAgICAgIlBBSURfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIkZSRUVfUEFDS0FHRV9FVVIiLAovLyAgICAgICAgIlRJRVJfM19HQlAiLAovLyAgICAgICAgIkZSRUVfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIkJVU0lORVNTXzFfR0JQIiwKLy8gICAgICAgICJWSVBfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIlRJRVJfM19FVVIiLAovLyAgICAgICAgIlBBSURfUEFDS0FHRV9FVVIiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFpZFRpZXJVSyA9IHByaWNpbmdUaWVyRW50aXRpZXM/LmZpbmQgeyBpdC5pZC5lcXVhbHMoIlBBSURfUEFDS0FHRV9FVVIiKSB9Py5tYXBUb0RvbWFpbigpLAo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
