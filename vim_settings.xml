@@ -128,17 +128,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588680160041">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="39" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588685917891">
+      <file name="/Dummy.txt" timestamp="1588742643019">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/build/generated/source/kaptKotlin/devDebug/com/monese/monese/data/configuration/graphql/model/CustomerSupportEntityJsonAdapter.kt" timestamp="1588742327523" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Intercom.kt" timestamp="1588741783177">
         <mark key="[" line="6" column="20" />
         <mark key="." line="6" column="24" />
@@ -147,10 +142,10 @@
         <mark key="[" line="6" column="20" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/CustomerSupport.kt" timestamp="1588741777334">
-        <mark key="[" line="6" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/CustomerSupport.kt" timestamp="1588742334332">
+        <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
-        <mark key="." line="6" column="31" />
+        <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Avios.kt" timestamp="1588741771221">
