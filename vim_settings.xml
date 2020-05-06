@@ -62,54 +62,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/OperationalDomainModel.kt" timestamp="1588685565027">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" timestamp="1588741827342">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="6" column="33" />
-        <mark key="]" line="10" column="32" />
-        <mark key="^" line="10" column="32" />
-        <mark key="." line="6" column="37" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/SupportPhone.kt" timestamp="1588741808577">
-        <mark key="[" line="6" column="24" />
-        <mark key="." line="6" column="28" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/PricingTierEntity.kt" timestamp="1588685185210">
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="12" />
-        <mark key="." line="56" column="12" />
-        <mark key="^" line="56" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Operational.kt" timestamp="1588685531873">
-        <mark key="[" line="6" column="20" />
-      </file>
-      <file name="/DynamicConfigurationRequestEntity.kt" timestamp="1588741613655" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/PricingTier.kt" timestamp="1588684124505">
-        <mark key="[" line="6" column="22" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/MoneseApi.kt" timestamp="1588741790184">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="8" column="27" />
-        <mark key="." line="6" column="25" />
-        <mark key="^" line="8" column="27" />
+      <file name="/Dummy.txt" timestamp="1588749059436">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Onfido.kt" timestamp="1588741795140">
         <mark key="[" line="6" column="18" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" timestamp="1588741833600">
-        <mark key="'" line="44" column="20" />
-        <mark key="[" line="15" column="53" />
-        <mark key="]" line="29" column="37" />
-        <mark key="^" line="44" column="99" />
-        <mark key="." line="15" column="57" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" timestamp="1588749002365">
+        <mark key="'" line="21" column="53" />
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/PricingDomainModel.kt" timestamp="1588684247911">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/SupportPhone.kt" timestamp="1588741808577">
+        <mark key="[" line="6" column="24" />
+        <mark key="." line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Operational.kt" timestamp="1588685531873">
+        <mark key="[" line="6" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" timestamp="1588685826836">
         <mark key="'" line="20" column="38" />
@@ -118,24 +90,6 @@
         <mark key="." line="29" column="43" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/RequestMetadata.kt" timestamp="1588741804388">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="7" column="28" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588743614075">
-        <mark key="[" line="17" column="39" />
-        <mark key="]" line="17" column="39" />
-        <mark key="." line="17" column="38" />
-        <mark key="^" line="17" column="39" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588742643019">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/build/generated/source/kaptKotlin/devDebug/com/monese/monese/data/configuration/graphql/model/CustomerSupportEntityJsonAdapter.kt" timestamp="1588742327523" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Intercom.kt" timestamp="1588741783177">
         <mark key="[" line="6" column="20" />
         <mark key="." line="6" column="24" />
@@ -150,9 +104,47 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="41" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588749653751">
+        <mark key="[" line="8" column="50" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/OperationalDomainModel.kt" timestamp="1588685565027">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" timestamp="1588741827342">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="10" column="32" />
+        <mark key="^" line="10" column="32" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/MoneseApi.kt" timestamp="1588741790184">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="6" column="25" />
+        <mark key="^" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/assets/graphql/configuration.graphql" timestamp="1588749151313">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="21" column="15" />
+        <mark key="^" line="21" column="2" />
+        <mark key="." line="21" column="2" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Avios.kt" timestamp="1588741771221">
         <mark key="[" line="6" column="17" />
         <mark key="." line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/RequestMetadata.kt" timestamp="1588741804388">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="6" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588743614075">
+        <mark key="[" line="17" column="39" />
+        <mark key="]" line="17" column="39" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="17" column="39" />
       </file>
     </filemarks>
     <jumps>
@@ -243,48 +235,49 @@
       <jump line="19" column="46" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" />
       <jump line="21" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" />
       <jump line="9" column="28" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" />
+      <jump line="21" column="53" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>),</text>
+        <text>raisinEnabled</text>
       </register>
       <register name="-" type="4">
-        <text>),</text>
+        <text>TODO(&quot;not implemented&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>av</text>
       </register>
       <register name="0" type="4">
-        <text>OperationalDomainModel</text>
+        <text>raisinEnabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICJWSVBfUEFDS0FHRV9FVVIiLAovLyAgICAgICAgIlBBSURfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIkZSRUVfUEFDS0FHRV9FVVIiLAovLyAgICAgICAgIlRJRVJfM19HQlAiLAovLyAgICAgICAgIkZSRUVfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIkJVU0lORVNTXzFfR0JQIiwKLy8gICAgICAgICJWSVBfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIlRJRVJfM19FVVIiLAovLyAgICAgICAgIlBBSURfUEFDS0FHRV9FVVIiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFpZFRpZXJVSyA9IHByaWNpbmdUaWVyRW50aXRpZXM/LmZpbmQgeyBpdC5pZC5lcXVhbHMoIlBBSURfUEFDS0FHRV9FVVIiKSB9Py5tYXBUb0RvbWFpbigpLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJpY2luZ0RvbWFpbk1vZGVsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgcHJpY2luZ0RvbWFpbk1vZGVsID0gUHJpY2luZ0RvbWFpbk1vZGVsKCkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAicHJpY2luZ1RpZXJJZHMiKQogICAgdmFsIHByaWNpbmdUaWVySWRzOiBMaXN0PFN0cmluZz4/ID0gbnVsbCw=</text>
+        <text encoding="base64">Ly8gICAgICAgICJWSVBfUEFDS0FHRV9FVVIiLAovLyAgICAgICAgIlBBSURfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIkZSRUVfUEFDS0FHRV9FVVIiLAovLyAgICAgICAgIlRJRVJfM19HQlAiLAovLyAgICAgICAgIkZSRUVfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIkJVU0lORVNTXzFfR0JQIiwKLy8gICAgICAgICJWSVBfUEFDS0FHRV9HQlAiLAovLyAgICAgICAgIlRJRVJfM19FVVIiLAovLyAgICAgICAgIlBBSURfUEFDS0FHRV9FVVIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBDb25maWd1cmF0aW9uRG9tYWluTW9kZWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFpZFRpZXJVSyA9IHByaWNpbmdUaWVyRW50aXRpZXM/LmZpbmQgeyBpdC5pZC5lcXVhbHMoIlBBSURfUEFDS0FHRV9FVVIiKSB9Py5tYXBUb0RvbWFpbigpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
