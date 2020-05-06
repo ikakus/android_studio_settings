@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>when</entry>
         <entry>stup</entry>
         <entry>%s</entry>
         <entry>assert</entry>
@@ -27,6 +26,7 @@
         <entry>null</entry>
         <entry>nul</entry>
         <entry>av</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -62,11 +62,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588750502800">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Onfido.kt" timestamp="1588741795140">
         <mark key="[" line="6" column="18" />
         <mark key="." line="6" column="22" />
@@ -75,6 +70,12 @@
         <mark key="'" line="21" column="53" />
         <mark key="[" line="24" column="18" />
         <mark key="]" line="24" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/repository/ConfigurationRepository.kt" timestamp="1588759862856">
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="7" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/SupportPhone.kt" timestamp="1588741808577">
         <mark key="[" line="6" column="24" />
@@ -96,23 +97,25 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Mixpanel.kt" timestamp="1588741786619">
-        <mark key="[" line="6" column="20" />
-        <mark key="." line="6" column="24" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/CustomerSupport.kt" timestamp="1588742334332">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="41" />
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588758582145">
-        <mark key="[" line="10" column="88" />
-        <mark key="]" line="10" column="88" />
-        <mark key="." line="10" column="88" />
-        <mark key="^" line="10" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588759525953">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="19" column="9" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/MarkConfigurationAsDirtyUseCase.kt" timestamp="1588758551012" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/MarkConfigurationAsDirtyUseCase.kt" timestamp="1588759563628">
+        <mark key="'" line="17" column="53" />
+        <mark key="[" line="17" column="36" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="38" />
+        <mark key="^" line="15" column="56" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1588756201234">
         <mark key="[" line="332" column="110" />
         <mark key="]" line="338" column="3" />
@@ -250,48 +253,49 @@
       <jump line="21" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" />
       <jump line="9" column="28" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" />
       <jump line="21" column="53" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
+      <jump line="17" column="53" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/MarkConfigurationAsDirtyUseCase.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>getConfiguration</text>
+        <text>faluu</text>
       </register>
       <register name="-" type="4">
-        <text>getConfiguration</text>
+        <text>faluu</text>
       </register>
       <register name="/" type="4">
-        <text>av</text>
+        <text>get</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IEBCaW5kcwogICAgYWJzdHJhY3QgZnVuIGJpbmRDb25maWd1cmF0aW9uUmVwb3NpdG9yeShyZXBvc2l0b3J5OiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeUltcGwpOiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeQogICAg</text>
+        <text>configurationRepository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRDb25maWd1cmF0aW9uVXNlQ2FzZS5nZXRDb25maWd1cmF0aW9uKCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb3NpdG9yeS5tYXJrQ2FjaGVBc0RpcnR5KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QE5hbWVkKCJkZWZhdWx0IikK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QE5hbWVkKCJncmFwaFFsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IEBCaW5kcwogICAgYWJzdHJhY3QgZnVuIGJpbmRFbXBsb3ltZW50U2VjdGlvblJlcG9zaXRvcnkocmVwb3NpdG9yeTogRW1wbG95bWVudFNlY3Rpb25SZXBvc2l0b3J5SW1wbCk6IEVtcGxveW1lbnRTZWN0aW9uUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">IC8vIFRPRE8gYWRkIGZlYXR1cmUgZmxhZyBpbiBkb21haW4gbGF5ZXIKICAgICAgICB2YWwgZ3JhcGhRbEVuYWJsZWQgPSBmYWxzZQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IAogICAgQEJpbmRzCiAgICBhYnN0cmFjdCBmdW4gYmluZEVtcGxveW1lbnRTZWN0aW9uUmVwb3NpdG9yeShyZXBvc2l0b3J5OiBFbXBsb3ltZW50U2VjdGlvblJlcG9zaXRvcnlJbXBsKTogRW1wbG95bWVudFNlY3Rpb25SZXBvc2l0b3J5</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBnZXRDb25maWd1cmF0aW9uVXNlQ2FzZS5nZXRDb25maWd1cmF0aW9uKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mUmVwby5nZXRDb25maWd1cmF0aW9uKCkuYmFzZVN1YnNjcmliZSB7IH0K</text>
+        <text encoding="base64">QE5hbWVkKCJkZWZhdWx0IikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZSZXBvOiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeUdyYXBoUWwsCg==</text>
+        <text encoding="base64">QE5hbWVkKCJncmFwaFFsIikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IEBCaW5kcwogICAgYWJzdHJhY3QgZnVuIGJpbmRFbXBsb3ltZW50U2VjdGlvblJlcG9zaXRvcnkocmVwb3NpdG9yeTogRW1wbG95bWVudFNlY3Rpb25SZXBvc2l0b3J5SW1wbCk6IEVtcGxveW1lbnRTZWN0aW9uUmVwb3NpdG9yeQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -300,9 +304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>av</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>av</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
