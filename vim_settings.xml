@@ -67,6 +67,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlagManager.kt" timestamp="1588752905787" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Onfido.kt" timestamp="1588741795140">
         <mark key="[" line="6" column="18" />
         <mark key="." line="6" column="22" />
@@ -87,13 +88,6 @@
         <mark key="[" line="128" column="54" />
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" timestamp="1588685826836">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="29" column="44" />
-        <mark key="." line="29" column="43" />
-        <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Intercom.kt" timestamp="1588741783177">
         <mark key="[" line="6" column="20" />
