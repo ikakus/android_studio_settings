@@ -67,7 +67,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlagManager.kt" timestamp="1588752905787" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/Onfido.kt" timestamp="1588741795140">
         <mark key="[" line="6" column="18" />
         <mark key="." line="6" column="22" />
@@ -81,8 +80,10 @@
         <mark key="[" line="6" column="24" />
         <mark key="." line="6" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/repository/ConfigurationRepositoryGraphQl.kt" timestamp="1588751594707">
-        <mark key="[" line="18" column="10" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/repository/ConfigurationRepositoryGraphQl.kt" timestamp="1588756815432">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1588750671954">
         <mark key="[" line="128" column="54" />
@@ -103,11 +104,16 @@
         <mark key="." line="10" column="45" />
         <mark key="^" line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588751655740">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/GetConfigurationUseCase.kt" timestamp="1588756621162">
         <mark key="[" line="11" column="4" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="18" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
         <mark key="^" line="10" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1588756201234">
+        <mark key="[" line="332" column="110" />
+        <mark key="]" line="338" column="3" />
+        <mark key="." line="334" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" timestamp="1588741827342">
         <mark key="'" line="9" column="28" />
@@ -138,8 +144,10 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/repository/ConfigurationRepositoryImpl.kt" timestamp="1588751572499">
-        <mark key="[" line="16" column="10" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/repository/ConfigurationRepositoryImpl.kt" timestamp="1588756820722">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/model/ConfigurationDomainModel.kt" timestamp="1588743614075">
         <mark key="[" line="17" column="39" />
@@ -242,43 +250,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZpZ3VyYXRpb25SZXBvc2l0b3J5OiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeQo=</text>
+        <text encoding="base64">QE5hbWVkKCJkZWZhdWx0IikK</text>
       </register>
       <register name="-" type="4">
-        <text>FRENCH&quot;</text>
+        <text>@</text>
       </register>
       <register name="/" type="4">
         <text>av</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZpZ3VyYXRpb25SZXBvc2l0b3J5OiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IEBCaW5kcwogICAgYWJzdHJhY3QgZnVuIGJpbmRDb25maWd1cmF0aW9uUmVwb3NpdG9yeShyZXBvc2l0b3J5OiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeUltcGwpOiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeQogICAg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">QE5hbWVkKCJkZWZhdWx0IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25mUmVwby5nZXRDb25maWd1cmF0aW9uKCkuYmFzZVN1YnNjcmliZSB7IH0K</text>
+        <text encoding="base64">QE5hbWVkKCJncmFwaFFsIikK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZSZXBvOiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeUdyYXBoUWwsCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEBCaW5kcwogICAgYWJzdHJhY3QgZnVuIGJpbmRFbXBsb3ltZW50U2VjdGlvblJlcG9zaXRvcnkocmVwb3NpdG9yeTogRW1wbG95bWVudFNlY3Rpb25SZXBvc2l0b3J5SW1wbCk6IEVtcGxveW1lbnRTZWN0aW9uUmVwb3NpdG9yeQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IAogICAgQEJpbmRzCiAgICBhYnN0cmFjdCBmdW4gYmluZEVtcGxveW1lbnRTZWN0aW9uUmVwb3NpdG9yeShyZXBvc2l0b3J5OiBFbXBsb3ltZW50U2VjdGlvblJlcG9zaXRvcnlJbXBsKTogRW1wbG95bWVudFNlY3Rpb25SZXBvc2l0b3J5</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
+        <text encoding="base64">ICAgICAgICBjb25mUmVwby5nZXRDb25maWd1cmF0aW9uKCkuYmFzZVN1YnNjcmliZSB7IH0K</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZSZXBvOiBDb25maWd1cmF0aW9uUmVwb3NpdG9yeUdyYXBoUWwsCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHJlc3BvbnNlTWVzc2FnZUVudW0KICAgIG1lc3NhZ2VOYW1lCiAgICBsYW5ndWFnZQ==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
