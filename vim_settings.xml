@@ -143,11 +143,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainerBuilder.kt" timestamp="1588769762269">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588848965577">
-        <mark key="[" line="97" column="48" />
-        <mark key="]" line="97" column="12" />
-        <mark key="." line="97" column="12" />
-        <mark key="^" line="97" column="22" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588851314234">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/inviteerror/Jnt3InviteErrorViewModel.kt" timestamp="1588758409279">
         <mark key="[" line="37" column="32" />
@@ -265,13 +264,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>setupAddAccountDrawerItem(),
-            setupCouponCodesDrawerItem(),
-            setupBusinessTermsDrawerItem()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text>pair</text>
@@ -279,34 +276,34 @@
       <register name="0" type="4">
         <text>accountsData.selectedAccount.accountType != AccountType.CONTIS</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXQuZmxhdE1hcCB7IGl0ZW0gLT4gbGlzdE9mKGl0ZW1zIGFzIEJvb2xlYW4pIH0K</text>
+      </register>
+      <register name="3" type="4">
         <text>setupAddAccountDrawerItem(),
             setupCouponCodesDrawerItem(),
             setupBusinessTermsDrawerItem()</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRnVuY3Rpb248QXJyYXk8QW55PiwgTGlzdDxMb2NhdGlvbj4+IHsgdDogQXJyYXk8QW55PiAtPiBsaXN0T2Y8TG9jYXRpb24+KCkgfSkK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTaW5nbGUuemlwKHNMaXN0LAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGRJdGVtczogTXV0YWJsZUxpc3Q8RHluYW1pY0RyYXdlckl0ZW0+ID0gYXJyYXlMaXN0T2YoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBfcHJpdmFjeVN3aXRjaENoZWNrZWQucG9zdFZhbHVlKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLmlzUHJpdmFjeU1vZGVFbmFibGVkKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC5iYXNlU3Vic2NyaWJlKAogICAgICAgICAgICAgICAgICAgIG9uU3VjY2VzcyA9IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBfY291cG9uQ29kZXNEcmF3ZXJJdGVtVmlzaWJpbGl0eS5wb3N0VmFsdWUoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LmlzUHJvbW90aW9uc0VuYWJsZWQgPzogZmFsc2UKLy8gICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBvbkVycm9yID0gewovLyAgICAgICAgICAgICAgICAgICAgICAgIF9jb3Vwb25Db2Rlc0RyYXdlckl0ZW1WaXNpYmlsaXR5LnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAp</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">IC5iYXNlU3Vic2NyaWJlIHsKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">IC5iYXNlU3Vic2NyaWJlKAogICAgICAgICAgICAgICAgICAgIG9uU3VjY2VzcyA9IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBfY291cG9uQ29kZXNEcmF3ZXJJdGVtVmlzaWJpbGl0eS5wb3N0VmFsdWUoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LmlzUHJvbW90aW9uc0VuYWJsZWQgPzogZmFsc2UKLy8gICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBvbkVycm9yID0gewovLyAgICAgICAgICAgICAgICAgICAgICAgIF9jb3Vwb25Db2Rlc0RyYXdlckl0ZW1WaXNpYmlsaXR5LnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAp</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
