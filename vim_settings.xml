@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Log</entry>
         <entry>log</entry>
         <entry>value</entry>
         <entry encoding="base64">XDxlbnF1ZXVlXD4=</entry>
@@ -27,6 +26,7 @@
         <entry>m</entry>
         <entry>pair</entry>
         <entry>sing</entry>
+        <entry>em</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -143,12 +143,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainerBuilder.kt" timestamp="1588769762269">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588856398151">
-        <mark key="'" line="164" column="42" />
-        <mark key="[" line="114" column="10" />
-        <mark key="]" line="114" column="10" />
-        <mark key="." line="114" column="10" />
-        <mark key="^" line="105" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588857889457">
+        <mark key="'" line="114" column="19" />
+        <mark key="[" line="117" column="13" />
+        <mark key="]" line="118" column="16" />
+        <mark key="." line="118" column="15" />
+        <mark key="^" line="118" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/inviteerror/Jnt3InviteErrorViewModel.kt" timestamp="1588758409279">
         <mark key="[" line="37" column="32" />
@@ -166,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1s2addcash/ADD1s2AddCashViewModel.kt" />
       <jump line="156" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/InviteAndEarnViewModel.kt" />
       <jump line="264" column="42" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/planbillingdetails/personal/PersonalBillingViewModel.kt" />
       <jump line="117" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/nocard/Inv2NoCardOrderedViewModel.kt" />
@@ -266,48 +265,49 @@
       <jump line="160" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
       <jump line="169" column="80" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
       <jump line="168" column="42" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
+      <jump line="114" column="19" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICB2YWwgbGlzdCA9IGVtcHR5TGlzdCgpCiAgICAgICAgICAgIGlmKHBsYW4pewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW1wdHlMaXN0KCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>sing</text>
+        <text>em</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZTxCb29sZWFuPiwK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICB2YWwgbGlzdCA9IGVtcHR5TGlzdCgpCiAgICAgICAgICAgIGlmKHBsYW4pewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZW1wdHlMaXN0KCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZTxQYWlyPEJvb2xlYW4sIEJvb2xlYW4+PiwK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB2YWwgbGlzdCA9IGVtcHR5TGlzdCgpCiAgICAgICAgICAgIGlmKHBsYW4pewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZTxQYWlyPEJvb2xlYW4sIEJvb2xlYW4+PiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZTxQYWlyPEJvb2xlYW4sIEJvb2xlYW4+PiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBjb252ZXJ0ZXIoKSB7CgogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF9wcml2YWN5U3dpdGNoRHJhd2VySXRlbVZpc2liaWxpdHkucG9zdFZhbHVlKGFjY291bnRzRGF0YS5zZWxlY3RlZEFjY291bnQuYWNjb3VudFR5cGUgIT0gQWNjb3VudFR5cGUuQ09OVElTKQo=</text>
+        <text encoding="base64">ICAgIGZ1biBjb252ZXJ0ZXIoKSB7CgogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF9idXNpbmVzc1Rlcm1zRHJhd2VySXRlbVZpc2liaWxpdHkucG9zdFZhbHVlKGFjY291bnRzRGF0YS5idXNpbmVzc1dpdGhTdGF0dXNPcGVuICE9IG51bGwpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIF9wcml2YWN5U3dpdGNoRHJhd2VySXRlbVZpc2liaWxpdHkucG9zdFZhbHVlKGFjY291bnRzRGF0YS5zZWxlY3RlZEFjY291bnQuYWNjb3VudFR5cGUgIT0gQWNjb3VudFR5cGUuQ09OVElTKQo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -316,9 +316,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>sing</last-search>
+      <last-search>em</last-search>
       <last-offset />
-      <last-pattern>sing</last-pattern>
+      <last-pattern>em</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
