@@ -143,12 +143,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainerBuilder.kt" timestamp="1588769762269">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588842736483">
-        <mark key="'" line="50" column="3" />
-        <mark key="[" line="88" column="52" />
-        <mark key="]" line="88" column="59" />
-        <mark key="^" line="88" column="59" />
-        <mark key="." line="88" column="58" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588844121550">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="13" />
+        <mark key="." line="79" column="12" />
+        <mark key="^" line="79" column="13" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/inviteerror/Jnt3InviteErrorViewModel.kt" timestamp="1588758409279">
         <mark key="[" line="37" column="32" />
@@ -261,48 +260,54 @@
       <jump line="153" column="11" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
       <jump line="116" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
       <jump line="33" column="3" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
+      <jump line="103" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICBzZWFsZWQgY2xhc3MgRHJhd2VyTmF2aWdhdGlvbiB7CiAgICAgICAgb2JqZWN0IExvZ091dCA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBBY2NvdW50c1ZpZXcgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgU3VwcG9ydCA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBTZXR0aW5ncyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBBZGRBY2NvdW50IDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IE15UGxhbiA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBHZXRDbGllbnREZXRhaWxzIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEdldEJ1c2luZXNzQ2xpZW50RGV0YWlscyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBUZXJtcyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBQcml2YWN5UG9saWN5IDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEJ1c2luZXNzVGVybXMgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgUmF0aW5nVXB2b3RlIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IFJhdGluZ0Rvd252b3RlIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IE5vdGlmaWNhdGlvbkNlbnRyZSA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBDb3Vwb25Db2RlcyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIGRhdGEgY2xhc3MgSW52aXRlQW5kRWFybih2YWwgc291cmNlOiBTb3VyY2UpIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICB9</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>boolean</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>pair</text>
       </register>
       <register name="0" type="4">
-        <text>NavigationDrawerController.</text>
+        <text>accountsData.selectedAccount.accountType != AccountType.CONTIS</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBzZWFsZWQgY2xhc3MgRHJhd2VyTmF2aWdhdGlvbiB7CiAgICAgICAgb2JqZWN0IExvZ091dCA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBBY2NvdW50c1ZpZXcgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgU3VwcG9ydCA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBTZXR0aW5ncyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBBZGRBY2NvdW50IDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IE15UGxhbiA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBHZXRDbGllbnREZXRhaWxzIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEdldEJ1c2luZXNzQ2xpZW50RGV0YWlscyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBUZXJtcyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBQcml2YWN5UG9saWN5IDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEJ1c2luZXNzVGVybXMgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgUmF0aW5nVXB2b3RlIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IFJhdGluZ0Rvd252b3RlIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IE5vdGlmaWNhdGlvbkNlbnRyZSA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBDb3Vwb25Db2RlcyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIGRhdGEgY2xhc3MgSW52aXRlQW5kRWFybih2YWwgc291cmNlOiBTb3VyY2UpIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGRJdGVtczogTXV0YWJsZUxpc3Q8RHluYW1pY0RyYXdlckl0ZW0+ID0gYXJyYXlMaXN0T2YoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUuSG9tZVZpZXdNb2RlbC5EcmF3ZXJOYXZpZ2F0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBfcHJpdmFjeVN3aXRjaENoZWNrZWQucG9zdFZhbHVlKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLmlzUHJpdmFjeU1vZGVFbmFibGVkKQo=</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IC5iYXNlU3Vic2NyaWJlKAogICAgICAgICAgICAgICAgICAgIG9uU3VjY2VzcyA9IHsKLy8gICAgICAgICAgICAgICAgICAgICAgICBfY291cG9uQ29kZXNEcmF3ZXJJdGVtVmlzaWJpbGl0eS5wb3N0VmFsdWUoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIGl0LmlzUHJvbW90aW9uc0VuYWJsZWQgPzogZmFsc2UKLy8gICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICBvbkVycm9yID0gewovLyAgICAgICAgICAgICAgICAgICAgICAgIF9jb3Vwb25Db2Rlc0RyYXdlckl0ZW1WaXNpYmlsaXR5LnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAp</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHNlYWxlZCBjbGFzcyBEcmF3ZXJOYXZpZ2F0aW9uIHsKICAgICAgICBvYmplY3QgTG9nT3V0IDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEFjY291bnRzVmlldyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBTdXBwb3J0IDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IFNldHRpbmdzIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEFkZEFjY291bnQgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgTXlQbGFuIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IEdldENsaWVudERldGFpbHMgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgR2V0QnVzaW5lc3NDbGllbnREZXRhaWxzIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IFRlcm1zIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IFByaXZhY3lQb2xpY3kgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgQnVzaW5lc3NUZXJtcyA6IERyYXdlck5hdmlnYXRpb24oKQogICAgICAgIG9iamVjdCBSYXRpbmdVcHZvdGUgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgUmF0aW5nRG93bnZvdGUgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgICAgICBvYmplY3QgTm90aWZpY2F0aW9uQ2VudHJlIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgb2JqZWN0IENvdXBvbkNvZGVzIDogRHJhd2VyTmF2aWdhdGlvbigpCiAgICAgICAgZGF0YSBjbGFzcyBJbnZpdGVBbmRFYXJuKHZhbCBzb3VyY2U6IFNvdXJjZSkgOiBEcmF3ZXJOYXZpZ2F0aW9uKCkKICAgIH0=</text>
+        <text encoding="base64">IC5iYXNlU3Vic2NyaWJlIHsKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5nb29nbGUuZmlyZWJhc2UuY3Jhc2hseXRpY3MuaW50ZXJuYWwuc2V0dGluZ3MuU2V0dGluZ3NEYXRhUHJvdmlkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHVwUGxhblZpc2liaWxpdHkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBhY2NvdW50c0RhdGFQcm92aWRlcjogQWNjbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1hbmFnZXJQcm92aWRlcjogTWFuYWdlclByb3ZpZGVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldENvbmZpZ3VyYXRpb25Vc2VDYXNlOiBHZXRDb25maWd1cmF0aW9uVXNlQ2FzZSwK</text>
+        <text>//        _myPlanDrawerItemVisibility.postValue(
+//            Pair(
+//                planVisible,
+//                hasBusinessWithStatusOpen || accountsData.hasJointAccount()
+//            )
+//        )</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
