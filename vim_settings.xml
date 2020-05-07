@@ -62,13 +62,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588772047935">
+      <file name="/Dummy.txt" timestamp="1588837439239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1588836142446">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1588837288633">
         <mark key="'" line="116" column="0" />
         <mark key="[" line="192" column="0" />
         <mark key="]" line="192" column="0" />
@@ -125,6 +125,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/MarkConfigurationAsDirtyUseCase.kt" timestamp="1588769939076">
         <mark key="^" line="6" column="7" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/DynamicDrawerItems.kt" timestamp="1588837007544">
+        <mark key="[" line="3" column="39" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1588756201234">
         <mark key="[" line="332" column="110" />
         <mark key="]" line="338" column="3" />
@@ -150,7 +156,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1588771351673">
+      <file name="/fragment.java" timestamp="1588837524290">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -253,11 +259,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>m</text>
@@ -266,31 +272,31 @@
         <text>configurationRepository</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIE1ZX1BMQU4sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCBfaW52aXRlQW5kRWFybkRyYXdlckl0ZW1WaXNpYmlsaXR5ID0gTXV0YWJsZUxpdmVEYXRhPEJvb2xlYW4+KCkKICAgIHZhbCBpbnZpdGVBbmRFYXJuRHJhd2VySXRlbVZpc2liaWxpdHk6IExpdmVEYXRhPEJvb2xlYW4+ID0gX2ludml0ZUFuZEVhcm5EcmF3ZXJJdGVtVmlzaWJpbGl0eQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldFNldHRpbmdzVXNlQ2FzZTogR2V0U2V0dGluZ3NVc2VDYXNlLAogICAgcHJpdmF0ZSB2YWwgZ2V0Q2xpZW50VXNlQ2FzZTogR2V0Q2xpZW50VXNlQ2FzZSwKICAgIHByaXZhdGUgdmFsIGdldEN1cnJlbnREZWJpdENhcmRVc2VDYXNlOiBHZXRDdXJyZW50RGViaXRDYXJkVXNlQ2FzZSwK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCBfaW52aXRlQW5kRWFybkRyYXdlckl0ZW1WaXNpYmlsaXR5ID0gTXV0YWJsZUxpdmVEYXRhPEJvb2xlYW4+KCkKICAgIHZhbCBpbnZpdGVBbmRFYXJuRHJhd2VySXRlbVZpc2liaWxpdHk6IExpdmVEYXRhPEJvb2xlYW4+ID0gX2ludml0ZUFuZEVhcm5EcmF3ZXJJdGVtVmlzaWJpbGl0eQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldFNldHRpbmdzVXNlQ2FzZTogR2V0U2V0dGluZ3NVc2VDYXNlLAogICAgcHJpdmF0ZSB2YWwgZ2V0Q2xpZW50VXNlQ2FzZTogR2V0Q2xpZW50VXNlQ2FzZSwKICAgIHByaXZhdGUgdmFsIGdldEN1cnJlbnREZWJpdENhcmRVc2VDYXNlOiBHZXRDdXJyZW50RGViaXRDYXJkVXNlQ2FzZSwK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc01hbmFnZXI6IEFuYWx5dGljc01hbmFnZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG9uYm9hcmRpbmdBbmFseXRpY3M6IE9uYm9hcmRpbmdBbmFseXRpY3MsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc01hbmFnZXI6IEFuYWx5dGljc01hbmFnZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc0hlbHBlcjogSG9tZUFuYWx5dGljc0hlbHBlciwKICAgIHByaXZhdGUgdmFsIGRlYml0Q2FyZEFuYWx5dGljczogRGViaXRDYXJkQW5hbHl0aWNzLAogICAgcHJpdmF0ZSB2YWwgbmF2UmF0aW5nc0FuYWx5dGljczogTmF2UmF0aW5nc0FuYWx5dGljcywKICAgIHByaXZhdGUgdmFsIHNldHRpbmdzQW5hbHl0aWNzOiBTZXR0aW5nc0FuYWx5dGljcywKICAgIHByaXZhdGUgdmFsIGN1c3RvbWVyU3VwcG9ydEFuYWx5dGljczogQ3VzdG9tZXJTdXBwb3J0QW5hbHl0aWNzLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG9uYm9hcmRpbmdBbmFseXRpY3M6IE9uYm9hcmRpbmdBbmFseXRpY3MsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlZmVycmFsQW5hbHl0aWNzOiBSZWZlcnJhbEFuYWx5dGljcwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc0hlbHBlcjogSG9tZUFuYWx5dGljc0hlbHBlciwKICAgIHByaXZhdGUgdmFsIGRlYml0Q2FyZEFuYWx5dGljczogRGViaXRDYXJkQW5hbHl0aWNzLAogICAgcHJpdmF0ZSB2YWwgbmF2UmF0aW5nc0FuYWx5dGljczogTmF2UmF0aW5nc0FuYWx5dGljcywKICAgIHByaXZhdGUgdmFsIHNldHRpbmdzQW5hbHl0aWNzOiBTZXR0aW5nc0FuYWx5dGljcywKICAgIHByaXZhdGUgdmFsIGN1c3RvbWVyU3VwcG9ydEFuYWx5dGljczogQ3VzdG9tZXJTdXBwb3J0QW5hbHl0aWNzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlZmVycmFsQW5hbHl0aWNzOiBSZWZlcnJhbEFuYWx5dGljcwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
