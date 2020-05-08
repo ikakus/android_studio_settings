@@ -74,12 +74,12 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1588933698816">
-        <mark key="'" line="213" column="31" />
-        <mark key="[" line="205" column="12" />
-        <mark key="]" line="210" column="14" />
-        <mark key="^" line="211" column="41" />
-        <mark key="." line="205" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1588941081798">
+        <mark key="'" line="215" column="31" />
+        <mark key="[" line="678" column="16" />
+        <mark key="]" line="678" column="38" />
+        <mark key="^" line="678" column="38" />
+        <mark key="." line="678" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/jointaccount/createaccount/inviteerror/Jnt3InviteErrorViewModelTest.kt" timestamp="1588764071175">
         <mark key="[" line="6" column="31" />
@@ -99,6 +99,7 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="18" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerHelper.kt" timestamp="1588940913351" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/repository/ConfigurationRepositoryGraphQl.kt" timestamp="1588764911428">
         <mark key="'" line="42" column="34" />
         <mark key="[" line="27" column="0" />
@@ -147,12 +148,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainerBuilder.kt" timestamp="1588769762269">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588934912752">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588940941520">
         <mark key="'" line="112" column="19" />
-        <mark key="[" line="29" column="64" />
-        <mark key="]" line="29" column="64" />
-        <mark key="^" line="119" column="15" />
-        <mark key="." line="29" column="64" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="9" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/inviteerror/Jnt3InviteErrorViewModel.kt" timestamp="1588758409279">
         <mark key="[" line="37" column="32" />
@@ -275,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>navigationDrawerController</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>navigationDrawerController</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
