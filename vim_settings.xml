@@ -68,7 +68,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588933743299">
+      <file name="/Dummy.txt" timestamp="1588934919987">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -147,12 +147,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainerBuilder.kt" timestamp="1588769762269">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588933511477">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1588934912752">
         <mark key="'" line="112" column="19" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
+        <mark key="[" line="29" column="64" />
+        <mark key="]" line="29" column="64" />
         <mark key="^" line="119" column="15" />
-        <mark key="." line="156" column="0" />
+        <mark key="." line="29" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/inviteerror/Jnt3InviteErrorViewModel.kt" timestamp="1588758409279">
         <mark key="[" line="37" column="32" />
@@ -275,10 +275,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC5kb09uU3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZSh0cnVlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5kb0ZpbmFsbHkgewogICAgICAgICAgICAgICAgX2xvYWRpbmcucG9zdFZhbHVlKGZhbHNlKQogICAgICAgICAgICB9</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>TODO(&quot;not implemented&quot;)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
@@ -287,31 +287,31 @@
         <text encoding="base64">IC5kb09uU3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZSh0cnVlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5kb0ZpbmFsbHkgewogICAgICAgICAgICAgICAgX2xvYWRpbmcucG9zdFZhbHVlKGZhbHNlKQogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
+        <text encoding="base64">ICAgIGJhc2VTY2hlZHVsZXJQcm92aWRlcjogQmFzZVNjaGVkdWxlclByb3ZpZGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBoYXNPdGhlclBsYW5zOiBMaXZlRGF0YTxCb29sZWFuPiA9IG5hdmlnYXRpb25EcmF3ZXJDb250cm9sbGVyLmhhc090aGVyUGxhbnMKICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBoYXNPdGhlclBsYW5zOiBMaXZlRGF0YTxCb29sZWFuPiA9IG5hdmlnYXRpb25EcmF3ZXJDb250cm9sbGVyLmhhc090aGVyUGxhbnMKICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IC5kb09uU3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5kb0ZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAuZG9PblN1YnNjcmliZSB7CiAgICAgICAgICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgICAgfQogICAgICAgICAgICAuZG9GaW5hbGx5IHsKICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">LnN1YnNjcmliZSB7IGxpc3QgLT4KICAgICAgICAgICAgX2RyYXdlckl0ZW1zLnBvc3RWYWx1ZShsaXN0KQogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
