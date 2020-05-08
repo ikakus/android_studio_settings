@@ -121,13 +121,12 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1588923535234">
-        <mark key="'" line="292" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1588928164501">
+        <mark key="'" line="293" column="40" />
         <mark key="[" line="280" column="0" />
-        <mark key="]" line="280" column="0" />
+        <mark key="]" line="280" column="69" />
         <mark key="." line="280" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_paypal_host.xml" timestamp="1588841273199" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/configuration/usecase/MarkConfigurationAsDirtyUseCase.kt" timestamp="1588769939076">
         <mark key="^" line="6" column="7" />
       </file>
@@ -273,7 +272,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBvYnNlcnZlKGFkZEFjY291bnREcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvbkFkZEFjY291bnREcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKG15UGxhbkRyYXdlckl0ZW1WaXNpYmlsaXR5LCA6Om9uTXlQbGFuRHJhd2VySXRlbVZpc2liaWxpdHkpCi8vICAgICAgICAgICAgb2JzZXJ2ZShjb3Vwb25Db2Rlc0RyYXdlckl0ZW1WaXNpYmlsaXR5LCA6Om9uQ291cG9uQ29kZXNEcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKGJ1c2luZXNzVGVybXNEcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvbkJ1c2luZXNzVGVybXNEcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKHByaXZhY3lTd2l0Y2hEcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvblByaXZhY3lTd2l0Y2hEcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKGludml0ZUFuZEVhcm5EcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvbkludml0ZUFuZEVhcm5EcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKHByaXZhY3lTd2l0Y2hDaGVja2VkLCA6Om9uUHJpdmFjeVN3aXRjaENoZWNrZWQpCg==</text>
+        <text>//            observe(privacySwitchChecked, ::onPrivacySwitchChecked)</text>
       </register>
       <register name="-" type="4">
         <text>pair</text>
@@ -282,7 +281,7 @@
         <text>cou</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Db3Vwb25Db2Rlc0RyYXdlckl0ZW1WaXNpYmlsaXR5KGl0LmNvbnRhaW5zKER5bmFtaWNEcmF3ZXJJdGVtLkNvdXBvbkNvZGVzKSkK</text>
+        <text>//            observe(privacySwitchChecked, ::onPrivacySwitchChecked)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBvYnNlcnZlKGFkZEFjY291bnREcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvbkFkZEFjY291bnREcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKG15UGxhbkRyYXdlckl0ZW1WaXNpYmlsaXR5LCA6Om9uTXlQbGFuRHJhd2VySXRlbVZpc2liaWxpdHkpCi8vICAgICAgICAgICAgb2JzZXJ2ZShjb3Vwb25Db2Rlc0RyYXdlckl0ZW1WaXNpYmlsaXR5LCA6Om9uQ291cG9uQ29kZXNEcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKGJ1c2luZXNzVGVybXNEcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvbkJ1c2luZXNzVGVybXNEcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKHByaXZhY3lTd2l0Y2hEcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvblByaXZhY3lTd2l0Y2hEcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKGludml0ZUFuZEVhcm5EcmF3ZXJJdGVtVmlzaWJpbGl0eSwgOjpvbkludml0ZUFuZEVhcm5EcmF3ZXJJdGVtVmlzaWJpbGl0eSkKLy8gICAgICAgICAgICBvYnNlcnZlKHByaXZhY3lTd2l0Y2hDaGVja2VkLCA6Om9uUHJpdmFjeVN3aXRjaENoZWNrZWQpCg==</text>
