@@ -72,12 +72,12 @@
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="59" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589197187328">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589198141074">
         <mark key="'" line="200" column="31" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
+        <mark key="[" line="757" column="0" />
+        <mark key="]" line="757" column="0" />
         <mark key="^" line="579" column="38" />
-        <mark key="." line="159" column="0" />
+        <mark key="." line="757" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" timestamp="1589193289180">
         <mark key="'" line="300" column="15" />
@@ -87,10 +87,10 @@
         <mark key="^" line="1713" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerFragment.kt" timestamp="1589197510731">
-        <mark key="[" line="107" column="39" />
-        <mark key="]" line="107" column="39" />
-        <mark key="." line="107" column="39" />
-        <mark key="^" line="203" column="45" />
+        <mark key="[" line="110" column="39" />
+        <mark key="]" line="110" column="39" />
+        <mark key="." line="110" column="39" />
+        <mark key="^" line="206" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" timestamp="1589197201307">
         <mark key="'" line="120" column="4" />
@@ -122,7 +122,7 @@
         <mark key="." line="9" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/views/DrawerHeader.kt" timestamp="1589183821904" />
-      <file name="/Dummy.txt" timestamp="1589192498153">
+      <file name="/Dummy.txt" timestamp="1589198086013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="^" line="0" column="16" />
@@ -277,8 +277,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>this</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
@@ -293,28 +293,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGRyYXdlcl9sYXlvdXQuc2V0RHJhd2VyU2hhZG93KFIuZHJhd2FibGUuZHJhd2VyX3NoYWRvdywgR3Jhdml0eUNvbXBhdC5TVEFSVCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+        <text encoding="base64">Ly8gICAgICAgIGRyYXdlcl9sYXlvdXQuc2V0RHJhd2VyU2hhZG93KFIuZHJhd2FibGUuZHJhd2VyX3NoYWRvdywgR3Jhdml0eUNvbXBhdC5TVEFSVCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKHNjaGVkdWxlclByb3ZpZGVyLmlvKCkpCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1hcmtOb3RpZmljYXRpb25zQXNTZWVuVXNlQ2FzZTogTWFya05vdGlmaWNhdGlvbnNBc1NlZW5Vc2VDYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKHNjaGVkdWxlclByb3ZpZGVyLmlvKCkpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1hcmtOb3RpZmljYXRpb25zQXNTZWVuVXNlQ2FzZTogTWFya05vdGlmaWNhdGlvbnNBc1NlZW5Vc2VDYXNlLAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlZmVycmFsUHJvZ3JhbUF2YWlsYWJpbGl0eVVzZUNhc2U6IEdldFJlZmVycmFsUHJvZ3JhbUF2YWlsYWJpbGl0eVVzZUNhc2UsCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHByaXZhdGUgZnVuIG1hcmtOb3RpZmljYXRpb25zQXNTZWVuKCkgewogICAgICAgIG1hcmtOb3RpZmljYXRpb25zQXNTZWVuVXNlQ2FzZS5jcmVhdGUoKQogICAgICAgICAgICAuZG9PblN1YnNjcmliZSB7CiAgICAgICAgICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgICAgfQogICAgICAgICAgICAuZG9GaW5hbGx5IHsKICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgfQogICAgICAgICAgICAuYmFzZVN1YnNjcmliZSgKICAgICAgICAgICAgICAgIG9uU3VjY2VzcyA9IHsKICAgICAgICAgICAgICAgICAgICAvLyBEbyBOb3RoaW5nCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgb25FcnJvciA9IHsKICAgICAgICAgICAgICAgICAgICBMb2cuZChUQUcsIGl0LmxvY2FsaXplZE1lc3NhZ2UpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICkKICAgIH0=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUuSG9tZVZpZXdNb2RlbC5EcmF3ZXJOYXZpZ2F0aW9uCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUuSG9tZVZpZXdNb2RlbC5EcmF3ZXJIZWFkZXJWaWV3RWZmZWN0Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUuSG9tZVZpZXdNb2RlbC5EcmF3ZXJOYXZpZ2F0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
