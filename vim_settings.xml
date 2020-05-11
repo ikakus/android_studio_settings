@@ -124,7 +124,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" timestamp="1589183604826" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" timestamp="1589183770198">
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="67" />
+        <mark key="." line="42" column="66" />
+        <mark key="^" line="42" column="67" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1588933152068">
         <mark key="[" line="289" column="8" />
         <mark key="]" line="290" column="41" />
@@ -139,11 +144,6 @@
         <mark key="]" line="3" column="21" />
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1588756201234">
-        <mark key="[" line="332" column="110" />
-        <mark key="]" line="338" column="3" />
-        <mark key="." line="334" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/common/graphql/lib/QueryContainerBuilder.kt" timestamp="1588769762269">
         <mark key="[" line="5" column="16" />
@@ -161,6 +161,7 @@
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="9" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/views/DrawerHeader.kt" timestamp="1589183821904" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/repository/ConfigurationRepositoryImpl.kt" timestamp="1588756820722">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -275,11 +276,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>navigationDrawerController</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXREcmF3ZXJIZWFkZXJBY2NvdW50KGFjY291bnQ6IEFjY291bnQpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>navigationDrawerController</text>
+        <text>_drawerHeaderAccount.postValue(account)</text>
       </register>
       <register name="/" type="4">
         <text>acc</text>
@@ -288,31 +289,31 @@
         <text encoding="base64">IC5kb09uU3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZSh0cnVlKQogICAgICAgICAgICB9CiAgICAgICAgICAgIC5kb0ZpbmFsbHkgewogICAgICAgICAgICAgICAgX2xvYWRpbmcucG9zdFZhbHVlKGZhbHNlKQogICAgICAgICAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJhc2VTY2hlZHVsZXJQcm92aWRlcjogQmFzZVNjaGVkdWxlclByb3ZpZGVyCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXREcmF3ZXJIZWFkZXJBY2NvdW50KGFjY291bnQ6IEFjY291bnQpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
+        <text encoding="base64">ICAgICAgICBzZXREcmF3ZXJIZWFkZXJBY2NvdW50KGFjY291bnRzRGF0YS5zZWxlY3RlZEFjY291bnQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIGJhc2VTY2hlZHVsZXJQcm92aWRlcjogQmFzZVNjaGVkdWxlclByb3ZpZGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBoYXNPdGhlclBsYW5zOiBMaXZlRGF0YTxCb29sZWFuPiA9IG5hdmlnYXRpb25EcmF3ZXJDb250cm9sbGVyLmhhc090aGVyUGxhbnMKICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
+        <text encoding="base64">ICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IC5kb09uU3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5kb0ZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBoYXNPdGhlclBsYW5zOiBMaXZlRGF0YTxCb29sZWFuPiA9IG5hdmlnYXRpb25EcmF3ZXJDb250cm9sbGVyLmhhc090aGVyUGxhbnMKICAgIHZhbCBkcmF3ZXJJdGVtczogTGl2ZURhdGE8TGlzdDxEeW5hbWljRHJhd2VySXRlbT4+ID0gbmF2aWdhdGlvbkRyYXdlckNvbnRyb2xsZXIuZHJhd2VySXRlbXMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAuZG9PblN1YnNjcmliZSB7CiAgICAgICAgICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgICAgfQogICAgICAgICAgICAuZG9GaW5hbGx5IHsKICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">IC5kb09uU3Vic2NyaWJlIHsKICAgICAgICAgICAgICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5kb0ZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">LnN1YnNjcmliZSB7IGxpc3QgLT4KICAgICAgICAgICAgX2RyYXdlckl0ZW1zLnBvc3RWYWx1ZShsaXN0KQogICAgICAgIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
