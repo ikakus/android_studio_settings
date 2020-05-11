@@ -124,12 +124,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" timestamp="1589186925335">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" timestamp="1589188066088">
         <mark key="'" line="100" column="25" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="107" column="36" />
-        <mark key="." line="109" column="0" />
+        <mark key="[" line="78" column="25" />
+        <mark key="]" line="78" column="29" />
+        <mark key="^" line="78" column="29" />
+        <mark key="." line="78" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1588933152068">
         <mark key="[" line="289" column="8" />
@@ -277,17 +277,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KAogICAgICAgICAgICAgICAgICAgIHBsYW5WaXNpYmxlCiAgICAgICAgICAgICAgICApIAo=</text>
+      <register name="&quot;" type="4">
+        <text>DynamicDrawerItem.MyPlan</text>
       </register>
       <register name="-" type="4">
-        <text>setupPlanVisibility</text>
+        <text>DynamicDrawerItem.MyPlan</text>
       </register>
       <register name="/" type="4">
         <text>boo</text>
       </register>
-      <register name="0" type="4">
-        <text>DynamicDrawerItem.MyPlan</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTaW5nbGUuanVzdChudWxsKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KAogICAgICAgICAgICAgICAgICAgIHBsYW5WaXNpYmxlCiAgICAgICAgICAgICAgICApIAo=</text>
