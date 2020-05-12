@@ -94,6 +94,7 @@
         <mark key="[" line="115" column="0" />
         <mark key="]" line="115" column="53" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589278160245">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
@@ -168,11 +169,6 @@
         <mark key="[" line="142" column="50" />
         <mark key="]" line="142" column="50" />
         <mark key="." line="142" column="50" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/manage/ManageDebitCardViewModel.kt" timestamp="1589277608100">
-        <mark key="[" line="345" column="50" />
-        <mark key="]" line="345" column="50" />
-        <mark key="." line="345" column="50" />
       </file>
     </filemarks>
     <jumps>
