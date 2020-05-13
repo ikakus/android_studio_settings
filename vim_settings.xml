@@ -96,11 +96,11 @@
         <mark key="]" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589362495530">
-        <mark key="[" line="127" column="9" />
-        <mark key="]" line="129" column="8" />
-        <mark key="." line="129" column="7" />
-        <mark key="^" line="129" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589366330775">
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="31" />
+        <mark key="." line="114" column="30" />
+        <mark key="^" line="114" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589278160245">
         <mark key="[" line="261" column="0" />
@@ -275,47 +275,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>staging</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text>sha</text>
       </register>
       <register name="0" type="4">
-        <text>api.staging.monese.com</text>
+        <text encoding="base64">LmFkZChob3N0bmFtZSwg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcGkuc3RhZ2luZy5tb25lc2UuY29tIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPTogQ049YXBpLmRldi5tb25lc2UuY29tCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9lRW5wMTVLYnZDbEVIb0daRGpBekpXQ01pOTJXVTZKT0x3TkxMSjMxSFJrPSIpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni80YTZjUGVoSTdPRzZjdURaa2E1TkRaN0ZSOGE2MGQzYXVkYStzS2ZnNE5nPSIpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni94NFF6UFNDODEwSzUvY01qYjA1UW00azNCdzV6Qm40bFRkTy9uRVcvVGQ0PSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBhcGkuc3RhZ2luZy5tb25lc2UuY29tIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9lRW5wMTVLYnZDbEVIb0daRGpBekpXQ01pOTJXVTZKT0x3TkxMSjMxSFJrPSIpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni80YTZjUGVoSTdPRzZjdURaa2E1TkRaN0ZSOGE2MGQzYXVkYStzS2ZnNE5nPSIpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni94NFF6UFNDODEwSzUvY01qYjA1UW00azNCdzV6Qm40bFRkTy9uRVcvVGQ0PSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNoYTI1Ni9HUUd0Z21ncFVrTWFkQVRJMkdBYmhQQWdKay9iYXQzLzRqNWMvWjZIR0tFPQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNoYTI1Ni9MN1hvdnZKbjloM0dUTDRFVGVkS01CQ0xwQURKZEtWaVdiRjlTMlhwRitVPSAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHNoYTI1Ni9HUUd0Z21ncFVrTWFkQVRJMkdBYmhQQWdKay9iYXQzLzRqNWMvWjZIR0tFPQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHNoYTI1Ni9MN1hvdnZKbjloM0dUTDRFVGVkS01CQ0xwQURKZEtWaVdiRjlTMlhwRitVPSAK</text>
+      </register>
+      <register name="7" type="2">
         <text>//        sha256/eEnp15KbvClEHoGZDjAzJWCMi92WU6JOLwNLLJ31HRk=
 //        sha256/4a6cPehI7OG6cuDZka5NDZ7FR8a60d3auda+sKfg4Ng=
 //        sha256/x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLm1vbmVzZS5jb20iCiAgICAgICAgdmFsIGNlcnRpZmljYXRlUGlubmVyOiBDZXJ0aWZpY2F0ZVBpbm5lciA9IENlcnRpZmljYXRlUGlubmVyLkJ1aWxkZXIoKQogICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICBjbGllbnRCdWlsZGVyLmNlcnRpZmljYXRlUGlubmVyKGNlcnRpZmljYXRlUGlubmVyKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgdmFsIGhvc3RuYW1lID0gImFwaS5tb25lc2UuY29tIgogICAgICAgIHZhbCBjZXJ0aWZpY2F0ZVBpbm5lcjogQ2VydGlmaWNhdGVQaW5uZXIgPSBDZXJ0aWZpY2F0ZVBpbm5lci5CdWlsZGVyKCkKICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCiAgICAgICAgICAgIC5idWlsZCgp</text>
-      </register>
-      <register name="9" type="8">
-        <text>:
-:
-:</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
