@@ -83,11 +83,11 @@
         <mark key="]" line="353" column="50" />
         <mark key="." line="353" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589289297730">
-        <mark key="[" line="82" column="50" />
-        <mark key="]" line="83" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589354983907">
+        <mark key="[" line="79" column="34" />
+        <mark key="]" line="79" column="35" />
         <mark key="^" line="83" column="48" />
-        <mark key="." line="83" column="47" />
+        <mark key="." line="79" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589280399085">
         <mark key="'" line="65" column="4" />
@@ -106,6 +106,10 @@
         <mark key="]" line="261" column="0" />
         <mark key="^" line="255" column="14" />
         <mark key="." line="261" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/conf/MoneseUrl.java" timestamp="1589354976147">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/indelivery/DebitCardInDeliveryViewModel.kt" timestamp="1589277632219">
         <mark key="[" line="261" column="50" />
@@ -140,12 +144,6 @@
         <mark key="]" line="21" column="21" />
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/nocard/OrderDebitCardViewModel.kt" timestamp="1589277627427">
-        <mark key="[" line="259" column="50" />
-        <mark key="]" line="259" column="93" />
-        <mark key="." line="259" column="92" />
-        <mark key="^" line="259" column="93" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/invite/InviteAndEarnViewModel.kt" timestamp="1589277638923">
         <mark key="[" line="65" column="50" />
@@ -277,16 +275,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>hostname</text>
+        <text>api.dev.monese.com</text>
       </register>
       <register name="-" type="4">
-        <text>hostname</text>
+        <text>MoneseUrl.API_URL</text>
       </register>
       <register name="/" type="4">
         <text>na</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZShuYXZpZ2F0aW9uLCA6Om9uRHJhd2VyTmF2aWdhdGlvbikK</text>
+      <register name="0" type="4">
+        <text>api.dev.monese.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc01hbmFnZXI6IEFuYWx5dGljc01hbmFnZXIK</text>
