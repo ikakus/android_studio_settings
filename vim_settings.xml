@@ -78,11 +78,11 @@
         <mark key="]" line="353" column="50" />
         <mark key="." line="353" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589359745666">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="135" column="58" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589361473304">
+        <mark key="[" line="131" column="31" />
+        <mark key="]" line="131" column="32" />
+        <mark key="^" line="131" column="32" />
+        <mark key="." line="131" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589280399085">
         <mark key="'" line="65" column="4" />
@@ -96,11 +96,11 @@
         <mark key="]" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589359258824">
-        <mark key="[" line="114" column="7" />
-        <mark key="]" line="117" column="19" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="114" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589361530582">
+        <mark key="[" line="114" column="27" />
+        <mark key="]" line="114" column="31" />
+        <mark key="." line="114" column="30" />
+        <mark key="^" line="114" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589278160245">
         <mark key="[" line="261" column="0" />
@@ -276,7 +276,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLm1vbmVzZS5jb20iCiAgICAgICAgdmFsIGNlcnRpZmljYXRlUGlubmVyOiBDZXJ0aWZpY2F0ZVBpbm5lciA9IENlcnRpZmljYXRlUGlubmVyLkJ1aWxkZXIoKQogICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICBjbGllbnRCdWlsZGVyLmNlcnRpZmljYXRlUGlubmVyKGNlcnRpZmljYXRlUGlubmVyKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L2VFbnAxNUtidkNsRUhvR1pEakF6SldDTWk5MldVNkpPTHdOTExKMzFIUms9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2LzRhNmNQZWhJN09HNmN1RFprYTVORFo3RlI4YTYwZDNhdWRhK3NLZmc0Tmc9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L3g0UXpQU0M4MTBLNS9jTWpiMDVRbTRrM0J3NXpCbjRsVGRPL25FVy9UZDQ9IikK</text>
       </register>
       <register name="-" type="4">
         <text>sha256/eEnp15KbvClEHoGZDjAzJWCMi92WU6JOLwNLLJ31HRk=</text>
@@ -284,8 +284,8 @@
       <register name="/" type="4">
         <text>sha</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHZhbCBob3N0bmFtZSA9ICJhcGkubW9uZXNlLmNvbSIKICAgICAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCiAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQT0iKQogICAgICAgICAgICAuYnVpbGQoKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L2VFbnAxNUtidkNsRUhvR1pEakF6SldDTWk5MldVNkpPTHdOTExKMzFIUms9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2LzRhNmNQZWhJN09HNmN1RFprYTVORFo3RlI4YTYwZDNhdWRhK3NLZmc0Tmc9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L3g0UXpQU0M4MTBLNS9jTWpiMDVRbTRrM0J3NXpCbjRsVGRPL25FVy9UZDQ9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLm1vbmVzZS5jb20iCiAgICAgICAgdmFsIGNlcnRpZmljYXRlUGlubmVyOiBDZXJ0aWZpY2F0ZVBpbm5lciA9IENlcnRpZmljYXRlUGlubmVyLkJ1aWxkZXIoKQogICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICBjbGllbnRCdWlsZGVyLmNlcnRpZmljYXRlUGlubmVyKGNlcnRpZmljYXRlUGlubmVyKQo=</text>
