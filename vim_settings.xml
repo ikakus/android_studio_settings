@@ -86,6 +86,10 @@
         <mark key="]" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsAmazonConfig.kt" timestamp="1589373532507" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589373819559">
+        <mark key="[" line="37" column="60" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589278160245">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
@@ -115,12 +119,6 @@
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragmentViewModel.kt" timestamp="1589277994934">
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="19" />
-        <mark key="." line="62" column="18" />
-        <mark key="^" line="62" column="19" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/connection/network/A25s2ConnectionLostViewModel.kt" timestamp="1589279257844" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_paypal_host.xml" timestamp="1589278151882">
         <mark key="[" line="4" column="21" />
@@ -138,13 +136,6 @@
         <mark key="]" line="18" column="71" />
         <mark key="." line="18" column="70" />
         <mark key="^" line="18" column="71" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589278035328">
-        <mark key="'" line="250" column="0" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="325" column="0" />
-        <mark key="." line="318" column="28" />
-        <mark key="^" line="318" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/staging/res/values/donottranslate.xml" timestamp="1589362460241">
         <mark key="[" line="4" column="35" />
