@@ -68,11 +68,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589368292127">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589369572771">
         <mark key="[" line="131" column="7" />
-        <mark key="]" line="120" column="5" />
-        <mark key="." line="120" column="4" />
-        <mark key="^" line="120" column="5" />
+        <mark key="]" line="129" column="57" />
+        <mark key="." line="129" column="56" />
+        <mark key="^" line="129" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589280399085">
         <mark key="'" line="65" column="4" />
@@ -156,11 +156,8 @@
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589368235942">
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-        <mark key="." line="19" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589369510316">
+        <mark key="]" line="18" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -269,7 +266,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBob3N0bmFtZSA9ICJhcGkuZGV2Lm1vbmVzZS5jb20iCi8vICAgICAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCi8vICAgICAgICAgICAgLmJ1aWxkKCkKLy8gICAgICAgIGNsaWVudEJ1aWxkZXIuY2VydGlmaWNhdGVQaW5uZXIoY2VydGlmaWNhdGVQaW5uZXIpCg==</text>
+        <text encoding="base64">Ci8vc3RhZ2luZwovLyAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPSIpCi8vICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0pTTXpxT09ydHlPVDFrbWF1NnpLaGdUNjc2aEdnY3pENVZNZFJNeUpaRkE9IikKLy8gICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvKytNQmdESDVXR3ZMOUJjbjVCZTMwY1JjTDBmNU8rTnlvWHVXdFFkWDFhST0iKQoKLy9kZXYKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikKCi8vbGl2ZQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvZUVucDE1S2J2Q2xFSG9HWkRqQXpKV0NNaTkyV1U2Sk9Md05MTEozMUhSaz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvNGE2Y1BlaEk3T0c2Y3VEWmthNU5EWjdGUjhhNjBkM2F1ZGErc0tmZzROZz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYveDRRelBTQzgxMEs1L2NNamIwNVFtNGszQnc1ekJuNGxUZE8vbkVXL1RkND0iKQoK</text>
       </register>
       <register name="-" type="4">
         <text>dev</text>
@@ -278,7 +275,7 @@
         <text>sha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L2VFbnAxNUtidkNsRUhvR1pEakF6SldDTWk5MldVNkpPTHdOTExKMzFIUms9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2LzRhNmNQZWhJN09HNmN1RFprYTVORFo3RlI4YTYwZDNhdWRhK3NLZmc0Tmc9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L3g0UXpQU0M4MTBLNS9jTWpiMDVRbTRrM0J3NXpCbjRsVGRPL25FVy9UZDQ9IikK</text>
+        <text encoding="base64">Ci8vc3RhZ2luZwovLyAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPSIpCi8vICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0pTTXpxT09ydHlPVDFrbWF1NnpLaGdUNjc2aEdnY3pENVZNZFJNeUpaRkE9IikKLy8gICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvKytNQmdESDVXR3ZMOUJjbjVCZTMwY1JjTDBmNU8rTnlvWHVXdFFkWDFhST0iKQoKLy9kZXYKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikKCi8vbGl2ZQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvZUVucDE1S2J2Q2xFSG9HWkRqQXpKV0NNaTkyV1U2Sk9Md05MTEozMUhSaz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvNGE2Y1BlaEk3T0c2Y3VEWmthNU5EWjdGUjhhNjBkM2F1ZGErc0tmZzROZz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYveDRRelBTQzgxMEs1L2NNamIwNVFtNGszQnc1ekJuNGxUZE8vbkVXL1RkND0iKQoK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIHZhbCBob3N0bmFtZSA9ICJhcGkuZGV2Lm1vbmVzZS5jb20iCi8vICAgICAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCi8vICAgICAgICAgICAgLmJ1aWxkKCkKLy8gICAgICAgIGNsaWVudEJ1aWxkZXIuY2VydGlmaWNhdGVQaW5uZXIoY2VydGlmaWNhdGVQaW5uZXIpCg==</text>
