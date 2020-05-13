@@ -156,8 +156,11 @@
         <mark key="[" line="4" column="35" />
         <mark key="]" line="4" column="56" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589369510316">
-        <mark key="]" line="18" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589370383245">
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -266,43 +269,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vc3RhZ2luZwovLyAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPSIpCi8vICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0pTTXpxT09ydHlPVDFrbWF1NnpLaGdUNjc2aEdnY3pENVZNZFJNeUpaRkE9IikKLy8gICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvKytNQmdESDVXR3ZMOUJjbjVCZTMwY1JjTDBmNU8rTnlvWHVXdFFkWDFhST0iKQoKLy9kZXYKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikKCi8vbGl2ZQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvZUVucDE1S2J2Q2xFSG9HWkRqQXpKV0NNaTkyV1U2Sk9Md05MTEozMUhSaz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvNGE2Y1BlaEk3T0c2Y3VEWmthNU5EWjdGUjhhNjBkM2F1ZGErc0tmZzROZz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYveDRRelBTQzgxMEs1L2NNamIwNVFtNGszQnc1ekJuNGxUZE8vbkVXL1RkND0iKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>sha256/asdfasdfasdf/bat3/4j5c/Z6HGKE=</text>
       </register>
       <register name="/" type="4">
         <text>sha</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ci8vc3RhZ2luZwovLyAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPSIpCi8vICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0pTTXpxT09ydHlPVDFrbWF1NnpLaGdUNjc2aEdnY3pENVZNZFJNeUpaRkE9IikKLy8gICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvKytNQmdESDVXR3ZMOUJjbjVCZTMwY1JjTDBmNU8rTnlvWHVXdFFkWDFhST0iKQoKLy9kZXYKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikKCi8vbGl2ZQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvZUVucDE1S2J2Q2xFSG9HWkRqQXpKV0NNaTkyV1U2Sk9Md05MTEozMUhSaz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvNGE2Y1BlaEk3T0c2Y3VEWmthNU5EWjdGUjhhNjBkM2F1ZGErc0tmZzROZz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYveDRRelBTQzgxMEs1L2NNamIwNVFtNGszQnc1ekJuNGxUZE8vbkVXL1RkND0iKQoK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvR1FHdGdtZ3BVa01hZEFUSTJHQWJoUEFnSmsvYmF0My80ajVjL1o2SEdLRT0iKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBob3N0bmFtZSA9ICJhcGkuZGV2Lm1vbmVzZS5jb20iCi8vICAgICAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCi8vICAgICAgICAgICAgLmJ1aWxkKCkKLy8gICAgICAgIGNsaWVudEJ1aWxkZXIuY2VydGlmaWNhdGVQaW5uZXIoY2VydGlmaWNhdGVQaW5uZXIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLmRldi5tb25lc2UuY29tIgo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBob3N0bmFtZSA9ICJhcGkuZGV2Lm1vbmVzZS5jb20iCi8vICAgICAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCi8vICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCi8vICAgICAgICAgICAgLmJ1aWxkKCkKLy8gICAgICAgIGNsaWVudEJ1aWxkZXIuY2VydGlmaWNhdGVQaW5uZXIoY2VydGlmaWNhdGVQaW5uZXIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vc3RhZ2luZwovLyAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPSIpCi8vICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0pTTXpxT09ydHlPVDFrbWF1NnpLaGdUNjc2aEdnY3pENVZNZFJNeUpaRkE9IikKLy8gICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvKytNQmdESDVXR3ZMOUJjbjVCZTMwY1JjTDBmNU8rTnlvWHVXdFFkWDFhST0iKQoKLy9kZXYKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikKCi8vbGl2ZQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvZUVucDE1S2J2Q2xFSG9HWkRqQXpKV0NNaTkyV1U2Sk9Md05MTEozMUhSaz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvNGE2Y1BlaEk3T0c2Y3VEWmthNU5EWjdGUjhhNjBkM2F1ZGErc0tmZzROZz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYveDRRelBTQzgxMEs1L2NNamIwNVFtNGszQnc1ekJuNGxUZE8vbkVXL1RkND0iKQoK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLmRldi5tb25lc2UuY29tIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9nZXQoKSA9IEJ1aWxkQ29uZmlnLkZMQVZPUgo=</text>
+        <text encoding="base64">Ci8vc3RhZ2luZwovLyAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9MQy9vM2t6N1JrOUlGWUVERmdwbGlYWEZCMkhXcG43M1VwSDFDUUd3Ry9JPSIpCi8vICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0pTTXpxT09ydHlPVDFrbWF1NnpLaGdUNjc2aEdnY3pENVZNZFJNeUpaRkE9IikKLy8gICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvKytNQmdESDVXR3ZMOUJjbjVCZTMwY1JjTDBmNU8rTnlvWHVXdFFkWDFhST0iKQoKLy9kZXYKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikKCi8vbGl2ZQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvZUVucDE1S2J2Q2xFSG9HWkRqQXpKV0NNaTkyV1U2Sk9Md05MTEozMUhSaz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvNGE2Y1BlaEk3T0c2Y3VEWmthNU5EWjdGUjhhNjBkM2F1ZGErc0tmZzROZz0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYveDRRelBTQzgxMEs1L2NNamIwNVFtNGszQnc1ekJuNGxUZE8vbkVXL1RkND0iKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikK</text>
+        <text encoding="base64">Ly9nZXQoKSA9IEJ1aWxkQ29uZmlnLkZMQVZPUgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLmFkZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgLmFkZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBob3N0bmFtZSA9ICJhcGkuZGV2Lm1vbmVzZS5jb20iCiAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCiAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCiAgICAgICAgLmJ1aWxkKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmJ1aWxkKCkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
