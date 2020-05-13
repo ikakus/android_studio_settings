@@ -109,6 +109,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -117,8 +120,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/StrikeStatus.kt" timestamp="1588876582395">
         <mark key="[" line="3" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589180359503">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1589180762638">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_active_strike.xml" timestamp="1589041621965">
         <mark key="[" line="104" column="0" />
@@ -177,11 +182,11 @@
         <mark key="^" line="38" column="51" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_failed_strike.xml" timestamp="1589180385106">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="46" column="29" />
-        <mark key="^" line="56" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/fragment_failed_strike.xml" timestamp="1589180727597">
+        <mark key="[" line="63" column="54" />
+        <mark key="]" line="63" column="63" />
+        <mark key="." line="63" column="54" />
+        <mark key="^" line="46" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/newstrike/NewStrikeFragment.kt" timestamp="1589041687745">
         <mark key="[" line="46" column="0" />
@@ -339,17 +344,17 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="*" type="4">
+        <text>new strike screen</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>new strike screen</text>
       </register>
       <register name="/" type="4">
         <text>18</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgdmFsIHJlcG8gPSBSZXBvKHRoaXMpCiAgICAgICAgdmFsIHN0cmlrZSA9IFN0cmlrZShyZXBvKQ==</text>
+        <text>tv_failed</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
