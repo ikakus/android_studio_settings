@@ -78,8 +78,11 @@
         <mark key="]" line="353" column="50" />
         <mark key="." line="353" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589356049558">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1589359745666">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="135" column="58" />
         <mark key="^" line="7" column="48" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589280399085">
         <mark key="'" line="65" column="4" />
@@ -93,11 +96,10 @@
         <mark key="]" line="115" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589358239263">
-        <mark key="'" line="118" column="10" />
-        <mark key="[" line="114" column="27" />
-        <mark key="]" line="114" column="32" />
-        <mark key="." line="114" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589359258824">
+        <mark key="[" line="114" column="7" />
+        <mark key="]" line="117" column="19" />
+        <mark key="." line="129" column="0" />
         <mark key="^" line="114" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589278160245">
@@ -273,8 +275,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>sha256/eEnp15KbvClEHoGZDjAzJWCMi92WU6JOLwNLLJ31HRk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLm1vbmVzZS5jb20iCiAgICAgICAgdmFsIGNlcnRpZmljYXRlUGlubmVyOiBDZXJ0aWZpY2F0ZVBpbm5lciA9IENlcnRpZmljYXRlUGlubmVyLkJ1aWxkZXIoKQogICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICBjbGllbnRCdWlsZGVyLmNlcnRpZmljYXRlUGlubmVyKGNlcnRpZmljYXRlUGlubmVyKQo=</text>
       </register>
       <register name="-" type="4">
         <text>sha256/eEnp15KbvClEHoGZDjAzJWCMi92WU6JOLwNLLJ31HRk=</text>
@@ -283,38 +285,38 @@
         <text>sha</text>
       </register>
       <register name="0" type="4">
-        <text>sha256/x4QzPSC810K5/cMjb05Qm4k3Bw5zBn4lTdO/nEW/Td4=</text>
+        <text encoding="base64">IHZhbCBob3N0bmFtZSA9ICJhcGkubW9uZXNlLmNvbSIKICAgICAgICB2YWwgY2VydGlmaWNhdGVQaW5uZXI6IENlcnRpZmljYXRlUGlubmVyID0gQ2VydGlmaWNhdGVQaW5uZXIuQnVpbGRlcigpCiAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQT0iKQogICAgICAgICAgICAuYnVpbGQoKQ==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgaG9zdG5hbWUgPSAiYXBpLm1vbmVzZS5jb20iCiAgICAgICAgdmFsIGNlcnRpZmljYXRlUGlubmVyOiBDZXJ0aWZpY2F0ZVBpbm5lciA9IENlcnRpZmljYXRlUGlubmVyLkJ1aWxkZXIoKQogICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0FBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUE9IikKICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICBjbGllbnRCdWlsZGVyLmNlcnRpZmljYXRlUGlubmVyKGNlcnRpZmljYXRlUGlubmVyKQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgdmFsIGhvc3RuYW1lID0gImFwaS5tb25lc2UuY29tIgogICAgICAgIHZhbCBjZXJ0aWZpY2F0ZVBpbm5lcjogQ2VydGlmaWNhdGVQaW5uZXIgPSBDZXJ0aWZpY2F0ZVBpbm5lci5CdWlsZGVyKCkKICAgICAgICAgICAgLmFkZChob3N0bmFtZSwgInNoYTI1Ni9BQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBPSIpCiAgICAgICAgICAgIC5idWlsZCgp</text>
+      </register>
+      <register name="3" type="8">
         <text>:
 :
 :</text>
       </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text>CN=api.monese.com,OU=COMODO SSL,OU=Domain Control Validated
 CN=Sectigo RSA Domain Validation Secure Server CA,O=Sectigo Limited,L=Salford,ST=Greater Manchest
 CN=USERTrust RSA Certification Authority,O=The USERTRUST Network,L=Jersey City,ST=New Jersey,C=US</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBSdW5uYWJsZSB7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50Lm5ld0NhbGwocmVxdWVzdCkuZXhlY3V0ZSgpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCkK</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc01hbmFnZXI6IEFuYWx5dGljc01hbmFnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbmF2aWdhdGlvbkRyYXdlckhlbHBlci5yZWZyZXNoUHJpdmFjeVN3aXRjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQubmV3Q2FsbChyZXF1ZXN0KS5leGVjdXRlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljc01hbmFnZXI6IEFuYWx5dGljc01hbmFnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
