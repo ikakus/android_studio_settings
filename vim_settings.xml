@@ -89,12 +89,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/views/DrawerHeader.kt" timestamp="1589379816824">
         <mark key="[" line="43" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589441325464">
-        <mark key="'" line="103" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="62" column="42" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589443245977">
+        <mark key="'" line="106" column="0" />
+        <mark key="[" line="76" column="28" />
+        <mark key="]" line="76" column="28" />
+        <mark key="^" line="75" column="30" />
+        <mark key="." line="76" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsAmazonConfig.kt" timestamp="1589373532507" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589373819559">
@@ -129,9 +129,6 @@
         <mark key="]" line="21" column="21" />
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="20" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589378494077">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/BaseUrlConf.kt" timestamp="1589356152649">
         <mark key="[" line="18" column="28" />
@@ -255,44 +252,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLm1hbmFnZXJzLk1hbmFnZXJQcm92aWRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>Single</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>Single</text>
       </register>
       <register name="/" type="4">
         <text>sha</text>
       </register>
       <register name="0" type="4">
-        <text>selectedAccount</text>
+        <text encoding="base64">Z2V0QWNjb3VudHNEYXRhVXNlQ2FzZS5jcmVhdGUoKS56aXBXaXRoKGdldFNlbGVjdGVkQWNjb3VudFVzZUNhc2UuY3JlYXRlKCkpCiAgICAgICAgICAgIC5tYXAgeyAoYWNjb3VudHNEYXRhLCBzZWxlY3RlZEFjY291bnQpIC0+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLm1hbmFnZXJzLk1hbmFnZXJQcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KER5bmFtaWNEcmF3ZXJJdGVtLk5vbmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuQWNjb3VudHNEYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmZsYXRNYXAgewogICAgICAgICAgICAgICAgdmFsIHBsYW5WaXNpYmxlID0gYWNjb3VudHNEYXRhLnNlbGVjdGVkQWNjb3VudC5hY2NvdW50VHlwZSAhPSBBY2NvdW50VHlwZS5DT05USVMKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGlmIChhZGRBY2NvdW50VmlzaWJsZSkgewogICAgICAgICAgICBTaW5nbGUuanVzdChEeW5hbWljRHJhd2VySXRlbS5BZGRBY2NvdW50KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFNpbmdsZS5qdXN0KER5bmFtaWNEcmF3ZXJJdGVtLk5vbmUpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwbGFuVmlzaWJsZSkgewogICAgICAgICAgICAgICAgICAgIFNpbmdsZS5qdXN0KER5bmFtaWNEcmF3ZXJJdGVtLk15UGxhbikKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgU2luZ2xlLmp1c3QoRHluYW1pY0RyYXdlckl0ZW0uTm9uZSkKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNpbmdsZS56aXAoKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWRkQWNjb3VudFZpc2libGUgPSBhY2NvdW50c0RhdGEuc2VsZWN0ZWRBY2NvdW50LmFjY291bnRUeXBlICE9IEFjY291bnRUeXBlLkNPTlRJUyAmJgogICAgICAgICAgICAgICAgYWNjb3VudHNEYXRhLmFjY291bnRzLnNpemUgIT0gQ2hvb3NlQWNjb3VudFZpZXdNb2RlbC5NQVhfTlVNQkVSX09GX1JFR1VMQVJfQUNDT1VOVFMK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC4=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLm1hbmFnZXJzLk1hbmFnZXJQcm92aWRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IG1hbmFnZXJQcm92aWRlci5hY2NvdW50c0RhdGFNYW5hZ2VyLmFjY291bnRzRGF0YQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuQWNjb3VudHNEYXRhCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjY291bnRzRGF0YTogQWNjb3VudHNEYXRhCg==</text>
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIGlmIChhZGRBY2NvdW50VmlzaWJsZSkgewogICAgICAgICAgICBTaW5nbGUuanVzdChEeW5hbWljRHJhd2VySXRlbS5BZGRBY2NvdW50KQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIFNpbmdsZS5qdXN0KER5bmFtaWNEcmF3ZXJJdGVtLk5vbmUpCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG1hbmFnZXJQcm92aWRlcjogTWFuYWdlclByb3ZpZGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
