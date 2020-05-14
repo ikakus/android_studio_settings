@@ -74,12 +74,12 @@
         <mark key="." line="129" column="56" />
         <mark key="^" line="129" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589455766819">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589456516068">
         <mark key="'" line="109" column="11" />
-        <mark key="[" line="63" column="9" />
-        <mark key="]" line="63" column="15" />
-        <mark key="." line="63" column="14" />
-        <mark key="^" line="63" column="15" />
+        <mark key="[" line="228" column="0" />
+        <mark key="]" line="228" column="0" />
+        <mark key="." line="228" column="0" />
+        <mark key="^" line="204" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/views/DrawerHeader.kt" timestamp="1589455418207">
@@ -117,9 +117,9 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="306" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589455709153">
-        <mark key="[" line="510" column="29" />
-        <mark key="]" line="511" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589456395509">
+        <mark key="[" line="528" column="2" />
+        <mark key="]" line="559" column="5" />
         <mark key="." line="511" column="7" />
         <mark key="^" line="511" column="8" />
       </file>
@@ -259,44 +259,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_drawerHeaderViewEffect</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzaGFrZURpc3Bvc2FibGU/LmxldCB7CiAgICAgICAgICAgIGNvbXBvc2l0ZURpc3Bvc2FibGUuYWRkKGl0KQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>_drawerHeaderViewEffect</text>
+        <text>shakeDisposable =</text>
       </register>
       <register name="/" type="4">
         <text>fla</text>
       </register>
       <register name="0" type="4">
-        <text>AviosAccount</text>
+        <text encoding="base64">ICBmdW4gc2V0dXBTaGFrZURpc3Bvc2FibGUoKSB7CiAgICAgICAgc2hha2VEaXNwb3NhYmxlID0gUHJpdmFjeVB1Ymxpc2hlcgogICAgICAgICAgICAuc3Vic2NyaWJlKCkKICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuY29tcHV0YXRpb24oKSkKICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgIC5zdWJzY3JpYmUgeyBpc0Zyb21EcmF3ZXIgLT4KICAgICAgICAgICAgICAgIG5hdmlnYXRpb25EcmF3ZXJDb250cm9sbGVyLnJlZnJlc2hEcmF3ZXIoKQogICAgICAgICAgICAgICAgX3BlcmZvcm1IYXB0aWNGZWVkYmFjay5wb3N0VmFsdWUoVW5pdCkKICAgICAgICAgICAgICAgIGlmIChpc0Zyb21EcmF3ZXIpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIuaXNQcml2YWN5TW9kZURpYWxvZ1NlZW4ubm90KCkgJiYgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIuaXNQcml2YWN5TW9kZURpYWxvZ1NlZW5Gcm9tU2hha2Uubm90KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgX2hvbWVBY3Rpdml0eVZpZXdFZmZlY3QucG9zdFZhbHVlKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgSG9tZUFjdGl2aXR5Vmlld0VmZmVjdC5Qcml2YWN5U2hha2VEaWFsb2coCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIuaXNQcml2YWN5TW9kZVNoYWtlRW5hYmxlZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLmlzUHJpdmFjeU1vZGVEaWFsb2dTZWVuID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgaWYgKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLmlzUHJpdmFjeU1vZGVEaWFsb2dTZWVuRnJvbVNoYWtlLm5vdCgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIF9ob21lQWN0aXZpdHlWaWV3RWZmZWN0LnBvc3RWYWx1ZSgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhvbWVBY3Rpdml0eVZpZXdFZmZlY3QuUHJpdmFjeVNoYWtlRGlhbG9nKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLmlzUHJpdmFjeU1vZGVTaGFrZUVuYWJsZWQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci5pc1ByaXZhY3lNb2RlRGlhbG9nU2VlbkZyb21TaGFrZSA9IHRydWUKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICBzaGFrZURpc3Bvc2FibGU/LmxldCB7CiAgICAgICAgICAgIGNvbXBvc2l0ZURpc3Bvc2FibGUuYWRkKGl0KQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9kcmF3ZXJIZWFkZXJWaWV3RWZmZWN0ID0gU2luZ2xlTGl2ZUV2ZW50PEF2aW9zQWNjb3VudD4oKQo=</text>
+        <text encoding="base64">ICAgICAgICBzaGFrZURpc3Bvc2FibGU/LmxldCB7CiAgICAgICAgICAgIGNvbXBvc2l0ZURpc3Bvc2FibGUuYWRkKGl0KQogICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNoZWNrIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZSgpCiAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmNvbXB1dGF0aW9uKCkpCiAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIF9kcmF3ZXJIZWFkZXJWaWV3RWZmZWN0LnBvc3RWYWx1ZShEcmF3ZXJIZWFkZXJWaWV3RWZmZWN0LkF2aW9zSGVhZGVyKGF2aW9zQWNjb3VudCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUuSG9tZVZpZXdNb2RlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuY2hvb3NlLm1vZGVscy5Bdmlvc0FjY291bnQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9kcmF3ZXJIZWFkZXJWaWV3RWZmZWN0ID0gU2luZ2xlTGl2ZUV2ZW50PEF2aW9zQWNjb3VudD4oKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUubmF2ZHJhd2VyLk5hdmlnYXRpb25EcmF3ZXJWaWV3TW9kZWwuSGVhZGVyVmlld0VmZmVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGNoZWNrIHRoaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIF9kcmF3ZXJIZWFkZXJWaWV3RWZmZWN0LnBvc3RWYWx1ZShEcmF3ZXJIZWFkZXJWaWV3RWZmZWN0LkF2aW9zSGVhZGVyKGF2aW9zQWNjb3VudCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuY2hvb3NlLm1vZGVscy5Bdmlvc0FjY291bnQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfZHJhd2VySGVhZGVyVmlld0VmZmVjdC5wb3N0VmFsdWUobnVsbCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUubmF2ZHJhd2VyLk5hdmlnYXRpb25EcmF3ZXJWaWV3TW9kZWwuSGVhZGVyVmlld0VmZmVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIChoZWFkZXJWaWV3RWZmZWN0KSB7CiAgICAgICAgICAgIGlzIEhlYWRlclZpZXdFZmZlY3QuQXZpb3NIZWFkZXIgLT4gb25Bdmlvc0hlYWRlcihoZWFkZXJWaWV3RWZmZWN0LmF2aW9zQWNjb3VudCkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
