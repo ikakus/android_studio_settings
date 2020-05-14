@@ -110,11 +110,12 @@
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589462027058">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589463371607">
         <mark key="'" line="381" column="0" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+        <mark key="[" line="374" column="17" />
+        <mark key="]" line="374" column="17" />
+        <mark key="." line="374" column="17" />
+        <mark key="^" line="374" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589457744465">
         <mark key="[" line="132" column="0" />
@@ -262,11 +263,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>activity</text>
       </register>
       <register name="-" type="4">
-        <text>TODO</text>
+        <text>activity</text>
       </register>
       <register name="/" type="4">
         <text>fla</text>
