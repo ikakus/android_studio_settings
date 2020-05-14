@@ -74,16 +74,12 @@
         <mark key="." line="129" column="56" />
         <mark key="^" line="129" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589449221669">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589450371709">
         <mark key="'" line="109" column="11" />
-        <mark key="[" line="120" column="9" />
-        <mark key="]" line="120" column="26" />
-        <mark key="." line="120" column="25" />
-        <mark key="^" line="120" column="26" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/emailsignup/A2SignUpViewModel.kt" timestamp="1589279948543">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="53" />
+        <mark key="[" line="120" column="22" />
+        <mark key="]" line="120" column="37" />
+        <mark key="." line="120" column="36" />
+        <mark key="^" line="120" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/remote/RemoteHelperImpl.kt" timestamp="1589286542589" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/views/DrawerHeader.kt" timestamp="1589379816824">
@@ -129,6 +125,10 @@
         <mark key="]" line="21" column="21" />
         <mark key="^" line="21" column="21" />
         <mark key="." line="21" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/jointaccount/account/usecase/GetJointAccountsUseCase.kt" timestamp="1589450296717">
+        <mark key="[" line="25" column="34" />
+        <mark key="]" line="25" column="75" />
       </file>
       <file name="/Dummy.txt" timestamp="1589448660106">
         <mark key="[" line="0" column="0" />
@@ -255,44 +255,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBoYXNCdXNpbmVzc1dpdGhTdGF0dXNPcGVuID0gYWNjb3VudHNEYXRhLmJ1c2luZXNzV2l0aFN0YXR1c09wZW4gIT0gbnVsbAovLyAgICAgICAgX2hhc090aGVyUGxhbnMucG9zdFZhbHVlKGhhc0J1c2luZXNzV2l0aFN0YXR1c09wZW4gfHwgYWNjb3VudHNEYXRhLmhhc0pvaW50QWNjb3VudCgpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>JointAccountGetAccountsRequestDomainModel</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>JointAccountGetAccountsRequestDomainModel</text>
       </register>
       <register name="/" type="4">
         <text>fla</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU2luZ2xlLmp1c3QoRHluYW1pY0RyYXdlckl0ZW0uUHJpdmFjeVN3aXRjaCkK</text>
+      <register name="0" type="4">
+        <text>JointAccountGetAccountsResponseDomainModel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBoYXNCdXNpbmVzc1dpdGhTdGF0dXNPcGVuID0gYWNjb3VudHNEYXRhLmJ1c2luZXNzV2l0aFN0YXR1c09wZW4gIT0gbnVsbAovLyAgICAgICAgX2hhc090aGVyUGxhbnMucG9zdFZhbHVlKGhhc0J1c2luZXNzV2l0aFN0YXR1c09wZW4gfHwgYWNjb3VudHNEYXRhLmhhc0pvaW50QWNjb3VudCgpKQo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9oYXNPdGhlclBsYW5zLnBvc3RWYWx1ZShoYXNCdXNpbmVzc1dpdGhTdGF0dXNPcGVuIHx8IGhhc0pvaW50QWNjb3VudCkK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaGFzQnVzaW5lc3NXaXRoU3RhdHVzT3BlbiA9CiAgICAgICAgICAgIGRhdGEuYnVzaW5lc3Nlcz8uYW55IHsgaXQuYnVzaW5lc3NTdGF0dXMgPT0gQnVzaW5lc3NTdGF0dXNEb21haW5Nb2RlbC5PUEVOIH0gPT0gdHJ1ZQogICAgICAgIHZhbCBoYXNKb2ludEFjY291bnQgPSBqb2ludEFjY291bnRzLmpvaW50QWNjb3VudERhdGE/LmFjY291bnRzPy5pc05vdEVtcHR5KCkgPT0gdHJ1ZQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBoYXNCdXNpbmVzc1dpdGhTdGF0dXNPcGVuID0gYWNjb3VudHNEYXRhLmJ1c2luZXNzV2l0aFN0YXR1c09wZW4gIT0gbnVsbAovLyAgICAgICAgX2hhc090aGVyUGxhbnMucG9zdFZhbHVlKGhhc0J1c2luZXNzV2l0aFN0YXR1c09wZW4gfHwgYWNjb3VudHNEYXRhLmhhc0pvaW50QWNjb3VudCgpKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRBY2NvdW50c0RhdGFVc2VDYXNlLmNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgaGFzQnVzaW5lc3NXaXRoU3RhdHVzT3BlbiA9CiAgICAgICAgICAgIGRhdGEuYnVzaW5lc3Nlcz8uYW55IHsgaXQuYnVzaW5lc3NTdGF0dXMgPT0gQnVzaW5lc3NTdGF0dXNEb21haW5Nb2RlbC5PUEVOIH0gPT0gdHJ1ZQogICAgICAgIHZhbCBoYXNKb2ludEFjY291bnQgPSBqb2ludEFjY291bnRzLmpvaW50QWNjb3VudERhdGE/LmFjY291bnRzPy5pc05vdEVtcHR5KCkgPT0gdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cFBsYW5UaXRsZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldEFjY291bnRCeUFjY291bnROdW1iZXJVc2VDYXNlLmNyZWF0ZShHZXRBY2NvdW50QnlBY2NvdW50TnVtYmVyVXNlQ2FzZS5Bcmcoc2VsZWN0ZWRBY2NvdW50Lm51bWJlcikpCi8vICAgICAgICBfZHJhd2VySGVhZGVyQWNjb3VudC5wb3N0VmFsdWUoYWNjb3VudHNEYXRhLnNlbGVjdGVkQWNjb3VudCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRBY2NvdW50c0RhdGFVc2VDYXNlLmNyZWF0ZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZXR1cFBsYW5UaXRsZSgpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGdldEFjY291bnRCeUFjY291bnROdW1iZXJVc2VDYXNlLmNyZWF0ZShHZXRBY2NvdW50QnlBY2NvdW50TnVtYmVyVXNlQ2FzZS5Bcmcoc2VsZWN0ZWRBY2NvdW50Lm51bWJlcikpCi8vICAgICAgICBfZHJhd2VySGVhZGVyQWNjb3VudC5wb3N0VmFsdWUoYWNjb3VudHNEYXRhLnNlbGVjdGVkQWNjb3VudCkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
