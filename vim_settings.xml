@@ -69,11 +69,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_paypal.xml" timestamp="1589537248707" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589551546357">
-        <mark key="'" line="237" column="41" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589551827766">
+        <mark key="'" line="241" column="41" />
+        <mark key="[" line="219" column="45" />
+        <mark key="]" line="219" column="45" />
+        <mark key="." line="219" column="45" />
+        <mark key="^" line="218" column="8" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/javax/net/ssl/TrustManagerFactory.java" timestamp="1589547203571" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_navigation_drawer.xml" timestamp="1589537196108">
@@ -82,11 +83,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589551549503">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="55" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="80" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589551605245">
+        <mark key="[" line="100" column="29" />
+        <mark key="]" line="98" column="26" />
+        <mark key="." line="98" column="26" />
+        <mark key="^" line="20" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/drawer_navigation_body.xml" timestamp="1589549877675">
         <mark key="'" line="235" column="0" />
@@ -101,22 +102,16 @@
         <mark key="^" line="255" column="14" />
         <mark key="." line="261" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/locale/LocaleManagerNew.kt" timestamp="1589552414412" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/LottieProgressDialog.java" timestamp="1589550138733" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589551524251">
-        <mark key="[" line="214" column="38" />
-        <mark key="]" line="214" column="38" />
-        <mark key="^" line="300" column="32" />
-        <mark key="." line="214" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589552167017">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="^" line="64" column="8" />
+        <mark key="." line="194" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/views/LottieProgressOverlay.kt" timestamp="1589549011827" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1589528312016">
-        <mark key="'" line="122" column="19" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="62" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589538547598">
+      <file name="/Dummy.txt" timestamp="1589552215738">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlag.kt" timestamp="1589550258666" />
@@ -249,40 +244,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZlYXR1cmVGbGFnTWFuYWdlcjogRmVhdHVyZUZsYWdNYW5hZ2VyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGZlYXR1cmVGbGFnTWFuYWdlci5pc0VuYWJsZWQoRmVhdHVyZUZsYWcuUldfUkVGRVJSQUxfV0lUSE9VVF9CT05VU0VTKQ==</text>
+        <text>setupPrivacySwitchListener()</text>
       </register>
       <register name="/" type="4">
         <text>group</text>
       </register>
-      <register name="0" type="4">
-        <text>tv_business_terms.show(visible)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEN1c3RvbWVyU3VwcG9ydEFjdGl2aXR5LmdldEludGVudChyZXF1aXJlQ29udGV4dCgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZlYXR1cmVGbGFnTWFuYWdlcjogRmVhdHVyZUZsYWdNYW5hZ2VyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBASW5qZWN0CiAgICBsYXRlaW5pdCB2YXIgZmVhdHVyZUZsYWdNYW5hZ2VyOiBGZWF0dXJlRmxhZ01hbmFnZXI=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldHVwUHJpdmFjeVN3aXRjaExpc3RlbmVyKCkgewogICAgICAgCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlRvb01hbnlGdW5jdGlvbnMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9wZW5Ob3RpZmljYXRpb25DZW50cmVWaWV3KCkgewogICAgICAgIHN0YXJ0QWN0aXZpdHkoSW50ZW50KHJlcXVpcmVDb250ZXh0KCksIE5vdGlmaWNhdGlvbkFjdGl2aXR5OjpjbGFzcy5qYXZhKSkKICAgIH0=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9wZW5Db3Vwb25Db2Rlc1ZpZXcoKSB7CiAgICAgICAgc3RhcnRBY3Rpdml0eShJbnRlbnQocmVxdWlyZUNvbnRleHQoKSwgUHJvbW90aW9uQWN0aXZpdHk6OmNsYXNzLmphdmEpKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
