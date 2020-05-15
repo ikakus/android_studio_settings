@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>EU</entry>
         <entry>uk</entry>
         <entry>nul</entry>
         <entry>av</entry>
@@ -27,6 +26,7 @@
         <entry>na</entry>
         <entry>sha</entry>
         <entry>fla</entry>
+        <entry>fragment,</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -101,16 +101,12 @@
         <mark key="^" line="78" column="53" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsAmazonConfig.kt" timestamp="1589373532507" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589373819559">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589530009512">
         <mark key="[" line="37" column="60" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/BuildUtils.kt" timestamp="1589367435163">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/donottranslate.xml" timestamp="1589357374665">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="48" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1589467550405">
         <mark key="[" line="1749" column="27" />
@@ -141,16 +137,23 @@
         <mark key="[" line="25" column="34" />
         <mark key="]" line="25" column="75" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589528227617">
+      <file name="/Dummy.txt" timestamp="1589529205052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589460337891">
-        <mark key="[" line="431" column="0" />
-        <mark key="]" line="433" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589530483692">
+        <mark key="'" line="131" column="55" />
+        <mark key="[" line="147" column="13" />
+        <mark key="]" line="147" column="21" />
+        <mark key="." line="147" column="20" />
+        <mark key="^" line="147" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/staging/res/values/donottranslate.xml" timestamp="1589362460241">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/connection/SslCertificateVerifier.kt" timestamp="1589530727460" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/instanttopup/InstantTopUpActivity.kt" timestamp="1589530633412" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_home.xml" timestamp="1589530418496">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="29" column="44" />
+        <mark key="." line="29" column="43" />
+        <mark key="^" line="29" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589370383245">
         <mark key="[" line="30" column="37" />
@@ -160,8 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/earnings/Rew16EarningsFragment.kt" />
-      <jump line="0" column="43" filename="/Dummy.txt" />
       <jump line="316" column="45" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
       <jump line="329" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
       <jump line="76" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" />
@@ -260,18 +261,20 @@
       <jump line="105" column="87" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
       <jump line="373" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
       <jump line="376" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
+      <jump line="146" column="41" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" />
+      <jump line="130" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>SingleLiveEvent</text>
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>SingleLiveEvent</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
-        <text>fla</text>
+        <text>fragment,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIHRoaXMgc2hvdWxkIGJlIE11dGFibGVMaXZlRGF0YSBidXQgSSdtIG5vdCBzdXJlIGhvdyB0aSB3aWxsIGFmZmVjdCBpZgogICAgLy8gY29udmVydGVkIHRvIE1MViwgSSdsbCBsZWF2ZSBpdCB0byBzZXBhcmF0ZSByZWZhY3RvcmluZwo=</text>
@@ -310,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fla</last-search>
+      <last-search>fragment,</last-search>
       <last-offset />
-      <last-pattern>fla</last-pattern>
+      <last-pattern>fragment,</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
