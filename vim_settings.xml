@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>uk</entry>
         <entry>nul</entry>
         <entry>av</entry>
         <entry>get</entry>
@@ -27,6 +26,7 @@
         <entry>sha</entry>
         <entry>fla</entry>
         <entry>fragment,</entry>
+        <entry>group</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -68,20 +68,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" timestamp="1589467580703">
-        <mark key="'" line="300" column="15" />
-        <mark key="[" line="1708" column="34" />
-        <mark key="]" line="1708" column="44" />
-        <mark key="." line="1708" column="43" />
-        <mark key="^" line="1708" column="44" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_paypal.xml" timestamp="1589537248707" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589528408189">
-        <mark key="'" line="236" column="41" />
-        <mark key="[" line="68" column="40" />
-        <mark key="]" line="68" column="55" />
-        <mark key="." line="68" column="54" />
-        <mark key="^" line="68" column="55" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589551546357">
+        <mark key="'" line="237" column="41" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/javax/net/ssl/TrustManagerFactory.java" timestamp="1589547203571" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_navigation_drawer.xml" timestamp="1589537196108">
@@ -90,48 +82,33 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/views/DrawerHeader.kt" timestamp="1589455418207">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="12" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="56" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589551549503">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="55" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="80" column="53" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589528152356">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="78" column="53" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/drawer_navigation_body.xml" timestamp="1589549877675">
+        <mark key="'" line="235" column="0" />
+        <mark key="[" line="138" column="57" />
+        <mark key="]" line="140" column="12" />
+        <mark key="." line="140" column="11" />
+        <mark key="^" line="140" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589547153387">
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589537242155">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589551030548">
         <mark key="[" line="261" column="0" />
         <mark key="]" line="261" column="0" />
         <mark key="^" line="255" column="14" />
         <mark key="." line="261" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1589467550405">
-        <mark key="[" line="1749" column="27" />
-        <mark key="]" line="1749" column="42" />
-        <mark key="^" line="1749" column="42" />
-        <mark key="." line="1749" column="41" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/LottieProgressDialog.java" timestamp="1589550138733" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589551524251">
+        <mark key="[" line="214" column="38" />
+        <mark key="]" line="214" column="38" />
+        <mark key="^" line="300" column="32" />
+        <mark key="." line="214" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589538248295">
-        <mark key="'" line="343" column="0" />
-        <mark key="[" line="179" column="15" />
-        <mark key="]" line="179" column="20" />
-        <mark key="." line="179" column="19" />
-        <mark key="^" line="179" column="20" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589457744465">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="134" column="70" />
-        <mark key="." line="511" column="7" />
-        <mark key="^" line="511" column="8" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/views/LottieProgressOverlay.kt" timestamp="1589549011827" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" timestamp="1589528312016">
         <mark key="'" line="122" column="19" />
         <mark key="[" line="18" column="0" />
@@ -142,6 +119,7 @@
       <file name="/Dummy.txt" timestamp="1589538547598">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlag.kt" timestamp="1589550258666" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589536874060">
         <mark key="'" line="131" column="55" />
         <mark key="[" line="143" column="66" />
@@ -166,9 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="45" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
-      <jump line="329" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
-      <jump line="76" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" />
       <jump line="67" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="473" column="68" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" />
       <jump line="203" column="72" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/addcashdepositinfo/ADD23CashDespositInfoViewModel.kt" />
@@ -266,48 +241,51 @@
       <jump line="376" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
       <jump line="146" column="41" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" />
       <jump line="130" column="55" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" />
+      <jump line="318" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
+      <jump line="134" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/drawer_navigation_body.xml" />
+      <jump line="233" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/drawer_navigation_body.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZG8gbm90aGluZwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZlYXR1cmVGbGFnTWFuYWdlcjogRmVhdHVyZUZsYWdNYW5hZ2VyLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Base64.</text>
+        <text encoding="base64">IGZlYXR1cmVGbGFnTWFuYWdlci5pc0VuYWJsZWQoRmVhdHVyZUZsYWcuUldfUkVGRVJSQUxfV0lUSE9VVF9CT05VU0VTKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>fragment,</text>
+        <text>group</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmJlZ2luVHJhbnNhY3Rpb24oKQo=</text>
+      <register name="0" type="4">
+        <text>tv_business_terms.show(visible)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZG8gbm90aGluZwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGZlYXR1cmVGbGFnTWFuYWdlcjogRmVhdHVyZUZsYWdNYW5hZ2VyLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNoYWluLnNpemUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8iIiIK</text>
+        <text encoding="base64">CiAgICBASW5qZWN0CiAgICBsYXRlaW5pdCB2YXIgZmVhdHVyZUZsYWdNYW5hZ2VyOiBGZWF0dXJlRmxhZ01hbmFnZXI=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZC51cGRhdGUocHVibGljS2V5LCAwLCBwdWJsaWNLZXkuc2l6ZSkK</text>
+        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIlRvb01hbnlGdW5jdGlvbnMiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQmFzZTY0Lk5PX1dSQVAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2RyYXdlcl9jb250YWluZXIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQubW9kZWwuQWNjb3VudFJlZHVjZWREYXRhTW9kZWwKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnRkZXRhaWxzLkEzMHM3RGV0YWlsc0FjdGl2aXR5CmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5hY2NvdW50ZGV0YWlscy5BMzBzOEJ1c2luZXNzRGV0YWlsc0FjdGl2aXR5CmltcG9ydCBjb20ubW9uZXNlLm1vbmVzZS5hbmFseXRpY3MuaGVscGVycy5Tb3VyY2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -316,12 +294,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fragment,</last-search>
+      <last-search>group</last-search>
       <last-offset />
-      <last-pattern>fragment,</last-pattern>
+      <last-pattern>group</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
