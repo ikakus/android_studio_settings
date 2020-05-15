@@ -140,12 +140,12 @@
       <file name="/Dummy.txt" timestamp="1589529205052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589530483692">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589530770800">
         <mark key="'" line="131" column="55" />
-        <mark key="[" line="147" column="13" />
-        <mark key="]" line="147" column="21" />
-        <mark key="." line="147" column="20" />
-        <mark key="^" line="147" column="21" />
+        <mark key="[" line="147" column="21" />
+        <mark key="]" line="147" column="26" />
+        <mark key="." line="147" column="25" />
+        <mark key="^" line="147" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/connection/SslCertificateVerifier.kt" timestamp="1589530727460" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/instanttopup/InstantTopUpActivity.kt" timestamp="1589530633412" />
