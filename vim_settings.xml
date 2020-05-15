@@ -114,11 +114,12 @@
         <mark key="^" line="1749" column="42" />
         <mark key="." line="1749" column="41" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589464654718">
-        <mark key="'" line="343" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="53" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1589533040109">
+        <mark key="'" line="347" column="0" />
+        <mark key="[" line="190" column="12" />
+        <mark key="]" line="190" column="12" />
+        <mark key="." line="190" column="12" />
+        <mark key="^" line="189" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1589457744465">
         <mark key="[" line="132" column="0" />
@@ -140,12 +141,12 @@
       <file name="/Dummy.txt" timestamp="1589529205052">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589530770800">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1589532893498">
         <mark key="'" line="131" column="55" />
-        <mark key="[" line="147" column="21" />
-        <mark key="]" line="147" column="26" />
-        <mark key="." line="147" column="25" />
-        <mark key="^" line="147" column="26" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="145" column="23" />
+        <mark key="." line="145" column="22" />
+        <mark key="^" line="145" column="23" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/connection/SslCertificateVerifier.kt" timestamp="1589530727460" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/instanttopup/InstantTopUpActivity.kt" timestamp="1589530633412" />
@@ -268,10 +269,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>add</text>
+        <text>activity</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>activity</text>
       </register>
       <register name="/" type="4">
         <text>fragment,</text>
@@ -280,31 +281,31 @@
         <text encoding="base64">ICAgIC8vIHRoaXMgc2hvdWxkIGJlIE11dGFibGVMaXZlRGF0YSBidXQgSSdtIG5vdCBzdXJlIGhvdyB0aSB3aWxsIGFmZmVjdCBpZgogICAgLy8gY29udmVydGVkIHRvIE1MViwgSSdsbCBsZWF2ZSBpdCB0byBzZXBhcmF0ZSByZWZhY3RvcmluZwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgcGxhblZpc2libGUgPSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHk/LmxldCB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkNoZWNrUmVzdWx0IikK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkF0dGFjaChhY3Rpdml0eTogQWN0aXZpdHkpIHsKICAgICAgICBzdXBlci5vbkF0dGFjaChhY3Rpdml0eSkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgcGxhblZpc2libGUgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cFNlbnNvck1hbmFnZXIoKQo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIkNoZWNrUmVzdWx0IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnVsbCAtPiBUT0RPKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldHVwU2Vuc29yTWFuYWdlcigpIHsKICAgICAgICBzaGFrZVNlbnNvck1hbmFnZXIuc2V0dXBTZW5zb3JNYW5hZ2VyKCkKICAgICAgICB2aWV3TW9kZWwuc2V0dXBTaGFrZURpc3Bvc2FibGUoKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cFNlbnNvck1hbmFnZXIoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBfaG9tZUFjdGl2aXR5Vmlld0VmZmVjdC5wb3N0VmFsdWUoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhvbWVWaWV3TW9kZWwuSG9tZUFjdGl2aXR5Vmlld0VmZmVjdC5Qcml2YWN5U2hha2VEaWFsb2coCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci5pc1ByaXZhY3lNb2RlU2hha2VFbmFibGVkCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbnVsbCAtPiBUT0RPKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3QgUHJpdmFjeVNoYWtlRGlhbG9nIDogVmlld0VmZmVjdCgpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldHVwU2Vuc29yTWFuYWdlcigpIHsKICAgICAgICBzaGFrZVNlbnNvck1hbmFnZXIuc2V0dXBTZW5zb3JNYW5hZ2VyKCkKICAgICAgICB2aWV3TW9kZWwuc2V0dXBTaGFrZURpc3Bvc2FibGUoKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5zY2hlZHVsZXJzLlNjaGVkdWxlcnMK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBfaG9tZUFjdGl2aXR5Vmlld0VmZmVjdC5wb3N0VmFsdWUoCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgIEhvbWVWaWV3TW9kZWwuSG9tZUFjdGl2aXR5Vmlld0VmZmVjdC5Qcml2YWN5U2hha2VEaWFsb2coCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci5pc1ByaXZhY3lNb2RlU2hha2VFbmFibGVkCi8vICAgICAgICAgICAgICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
