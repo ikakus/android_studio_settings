@@ -94,6 +94,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta f" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
