@@ -141,12 +141,12 @@
         <mark key="." line="61" column="36" />
         <mark key="^" line="61" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1589709795877">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/reminder/ReminderActivity.kt" timestamp="1589722133835">
         <mark key="'" line="78" column="20" />
         <mark key="[" line="37" column="32" />
-        <mark key="]" line="33" column="62" />
-        <mark key="." line="33" column="61" />
-        <mark key="^" line="33" column="62" />
+        <mark key="]" line="30" column="27" />
+        <mark key="." line="30" column="26" />
+        <mark key="^" line="30" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/activity_reminder.xml" timestamp="1589709768508">
         <mark key="[" line="13" column="35" />
