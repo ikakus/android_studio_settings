@@ -123,7 +123,7 @@
         <mark key="." line="6" column="9" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589399587165">
+      <file name="/Dummy.txt" timestamp="1589656571837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -164,11 +164,12 @@
         <mark key="." line="63" column="23" />
         <mark key="^" line="78" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1589399219868">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/java/com/ikakus/breadcrumbs/strike/common/Strike.kt" timestamp="1589702675980">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="17" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/drawable/day_current.xml" timestamp="1588615466549">
         <mark key="[" line="11" column="30" />
@@ -204,11 +205,11 @@
         <mark key="]" line="37" column="49" />
         <mark key="." line="37" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/values/dimens.xml" timestamp="1589033819247">
+      <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/values/dimens.xml" timestamp="1589656546052">
         <mark key="'" line="4" column="4" />
         <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="42" />
-        <mark key="." line="5" column="42" />
+        <mark key="]" line="5" column="41" />
+        <mark key="." line="5" column="41" />
         <mark key="^" line="4" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/Breadcrumbs/app/src/main/res/layout/day_view.xml" timestamp="1589034846864">
@@ -344,11 +345,11 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpCiAgICAgICAgc2V0Q29udGVudFZpZXcoUi5sYXlvdXQuYWN0aXZpdHlfbWFpbikKICAgICAgICBzZXR1cFN0cmlrZSgpCiAgICAgICAgc2V0U2NyZWVucygpCiAgICB9Cgo=</text>
       </register>
-      <register name="*" type="4">
-        <text>days_card</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0TGFzdENoZWNrZWREYXkoKSA9PSBudWxsKSByZXR1cm4K</text>
       </register>
       <register name="-" type="4">
-        <text>days_card</text>
+        <text>15dp</text>
       </register>
       <register name="/" type="4">
         <text>red</text>
@@ -357,31 +358,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaG9sZGVyLml0ZW1WaWV3LnR2X3N0YXR1cy5zZXRUZXh0Q29sb3IoY29udGV4dC5yZXNvdXJjZXMuZ2V0Q29sb3IoUi5jb2xvci5yZWQpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZ2V0TGFzdENoZWNrZWREYXkoKSA9PSBudWxsKSByZXR1cm4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY29udGV4dCA9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY29udGV4dCA9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKGdldEN1cnJlbnQoKSA9PSBudWxsKSB7ICJUaGVyZSBpcyBvbmdvaW5nIGFjdGl2ZSBzdHJpa2UiIH0K</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKHN0cmlrZSAhPSBudWxsKSB7ICJObyBhY3RpdmUgc3RyaWtlIiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKGdldEN1cnJlbnQoKSA9PSBudWxsKSB7ICJUaGVyZSBpcyBvbmdvaW5nIGFjdGl2ZSBzdHJpa2UiIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKHN0cmlrZSAhPSBudWxsKSB7ICJObyBhY3RpdmUgc3RyaWtlIiB9Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlKHRydWUpIHsgIk5vIGFjdGl2ZSBzdHJpa2UiIH0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IGZ1biBnZXRTdGF0dXMoKTogU3RyaWtlU3RhdHVzIHsKICAgICAgICB2YWwgc3RyaWtlcyA9IHJlcG8uZ2V0U3RyaWtlcygpLnNvcnRlZEJ5RGVzY2VuZGluZyB7IGl0LmRhdGVDcmVhdGVkIH0KICAgICAgICByZXR1cm4gc3RyaWtlcy5maXJzdCgpLnN0YXR1cwogICAgfQ==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHZhbCBuZXcgPSBnZXRDdXJyZW50KCkKICAgICAgICBpZiAobmV3ICE9IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIFN0cmlrZVN0YXR1cy5DT0xECiAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
