@@ -115,6 +115,11 @@
         <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/utils/SupportedLocale.kt" timestamp="1589785378028" />
+      <file name="/Dummy.txt" timestamp="1589810104338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" timestamp="1589790458328">
         <mark key="[" line="36" column="56" />
         <mark key="]" line="37" column="16" />
@@ -260,11 +265,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR1cFZpZXdNb2RlbCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>wip</text>
       </register>
       <register name="-" type="4">
-        <text>DummyTrustManager</text>
+        <text>wip</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
