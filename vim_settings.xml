@@ -7,11 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>m</entry>
-        <entry>pair</entry>
-        <entry>sing</entry>
-        <entry>em</entry>
-        <entry>cou</entry>
         <entry>acc</entry>
         <entry>dyn</entry>
         <entry>my</entry>
@@ -27,6 +22,11 @@
         <entry>share</entry>
         <entry>compo</entry>
         <entry>ob</entry>
+        <entry>th</entry>
+        <entry>Timer</entry>
+        <entry>tim</entry>
+        <entry>(</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -129,11 +129,12 @@
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589805334118">
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="83" column="5" />
-        <mark key="." line="83" column="4" />
-        <mark key="^" line="83" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589806583585">
+        <mark key="'" line="115" column="8" />
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="133" column="20" />
+        <mark key="." line="133" column="19" />
+        <mark key="^" line="133" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/monesehub/insurance/gadget/activities/Luko1PromoPitchActivity.kt" timestamp="1589552766287">
         <mark key="[" line="124" column="24" />
@@ -156,14 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="87" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pricing/pt5changeselectplan/Pt5ChangeSelectPlanViewModel.kt" />
-      <jump line="66" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/extensions/PricingModelExtensionsTest.kt" />
-      <jump line="96" column="29" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/details/Rew17CashBackEarningsFragment.kt" />
-      <jump line="183" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/rewards/categories/Rew7AviosFragment.kt" />
-      <jump line="163" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" />
-      <jump line="165" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/AviosCurrencyHelper.kt" />
-      <jump line="73" column="13" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" />
-      <jump line="77" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.java" />
       <jump line="48" column="65" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/lib/GraphQueryProcessor.kt" />
       <jump line="220" column="37" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" />
       <jump line="17" column="26" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/ConfigurationRepositoryGraphQl.kt" />
@@ -256,48 +249,56 @@
       <jump line="44" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
       <jump line="43" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" />
       <jump line="123" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="118" column="49" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="130" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="122" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="124" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="9" column="18" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="64" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="115" column="29" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
+      <jump line="114" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DummyTrustManager</text>
+        <text>&quot;sha256/GQGtgmgpUkMadATI2GAbhPAgJk/bat3/4j5c/Z6HGKE=&quot;</text>
       </register>
       <register name="-" type="4">
         <text>DummyTrustManager</text>
       </register>
       <register name="/" type="4">
-        <text>ob</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="4">
-        <text>TrustAllX509TrustManager</text>
+        <text>&quot;sha256/GQGtgmgpUkMadATI2GAbhPAgJk/bat3/4j5c/Z6HGKE=&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIlRydXN0QWxsWDUwOVRydXN0TWFuYWdlciIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0aHJvdyAgU1NMUGVlclVudmVyaWZpZWRFeGNlcHRpb24oCi8vICAgICAgICAgICAgICAgICJDZXJ0aWZpY2F0ZSBwaW5uaW5nICIgKwovLyAgICAgICAgICAgICAgICAgICAgICAgICJmYWlsdXJlXG4gIFBlZXIgY2VydGlmaWNhdGUgY2hhaW46XG4iICsgY2VydENoYWluTXNnCi8vICAgICAgICAgICAgKTsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIlRydXN0QWxsWDUwOVRydXN0TWFuYWdlciIpCg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc0xpbnQoIlRydXN0QWxsWDUwOVRydXN0TWFuYWdlciIpCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">b3ZlcnJpZGUgZnVuIGdldEFjY2VwdGVkSXNzdWVycygpOiBBcnJheTxYNTA5Q2VydGlmaWNhdGU+IHsKICAgICAgICByZXR1cm4gYXJyYXlPZigpCiAgICB9</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGNsYXNzIE1vbmVzZVRydXN0TWFuYWdlciA6IFg1MDlUcnVzdE1hbmFnZXIgewogICAgICAgIEBTdXBwcmVzc0xpbnQoIlRydXN0QWxsWDUwOVRydXN0TWFuYWdlciIpCiAgICAgICAgb3ZlcnJpZGUgZnVuIGNoZWNrQ2xpZW50VHJ1c3RlZCgKICAgICAgICAgICAgY2hhaW46IEFycmF5PFg1MDlDZXJ0aWZpY2F0ZT4sCiAgICAgICAgICAgIGF1dGhUeXBlOiBTdHJpbmcKICAgICAgICApIHsKICAgICAgICAgICAgLy90aGlzIGlzIG5ldmVyIHRyaWdnZXJlZCBvbiBjbGllbnQgc2lkZQogICAgICAgIH0KCiAgICAgICAgQFN1cHByZXNzTGludCgiVHJ1c3RBbGxYNTA5VHJ1c3RNYW5hZ2VyIikKICAgICAgICBvdmVycmlkZSBmdW4gY2hlY2tTZXJ2ZXJUcnVzdGVkKAogICAgICAgICAgICBjaGFpbjogQXJyYXk8WDUwOUNlcnRpZmljYXRlPiwKICAgICAgICAgICAgYXV0aFR5cGU6IFN0cmluZwogICAgICAgICkgewovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvTDdYb3Z2Sm45aDNHVEw0RVRlZEtNQkNMcEFESmRLVmlXYkY5UzJYcEYrVT0iKQovLyAgICAgICAgICAgIC5hZGQoaG9zdG5hbWUsICJzaGEyNTYvR1FHdGdtZ3BVa01hZEFUSTJHQWJoUEFnSmsvYmF0My80ajVjL1o2SEdLRT0iKQogICAgICAgICAgICBmb3IgKGNlcnQgaW4gY2hhaW4pIHsKICAgICAgICAgICAgICAgIHZhbCBtZDogTWVzc2FnZURpZ2VzdCA9IE1lc3NhZ2VEaWdlc3QuZ2V0SW5zdGFuY2UoIlNIQS0yNTYiKQogICAgICAgICAgICAgICAgdmFsIHB1YmxpY0tleSA9IGNlcnQucHVibGljS2V5LmVuY29kZWQKICAgICAgICAgICAgICAgIG1kLnVwZGF0ZShwdWJsaWNLZXksIDAsIHB1YmxpY0tleS5zaXplKQogICAgICAgICAgICAgICAgdmFsIHBpbjogU3RyaW5nID0gZW5jb2RlVG9TdHJpbmcobWQuZGlnZXN0KCksIE5PX1dSQVApCgogICAgICAgICAgICAgICAgdmFsIGNlcnRDaGFpbk1zZyA9ICJzaGEyNTYvJHBpbiA6ICR7Y2VydC5zdWJqZWN0RE59IgoKICAgICAgICAgICAgICAgIFRpbWJlci5kKGNlcnRDaGFpbk1zZykKLy8gICAgICAgICAgICAgICAgICAgIGlmICh2YWxpZFBpbnMuY29udGFpbnMocGluKSkgewovLyAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybgovLyAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgY2xhc3MgRHVtbXlUcnVzdE1hbmFnZXIgOiBYNTA5VHJ1c3RNYW5hZ2VyIHsKICAgICAgICAgICAgQFN1cHByZXNzTGludCgiVHJ1c3RBbGxYNTA5VHJ1c3RNYW5hZ2VyIikKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGNoZWNrQ2xpZW50VHJ1c3RlZCgKICAgICAgICAgICAgICAgIGNoYWluOiBBcnJheTxYNTA5Q2VydGlmaWNhdGU+LAogICAgICAgICAgICAgICAgYXV0aFR5cGU6IFN0cmluZwogICAgICAgICAgICApIHsKICAgICAgICAgICAgICAgIC8vZG8gbm90aGluZwogICAgICAgICAgICB9CgogICAgICAgICAgICBAU3VwcHJlc3NMaW50KCJUcnVzdEFsbFg1MDlUcnVzdE1hbmFnZXIiKQogICAgICAgICAgICBvdmVycmlkZSBmdW4gY2hlY2tTZXJ2ZXJUcnVzdGVkKAogICAgICAgICAgICAgICAgY2hhaW46IEFycmF5PFg1MDlDZXJ0aWZpY2F0ZT4sCiAgICAgICAgICAgICAgICBhdXRoVHlwZTogU3RyaW5nCiAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgLy9kbyBub3RoaW5nCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBnZXRBY2NlcHRlZElzc3VlcnMoKTogQXJyYXk8WDUwOUNlcnRpZmljYXRlPiB7CiAgICAgICAgICAgICAgICByZXR1cm4gYXJyYXlPZigpCiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IG9iamVjdCA6IFg1MDlUcnVzdE1hbmFnZXIgewogICAgICAgICAgICBAU3VwcHJlc3NMaW50KCJUcnVzdEFsbFg1MDlUcnVzdE1hbmFnZXIiKQogICAgICAgICAgICBvdmVycmlkZSBmdW4gY2hlY2tDbGllbnRUcnVzdGVkKAogICAgICAgICAgICAgICAgY2hhaW46IEFycmF5PFg1MDlDZXJ0aWZpY2F0ZT4sCiAgICAgICAgICAgICAgICBhdXRoVHlwZTogU3RyaW5nCiAgICAgICAgICAgICkgewogICAgICAgICAgICAgICAgLy9kbyBub3RoaW5nCiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIEBTdXBwcmVzc0xpbnQoIlRydXN0QWxsWDUwOVRydXN0TWFuYWdlciIpCiAgICAgICAgICAgIG92ZXJyaWRlIGZ1biBjaGVja1NlcnZlclRydXN0ZWQoCiAgICAgICAgICAgICAgICBjaGFpbjogQXJyYXk8WDUwOUNlcnRpZmljYXRlPiwKICAgICAgICAgICAgICAgIGF1dGhUeXBlOiBTdHJpbmcKICAgICAgICAgICAgKSB7CiAgICAgICAgICAgICAgICAvL2RvIG5vdGhpbmcKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGdldEFjY2VwdGVkSXNzdWVycygpOiBBcnJheTxYNTA5Q2VydGlmaWNhdGU+IHsKICAgICAgICAgICAgICAgIHJldHVybiBhcnJheU9mKCkKICAgICAgICAgICAgfQogICAgICAgIH0=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vZG8gbm90aGluZwo=</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -306,9 +307,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ob</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>ob</last-pattern>
+      <last-pattern>&quot;</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
