@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nul</entry>
         <entry>av</entry>
         <entry>get</entry>
         <entry>m</entry>
@@ -27,6 +26,7 @@
         <entry>fla</entry>
         <entry>fragment,</entry>
         <entry>group</entry>
+        <entry>share</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -90,6 +90,12 @@
         <mark key="." line="140" column="11" />
         <mark key="^" line="140" column="12" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/HelperModule.kt" timestamp="1589787686879">
+        <mark key="'" line="35" column="1" />
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="34" />
+        <mark key="." line="35" column="34" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryNamesHelper.kt" timestamp="1589552911087">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -143,16 +149,9 @@
         <mark key="]" line="57" column="21" />
         <mark key="." line="57" column="21" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589546773874">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="30" column="37" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/utils/SupportedLocale.kt" timestamp="1589785378028" />
     </filemarks>
     <jumps>
-      <jump line="67" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="473" column="68" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" />
       <jump line="203" column="72" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/addcashdepositinfo/ADD23CashDespositInfoViewModel.kt" />
       <jump line="202" column="42" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/soforttopup/SofortTopUpViewModel.kt" />
@@ -252,48 +251,49 @@
       <jump line="318" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" />
       <jump line="134" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/drawer_navigation_body.xml" />
       <jump line="233" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/drawer_navigation_body.xml" />
+      <jump line="35" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/HelperModule.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>sharedPreferencesHelper.userLocale</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>sharedPreferencesHelper.userLocale</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>group</text>
+        <text>share</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEN1c3RvbWVyU3VwcG9ydEFjdGl2aXR5LmdldEludGVudChyZXF1aXJlQ29udGV4dCgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldEZhcUFydGljbGVzVXNlQ2FzZTogR2V0RmFxQXJ0aWNsZXNVc2VDYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcjogU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyOiBTaGFyZWRQcmVmZXJlbmNlc0hlc3NscGVyLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldEZhcUFydGljbGVzVXNlQ2FzZTogR2V0RmFxQXJ0aWNsZXNVc2VDYXNlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlRW51bSA9IFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyOiBTaGFyZWRQcmVmZXJlbmNlc0hlc3NscGVyLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlRW51bSA9IFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybHMuZ2V0UHJpdmFjeVBvbGljeVVybFN0cmluZygKICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQogICAgICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybHMuZ2V0UHJpdmFjeVBvbGljeVVybFN0cmluZygKICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQogICAgICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldHVwUHJpdmFjeVN3aXRjaExpc3RlbmVyKCkgewogICAgICAgCiAgICB9</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
@@ -302,12 +302,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>group</last-search>
+      <last-search>share</last-search>
       <last-offset />
-      <last-pattern>group</last-pattern>
+      <last-pattern>share</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
