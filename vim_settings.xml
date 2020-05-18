@@ -127,12 +127,12 @@
         <mark key="^" line="37" column="16" />
         <mark key="." line="37" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589811978674">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589814707124">
         <mark key="'" line="115" column="8" />
-        <mark key="[" line="80" column="43" />
-        <mark key="]" line="80" column="44" />
-        <mark key="." line="80" column="43" />
-        <mark key="^" line="80" column="44" />
+        <mark key="[" line="118" column="57" />
+        <mark key="]" line="118" column="62" />
+        <mark key="." line="118" column="61" />
+        <mark key="^" line="118" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589809791483" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589794742581">
