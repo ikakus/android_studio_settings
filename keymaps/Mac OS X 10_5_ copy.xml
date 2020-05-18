@@ -30,6 +30,8 @@
     <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorNextWord" />
+  <action id="EditorPreviousWord" />
   <action id="EditorSplitLine" />
   <action id="EditorStartNewLine" />
   <action id="ExpandExpandableComponent">
@@ -62,14 +64,12 @@
   </action>
   <action id="NewScratchFile" />
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="meta right" />
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="OpenElementInNewWindow" />
   <action id="ParameterInfo" />
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="meta left" />
+    <keyboard-shortcut first-keystroke="alt left" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta alt l" />
