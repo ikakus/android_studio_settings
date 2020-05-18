@@ -139,10 +139,10 @@
         <mark key="." line="143" column="66" />
         <mark key="^" line="20" column="60" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/support/customersupport/faq/answer/FaqAnswerViewModel.kt" timestamp="1589786472007">
-        <mark key="[" line="54" column="65" />
-        <mark key="]" line="54" column="65" />
-        <mark key="." line="54" column="65" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/support/customersupport/faq/answer/FaqAnswerViewModel.kt" timestamp="1589788880749">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/support/customersupport/faq/article/FaqArticlesViewModel.kt" timestamp="1589785186000">
         <mark key="[" line="57" column="21" />
@@ -256,8 +256,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyOiBTaGFyZWRQcmVmZXJlbmNlc0hlbHBlciwK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -269,31 +269,31 @@
         <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEN1c3RvbWVyU3VwcG9ydEFjdGl2aXR5LmdldEludGVudChyZXF1aXJlQ29udGV4dCgpKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcjogU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyOiBTaGFyZWRQcmVmZXJlbmNlc0hlbHBlciwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldEZhcUFydGljbGVzVXNlQ2FzZTogR2V0RmFxQXJ0aWNsZXNVc2VDYXNlLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlID0gU3VwcG9ydGVkTG9jYWxlLmdldEZhcVN1cHBvcnRlZExvY2FsZVN0cmluZyhzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyOiBTaGFyZWRQcmVmZXJlbmNlc0hlc3NscGVyLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcjogU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlRW51bSA9IFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldEZhcUFydGljbGVzVXNlQ2FzZTogR2V0RmFxQXJ0aWNsZXNVc2VDYXNlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyOiBTaGFyZWRQcmVmZXJlbmNlc0hlc3NscGVyLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybHMuZ2V0UHJpdmFjeVBvbGljeVVybFN0cmluZygKICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQogICAgICAgICAgICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlRW51bSA9IFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVybHMuZ2V0UHJpdmFjeVBvbGljeVVybFN0cmluZygKICAgICAgICAgICAgICAgICAgICBTdXBwb3J0ZWRMb2NhbGUuZ2V0U3VwcG9ydGVkTG9jYWxlRW51bUZyb21FbnVtTmFtZShzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQogICAgICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN1cHBvcnRlZExvY2FsZS5nZXRTdXBwb3J0ZWRMb2NhbGVFbnVtRnJvbUVudW1OYW1lKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNoYXJlZFByZWZlcmVuY2VzSGVscGVyLnVzZXJMb2NhbGUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
