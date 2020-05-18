@@ -129,11 +129,11 @@
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589794760171">
-        <mark key="[" line="93" column="83" />
-        <mark key="]" line="92" column="16" />
-        <mark key="." line="92" column="15" />
-        <mark key="^" line="92" column="16" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589795460288">
+        <mark key="[" line="97" column="36" />
+        <mark key="]" line="106" column="20" />
+        <mark key="." line="106" column="19" />
+        <mark key="^" line="106" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589552691844">
         <mark key="[" line="288" column="28" />
@@ -267,10 +267,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikK</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>compo</text>
@@ -279,31 +279,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBpbml0IHsKICAgICAgICBzZXR1cERyYXdlckl0ZW1zKCkKICAgIH0K</text>
+        <text encoding="base64">IiIiCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgICBpbml0IHsKICAgICAgICBzZXR1cERyYXdlckl0ZW1zKCkKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">dmFsIG91dHB1dExpc3QgPSBlbXB0eUxpc3Q8RHluYW1pY0RyYXdlckl0ZW0+KCkudG9NdXRhYmxlTGlzdCgpCiAgICAgICAgICAgIGlucHV0QXJyYXkuZm9yRWFjaCB7CiAgICAgICAgICAgICAgICB2YWwgZHJhd2VySXRlbSA9IGl0IGFzIER5bmFtaWNEcmF3ZXJJdGVtCiAgICAgICAgICAgICAgICBpZiAoZHJhd2VySXRlbSAhPSBEeW5hbWljRHJhd2VySXRlbS5Ob25lKSB7CiAgICAgICAgICAgICAgICAgICAgb3V0cHV0TGlzdC5hZGQoZHJhd2VySXRlbSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW5wdXRBcnJheS5maWx0ZXIgeyBpdCAhPSBEeW5hbWljRHJhd2VySXRlbS5Ob25lIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgb3V0cHV0TGlzdAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZ2V0RmFxQXJ0aWNsZXNVc2VDYXNlLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9jYWxlTWFuYWdlck5ldywK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9jYWxlID0gU3VwcG9ydGVkTG9jYWxlLmdldEZhcVN1cHBvcnRlZExvY2FsZVN0cmluZyhzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VyTG9jYWxlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
