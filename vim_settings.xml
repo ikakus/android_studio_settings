@@ -129,6 +129,12 @@
         <mark key="]" line="35" column="34" />
         <mark key="." line="35" column="34" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589794760171">
+        <mark key="[" line="93" column="83" />
+        <mark key="]" line="92" column="16" />
+        <mark key="." line="92" column="15" />
+        <mark key="^" line="92" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/PayPalHostFragment.kt" timestamp="1589552691844">
         <mark key="[" line="288" column="28" />
         <mark key="]" line="288" column="28" />
@@ -147,6 +153,12 @@
         <mark key="]" line="143" column="66" />
         <mark key="." line="143" column="66" />
         <mark key="^" line="20" column="60" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/certificatepinner/MoneseCertificatePinner.kt" timestamp="1589794742581">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="83" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -255,7 +267,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBpbml0IHsKICAgICAgICBzZXR1cERyYXdlckl0ZW1zKCkKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikK</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -263,8 +275,8 @@
       <register name="/" type="4">
         <text>compo</text>
       </register>
-      <register name="0" type="4">
-        <text>drawerItem != DynamicDrawerItem.None</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0w3WG92dkpuOWgzR1RMNEVUZWRLTUJDTHBBREpkS1ZpV2JGOVMyWHBGK1U9IikKLy8gICAgICAgICAgICAuYWRkKGhvc3RuYW1lLCAic2hhMjU2L0dRR3RnbWdwVWtNYWRBVEkyR0FiaFBBZ0prL2JhdDMvNGo1Yy9aNkhHS0U9IikK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBpbml0IHsKICAgICAgICBzZXR1cERyYXdlckl0ZW1zKCkKICAgIH0K</text>
