@@ -89,6 +89,7 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/transactionlist/helpers/TransactionListHelper.kt" timestamp="1589890044898" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589883635809">
         <mark key="'" line="43" column="6" />
         <mark key="[" line="146" column="12" />
@@ -96,23 +97,22 @@
         <mark key="." line="145" column="8" />
         <mark key="^" line="145" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1589812959268" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MvvmBaseActivity.kt" timestamp="1589873784225">
         <mark key="[" line="84" column="4" />
         <mark key="]" line="84" column="4" />
         <mark key="." line="84" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginViewModel.kt" timestamp="1589813496883" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1589887728103">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1589889737882">
         <mark key="'" line="94" column="41" />
-        <mark key="[" line="821" column="16" />
-        <mark key="]" line="821" column="26" />
-        <mark key="^" line="821" column="26" />
-        <mark key="." line="821" column="25" />
+        <mark key="[" line="876" column="63" />
+        <mark key="]" line="876" column="63" />
+        <mark key="^" line="876" column="63" />
+        <mark key="." line="876" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/notification/livedata/NotificationsStateLiveData.kt" timestamp="1589885114188" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589813263828" />
-      <file name="/Dummy.txt" timestamp="1589885231041">
+      <file name="/Dummy.txt" timestamp="1589888406039">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,12 +142,12 @@
         <mark key="]" line="79" column="0" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1589888326721">
-        <mark key="'" line="482" column="0" />
-        <mark key="[" line="388" column="27" />
-        <mark key="]" line="388" column="28" />
-        <mark key="^" line="388" column="28" />
-        <mark key="." line="388" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1589889664238">
+        <mark key="'" line="481" column="0" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="387" column="28" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_account_personal.xml" timestamp="1589880170259">
         <mark key="[" line="51" column="0" />
@@ -267,7 +267,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5hY2NvdW50c2RhdGEubW9kZWwudG9BY2NvdW50VHlwZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZpZ3VyYXRpb25Vc2VDYXNlOiBHZXRDb25maWd1cmF0aW9uVXNlQ2FzZSwK</text>
       </register>
       <register name="-" type="4">
         <text>::onOfflineModeSuccess,</text>
@@ -279,15 +279,18 @@
         <text encoding="base64">IFBlcnNvbmFsSG9tZVZpZXdNb2RlbA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5hY2NvdW50c2RhdGEubW9kZWwudG9BY2NvdW50VHlwZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbmZpZ3VyYXRpb25Vc2VDYXNlOiBHZXRDb25maWd1cmF0aW9uVXNlQ2FzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5hY2NvdW50c2RhdGEubW9kZWwudG9BY2NvdW50VHlwZQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9uT2ZmbGluZU1vZGVTdWNjZXNzKGNvbmZpZ3VyYXRpb25Eb21haW5Nb2RlbDogQ29uZmlndXJhdGlvbkRvbWFpbk1vZGVsKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>_viewEffect.postValue(
             ViewEffect.ShowOfflineMode(
                 configurationDomainModel.isBannerShown,
@@ -295,20 +298,17 @@
             )
         )</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU3VjY2VzcyA9IDo6b25PZmZsaW5lTW9kZVN1Y2Nlc3MsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjaGVja09mZmxpbmVNb2RlKCkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgUGVyc29uYWxIb21lVmlld0VmZmVjdC5TaG93T2ZmbGluZU1vZGUgLT4gewogICAgICAgICAgICAgICAgcGVyc29uYWxIb21lVmlld0VmZmVjdC5hcHBseSB7IHNob3dPZmZsaW5lTW9kZUlmTmVlZGVkKHNob3csIGlzQmFubmVyUmVkKSB9CiAgICAgICAgICAgIH0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIFNob3dPZmZsaW5lTW9kZSh2YWwgc2hvdzogQm9vbGVhbiA9IGZhbHNlLCB2YWwgaXNCYW5uZXJSZWQ6IEJvb2xlYW4gPSBmYWxzZSkgOgogICAgICAgICAgICBQZXJzb25hbEhvbWVWaWV3RWZmZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgUGVyc29uYWxIb21lVmlld0VmZmVjdC5TaG93T2ZmbGluZU1vZGUgLT4gewogICAgICAgICAgICAgICAgcGVyc29uYWxIb21lVmlld0VmZmVjdC5hcHBseSB7IHNob3dPZmZsaW5lTW9kZUlmTmVlZGVkKHNob3csIGlzQmFubmVyUmVkKSB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
