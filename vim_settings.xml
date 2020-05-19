@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>my</entry>
-        <entry>b</entry>
         <entry>boo</entry>
         <entry>null</entry>
         <entry>req</entry>
@@ -27,6 +25,8 @@
         <entry>&quot;</entry>
         <entry>noti</entry>
         <entry>notificationVi</entry>
+        <entry>onNoti</entry>
+        <entry>withShare</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -69,12 +69,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" timestamp="1589883844389">
-        <mark key="'" line="1899" column="0" />
-        <mark key="[" line="278" column="34" />
-        <mark key="]" line="278" column="34" />
-        <mark key="." line="278" column="33" />
-        <mark key="^" line="278" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" timestamp="1589885138651">
+        <mark key="'" line="1330" column="8" />
+        <mark key="[" line="338" column="0" />
+        <mark key="]" line="338" column="0" />
+        <mark key="." line="338" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosOtherCardsActivity.kt" timestamp="1589872739337">
         <mark key="[" line="117" column="0" />
@@ -106,23 +105,19 @@
         <mark key="." line="84" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginViewModel.kt" timestamp="1589813496883" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1589882411765">
-        <mark key="'" line="462" column="52" />
-        <mark key="[" line="405" column="0" />
-        <mark key="]" line="405" column="0" />
-        <mark key="." line="405" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1589886022618">
+        <mark key="'" line="94" column="41" />
+        <mark key="[" line="482" column="0" />
+        <mark key="]" line="482" column="0" />
         <mark key="^" line="36" column="95" />
+        <mark key="." line="482" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/notification/livedata/NotificationsStateLiveData.kt" timestamp="1589885114188" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1589813263828" />
-      <file name="/Dummy.txt" timestamp="1589882368419">
+      <file name="/Dummy.txt" timestamp="1589885231041">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/login/model/LoginModel.kt" timestamp="1589812218620">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" timestamp="1589814707124">
         <mark key="'" line="115" column="8" />
@@ -169,13 +164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="34" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" />
-      <jump line="32" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
-      <jump line="6" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
-      <jump line="31" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
-      <jump line="33" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
-      <jump line="51" column="24" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
-      <jump line="53" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/ConfigurationDataEntity.kt" />
       <jump line="19" column="46" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" />
       <jump line="21" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/OperationalEntity.kt" />
       <jump line="9" column="28" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/configuration/graphql/model/FeatureConfigurations.kt" />
@@ -269,48 +257,55 @@
       <jump line="281" column="3" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
       <jump line="1901" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
       <jump line="462" column="52" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" />
+      <jump line="318" column="38" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
+      <jump line="279" column="44" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
+      <jump line="1319" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
+      <jump line="845" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" />
+      <jump line="878" column="48" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" />
+      <jump line="94" column="41" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgTm90aWZpY2F0aW9uc1N0YXRlTGl2ZURhdGEuTm90aWZpY2F0aW9uc1N0YXRlLkhhc05ldyAtPiB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>na</text>
       </register>
       <register name="/" type="4">
-        <text>notificationVi</text>
+        <text>withShare</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IFBlcnNvbmFsSG9tZVZpZXdNb2RlbA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXMgTm90aWZpY2F0aW9uc1N0YXRlTGl2ZURhdGEuTm90aWZpY2F0aW9uc1N0YXRlLkhhc05ldyAtPiB7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHZhbCBfbm90aWZpY2F0aW9uVmlld0VmZmVjdCA9IFNpbmdsZUxpdmVFdmVudDxOb3RpZmljYXRpb25WaWV3RWZmZWN0PigpCiAgICB2YWwgbm90aWZpY2F0aW9uVmlld0VmZmVjdDogTGl2ZURhdGE8Tm90aWZpY2F0aW9uVmlld0VmZmVjdD4gPSBfbm90aWZpY2F0aW9uVmlld0VmZmVjdAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZpZXdNb2RlbC5vbk5ld05vdGlmaWNhdGlvblJlY2VpdmVkKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmhvbWUuaG9tZWFjY291bnQucGVyc29uYWwuUGVyc29uYWxBY2NvdW50Vmlld01vZGVsLk5vdGlmaWNhdGlvblZpZXdFZmZlY3QK</text>
+        <text encoding="base64">ICAgICAgICBmdW4gb25OZXdOb3RpZmljYXRpb25SZWNlaXZlZCgpIHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlYWxlZCBjbGFzcyBOb3RpZmljYXRpb25WaWV3RWZmZWN0IHsKICAgICAgICBvYmplY3QgU2hvd05ld0ljb24gOiBOb3RpZmljYXRpb25WaWV3RWZmZWN0KCkKICAgICAgICBvYmplY3QgU2hvd011dGVJY29uIDogTm90aWZpY2F0aW9uVmlld0VmZmVjdCgpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZShub3RpZmljYXRpb25WaWV3RWZmZWN0LCA6Om9uTm90aWZpY2F0aW9uVmlld0VmZmVjdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX25vdGlmaWNhdGlvblZpZXdFZmZlY3QucG9zdFZhbHVlKAogICAgICAgICAgICAgICAgaWYgKG5vdGlmaWNhdGlvbnNTdGF0ZUxpdmVEYXRhLmlzTm90aWZpY2F0aW9uRW5hYmxlZCkgewogICAgICAgICAgICAgICAgICAgIE5vdGlmaWNhdGlvblZpZXdFZmZlY3QuU2hvd05ld0ljb24KICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TXV0ZUljb24KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGZ1biBvbk5ld05vdGlmaWNhdGlvblJlY2VpdmVkKCkgewogICAgICAgIF9ub3RpZmljYXRpb25WaWV3RWZmZWN0LnBvc3RWYWx1ZSgKICAgICAgICAgICAgaWYgKG5vdGlmaWNhdGlvbnNTdGF0ZUxpdmVEYXRhLmlzTm90aWZpY2F0aW9uRW5hYmxlZCkgewogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TmV3SWNvbgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TXV0ZUljb24KICAgICAgICAgICAgfQogICAgICAgICkKICAgIH0KICAg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGZ1biBvbk5ld05vdGlmaWNhdGlvblJlY2VpdmVkKCkgewogICAgICAgIF9ub3RpZmljYXRpb25WaWV3RWZmZWN0LnBvc3RWYWx1ZSgKICAgICAgICAgICAgaWYgKG5vdGlmaWNhdGlvbnNTdGF0ZUxpdmVEYXRhLmlzTm90aWZpY2F0aW9uRW5hYmxlZCkgewogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TmV3SWNvbgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TXV0ZUljb24KICAgICAgICAgICAgfQogICAgICAgICkKICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1biBvbk5ld05vdGlmaWNhdGlvblJlY2VpdmVkKCkgewogICAgICAgIF9ub3RpZmljYXRpb25WaWV3RWZmZWN0LnBvc3RWYWx1ZSgKICAgICAgICAgICAgaWYgKG5vdGlmaWNhdGlvbnNTdGF0ZUxpdmVEYXRhLmlzTm90aWZpY2F0aW9uRW5hYmxlZCkgewogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TmV3SWNvbgogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgTm90aWZpY2F0aW9uVmlld0VmZmVjdC5TaG93TXV0ZUljb24KICAgICAgICAgICAgfQogICAgICAgICkKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25zU3RhdGVMaXZlRGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
@@ -319,12 +314,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>notificationVi</last-search>
+      <last-search>withShare</last-search>
       <last-offset />
-      <last-pattern>notificationVi</last-pattern>
+      <last-pattern>withShare</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
