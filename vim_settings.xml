@@ -71,10 +71,6 @@
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" timestamp="1589983105620">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="443" column="23" />
-        <mark key="]" line="444" column="8" />
-        <mark key="." line="444" column="7" />
-        <mark key="^" line="444" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/business/BusinessHomeFragment.kt" timestamp="1589965909037">
         <mark key="[" line="610" column="64" />
@@ -89,7 +85,7 @@
         <mark key="^" line="144" column="9" />
         <mark key="." line="140" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589978180792">
+      <file name="/Dummy.txt" timestamp="1589995244161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/HomeCacheWrapper.kt" timestamp="1589981602150">
