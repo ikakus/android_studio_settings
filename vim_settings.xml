@@ -69,14 +69,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" timestamp="1589983105620">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" timestamp="1590046235153">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/business/BusinessHomeFragment.kt" timestamp="1589965909037">
-        <mark key="[" line="610" column="64" />
-        <mark key="]" line="618" column="56" />
-        <mark key="^" line="618" column="56" />
-        <mark key="." line="618" column="55" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589981561206">
         <mark key="'" line="43" column="6" />
@@ -84,6 +81,11 @@
         <mark key="]" line="140" column="33" />
         <mark key="^" line="144" column="9" />
         <mark key="." line="140" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1590045261763">
+        <mark key="[" line="886" column="0" />
+        <mark key="]" line="886" column="0" />
+        <mark key="." line="886" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589995244161">
         <mark key="[" line="0" column="0" />
@@ -93,12 +95,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1589983203186">
-        <mark key="'" line="334" column="26" />
-        <mark key="[" line="312" column="22" />
-        <mark key="]" line="349" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1590045246063">
+        <mark key="[" line="581" column="0" />
+        <mark key="]" line="581" column="0" />
         <mark key="^" line="323" column="34" />
-        <mark key="." line="349" column="0" />
+        <mark key="." line="581" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/joint/JointHomeViewModel.kt" timestamp="1589970366635">
         <mark key="[" line="133" column="0" />
@@ -228,7 +229,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGV4cGlyaW5nQ2FyZEluZm9MaXN0OiBFeHBpcmluZ0NhcmRJbmZvTGlzdERvbWFpbk1vZGVsPyA9IG51bGwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -240,31 +241,31 @@
         <text encoding="base64">IGdldFJlYWR5VG9QYXlDb250YWN0cygpCiAgICAgICAgICAgIGdldFJlcXVlc3RzKHRydWUpCiAgICAgICAgICAgIGdldEpvaW50QWNjb3VudEludml0YXRpb25zKCkKICAgICAgICAgICAgZ2V0Q2FzaEFkdmFuY2UoKQogICAgICAgICAgICBnZXRDdXN0b21lckluZm8oKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGV4cGlyaW5nQ2FyZEluZm9MaXN0OiBFeHBpcmluZ0NhcmRJbmZvTGlzdERvbWFpbk1vZGVsPyA9IG51bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBjYWNoZVVzZXJIYXNDbG9zZWRBdmlvc1JlZmVycmFsUGFuZWwoKSB7CiAgICAgICAgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIudXNlckhhc0Nsb3NlZEF2aW9zUmVmZXJyYWxQYW5lbCA9IHRydWUKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFNjaGVkdWxlcnMuCg==</text>
+        <text encoding="base64">CgogICAgcHJpdmF0ZSBmdW4gb25HZXRFeHBpcmluZ1BoeXNpY2FsQ2FyZHNTdWNjZXNzKG1vZGVsOiBFeHBpcmluZ0NhcmRJbmZvTGlzdERvbWFpbk1vZGVsPykgewogICAgICAgIGV4cGlyaW5nQ2FyZEluZm9MaXN0ID0gbW9kZWwKICAgICAgICB1cGRhdGVDYXJkUGFuZWxzKCkKICAgIH0KCiAgICBwcml2YXRlIGZ1biBvbkdldEV4cGlyaW5nUGh5c2ljYWxDYXJkc0Vycm9yKGVycm9yOiBUaHJvd2FibGU/KSB7CiAgICAgICAgZXhwaXJpbmdDYXJkSW5mb0xpc3QgPSBudWxsCiAgICAgICAgdXBkYXRlQ2FyZFBhbmVscygpCiAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldEV4cGlyaW5nUGh5c2ljYWxDYXJkcygpIHsKICAgICAgICBnZXRFeHBpcmluZ1BoeXNpY2FsQ2FyZHNVc2VDYXNlLmNyZWF0ZShHZXRFeHBpcmluZ1BoeXNpY2FsQ2FyZHNVc2VDYXNlLkFyZygpKQogICAgICAgICAgICAuZmxhdE1hcCB7CiAgICAgICAgICAgICAgICBpbnZhbGlkYXRlRXhwaXJpbmdQaHlzaWNhbENhcmRzVXNlQ2FzZS5jcmVhdGUoKS50b1NpbmdsZURlZmF1bHQoaXQpCiAgICAgICAgICAgIH0uYmFzZVN1YnNjcmliZSgKICAgICAgICAgICAgICAgIG9uU3VjY2VzcyA9IDo6b25HZXRFeHBpcmluZ1BoeXNpY2FsQ2FyZHNTdWNjZXNzLAogICAgICAgICAgICAgICAgb25FcnJvciA9IDo6b25HZXRFeHBpcmluZ1BoeXNpY2FsQ2FyZHNFcnJvcgogICAgICAgICAgICApCiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGZ1biBjYWNoZVVzZXJIYXNDbG9zZWRBdmlvc1JlZmVycmFsUGFuZWwoKSB7CiAgICAgICAgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIudXNlckhhc0Nsb3NlZEF2aW9zUmVmZXJyYWxQYW5lbCA9IHRydWUKICAgIH0K</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBmdW4gY2FjaGVVc2VySGFzQ2xvc2VkQXZpb3NPbmJvYXJkaW5nUGFuZWwoKSB7CiAgICAgICAgc2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIudXNlckhhc0Nsb3NlZEF2aW9zT25ib2FyZGluZ1BhbmVsID0gdHJ1ZQogICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgZnVuIG9uQ29udGFjdHNMb2FkZWQoc2hvd1BheVBhbENhcmQ6IEJvb2xlYW4pIHsKLy8gICAgICAgIGdldFNlbGVjdGVkQWNjb3VudFVzZUNhc2UuY3JlYXRlKCkuYmFzZVN1YnNjcmliZSB7IGFjY291bnQgLT4KLy8gICAgICAgICAgICBnZXRSZWFkeVRvUGF5Q29udGFjdHMoKQovLyAgICAgICAgICAgIGdldFJlcXVlc3RzKHRydWUpCi8vICAgICAgICAgICAgZ2V0Sm9pbnRBY2NvdW50SW52aXRhdGlvbnMoKQovLyAgICAgICAgICAgIGdldENhc2hBZHZhbmNlKCkKLy8gICAgICAgICAgICBnZXRDdXN0b21lckluZm8oKQovLwovLyAgICAgICAgICAgIGlmIChmZWF0dXJlRmxhZ01hbmFnZXIuaXNFbmFibGVkKEZlYXR1cmVGbGFnLkRFU19IT01FX1BBTkVMKS5ub3QoKSkgewovLyAgICAgICAgICAgICAgICBnZXREZWJpdENhcmREYXRhKGFjY291bnQubnVtYmVyKQovLyAgICAgICAgICAgICAgICBnZXRFeHBpcmluZ1BoeXNpY2FsQ2FyZHMoKQovLyAgICAgICAgICAgICAgICBnZXRTcGVuZGluZ1N1bW1hcnkoYWNjb3VudC5udW1iZXIpCi8vICAgICAgICAgICAgICAgIHRoaXMuc2hvd1BheVBhbENhcmQgPSBzaG93UGF5UGFsQ2FyZAovLyAgICAgICAgICAgICAgICBpZiAoc2hvd1BheVBhbENhcmQgJiYgcGF5UGFsQ2FjaGVXcmFwcGVyLmhhc1VzZXJOb3REaXNtaXNzZWRMaW5rUGF5UGFsUGFuZWwoKSkgX3ZpZXdFZmZlY3QudmFsdWUgPQovLyAgICAgICAgICAgICAgICAgICAgVmlld0VmZmVjdC5TaG93UGF5UGFsQ2FyZAovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0KLy8gICAgfQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGZ1biBjYWNoZVVzZXJIYXNTZWVuQXZpb3NDYXJkc1JvYWRibG9jaygpIHsKICAgICAgICBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlci51c2VySGFzU2VlbkF2aW9zQ2FyZHNSb2FkYmxvY2sgPSB0cnVlCiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBpcyBQZXJzb25hbEhvbWVWaWV3RWZmZWN0LkNvbnRhY3RzTG9hZGVkIC0+IHZpZXdNb2RlbC5vbkNvbnRhY3RzTG9hZGVkKHBlcnNvbmFsSG9tZVZpZXdFZmZlY3Quc2hvd1BheVBhbENhcmQpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
