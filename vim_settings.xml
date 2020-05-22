@@ -84,7 +84,7 @@
         <mark key="]" line="46" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/jointaccount/account/repository/JointAccountRepositoryImpl.kt" timestamp="1590137491970" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590140757793">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590146208719">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="18" column="16" />
         <mark key="." line="18" column="16" />
@@ -100,18 +100,19 @@
       <file name="/fragment.kt" timestamp="1590065613978">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/customer/info/repository/CustomerInfoRepositoryImpl.kt" timestamp="1590147224576">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/home/britishairways/BritishAirwaysHomeFragment.kt" timestamp="1590064285002" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/HomeCacheWrapper.kt" timestamp="1589981602150">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590147143569">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590145398863">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="7" />
-        <mark key="^" line="29" column="22" />
-        <mark key="." line="25" column="7" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/elevatorpitch/ElevatorPitchViewModel.kt" timestamp="1590146628086" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1590067663559">
         <mark key="[" line="512" column="5" />
         <mark key="]" line="145" column="30" />
@@ -123,9 +124,9 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/paypal/common/usecase/GetShouldShowPayPalUseCase.kt" timestamp="1589971564762" />
-      <file name="/fragment.java" timestamp="1589976864382">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/jointaccount/createaccount/benefitinfo/Jnt4BenefitInfoViewModel.kt" timestamp="1590146487849">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="44" />
       </file>
     </filemarks>
     <jumps>
@@ -233,48 +234,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>return</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>deb</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGN1c3RvbWVySW5mby5kYXRhLmpvaW50QWNjb3VudEluZm8/LmpvaW50QWNjb3VudFJlZmVyZW5jZXM/LmZpcnN0T3JOdWxsKCk/LmxldCB7CiAgICAgICAgICAgICAgICAgICAgam9pbnRBY2NvdW50UmVwb3NpdG9yeS5zZXRSZWZlcmVuY2UoaXQpLnN1YnNjcmliZSgpCiAgICAgICAgICAgICAgICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHNjaGVkdWxlclByb3ZpZGVyOiBCYXNlU2NoZWR1bGVyUHJvdmlkZXIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBnZXRDdXN0b21lckluZm9BbmRVcGRhdGVKb2ludFJlZlVzZUNhc2UuY3JlYXRlKCksCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBnZXRDdXN0b21lckluZm9BbmRVcGRhdGVKb2ludFJlZlVzZUNhc2UuY3JlYXRlKCksCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ3VzdG9tZXJJbmZvRG9tYWluTW9kZWwoQ3VzdG9tZXJJbmZvRGF0YURvbWFpbk1vZGVsKCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDdXN0b21lckluZm9Eb21haW5Nb2RlbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnJlYWN0aXZleC5mdW5jdGlvbnMuRnVuY3Rpb24zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jdXN0b21lci5pbmZvLm1vZGVsLkN1c3RvbWVySW5mb0RvbWFpbk1vZGVsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC5tYXAgeyBhY2NvdW50</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDdXN0b21lckluZm9Eb21haW5Nb2RlbCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0Q3VzdG9tZXJJbmZvQW5kVXBkYXRlSm9pbnRSZWZVc2VDYXNlLmNyZWF0ZSgpLAo=</text>
+        <text encoding="base64">ICAgIHNjaGVkdWxlclByb3ZpZGVyOiBCYXNlU2NoZWR1bGVyUHJvdmlkZXIK</text>
       </register>
-      <register name="8" type="4">
-        <text>.toSingle { 
-                    
-                }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHAK</text>
       </register>
-      <register name="9" type="4">
-        <text>?.let {
-                    
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBnZXRDdXN0b21lckluZm9BbmRVcGRhdGVKb2ludFJlZlVzZUNhc2UuY3JlYXRlKCksCg==</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
