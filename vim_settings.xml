@@ -78,24 +78,20 @@
       <file name="/PersonalHomeViewModel.kt" timestamp="1590066466536" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1590133469857">
         <mark key="'" line="42" column="6" />
-        <mark key="[" line="98" column="13" />
-        <mark key="]" line="99" column="12" />
-        <mark key="." line="99" column="11" />
-        <mark key="^" line="99" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/verification/nux2s1ordercard/Nux2s0s1ConfirmAddressViewModel.kt" timestamp="1590047800053">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="61" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/jointaccount/account/repository/JointAccountRepositoryImpl.kt" timestamp="1590137491970" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590137547134">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590140757793">
         <mark key="[" line="18" column="62" />
-        <mark key="]" line="18" column="62" />
-        <mark key="." line="18" column="62" />
+        <mark key="]" line="18" column="16" />
+        <mark key="." line="18" column="16" />
         <mark key="^" line="18" column="15" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/jointaccount/account/usecase/GetJointAccountsUseCase.kt" timestamp="1590135311843" />
-      <file name="/Dummy.txt" timestamp="1590067212708">
+      <file name="/Dummy.txt" timestamp="1590141356708">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/PersonalHomeFragment.kt" timestamp="1590066886039" />
@@ -113,11 +109,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590135320540">
-        <mark key="[" line="29" column="148" />
-        <mark key="]" line="28" column="95" />
-        <mark key="." line="28" column="95" />
-        <mark key="^" line="28" column="70" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590141098754">
+        <mark key="[" line="48" column="15" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="15" />
+        <mark key="^" line="47" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1590067663559">
         <mark key="[" line="512" column="5" />
@@ -241,12 +237,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.toSingle { 
-                    
-                }</text>
+        <text>flatMap</text>
       </register>
       <register name="-" type="4">
-        <text>ee</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text>deb</text>
