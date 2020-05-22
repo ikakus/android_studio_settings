@@ -87,7 +87,13 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590135303684" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/jointaccount/account/repository/JointAccountRepositoryImpl.kt" timestamp="1590137491970" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590137547134">
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="62" />
+        <mark key="." line="18" column="62" />
+        <mark key="^" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/jointaccount/account/usecase/GetJointAccountsUseCase.kt" timestamp="1590135311843" />
       <file name="/Dummy.txt" timestamp="1590067212708">
         <mark key="[" line="0" column="0" />
@@ -118,11 +124,6 @@
         <mark key="]" line="145" column="30" />
         <mark key="." line="145" column="29" />
         <mark key="^" line="145" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/joint/JointHomeViewModel.kt" timestamp="1589970366635">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1590065565425">
         <mark key="[" line="53" column="0" />
@@ -240,40 +241,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.toSingle { 
+                    
+                }</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ee</text>
       </register>
       <register name="/" type="4">
         <text>deb</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihzY2hlZHVsZXJQcm92aWRlci5pbygpKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IGN1c3RvbWVySW5mby5kYXRhLmpvaW50QWNjb3VudEluZm8/LmpvaW50QWNjb3VudFJlZmVyZW5jZXM/LmZpcnN0T3JOdWxsKCk/LmxldCB7CiAgICAgICAgICAgICAgICAgICAgam9pbnRBY2NvdW50UmVwb3NpdG9yeS5zZXRSZWZlcmVuY2UoaXQpLnN1YnNjcmliZSgpCiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKHNjaGVkdWxlclByb3ZpZGVyLmlvKCkpCg==</text>
+      <register name="1" type="4">
+        <text>.toSingle { 
+                    
+                }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihzY2hlZHVsZXJQcm92aWRlci5pbygpKQo=</text>
+      <register name="2" type="4">
+        <text>?.let {
+                    
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgLmRvT25TdWNjZXNzIHsgY3VzdG9tZXJJbmZvIC0+CiAgICAgICAgICAgICAgICBjdXN0b21lckluZm8uZGF0YS5qb2ludEFjY291bnRJbmZvPy5qb2ludEFjY291bnRSZWZlcmVuY2VzPy5maXJzdE9yTnVsbCgpPy5sZXQgewogICAgICAgICAgICAgICAgICAgIGpvaW50QWNjb3VudFJlcG9zaXRvcnkuc2V0UmVmZXJlbmNlKGl0KS5zdWJzY3JpYmUoKQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKHNjaGVkdWxlclByb3ZpZGVyLmlvKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihzY2hlZHVsZXJQcm92aWRlci5pbygpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
