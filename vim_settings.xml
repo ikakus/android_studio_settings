@@ -84,14 +84,18 @@
         <mark key="]" line="43" column="47" />
         <mark key="." line="43" column="47" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/terms/repository/TermsAndConditionsRepositoryImpl.kt" timestamp="1590149365202" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/jointaccount/account/repository/JointAccountRepositoryImpl.kt" timestamp="1590137491970" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590148309981">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="28" />
-        <mark key="." line="19" column="28" />
-        <mark key="^" line="15" column="62" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/customer/info/usecase/GetCustomerInfoAndUpdateJointRefUseCase.kt" timestamp="1590150369568">
+        <mark key="[" line="20" column="55" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="17" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/jointaccount/account/usecase/GetJointAccountsUseCase.kt" timestamp="1590135311843" />
+      <file name="/Dummy.txt" timestamp="1590150415526">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/PersonalHomeFragment.kt" timestamp="1590066886039" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/model/HomeUpdateEvent.kt" timestamp="1590058326175">
         <mark key="[" line="4" column="0" />
@@ -107,7 +111,7 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/home/britishairways/BritishAirwaysHomeFragment.kt" timestamp="1590064285002" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590147143569">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590150438663">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="25" column="74" />
@@ -235,8 +239,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PEN1c3RvbWVySW5mb0RvbWFpbk1vZGVsPiB7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kVGhlbihTaW5nbGUuanVzdChjdXN0b21lckluZm8pKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PEN1c3RvbWVySW5mb0RvbWFpbk1vZGVsPiB7</text>
@@ -247,34 +251,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNjaGVkdWxlclByb3ZpZGVyOiBCYXNlU2NoZWR1bGVyUHJvdmlkZXIK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kVGhlbihTaW5nbGUuanVzdChjdXN0b21lckluZm8pKQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQo=</text>
+      </register>
+      <register name="4" type="4">
         <text>.toSingle {
                     customerInfo
                 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8gICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gU2luZ2xlLmp1c3QoQ3VzdG9tZXJJbmZvRG9tYWluTW9kZWwoQ3VzdG9tZXJJbmZvRGF0YURvbWFpbk1vZGVsKCkpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIC5tYXAgeyBhY2NvdW50</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNjaGVkdWxlclByb3ZpZGVyOiBCYXNlU2NoZWR1bGVyUHJvdmlkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC5tYXAgeyBhY2NvdW50</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
