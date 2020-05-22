@@ -71,13 +71,12 @@
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" timestamp="1590067152570">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1975" column="0" />
-        <mark key="]" line="1975" column="0" />
-        <mark key="." line="1975" column="0" />
-        <mark key="^" line="1959" column="15" />
+        <mark key="[" line="1990" column="0" />
+        <mark key="]" line="1990" column="0" />
+        <mark key="." line="1990" column="0" />
       </file>
       <file name="/PersonalHomeViewModel.kt" timestamp="1590066466536" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1589981561206">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1590131341051">
         <mark key="'" line="43" column="6" />
         <mark key="[" line="140" column="33" />
         <mark key="]" line="140" column="33" />
@@ -87,11 +86,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/verification/nux2s1ordercard/Nux2s0s1ConfirmAddressViewModel.kt" timestamp="1590047800053">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="61" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" timestamp="1590067115899">
-        <mark key="[" line="534" column="0" />
-        <mark key="]" line="534" column="0" />
-        <mark key="." line="534" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590067212708">
         <mark key="[" line="0" column="0" />
@@ -123,9 +117,9 @@
         <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountFragment.kt" timestamp="1590065565425">
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/paypal/common/usecase/GetShouldShowPayPalUseCase.kt" timestamp="1589971564762" />
       <file name="/fragment.java" timestamp="1589976864382">
