@@ -86,9 +86,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1590152488166" />
       <file name="/PersonalHomeFragment.kt" timestamp="1590066886039" />
-      <file name="/fragment.kt" timestamp="1590065613978">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590150438663">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
@@ -108,12 +105,13 @@
       <file name="/Dummy.txt" timestamp="1590150448294">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A26ChangePasscodeFragment.kt" timestamp="1590154248007" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A26ChangePasscodeFragment.kt" timestamp="1590154871168" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/customer/info/repository/CustomerInfoRepositoryImpl.kt" timestamp="1590147224576">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_login.xml" timestamp="1590154894497" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A26ChangePasscodeViewModel.kt" timestamp="1590154258766">
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
