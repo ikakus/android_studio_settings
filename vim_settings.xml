@@ -76,12 +76,12 @@
         <mark key="." line="1990" column="0" />
       </file>
       <file name="/PersonalHomeViewModel.kt" timestamp="1590066466536" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1590131341051">
-        <mark key="'" line="43" column="6" />
-        <mark key="[" line="140" column="33" />
-        <mark key="]" line="140" column="33" />
-        <mark key="^" line="144" column="9" />
-        <mark key="." line="140" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerViewModel.kt" timestamp="1590133469857">
+        <mark key="'" line="42" column="6" />
+        <mark key="[" line="98" column="13" />
+        <mark key="]" line="99" column="12" />
+        <mark key="." line="99" column="11" />
+        <mark key="^" line="99" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/verification/nux2s1ordercard/Nux2s0s1ConfirmAddressViewModel.kt" timestamp="1590047800053">
         <mark key="[" line="46" column="0" />
@@ -104,6 +104,12 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590133920441">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="78" />
+        <mark key="." line="44" column="78" />
+        <mark key="^" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1590067663559">
         <mark key="[" line="512" column="5" />
@@ -231,29 +237,29 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>deb</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhIGNsYXNzIE9wZW5DYXJkc0ZvclJlY2FyZGluZygpIDogTmF2aWdhdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihzY2hlZHVsZXJQcm92aWRlci5pbygpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1YnNjcmliZU9uKHNjaGVkdWxlclByb3ZpZGVyLmlvKCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihzY2hlZHVsZXJQcm92aWRlci5pbygpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -261,14 +267,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Z2V0U2VsZWN0ZWRBY2NvdW50VXNlQ2FzZS5jcmVhdGUoKS5iYXNlU3Vic2NyaWJlIHsgYWNjb3VudCAtPgogICAgICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoCiAgICAgICAgICAgICAgICBOYXZpZ2F0aW9uLk9wZW5DYXJkc0ZvclJlY2FyZGluZygKICAgICAgICAgICAgICAgICAgICBFeHBpcmluZ0NhcmRJbmZvLnRvUHJlc2VudGF0aW9uTW9kZWwoCiAgICAgICAgICAgICAgICAgICAgICAgIGdldEV4cGlyaW5nQ2FyZEluZm8oZXhwaXJpbmdDYXJkSW5mb0xpc3Q/Lmxpc3QsIGFjY291bnQuY3VycmVuY3kpCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApCiAgICAgICAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaGFyZWRWaWV3TW9kZWwub3BlbkNhcmRzRm9yUmVjYXJkaW5nKG5hdmlnYXRpb24uZXhwaXJpbmdDYXJkSW5mbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
