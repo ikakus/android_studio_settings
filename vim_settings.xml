@@ -70,21 +70,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressentryform/delegates/AddressEntryFormList.kt" timestamp="1590409989980" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1590402662249">
-        <mark key="[" line="236" column="17" />
-        <mark key="]" line="236" column="17" />
-        <mark key="." line="236" column="17" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/address_entry/OnbAddressEntryViewModel.kt" timestamp="1590410196521" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1590397431101" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/googlemap/GoogleMapFragment.kt" timestamp="1590408333446" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/host/AddressLookupHostFragment.kt" timestamp="1590411774833" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/googlemap/GoogleMapFragment.kt" timestamp="1590411675571" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesViewModel.kt" timestamp="1590407402738" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/view/PlaceResultsList.kt" timestamp="1590408093938" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/MoneseAlertDialogFragment.kt" timestamp="1590402529298" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/view/PlaceResultsList.kt" timestamp="1590412145650" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2ViewModel.kt" timestamp="1590403971670">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1590396806210" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08fd0c312226571cd0c656162520376f/jetified-places-2.0.0/jars/classes.jar!/com/google/android/libraries/places/api/net/FindAutocompletePredictionsRequest.class" timestamp="1590412585965" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/address_entry/OnbAddressEntryFragment.kt" timestamp="1590408379455" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/models/UserData.kt" timestamp="1590410244596" />
       <file name="/Dummy.txt" timestamp="1590403046196">
@@ -100,8 +94,14 @@
       <file name="/fragment.kt" timestamp="1590410135908">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/address/geolocation/GeoLocationManager.kt" timestamp="1590411591584" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_google_map_address_search.xml" timestamp="1590408283429" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/host/AddressLookupHostViewModel.kt" timestamp="1590410333431" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/address/places/PlacesManager.kt" timestamp="1590413182509">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/updateaccountdetails/updateaddress/UpdateAddressViewModel.kt" timestamp="1590408570459" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressentryform/helper/AddressEntryComponentsHelper.kt" timestamp="1590409782926" />
     </filemarks>
@@ -210,11 +210,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>PAY_PAYSAFE_EXTERNAL_BROWSER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFR5cGVGaWx0ZXIoVHlwZUZpbHRlci4pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>PAY_PAYSAFE_EXTERNAL_BROWSER</text>
+        <text>ADDRESS</text>
       </register>
       <register name="/" type="4">
         <text>deb</text>
@@ -223,33 +223,31 @@
         <text encoding="base64">ICAgIFBBWV9QQVlTQUZFX0VYVEVSTkFMX0JST1dTRVIoZmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UGluTGF5b3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnNldFR5cGVGaWx0ZXIoVHlwZUZpbHRlci4pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93UGluTGF5b3V0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdmlnYXRpb24uQ2hhbmdlUGFzc2NvZGUgLT4gb3BlbkNoYW5nZVBhc3Njb2RlKCkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImdvbmUiCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdmlnYXRpb24uQ2hhbmdlUGFzc2NvZGUgLT4gb3BlbkNoYW5nZVBhc3Njb2RlKCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kVGhlbihTaW5nbGUuanVzdChjdXN0b21lckluZm8pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuYW5kVGhlbihTaW5nbGUuanVzdChjdXN0b21lckluZm8pKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>.toSingle {
-                    customerInfo
-                }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc3Vic2NyaWJlT24oU2NoZWR1bGVycy5pbygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
