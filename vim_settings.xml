@@ -69,14 +69,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressentryform/delegates/AddressEntryFormList.kt" timestamp="1590409296990" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressentryform/delegates/AddressEntryFormList.kt" timestamp="1590409989980" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1590402662249">
         <mark key="[" line="236" column="17" />
         <mark key="]" line="236" column="17" />
         <mark key="." line="236" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/address_entry/OnbAddressEntryViewModel.kt" timestamp="1590410196521" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1590397431101" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1590392497515" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/googlemap/GoogleMapFragment.kt" timestamp="1590408333446" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesViewModel.kt" timestamp="1590407402738" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/view/PlaceResultsList.kt" timestamp="1590408093938" />
@@ -86,7 +86,7 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1590396806210" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/address_entry/OnbAddressEntryFragment.kt" timestamp="1590408379455" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/models/UserData.kt" timestamp="1590409355162" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/models/UserData.kt" timestamp="1590410244596" />
       <file name="/Dummy.txt" timestamp="1590403046196">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,10 +97,13 @@
         <mark key="." line="2" column="55" />
         <mark key="^" line="2" column="56" />
       </file>
+      <file name="/fragment.kt" timestamp="1590410135908">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_google_map_address_search.xml" timestamp="1590408283429" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/host/AddressLookupHostViewModel.kt" timestamp="1590410333431" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/updateaccountdetails/updateaddress/UpdateAddressViewModel.kt" timestamp="1590408570459" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragmentViewModel.kt" timestamp="1590396509831" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressentryform/helper/AddressEntryComponentsHelper.kt" timestamp="1590409302968" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressentryform/helper/AddressEntryComponentsHelper.kt" timestamp="1590409782926" />
     </filemarks>
     <jumps>
       <jump line="143" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerController.kt" />
