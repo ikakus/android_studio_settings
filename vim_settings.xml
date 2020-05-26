@@ -70,14 +70,21 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/avios/accounts/local/AviosAccountCache.kt" timestamp="1590499551591" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590501975455" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590503588636">
+        <mark key="[" line="165" column="6" />
+        <mark key="]" line="165" column="6" />
+        <mark key="." line="165" column="6" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2Fragment.kt" timestamp="1590494944585">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/navigation/NavigationExtensions.kt" timestamp="1590501215400" />
+      <file name="/fragment.kt" timestamp="1590502900915">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/navigation/NavigationExtensions.kt" timestamp="1590503682963" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesFragment.kt" timestamp="1590494427276">
         <mark key="'" line="52" column="16" />
         <mark key="[" line="68" column="0" />
@@ -89,7 +96,7 @@
         <mark key="^" line="25" column="74" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590499033004" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590504012576" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesViewModel.kt" timestamp="1590490564779">
         <mark key="[" line="84" column="55" />
         <mark key="]" line="84" column="0" />
@@ -131,7 +138,7 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590501995833">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590503900902">
         <mark key="[" line="380" column="0" />
         <mark key="]" line="380" column="68" />
         <mark key="." line="381" column="0" />
@@ -143,10 +150,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/smarttips/RemoveSmartTipDialogFragment.kt" timestamp="1590494466939">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="69" column="5" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/directdebit/list/DirectDebitListViewModelTest.kt" timestamp="1590488940330">
-        <mark key="[" line="62" column="3" />
-        <mark key="]" line="65" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -254,8 +257,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuYXZDb250cm9sbGVyLm5hdmlnYXRlSWZIYXNBY3Rpb24oUi5pZC5hY3Rpb25fdG9fYmEsIGJ1bmRsZSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICA8YWN0aW9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX3RvX3BlcnNvbmFsIgogICAgICAgICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC9wZXJzb25hbEFjY291bnRGcmFnbWVudCIKICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vZmFkZV9pbl8yNTAiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vZmFkZV9vdXRfMjAwIgogICAgICAgICAgICBhcHA6cG9wVXBUbz0iQGlkL2xvYWRlckhvbWVGcmFnbWVudCIKICAgICAgICAgICAgYXBwOnBvcFVwVG9JbmNsdXNpdmU9ImZhbHNlIiAvPgogICAgICAgIDxhY3Rpb24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fdG9fam9pbnQiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2pvaW50QWNjb3VudEZyYWdtZW50IgogICAgICAgICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9mYWRlX2luXzI1MCIKICAgICAgICAgICAgYXBwOmV4aXRBbmltPSJAYW5pbS9mYWRlX291dF8yMDAiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvPSJAaWQvbG9hZGVySG9tZUZyYWdtZW50IgogICAgICAgICAgICBhcHA6cG9wVXBUb0luY2x1c2l2ZT0iZmFsc2UiIC8+CiAgICAgICAgPGFjdGlvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl90b19jb250aXMiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2NvbnRpc0FjY291bnRGcmFnbWVudCIKICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vZmFkZV9pbl8yNTAiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vZmFkZV9vdXRfMjAwIgogICAgICAgICAgICBhcHA6cG9wVXBUbz0iQGlkL2xvYWRlckhvbWVGcmFnbWVudCIKICAgICAgICAgICAgYXBwOnBvcFVwVG9JbmNsdXNpdmU9ImZhbHNlIiAvPgogICAgICAgIDxhY3Rpb24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fdG9fYnVzaW5lc3MiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2J1c2luZXNzQWNjb3VudEZyYWdtZW50IgogICAgICAgICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9mYWRlX2luXzI1MCIKICAgICAgICAgICAgYXBwOmV4aXRBbmltPSJAYW5pbS9mYWRlX291dF8yMDAiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvPSJAaWQvbG9hZGVySG9tZUZyYWdtZW50IgogICAgICAgICAgICBhcHA6cG9wVXBUb0luY2x1c2l2ZT0iZmFsc2UiIC8+CiAgICAgICAgPGFjdGlvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl90b192dWVsaW5nIgogICAgICAgICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC92dWVsaW5nQWNjb3VudEZyYWdtZW50IgogICAgICAgICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9mYWRlX2luXzI1MCIKICAgICAgICAgICAgYXBwOmV4aXRBbmltPSJAYW5pbS9mYWRlX291dF8yMDAiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvPSJAaWQvbG9hZGVySG9tZUZyYWdtZW50IgogICAgICAgICAgICBhcHA6cG9wVXBUb0luY2x1c2l2ZT0iZmFsc2UiIC8+CiAgICAgICAgPGFjdGlvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl90b19iYSIKICAgICAgICAgICAgYXBwOmRlc3RpbmF0aW9uPSJAaWQvYnJpdGlzaEFpcndheXNBY2NvdW50RnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDplbnRlckFuaW09IkBhbmltL2ZhZGVfaW5fMjUwIgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL2ZhZGVfb3V0XzIwMCIKICAgICAgICAgICAgYXBwOnBvcFVwVG89IkBpZC9sb2FkZXJIb21lRnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvSW5jbHVzaXZlPSJmYWxzZSIgLz4=</text>
       </register>
       <register name="-" type="4">
         <text>arguments?.getString(Onb2s1s1SearchPlacesFragment.ARG_TIP_DESCRIPTION)</text>
@@ -266,32 +269,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuYXZDb250cm9sbGVyLm5hdmlnYXRlSWZIYXNBY3Rpb24oUi5pZC5hY3Rpb25fdG9fYmEsIGJ1bmRsZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICA8YWN0aW9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX3RvX3BlcnNvbmFsIgogICAgICAgICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC9wZXJzb25hbEFjY291bnRGcmFnbWVudCIKICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vZmFkZV9pbl8yNTAiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vZmFkZV9vdXRfMjAwIgogICAgICAgICAgICBhcHA6cG9wVXBUbz0iQGlkL2xvYWRlckhvbWVGcmFnbWVudCIKICAgICAgICAgICAgYXBwOnBvcFVwVG9JbmNsdXNpdmU9ImZhbHNlIiAvPgogICAgICAgIDxhY3Rpb24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fdG9fam9pbnQiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2pvaW50QWNjb3VudEZyYWdtZW50IgogICAgICAgICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9mYWRlX2luXzI1MCIKICAgICAgICAgICAgYXBwOmV4aXRBbmltPSJAYW5pbS9mYWRlX291dF8yMDAiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvPSJAaWQvbG9hZGVySG9tZUZyYWdtZW50IgogICAgICAgICAgICBhcHA6cG9wVXBUb0luY2x1c2l2ZT0iZmFsc2UiIC8+CiAgICAgICAgPGFjdGlvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl90b19jb250aXMiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2NvbnRpc0FjY291bnRGcmFnbWVudCIKICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vZmFkZV9pbl8yNTAiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vZmFkZV9vdXRfMjAwIgogICAgICAgICAgICBhcHA6cG9wVXBUbz0iQGlkL2xvYWRlckhvbWVGcmFnbWVudCIKICAgICAgICAgICAgYXBwOnBvcFVwVG9JbmNsdXNpdmU9ImZhbHNlIiAvPgogICAgICAgIDxhY3Rpb24KICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9hY3Rpb25fdG9fYnVzaW5lc3MiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2J1c2luZXNzQWNjb3VudEZyYWdtZW50IgogICAgICAgICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9mYWRlX2luXzI1MCIKICAgICAgICAgICAgYXBwOmV4aXRBbmltPSJAYW5pbS9mYWRlX291dF8yMDAiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvPSJAaWQvbG9hZGVySG9tZUZyYWdtZW50IgogICAgICAgICAgICBhcHA6cG9wVXBUb0luY2x1c2l2ZT0iZmFsc2UiIC8+CiAgICAgICAgPGFjdGlvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl90b192dWVsaW5nIgogICAgICAgICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC92dWVsaW5nQWNjb3VudEZyYWdtZW50IgogICAgICAgICAgICBhcHA6ZW50ZXJBbmltPSJAYW5pbS9mYWRlX2luXzI1MCIKICAgICAgICAgICAgYXBwOmV4aXRBbmltPSJAYW5pbS9mYWRlX291dF8yMDAiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvPSJAaWQvbG9hZGVySG9tZUZyYWdtZW50IgogICAgICAgICAgICBhcHA6cG9wVXBUb0luY2x1c2l2ZT0iZmFsc2UiIC8+CiAgICAgICAgPGFjdGlvbgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl90b19iYSIKICAgICAgICAgICAgYXBwOmRlc3RpbmF0aW9uPSJAaWQvYnJpdGlzaEFpcndheXNBY2NvdW50RnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDplbnRlckFuaW09IkBhbmltL2ZhZGVfaW5fMjUwIgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL2ZhZGVfb3V0XzIwMCIKICAgICAgICAgICAgYXBwOnBvcFVwVG89IkBpZC9sb2FkZXJIb21lRnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDpwb3BVcFRvSW5jbHVzaXZlPSJmYWxzZSIgLz4=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnBvdHMuZWRpdC5Qb3RFZGl0MXMwVjJGcmFnbWVudEFyZ3MK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IE9uYjJzMXMxU2VhcmNoUGxhY2VzRnJhZ21lbnRBcmdzIGJ5IG5hdkFyZ3MoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnBvdHMuZWRpdC5Qb3RFZGl0MXMwVjJGcmFnbWVudEFyZ3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpcFR5cGUgPSByZXF1aXJlTm90TnVsbChhcmd1bWVudHM/LmdldFNlcmlhbGl6YWJsZShSZW1vdmVTbWFydFRpcERpYWxvZ0ZyYWdtZW50LkFSR19USVBfVFlQRSkpIGFzIFRpcHNEb21haW5Nb2RlbC5UeXBlCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IE9uYjJzMXMxU2VhcmNoUGxhY2VzRnJhZ21lbnRBcmdzIGJ5IG5hdkFyZ3MoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRpcFR5cGUgPSByZXF1aXJlTm90TnVsbChhcmd1bWVudHM/LmdldFNlcmlhbGl6YWJsZShSZW1vdmVTbWFydFRpcERpYWxvZ0ZyYWdtZW50LkFSR19USVBfVFlQRSkpIGFzIFRpcHNEb21haW5Nb2RlbC5UeXBlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsID0gd2l0aFZpZXdNb2RlbCh2aWV3TW9kZWxGYWN0b3J5LCB7CiAgICAgICAgICAgICAgICBjcmVhdGUoCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBzZXR1cFZpZXdNb2RlbCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmlld01vZGVsID0gd2l0aFZpZXdNb2RlbCh2aWV3TW9kZWxGYWN0b3J5LCB7CiAgICAgICAgICAgICAgICBjcmVhdGUoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIHsKfQo=</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGZ1biBzZXR1cFZpZXdNb2RlbCgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
