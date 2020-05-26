@@ -70,27 +70,26 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/avios/accounts/local/AviosAccountCache.kt" timestamp="1590499551591" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590501975455" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2Fragment.kt" timestamp="1590494944585">
         <mark key="'" line="34" column="6" />
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/credit/monevo/employment/income/main/CR4s7MainIncomeViewModel.kt" timestamp="1590486918432">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="45" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/navigation/NavigationExtensions.kt" timestamp="1590501215400" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesFragment.kt" timestamp="1590494427276">
         <mark key="'" line="52" column="16" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/usecase/SearchUkPostCodeUseCase.kt" timestamp="1590487696960">
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="22" column="69" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1590500514406">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="25" column="74" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590499033004" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/credit/monevo/employment/income/main/CR4s7MainIncomeFragment.kt" timestamp="1590486572603" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesViewModel.kt" timestamp="1590490564779">
         <mark key="[" line="84" column="55" />
         <mark key="]" line="84" column="0" />
@@ -132,11 +131,15 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/rewards/Rew2RewardsViewModelTest.kt" timestamp="1590487632079">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="185" column="58" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590501995833">
+        <mark key="[" line="380" column="0" />
+        <mark key="]" line="380" column="68" />
+        <mark key="." line="381" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590498918859" />
+      <file name="/nav_home.xml" timestamp="1590501344701">
+        <mark key="[" line="54" column="29" />
+        <mark key="]" line="54" column="40" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/smarttips/RemoveSmartTipDialogFragment.kt" timestamp="1590494466939">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="69" column="5" />
@@ -251,8 +254,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>KGE_UK_POST_CODE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBuYXZDb250cm9sbGVyLm5hdmlnYXRlSWZIYXNBY3Rpb24oUi5pZC5hY3Rpb25fdG9fYmEsIGJ1bmRsZSkK</text>
       </register>
       <register name="-" type="4">
         <text>arguments?.getString(Onb2s1s1SearchPlacesFragment.ARG_TIP_DESCRIPTION)</text>
@@ -260,8 +263,8 @@
       <register name="/" type="4">
         <text>remo</text>
       </register>
-      <register name="0" type="4">
-        <text>KGE_UK_POST_CODE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuYXZDb250cm9sbGVyLm5hdmlnYXRlSWZIYXNBY3Rpb24oUi5pZC5hY3Rpb25fdG9fYmEsIGJ1bmRsZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
