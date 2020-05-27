@@ -76,11 +76,11 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="1" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/views/Avi9ExchangeAviosCategoryView.kt" timestamp="1590597348764">
-        <mark key="[" line="46" column="29" />
-        <mark key="]" line="46" column="30" />
-        <mark key="." line="46" column="30" />
-        <mark key="^" line="40" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/views/Avi9ExchangeAviosCategoryView.kt" timestamp="1590599700498">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="50" column="30" />
+        <mark key="." line="50" column="30" />
+        <mark key="^" line="43" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk1_post_code.xml" timestamp="1590582258053">
         <mark key="[" line="0" column="0" />
@@ -134,8 +134,10 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590598038097">
+      <file name="/Dummy.txt" timestamp="1590599862572">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Extensions.kt" timestamp="1590594039021">
         <mark key="[" line="228" column="13" />
@@ -257,11 +259,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
