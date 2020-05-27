@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>share</entry>
         <entry>compo</entry>
         <entry>ob</entry>
         <entry>th</entry>
@@ -27,6 +26,7 @@
         <entry>Obs</entry>
         <entry>aut</entry>
         <entry>remo</entry>
+        <entry>get</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -69,15 +69,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosAccountDetailActivity.kt" timestamp="1590517666052">
-        <mark key="[" line="145" column="38" />
-        <mark key="]" line="146" column="16" />
-        <mark key="^" line="146" column="16" />
-        <mark key="." line="146" column="15" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosAccountDetailActivity.kt" timestamp="1590563838478">
+        <mark key="'" line="145" column="17" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="145" column="35" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/avios/accounts/local/AviosAccountCache.kt" timestamp="1590499551591" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/onboarding/Avi6AviosAccountLinkedFragment.kt" timestamp="1590516120538">
-        <mark key="]" line="20" column="34" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/onboarding/Avi6AviosAccountLinkedFragment.kt" timestamp="1590563805885">
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="83" column="53" />
+        <mark key="." line="83" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590503588636">
         <mark key="[" line="165" column="6" />
@@ -105,9 +108,9 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_avios_unlink_account.xml" timestamp="1590505493281" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/home/vueling/VuelingHomeFragment.kt" timestamp="1590517018027">
-        <mark key="[" line="152" column="12" />
-        <mark key="]" line="152" column="39" />
-        <mark key="." line="152" column="39" />
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="39" />
+        <mark key="." line="18" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/more/MoreTabFragment.kt" timestamp="1590517042193">
         <mark key="[" line="215" column="15" />
@@ -123,7 +126,7 @@
         <mark key="[" line="28" column="4" />
         <mark key="]" line="28" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590494990108">
+      <file name="/Dummy.txt" timestamp="1590518165357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -134,13 +137,13 @@
         <mark key="." line="29" column="4" />
         <mark key="^" line="29" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/home/britishairways/BritishAirwaysHomeFragment.kt" timestamp="1590516566954">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/home/britishairways/BritishAirwaysHomeFragment.kt" timestamp="1590563016047">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590517487890">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590563347512">
         <mark key="[" line="260" column="21" />
         <mark key="]" line="260" column="21" />
         <mark key="." line="260" column="21" />
@@ -151,7 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="31" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" />
       <jump line="100" column="25" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" />
       <jump line="107" column="32" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" />
       <jump line="89" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" />
@@ -251,30 +253,31 @@
       <jump line="19" column="22" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/usecase/searchUkPostCodeUseCase.kt" />
       <jump line="52" column="16" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/places/Onb2s1s1SearchPlacesFragment.kt" />
       <jump line="34" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2Fragment.kt" />
+      <jump line="145" column="17" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosAccountDetailActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>AVIOS_UNLINK_START_CODE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzZXRSZXN1bHQoQWN0aXZpdHkuUkVTVUxUX09LKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>AVIOS_UNLINK_START_CODE</text>
+        <text>getIntent</text>
       </register>
       <register name="/" type="4">
-        <text>remo</text>
+        <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEhvbWVBY3Rpdml0eS5nZXRJbnRlbnQodGhpcywgbnVsbCkpCiAgICAgICAgZmluaXNoKCkK</text>
+      <register name="0" type="4">
+        <text>getReturnToIntent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRSZXN1bHQoQWN0aXZpdHkuUkVTVUxUX09LKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbmlzaCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQVZJT1NfVU5MSU5LX1NUQVJUX0NPREUK</text>
+        <text encoding="base64">Ly8gICAgICAgIHdpdGgocmVxdWlyZUFjdGl2aXR5KCkpIHsKLy8gICAgICAgICAgICBzZXRSZXN1bHQoUkVTVUxUX09LKQovLyAgICAgICAgICAgIGZpbmlzaCgpCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
@@ -286,13 +289,13 @@
         <text encoding="base64">ICAgICAgICAgICAgQVZJT1NfVU5MSU5LX1NUQVJUX0NPREUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWwgQVZJT1NfVU5MSU5LX1NUQVJUX0NPREUgPSAxODQxNQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldFJlc3VsdChBY3Rpdml0eS5SRVNVTFRfT0spCi8vICAgICAgICBmaW5pc2goKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEhvbWVBY3Rpdml0eS5nZXRSZXR1cm5Ub0ludGVudCh0aGlzKSkKICAgICAgICBmaW5pc2goKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQVZJT1NfVU5MSU5LX1NUQVJUX0NPREUK</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
@@ -301,9 +304,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>remo</last-search>
+      <last-search>get</last-search>
       <last-offset />
-      <last-pattern>remo</last-pattern>
+      <last-pattern>get</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
