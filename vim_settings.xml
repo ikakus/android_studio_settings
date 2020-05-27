@@ -77,19 +77,14 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/avios/accounts/local/AviosAccountCache.kt" timestamp="1590499551591" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/onboarding/Avi6AviosAccountLinkedViewModel.kt" timestamp="1590567455891">
-        <mark key="[" line="41" column="8" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="40" column="31" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/onboarding/Avi6AviosAccountLinkedFragment.kt" timestamp="1590563805885">
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="83" column="53" />
-        <mark key="." line="83" column="36" />
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="82" column="53" />
+        <mark key="." line="82" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590503588636">
-        <mark key="[" line="165" column="6" />
-        <mark key="]" line="165" column="6" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590569555310">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="61" />
         <mark key="." line="165" column="6" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/AccountsActivity.kt" timestamp="1590504329251">
@@ -124,13 +119,13 @@
         <mark key="]" line="215" column="15" />
         <mark key="." line="215" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590567358084">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590569350028">
         <mark key="[" line="615" column="0" />
         <mark key="]" line="640" column="5" />
         <mark key="." line="400" column="12" />
         <mark key="^" line="400" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590518165357">
+      <file name="/Dummy.txt" timestamp="1590569899120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -147,10 +142,10 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590565059680">
-        <mark key="[" line="260" column="21" />
-        <mark key="]" line="260" column="21" />
-        <mark key="." line="260" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590569558623">
+        <mark key="[" line="380" column="47" />
+        <mark key="]" line="380" column="76" />
+        <mark key="." line="380" column="47" />
       </file>
       <file name="/nav_home.xml" timestamp="1590501344701">
         <mark key="[" line="54" column="29" />
@@ -262,17 +257,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2hXaXRoUmVzdWx0T2spCg==</text>
+      <register name="&quot;" type="4">
+        <text>action_to_ba</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>action_to_ba</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2hXaXRoUmVzdWx0T2spCg==</text>
+      <register name="0" type="4">
+        <text>britishAirwaysAccountFragment</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2hXaXRoUmVzdWx0T2spCg==</text>
