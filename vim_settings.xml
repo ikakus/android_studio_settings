@@ -69,7 +69,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosAccountDetailActivity.kt" timestamp="1590563838478">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosAccountDetailActivity.kt" timestamp="1590566969987">
         <mark key="'" line="145" column="17" />
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -77,6 +77,11 @@
         <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/avios/accounts/local/AviosAccountCache.kt" timestamp="1590499551591" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/onboarding/Avi6AviosAccountLinkedViewModel.kt" timestamp="1590567455891">
+        <mark key="[" line="41" column="8" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="40" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/onboarding/Avi6AviosAccountLinkedFragment.kt" timestamp="1590563805885">
         <mark key="[" line="83" column="36" />
         <mark key="]" line="83" column="53" />
@@ -119,10 +124,11 @@
         <mark key="]" line="215" column="15" />
         <mark key="." line="215" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590564863134">
-        <mark key="[" line="119" column="31" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590567358084">
+        <mark key="[" line="615" column="0" />
+        <mark key="]" line="640" column="5" />
+        <mark key="." line="400" column="12" />
+        <mark key="^" line="400" column="13" />
       </file>
       <file name="/FeatureFlag.kt" timestamp="1590495081350">
         <mark key="[" line="28" column="4" />
@@ -261,43 +267,47 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRSZXN1bHQoQWN0aXZpdHkuUkVTVUxUX09LKQo=</text>
+        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2hXaXRoUmVzdWx0T2spCg==</text>
       </register>
       <register name="-" type="4">
-        <text>getIntent</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
       </register>
-      <register name="0" type="4">
-        <text>getReturnToIntent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2hXaXRoUmVzdWx0T2spCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRSZXN1bHQoQWN0aXZpdHkuUkVTVUxUX09LKQo=</text>
+        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2hXaXRoUmVzdWx0T2spCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGZpbmlzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldHVwU2VsZWN0ZWRBY2NvdW50KCkKICAgICAgICAgICAgICAgIHNldHVwRHJhd2VySXRlbXMoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHdpdGgocmVxdWlyZUFjdGl2aXR5KCkpIHsKLy8gICAgICAgICAgICBzZXRSZXN1bHQoUkVTVUxUX09LKQovLyAgICAgICAgICAgIGZpbmlzaCgpCi8vICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>doOnSubscribe {
+            _loading.postValue(true)
+        }.doFinally {
+            _loading.postValue(false)
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNob3dOb1Jlc3BvbnNlRnJhZ21lbnQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRSZXN1bHQoQWN0aXZpdHkuUkVTVUxUX09LKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQVZJT1NfVU5MSU5LX1NUQVJUX0NPREUK</text>
+        <text encoding="base64">Ly8gICAgICAgIGZpbmlzaCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHdpdGgocmVxdWlyZUFjdGl2aXR5KCkpIHsKLy8gICAgICAgICAgICBzZXRSZXN1bHQoUkVTVUxUX09LKQovLyAgICAgICAgICAgIGZpbmlzaCgpCi8vICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQVZJT1NfVU5MSU5LX1NUQVJUX0NPREUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmF2aW9zLmFjdGl2aXRpZXMuQXZpb3NBY2NvdW50RGV0YWlsQWN0aXZpdHkuQ29tcGFuaW9uLkFWSU9TX1VOTElOS19TVEFSVF9DT0RFCg==</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
