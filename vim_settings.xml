@@ -86,6 +86,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="101" column="51" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1590598533215" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590569350028">
         <mark key="[" line="615" column="0" />
         <mark key="]" line="640" column="5" />
@@ -133,14 +134,14 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590583268961">
+      <file name="/Dummy.txt" timestamp="1590598038097">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Extensions.kt" timestamp="1590594039021">
         <mark key="[" line="228" column="13" />
         <mark key="]" line="228" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590569558623">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590598840953">
         <mark key="[" line="380" column="47" />
         <mark key="]" line="380" column="76" />
         <mark key="." line="380" column="47" />
