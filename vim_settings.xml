@@ -75,7 +75,32 @@
         <mark key="^" line="119" column="0" />
         <mark key="." line="129" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590653056857">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2Fragment.kt" timestamp="1590582395513">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/vueling/fragments/Vue9VuelingExchangeFragment.kt" timestamp="1590595994324">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_address_lookup.xml" timestamp="1590658914923" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2ViewModel.kt" timestamp="1590652748187">
+        <mark key="'" line="14" column="37" />
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="40" column="47" />
+        <mark key="^" line="40" column="48" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/views/Avi9ExchangeAviosCategoryView.kt" timestamp="1590599700498">
+        <mark key="[" line="28" column="48" />
+        <mark key="]" line="50" column="30" />
+        <mark key="." line="50" column="30" />
+        <mark key="^" line="43" column="47" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590657566313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -86,70 +111,33 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlag.kt" timestamp="1590578931756">
-        <mark key="[" line="27" column="19" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1EnterPostalCodeViewModel.kt" timestamp="1590658164097">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="35" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1EnterPostalCodeFragment.kt" timestamp="1590583108556">
-        <mark key="[" line="40" column="5" />
-        <mark key="]" line="41" column="72" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListViewModel.kt" timestamp="1590658233849">
+        <mark key="]" line="17" column="41" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="17" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1EnterPostalCodeFragment.kt" timestamp="1590658373638">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/Extensions.kt" timestamp="1590594039021">
         <mark key="[" line="228" column="13" />
         <mark key="]" line="228" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/address/places/UkPostCodePlacesManager.kt" timestamp="1590653055853">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="7" />
-        <mark key="^" line="26" column="8" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2Fragment.kt" timestamp="1590582395513">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="14" />
-        <mark key="." line="11" column="13" />
-        <mark key="^" line="11" column="14" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590582524064">
-        <mark key="[" line="15" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590658535932">
+        <mark key="[" line="44" column="41" />
+        <mark key="]" line="44" column="41" />
+        <mark key="." line="44" column="41" />
+        <mark key="^" line="11" column="133" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590598840953">
         <mark key="[" line="351" column="47" />
         <mark key="]" line="351" column="76" />
         <mark key="." line="351" column="47" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590569555310">
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="61" />
-        <mark key="." line="165" column="6" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/vueling/fragments/Vue9VuelingExchangeFragment.kt" timestamp="1590595994324">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk1_post_code.xml" timestamp="1590582258053">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="101" column="51" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2ViewModel.kt" timestamp="1590652748187">
-        <mark key="'" line="14" column="37" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="40" column="47" />
-        <mark key="^" line="40" column="48" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2Fragment.kt" timestamp="1590580518248">
-        <mark key="'" line="29" column="6" />
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="39" column="1" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="39" column="1" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/views/Avi9ExchangeAviosCategoryView.kt" timestamp="1590599700498">
-        <mark key="[" line="28" column="48" />
-        <mark key="]" line="50" column="30" />
-        <mark key="." line="50" column="30" />
-        <mark key="^" line="43" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/britishairways/fragments/Avi9ExchangeAviosFragment.kt" timestamp="1590596001525">
         <mark key="[" line="33" column="0" />
@@ -263,49 +251,45 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>se</text>
       </register>
-      <register name="0" type="4">
-        <text>applyAnnotationStyle</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldHVwTGlzdGVuZXJzKCkgewogICAgICAgIGJ0bl9vbmJfdWsxX2ZpbmQuc2V0T25DbGlja0xpc3RlbmVyIHsgdmlld01vZGVsLm9uRmluZENsaWNrZWQoKSB9CiAgICAgICAgbXRfb25iX3VrMS5zZXROYXZpZ2F0aW9uT25DbGlja0xpc3RlbmVyIHsgdmlld01vZGVsLm9uTG9nT3V0Q2xpY2tlZCgpIH0KICAgICAgICBtdF9vbmJfdWsxLnNldE1lbnVJY29uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkNoYXRDbGlja2VkKCkgfQogICAgICAgIGl2X29uYl91azFfZWRpdF9jb3VudHJ5LnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkVkaXRDbGlja2VkKCkgfQogICAgICAgIG1pdl9vbmJfdWsxX3Bvc3RfY29kZS5kb09uVGV4dENoYW5nZWQgeyB0ZXh0LCBfLCBfLCBfIC0+CiAgICAgICAgICAgIHZpZXdNb2RlbC5vblBvc3RhbENvZGVDaGFuZ2VkKHRleHQudG9TdHJpbmcoKSkgfQogICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpdl9vbmJfdWsxX2VkaXRfY291bnRyeS5zZXRPbkNsaWNrTGlzdGVuZXIgeyB2aWV3TW9kZWwub25FZGl0Q2xpY2tlZCgpIH0KICAgICAgICBtaXZfb25iX3VrMV9wb3N0X2NvZGUuZG9PblRleHRDaGFuZ2VkIHsgdGV4dCwgXywgXywgXyAtPgogICAgICAgICAgICB2aWV3TW9kZWwub25Qb3N0YWxDb2RlQ2hhbmdlZCh0ZXh0LnRvU3RyaW5nKCkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXR1cFZpZXdzKCkgewovLyAgICAgICAgdmFsIHVzZXJMb2NhbGUgPSBsb2NhbGVNYW5hZ2VyLnVzZXJMb2NhbGUKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZmxpZ2h0X2Rpc2NvdW50cy5zZXRWaWV3cyh1c2VyTG9jYWxlKQovLyAgICAgICAgYXZpOV9hdmlvc19leGNoYW5nZV9mcmVlX2ZsaWdodHMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfaG90ZWxfc3RheXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfY2FyX2hpcmUuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZXhwZXJpZW5jZXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2Vfd2luZS5zZXRWaWV3cyh1c2VyTG9jYWxlKQogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBidG5fb25iX3VrMV9maW5kLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkZpbmRDbGlja2VkKCkgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>{
+
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text>//    private fun setupViews() {
-//        val userLocale = localeManager.userLocale
-//        vue9_avios_exchange_flight_discounts.setViews(userLocale)
-//        vue9_avios_exchange_hotel_stays.setViews(userLocale)
-//        vue9_avios_exchange_car_hire.setViews(userLocale)
-//        vue9_avios_exchange_experiences.setViews(userLocale)
-//    }</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXR1cFZpZXdzKCkgewovLyAgICAgICAgdmFsIHVzZXJMb2NhbGUgPSBsb2NhbGVNYW5hZ2VyLnVzZXJMb2NhbGUKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZmxpZ2h0X2Rpc2NvdW50cy5zZXRWaWV3cyh1c2VyTG9jYWxlKQovLyAgICAgICAgYXZpOV9hdmlvc19leGNoYW5nZV9mcmVlX2ZsaWdodHMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfaG90ZWxfc3RheXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfY2FyX2hpcmUuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZXhwZXJpZW5jZXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2Vfd2luZS5zZXRWaWV3cyh1c2VyTG9jYWxlKQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0U3RyaW5nKFIuc3R5bGVhYmxlLkF2aTlFeGNoYW5nZUF2aW9zQ2F0ZWdvcnlWaWV3X2V4Y2hhbmdlX2F2aW9zX3RpdGxlKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdXNlckxvY2FsZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X29uYl91azFfdGl0bGUiCiAgICAgICAgc3R5bGU9IkBzdHlsZS9Nb25lc2UuVGV4dEFwcGVhcmFuY2UuVGl0bGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI4ZHAiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL29uYl91azFfdGl0bGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL210X29uYl91azEiIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl9vbmJfdWsxX3N1YnRpdGxlIgogICAgICAgIHN0eWxlPSJAc3R5bGUvTW9uZXNlLlRleHRBcHBlYXJhbmNlLkJvZHkuU3VidGxlIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiCiAgICAgICAgYW5kcm9pZDp0ZXh0PSJAc3RyaW5nL29uYl91azFfc3VidGl0bGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3R2X29uYl91azFfdGl0bGUiIC8+CgogICAgPGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pdl9vbmJfdWsxX2ZsYWciCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjE3ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIxN2RwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSIyMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNjBkcCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL3R2X29uYl91azFfc3VidGl0bGUiCiAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGRyYXdhYmxlL2ZsYWdfdWtfMTFfZHAiIC8+CgogICAgPFRleHRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC90dl9vbmJfdWsxX2NvdW50cnlfdGl0bGUiCiAgICAgICAgc3R5bGU9IkBzdHlsZS9Nb25lc2UuVGV4dEFwcGVhcmFuY2UuTGFiZWwiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iOGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iOGRwIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9hZGQxczNfdWtfdGV4dCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0iQGlkL2l2X29uYl91azFfZmxhZyIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9TdGFydE9mPSJAaWQvaXZfb25iX3VrMV9lZGl0X2NvdW50cnkiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9FbmRPZj0iQGlkL2l2X29uYl91azFfZmxhZyIgLz4KCiAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXcKICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X29uYl91azFfZWRpdF9jb3VudHJ5IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSI0MGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iNDBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjEwZHAiCiAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAZHJhd2FibGUvcmlwcGxlX2JsdWUiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nPSI4ZHAiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9IkBpZC9pdl9vbmJfdWsxX2ZsYWciCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0iQGlkL2l2X29uYl91azFfZmxhZyIKICAgICAgICBhcHA6c3JjQ29tcGF0PSJAZHJhd2FibGUvaWNfZWRpdF9ibHVlXzI1X2RwIiAvPgoKICAgIDxjb20ubW9uZXNlLm1vbmVzZS5kZXNpZ25zeXN0ZW0ubGliLnZpZXcuaW5wdXQuTW9uZXNlSW5wdXRWaWV3CiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9taXZfb25iX3VrMV9wb3N0X2NvZGUiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IjI0ZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIyMGRwIgogICAgICAgIGFuZHJvaWQ6aW1lT3B0aW9ucz0iYWN0aW9uRG9uZSIKICAgICAgICBhbmRyb2lkOnNpbmdsZUxpbmU9InRydWUiCiAgICAgICAgYXBwOmhpbnQ9IkBzdHJpbmcvYTE3X3RleHRmaWVsZF9wb3N0X2NvZGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL2l2X29uYl91azFfZmxhZyIKICAgICAgICBhcHA6c3VnZ2VzdGlvbj0iQHN0cmluZy9hZHIxX2JvdHRvbV9oaW50X3VrX3Bvc3RfY29kZSIgLz4KCiAgICA8Y29tLm1vbmVzZS5tb25lc2UuZGVzaWduc3lzdGVtLmxpYi52aWV3LmJ1dHRvbi5QcmltYXJ5QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idG5fb25iX3VrMV9maW5kIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luU3RhcnQ9IjIwZHAiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luRW5kPSIyMGRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkJvdHRvbT0iMjBkcCIKICAgICAgICBhcHA6YnV0dG9uX3RleHQ9IkBzdHJpbmcvb25iX3VrMV9idG5fdGl0bGUiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50IiAvPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
