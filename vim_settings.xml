@@ -100,7 +100,7 @@
         <mark key="." line="50" column="30" />
         <mark key="^" line="43" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590657566313">
+      <file name="/Dummy.txt" timestamp="1590660207641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,11 +128,12 @@
         <mark key="[" line="228" column="13" />
         <mark key="]" line="228" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590658535932">
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="44" column="41" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="11" column="133" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590660024910">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="35" />
+        <mark key="]" line="43" column="35" />
+        <mark key="." line="43" column="35" />
+        <mark key="^" line="43" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590598840953">
         <mark key="[" line="351" column="47" />
@@ -146,8 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="32" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" />
-      <jump line="89" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" />
       <jump line="122" column="13" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerHelper.kt" />
       <jump line="445" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
       <jump line="299" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
@@ -246,47 +245,49 @@
       <jump line="34" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2Fragment.kt" />
       <jump line="145" column="17" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/avios/activities/AviosAccountDetailActivity.kt" />
       <jump line="14" column="37" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostcode/lookuplist/OnbUk2ViewModel.kt" />
+      <jump line="46" column="31" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>onViewEffect</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>onViewEffect</text>
       </register>
       <register name="/" type="4">
         <text>se</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHNldHVwTGlzdGVuZXJzKCkgewogICAgICAgIGJ0bl9vbmJfdWsxX2ZpbmQuc2V0T25DbGlja0xpc3RlbmVyIHsgdmlld01vZGVsLm9uRmluZENsaWNrZWQoKSB9CiAgICAgICAgbXRfb25iX3VrMS5zZXROYXZpZ2F0aW9uT25DbGlja0xpc3RlbmVyIHsgdmlld01vZGVsLm9uTG9nT3V0Q2xpY2tlZCgpIH0KICAgICAgICBtdF9vbmJfdWsxLnNldE1lbnVJY29uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkNoYXRDbGlja2VkKCkgfQogICAgICAgIGl2X29uYl91azFfZWRpdF9jb3VudHJ5LnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkVkaXRDbGlja2VkKCkgfQogICAgICAgIG1pdl9vbmJfdWsxX3Bvc3RfY29kZS5kb09uVGV4dENoYW5nZWQgeyB0ZXh0LCBfLCBfLCBfIC0+CiAgICAgICAgICAgIHZpZXdNb2RlbC5vblBvc3RhbENvZGVDaGFuZ2VkKHRleHQudG9TdHJpbmcoKSkgfQogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZSh2aWV3RWZmZWN0LCA6Om9uVmlld0VmZmVjdCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpdl9vbmJfdWsxX2VkaXRfY291bnRyeS5zZXRPbkNsaWNrTGlzdGVuZXIgeyB2aWV3TW9kZWwub25FZGl0Q2xpY2tlZCgpIH0KICAgICAgICBtaXZfb25iX3VrMV9wb3N0X2NvZGUuZG9PblRleHRDaGFuZ2VkIHsgdGV4dCwgXywgXywgXyAtPgogICAgICAgICAgICB2aWV3TW9kZWwub25Qb3N0YWxDb2RlQ2hhbmdlZCh0ZXh0LnRvU3RyaW5nKCkpCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBvYnNlcnZlKGRlc2NyaXB0aW9uLCA6Om9uRGVzY3JpcHRpb24pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBidG5fb25iX3VrMV9maW5kLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkZpbmRDbGlja2VkKCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICBpdl9vbmJfdWsxX2VkaXRfY291bnRyeS5zZXRPbkNsaWNrTGlzdGVuZXIgeyB2aWV3TW9kZWwub25FZGl0Q2xpY2tlZCgpIH0KICAgICAgICBtaXZfb25iX3VrMV9wb3N0X2NvZGUuZG9PblRleHRDaGFuZ2VkIHsgdGV4dCwgXywgXywgXyAtPgogICAgICAgICAgICB2aWV3TW9kZWwub25Qb3N0YWxDb2RlQ2hhbmdlZCh0ZXh0LnRvU3RyaW5nKCkpCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidG5fb25iX3VrMV9maW5kLnNldE9uQ2xpY2tMaXN0ZW5lciB7IHZpZXdNb2RlbC5vbkZpbmRDbGlja2VkKCkgfQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
 
         }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXR1cFZpZXdzKCkgewovLyAgICAgICAgdmFsIHVzZXJMb2NhbGUgPSBsb2NhbGVNYW5hZ2VyLnVzZXJMb2NhbGUKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZmxpZ2h0X2Rpc2NvdW50cy5zZXRWaWV3cyh1c2VyTG9jYWxlKQovLyAgICAgICAgYXZpOV9hdmlvc19leGNoYW5nZV9mcmVlX2ZsaWdodHMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfaG90ZWxfc3RheXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfY2FyX2hpcmUuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZXhwZXJpZW5jZXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2Vfd2luZS5zZXRWaWV3cyh1c2VyTG9jYWxlKQogICAgfQ==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXR1cFZpZXdzKCkgewovLyAgICAgICAgdmFsIHVzZXJMb2NhbGUgPSBsb2NhbGVNYW5hZ2VyLnVzZXJMb2NhbGUKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZmxpZ2h0X2Rpc2NvdW50cy5zZXRWaWV3cyh1c2VyTG9jYWxlKQovLyAgICAgICAgYXZpOV9hdmlvc19leGNoYW5nZV9mcmVlX2ZsaWdodHMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfaG90ZWxfc3RheXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfY2FyX2hpcmUuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2VfZXhwZXJpZW5jZXMuc2V0Vmlld3ModXNlckxvY2FsZSkKLy8gICAgICAgIGF2aTlfYXZpb3NfZXhjaGFuZ2Vfd2luZS5zZXRWaWV3cyh1c2VyTG9jYWxlKQogICAgfQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHNldHVwVmlld3MoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
