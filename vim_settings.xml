@@ -86,7 +86,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="101" column="51" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1590598533215" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1590651850557">
+        <mark key="[" line="129" column="39" />
+        <mark key="]" line="129" column="39" />
+        <mark key="^" line="119" column="0" />
+        <mark key="." line="129" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeViewModel.kt" timestamp="1590569350028">
         <mark key="[" line="615" column="0" />
         <mark key="]" line="640" column="5" />
@@ -134,7 +139,7 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590599862572">
+      <file name="/Dummy.txt" timestamp="1590651532654">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -260,10 +265,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>account_details</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>account_details</text>
       </register>
       <register name="/" type="4">
         <text>get</text>
