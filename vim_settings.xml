@@ -69,16 +69,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerFragment.kt" timestamp="1590651850557">
-        <mark key="[" line="129" column="39" />
-        <mark key="]" line="129" column="39" />
-        <mark key="^" line="119" column="0" />
-        <mark key="." line="129" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/host/AddressLookupHostFragment.kt" timestamp="1590671898504">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/host/AddressLookupHostFragment.kt" timestamp="1590676355866">
         <mark key="[" line="79" column="17" />
-        <mark key="]" line="79" column="17" />
-        <mark key="." line="79" column="17" />
+        <mark key="]" line="74" column="78" />
+        <mark key="." line="74" column="77" />
+        <mark key="^" line="74" column="78" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1ChooseCountryAdapter.kt" timestamp="1590671526516" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_home.xml" timestamp="1590668205273">
@@ -86,7 +81,7 @@
         <mark key="]" line="48" column="54" />
         <mark key="." line="165" column="6" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2AddressesAdapter.kt" timestamp="1590670370424">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2AddressesAdapter.kt" timestamp="1590676778696">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
@@ -106,8 +101,10 @@
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590671279303">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1590677508862">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590670795080">
         <mark key="[" line="23" column="63" />
@@ -125,17 +122,20 @@
         <mark key="." line="17" column="40" />
         <mark key="^" line="17" column="41" />
       </file>
+      <file name="/fragment.kt" timestamp="1590676708834">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1EnterPostalCodeFragment.kt" timestamp="1590670461859">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/list/item/ListItem.kt" timestamp="1590671367446" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590671160116">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="18" column="58" />
-        <mark key="]" line="18" column="58" />
-        <mark key="." line="18" column="58" />
-        <mark key="^" line="60" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590676950522">
+        <mark key="'" line="30" column="4" />
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="64" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590668322804">
         <mark key="'" line="146" column="77" />
@@ -257,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>1ChooseCountryDialog</text>
+        <text>adapter</text>
       </register>
       <register name="-" type="4">
-        <text>1ChooseCountryDialog</text>
+        <text>adapter</text>
       </register>
       <register name="/" type="4">
         <text>fra</text>
