@@ -70,11 +70,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590756378565">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590753177502">
         <mark key="'" line="28" column="0" />
         <mark key="[" line="39" column="12" />
@@ -129,6 +124,12 @@
         <mark key="." line="11" column="135" />
         <mark key="^" line="11" column="136" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2ViewModelTest.kt" timestamp="1590761108893">
+        <mark key="[" line="96" column="13" />
+        <mark key="]" line="96" column="18" />
+        <mark key="." line="96" column="17" />
+        <mark key="^" line="96" column="18" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_avios_unlink_account.xml" timestamp="1590747044553">
         <mark key="[" line="95" column="13" />
         <mark key="]" line="95" column="65" />
@@ -139,6 +140,12 @@
         <mark key="]" line="620" column="92" />
         <mark key="." line="620" column="91" />
         <mark key="^" line="620" column="92" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListViewModelTest.kt" timestamp="1590761252456">
+        <mark key="[" line="95" column="13" />
+        <mark key="]" line="95" column="18" />
+        <mark key="." line="95" column="17" />
+        <mark key="^" line="95" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -247,43 +254,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>6EH</text>
+        <text>LatLng</text>
       </register>
       <register name="-" type="4">
-        <text>6EH</text>
+        <text>LatLng</text>
       </register>
       <register name="/" type="4">
         <text>fra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUb2FzdC5tYWtlVGV4dChyZXF1aXJlQ29udGV4dCgpLCAibmF2aWFndGUgdG8gJHtpdC5wbGFjZUlkfSIsIFRvYXN0LkxFTkdUSF9TSE9SVCkuc2hvdygpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNlYXJjaFVrUG9zdENvZGVVc2VDYXNlOiBTZWFyY2hVa1Bvc3RDb2RlVXNlQ2FzZSA9IG1vY2trKHJlbGF4ZWQgPSB0cnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGVzdExhdExuZyA9IExhdExuZygxMjMuMSwgMTIzLjEpCg==</text>
       </register>
       <register name="2" type="2">
-        <text>Fragment wip</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Fragment wip</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdG1wTGlzdCA9IGl0LnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgICAgIHRtcExpc3QuYWRkKGl0LmZpcnN0KCkpCiAgICAgICAgICAgICAgICAgICAgdG1wTGlzdC5hZGQoaXQuZmlyc3QoKSkKICAgICAgICAgICAgICAgICAgICB0bXBMaXN0LmFkZChpdC5maXJzdCgpKQogICAgICAgICAgICAgICAgICAgIHRtcExpc3QuYWRkKGl0LmZpcnN0KCkpCiAgICAgICAgICAgICAgICAgICAgdG1wTGlzdC5hZGQoaXQuZmlyc3QoKSkKICAgICAgICAgICAgICAgICAgICB0bXBMaXN0LmFkZChpdC5maXJzdCgpKQogICAgICAgICAgICAgICAgICAgIHRtcExpc3QuYWRkKGl0LmZpcnN0KCkpCiAgICAgICAgICAgICAgICAgICAgdG1wTGlzdC5hZGQoaXQuZmlyc3QoKSkKICAgICAgICAgICAgICAgICAgICB0bXBMaXN0LmFkZChpdC5maXJzdCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text>Add left and right drawables to list item</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgdG1wTGlzdCA9IGl0LnRvTXV0YWJsZUxpc3QoKQogICAgICAgICAgICAgICAgICAgIHRtcExpc3QuYWRkKGl0LmZpcnN0KCkpCiAgICAgICAgICAgICAgICAgICAgdG1wTGlzdC5hZGQoaXQuZmlyc3QoKSkKICAgICAgICAgICAgICAgICAgICB0bXBMaXN0LmFkZChpdC5maXJzdCgpKQogICAgICAgICAgICAgICAgICAgIHRtcExpc3QuYWRkKGl0LmZpcnN0KCkpCiAgICAgICAgICAgICAgICAgICAgdG1wTGlzdC5hZGQoaXQuZmlyc3QoKSkKICAgICAgICAgICAgICAgICAgICB0bXBMaXN0LmFkZChpdC5maXJzdCgpKQogICAgICAgICAgICAgICAgICAgIHRtcExpc3QuYWRkKGl0LmZpcnN0KCkpCiAgICAgICAgICAgICAgICAgICAgdG1wTGlzdC5hZGQoaXQuZmlyc3QoKSkKICAgICAgICAgICAgICAgICAgICB0bXBMaXN0LmFkZChpdC5maXJzdCgpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsb2FkaW5nID09IHRydWUpewogICAgICAgICAgICBmbF9sb2FkaW5nLnMKICAgICAgICB9Cg==</text>
+        <text>Add left and right drawables to list item</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBpZihsb2FkaW5nID09IHRydWUpewogICAgICAgICAgICBmbF9sb2FkaW5nLnMKICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byI=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
