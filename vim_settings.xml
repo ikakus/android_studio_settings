@@ -114,12 +114,12 @@
         <mark key="." line="5638" column="3" />
         <mark key="^" line="5638" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590753787044">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590755185986">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="105" column="66" />
+        <mark key="[" line="32" column="28" />
         <mark key="m" line="79" column="13" />
-        <mark key="]" line="105" column="89" />
-        <mark key="." line="105" column="88" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
         <mark key="^" line="105" column="89" />
       </file>
       <file name="/AddressLookupHostFragment.kt" timestamp="1590753907814" />
@@ -257,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>uk_postal_list</text>
+        <text>6EH</text>
       </register>
       <register name="-" type="4">
-        <text>uk_postal_list</text>
+        <text>6EH</text>
       </register>
       <register name="/" type="4">
         <text>fra</text>
