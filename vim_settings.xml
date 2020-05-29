@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ob</entry>
         <entry>th</entry>
         <entry>Timer</entry>
         <entry>tim</entry>
@@ -27,6 +26,7 @@
         <entry>get</entry>
         <entry>se</entry>
         <entry>fra</entry>
+        <entry>mt</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -99,11 +99,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590670795080">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590739054486">
+        <mark key="'" line="47" column="8" />
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="23" column="31" />
+        <mark key="^" line="23" column="31" />
+        <mark key="." line="23" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1EnterPostalCodeViewModel.kt" timestamp="1590658164097">
         <mark key="[" line="29" column="0" />
@@ -146,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
       <jump line="114" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
       <jump line="80" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
@@ -246,21 +246,22 @@
       <jump line="146" column="77" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" />
       <jump line="28" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" />
       <jump line="454" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
+      <jump line="37" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>it</text>
+        <text>match_parent</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
-        <text>fra</text>
+        <text>mt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgogICAgYWJzdHJhY3QgZnVuIGNvbnRyaWJ1dGVPbmJVazFDaG9vc2VDb3VudHJ5RGlhbG9nKCk6IE9uYlVrMUNob29zZUNvdW50cnlEaWFsb2cK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Igo=</text>
       </register>
       <register name="1" type="2">
         <text>Implement addresses list</text>
@@ -300,9 +301,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>fra</last-search>
+      <last-search>mt</last-search>
       <last-offset />
-      <last-pattern>fra</last-pattern>
+      <last-pattern>mt</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
