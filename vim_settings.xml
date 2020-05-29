@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>th</entry>
         <entry>Timer</entry>
         <entry>tim</entry>
         <entry>(</entry>
@@ -27,6 +26,7 @@
         <entry>se</entry>
         <entry>fra</entry>
         <entry>mt</entry>
+        <entry>fr</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -99,11 +99,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590741339290">
-        <mark key="'" line="48" column="8" />
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590743436021">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="54" column="27" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="54" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/enter/OnbUk1EnterPostalCodeViewModel.kt" timestamp="1590658164097">
         <mark key="[" line="29" column="0" />
@@ -146,7 +147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
       <jump line="80" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
       <jump line="74" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/DrawerViewModel.kt" />
@@ -246,52 +246,51 @@
       <jump line="28" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" />
       <jump line="454" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
       <jump line="37" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" />
+      <jump line="50" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iNWRwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>Top_toBottomOf</text>
+        <text>FrameLayout</text>
       </register>
       <register name="/" type="4">
-        <text>mt</text>
+        <text>fr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50IgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iNWRwIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iM2RwIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmNsaXBUb1BhZGRpbmc9ImZhbHNlIgo=</text>
       </register>
       <register name="3" type="2">
-        <text>Implement addresses list</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmVsZXZhdGlvbj0iM2RwIgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text>Implement addresses list</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>let {
                 it.list = list
             }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBhZGFwdGVyPy5sZXQgeyAKICAgICAgICAgICAgaXQubGlzdCA9IGxpc3QKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>OnbUk2AddressesAdapter {
-            viewModel.onItemClicked(it)
-        }</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
@@ -300,9 +299,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mt</last-search>
+      <last-search>fr</last-search>
       <last-offset />
-      <last-pattern>mt</last-pattern>
+      <last-pattern>fr</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
