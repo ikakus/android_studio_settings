@@ -102,17 +102,17 @@
         <mark key="." line="11" column="135" />
         <mark key="^" line="11" column="136" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590738087171">
+      <file name="/Dummy.txt" timestamp="1590751247740">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590750564654">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk2_post_code_address_list.xml" timestamp="1590751477062">
         <mark key="'" line="54" column="0" />
-        <mark key="[" line="72" column="20" />
-        <mark key="]" line="72" column="35" />
-        <mark key="." line="72" column="34" />
-        <mark key="^" line="72" column="35" />
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="67" column="35" />
+        <mark key="." line="67" column="35" />
+        <mark key="^" line="67" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListViewModel.kt" timestamp="1590749634508">
         <mark key="'" line="76" column="7" />
@@ -130,13 +130,13 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/list/item/ListItem.kt" timestamp="1590671367446" />
       <file name="$USER_HOME$/.ideavimrc" timestamp="1590737228361" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590750642609">
-        <mark key="'" line="83" column="16" />
-        <mark key="[" line="66" column="19" />
-        <mark key="m" line="78" column="13" />
-        <mark key="]" line="66" column="31" />
-        <mark key="." line="66" column="30" />
-        <mark key="^" line="66" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addresslookup/ukpostalcode/lookuplist/OnbUk2PostalAddressListFragment.kt" timestamp="1590751133510">
+        <mark key="'" line="84" column="16" />
+        <mark key="[" line="30" column="76" />
+        <mark key="m" line="79" column="13" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="3" />
+        <mark key="^" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1590668322804">
         <mark key="'" line="146" column="77" />
@@ -263,43 +263,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>visibble</text>
+        <text>ill_server_trouble_avios_150_dp</text>
       </register>
       <register name="-" type="4">
-        <text>visibble</text>
+        <text>ill_server_trouble_avios_150_dp</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b1RvcE9mPSJAaWQvZmxfYm90dG9tX2Jsb2NrIgogICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b0VuZE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50VG9wX3RvQm90dG9tT2Y9IkBpZC9sbF9oZWFkZXIi</text>
+        <text>OnbUk2PostalAddressListFragment</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZihsb2FkaW5nID09IHRydWUpewogICAgICAgICAgICBmbF9sb2FkaW5nLnMKICAgICAgICB9Cg==</text>
+        <text>Add left and right drawables to list item</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpZihsb2FkaW5nID09IHRydWUpewogICAgICAgICAgICBmbF9sb2FkaW5nLnMKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCIKICAgICAgICB4bWxuczphcHA9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMtYXV0byI=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICBrIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2V0dXAgc3VidGl0bGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2V0dXAgc3VidGl0bGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>258</text>
