@@ -105,7 +105,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="82" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A42MobileNumber.kt" timestamp="1591085338190">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A42MobileNumber.kt" timestamp="1591086163841">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="51" />
       </file>
@@ -118,10 +118,10 @@
         <mark key="." line="16" column="74" />
         <mark key="^" line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591085360018">
-        <mark key="[" line="84" column="45" />
-        <mark key="]" line="82" column="46" />
-        <mark key="." line="82" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591086201408">
+        <mark key="[" line="23" column="54" />
+        <mark key="]" line="23" column="54" />
+        <mark key="." line="23" column="54" />
         <mark key="^" line="82" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/ResponseMessages.kt" timestamp="1591013524098" />
@@ -257,10 +257,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>isLoading</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>isLoading</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>passco</text>
