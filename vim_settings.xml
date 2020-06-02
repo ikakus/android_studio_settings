@@ -124,11 +124,11 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/widget/AutoCompleteTextView.class" timestamp="1591096068881" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1591020457020" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591094863362">
-        <mark key="[" line="100" column="16" />
-        <mark key="]" line="39" column="98" />
-        <mark key="." line="39" column="97" />
-        <mark key="^" line="39" column="98" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591103363438">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="89" column="49" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragmentViewModel.kt" timestamp="1591016765351">
         <mark key="'" line="649" column="12" />
@@ -249,10 +249,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTW9uZXNlU3Bpbm5lciIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>req5_country_code_spinner_drop_down_view</text>
+        <text>pair</text>
       </register>
       <register name="/" type="4">
         <text>TO</text>
@@ -261,32 +261,31 @@
         <text>list_item_monese_spinner</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTW9uZXNlU3Bpbm5lciIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iQGRpbWVuL2ZpZWxkX2hlaWdodCIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNvdW50cnlDb2RlQWRhcHRlciA9IENvdW50cnlDb2RlQWRhcHRlcihyZXF1aXJlQ29udGV4dCgpKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBoYW5kbGVDaXRpemVuc2hpcHNSZXNwb25zZShwYWlyOiBQYWlyPExpc3Q8Q2l0aXplbnNoaXBEb21haW5Nb2RlbD4/LCBTdHJpbmc/Pj8pIHsKICAgIH0KCiAgICBwcml2YXRlIGZ1biBoYW5kbGVDaXRpemVuc2hpcHNFcnJvcihpdDogVGhyb3dhYmxlPyA9IG51bGwpIHsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBfdmlld0VmZmVjdC5wb3N0VmFsdWUoVmlld0VmZmVjdC5TaG93RXJyb3IoaXQ/Lm1lc3NhZ2UgPzogIiAiKSkKICAgICAgICBhbmFseXRpY3NNYW5hZ2VyLnRyYWNrRXhjZXB0aW9uKFRBRywgRXhjZXB0aW9uKCJFcnJvciB3aGlsZSBmZXRjaGluZyBjaXRpemVuc2hpcHMuIiwgaXQpKQo=</text>
+      </register>
       <register name="5" type="2">
-        <text>//        override val contentViewLayoutToInflate: Int = R.layout.list_item_monese_spinner,
-//        override val dropDownViewLayoutToInflate: Int = R.layout.req5_country_code_spinner_drop_down_view</text>
+        <text encoding="base64">ICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUoZmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGlubmVyIGNsYXNzIENvdW50cnlDb2RlT25JdGVtU2VsZWN0ZWRMaXN0ZW5lciA6IEFkYXB0ZXJWaWV3Lk9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgewoKICAgICAgICBvdmVycmlkZSBmdW4gb25JdGVtU2VsZWN0ZWQocGFyZW50OiBBZGFwdGVyVmlldzwqPj8sIHZpZXc6IFZpZXc/LCBwb3NpdGlvbjogSW50LCBpZDogTG9uZykgewovLyAgICAgICAgICAgIGlmICghVGV4dFV0aWxzLmlzQmxhbmtTdHIobW9iaWxlX251bWJlcl9lZGl0dGV4dC5nZXRUZXh0KCkpICYmICFtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmlzVmFsaWQoKSkgewovLyAgICAgICAgICAgICAgICBzaG93RWRpdFRleHRFcnJvcihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5hNDJfbW9iaWxlX251bWJlcl9lcnJvcikpCi8vICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgbW9iaWxlX251bWJlcl9lZGl0dGV4dC5oaWRlRXJyb3JWaWV3KCkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgZGVmaW5lU3RhdGVPZlZlcmlmeU51bWJlckJ1dHRvbigpCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gb25Ob3RoaW5nU2VsZWN0ZWQocGFyZW50OiBBZGFwdGVyVmlldzwqPikgewogICAgICAgICAgICAvLyBkbyBub3RoaW5nCiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBfY291bnRyeUNvZGVMaXN0LnBvc3RWYWx1ZShwYWlyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRPbkl0ZW1DbGlja0xpc3RlbmVyKGxpc3RlbmVyOiBBZGFwdGVyVmlldy5Pbkl0ZW1DbGlja0xpc3RlbmVyKXsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldE9uSXRlbUNsaWNrTGlzdGVuZXIgeyBhZGFwdGVyVmlldywgdmlldywgaSwgbCAtPiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBfbG9hZGluZy5wb3N0VmFsdWUoZmFsc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvTW9uZXNlU3Bpbm5lciIK</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
