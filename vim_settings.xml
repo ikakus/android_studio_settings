@@ -116,18 +116,12 @@
       <file name="/Dummy.txt" timestamp="1591025402402">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_login.xml" timestamp="1591014875636">
-        <mark key="[" line="16" column="74" />
-        <mark key="]" line="16" column="75" />
-        <mark key="." line="16" column="74" />
-        <mark key="^" line="16" column="75" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591097161311">
-        <mark key="'" line="82" column="12" />
-        <mark key="[" line="177" column="8" />
-        <mark key="]" line="177" column="12" />
-        <mark key="." line="177" column="11" />
-        <mark key="^" line="177" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591100496061">
+        <mark key="'" line="77" column="12" />
+        <mark key="[" line="42" column="56" />
+        <mark key="]" line="132" column="0" />
+        <mark key="^" line="150" column="25" />
+        <mark key="." line="132" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/android.jar!/android/widget/AutoCompleteTextView.class" timestamp="1591096068881" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1591020457020" />
@@ -145,7 +139,7 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_a42_mobile_number.xml" timestamp="1591089176568">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="52" column="16" />
+        <mark key="]" line="92" column="16" />
         <mark key="^" line="28" column="13" />
         <mark key="." line="50" column="0" />
       </file>
@@ -256,10 +250,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>listOf(</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>listOf(</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>TO</text>
@@ -268,31 +262,32 @@
         <text>R.layout.req5_country_code_spinner_drop_down_view</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRPbkl0ZW1DbGlja0xpc3RlbmVyKGxpc3RlbmVyOiBBZGFwdGVyVmlldy5Pbkl0ZW1DbGlja0xpc3RlbmVyKXsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldE9uSXRlbUNsaWNrTGlzdGVuZXIgeyBhZGFwdGVyVmlldywgdmlldywgaSwgbCAtPiAgfQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFNlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ci8vICAgIHByaXZhdGUgdmFsIF9waG9uZVNlbmRTdWNjZXNzID0gU2luZ2xlTGl2ZUV2ZW50PEJvb2xlYW4+KCkKLy8gICAgdmFsIHBob25lU2VuZFN1Y2Nlc3M6IExpdmVEYXRhPEJvb2xlYW4+ID0gX3Bob25lU2VuZFN1Y2Nlc3MK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YWwgX251bWJlckluVXNlID0gU2luZ2xlTGl2ZUV2ZW50PEJvb2xlYW4+KCkKLy8gICAgdmFsIG51bWJlckluVXNlOiBMaXZlRGF0YTxCb29sZWFuPiA9IF9udW1iZXJJblVzZQoKLy8gICAgcHJpdmF0ZSB2YWwgX2Vycm9yTWVzc2FnZSA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KCkKLy8gICAgdmFsIGVycm9yTWVzc2FnZTogTGl2ZURhdGE8U3RyaW5nPiA9IF9lcnJvck1lc3NhZ2UKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBvblBob25lU2VuZFN1Y2Nlc3Moc3VjY2VzczogQm9vbGVhbj8pIHsKICAgIH0KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text>//        override val contentViewLayoutToInflate: Int = R.layout.list_item_monese_spinner,
+//        override val dropDownViewLayoutToInflate: Int = R.layout.req5_country_code_spinner_drop_down_view</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGlubmVyIGNsYXNzIENvdW50cnlDb2RlT25JdGVtU2VsZWN0ZWRMaXN0ZW5lciA6IEFkYXB0ZXJWaWV3Lk9uSXRlbVNlbGVjdGVkTGlzdGVuZXIgewoKICAgICAgICBvdmVycmlkZSBmdW4gb25JdGVtU2VsZWN0ZWQocGFyZW50OiBBZGFwdGVyVmlldzwqPj8sIHZpZXc6IFZpZXc/LCBwb3NpdGlvbjogSW50LCBpZDogTG9uZykgewovLyAgICAgICAgICAgIGlmICghVGV4dFV0aWxzLmlzQmxhbmtTdHIobW9iaWxlX251bWJlcl9lZGl0dGV4dC5nZXRUZXh0KCkpICYmICFtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmlzVmFsaWQoKSkgewovLyAgICAgICAgICAgICAgICBzaG93RWRpdFRleHRFcnJvcihjb250ZXh0LmdldFN0cmluZyhSLnN0cmluZy5hNDJfbW9iaWxlX251bWJlcl9lcnJvcikpCi8vICAgICAgICAgICAgfSBlbHNlIHsKLy8gICAgICAgICAgICAgICAgbW9iaWxlX251bWJlcl9lZGl0dGV4dC5oaWRlRXJyb3JWaWV3KCkKLy8gICAgICAgICAgICB9Ci8vICAgICAgICAgICAgZGVmaW5lU3RhdGVPZlZlcmlmeU51bWJlckJ1dHRvbigpCiAgICAgICAgfQoKICAgICAgICBvdmVycmlkZSBmdW4gb25Ob3RoaW5nU2VsZWN0ZWQocGFyZW50OiBBZGFwdGVyVmlldzwqPikgewogICAgICAgICAgICAvLyBkbyBub3RoaW5nCiAgICAgICAgfQogICAgfQ==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZ1biBzZXRPbkl0ZW1DbGlja0xpc3RlbmVyKGxpc3RlbmVyOiBBZGFwdGVyVmlldy5Pbkl0ZW1DbGlja0xpc3RlbmVyKXsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldE9uSXRlbUNsaWNrTGlzdGVuZXIgeyBhZGFwdGVyVmlldywgdmlldywgaSwgbCAtPiAgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFNlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ci8vICAgIHByaXZhdGUgdmFsIF9waG9uZVNlbmRTdWNjZXNzID0gU2luZ2xlTGl2ZUV2ZW50PEJvb2xlYW4+KCkKLy8gICAgdmFsIHBob25lU2VuZFN1Y2Nlc3M6IExpdmVEYXRhPEJvb2xlYW4+ID0gX3Bob25lU2VuZFN1Y2Nlc3MK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZWRWaWV3TW9kZWwub25QaG9uZVN1Y2Nlc3MoKQo=</text>
+        <text encoding="base64">Ly8gICAgcHJpdmF0ZSB2YWwgX251bWJlckluVXNlID0gU2luZ2xlTGl2ZUV2ZW50PEJvb2xlYW4+KCkKLy8gICAgdmFsIG51bWJlckluVXNlOiBMaXZlRGF0YTxCb29sZWFuPiA9IF9udW1iZXJJblVzZQoKLy8gICAgcHJpdmF0ZSB2YWwgX2Vycm9yTWVzc2FnZSA9IE11dGFibGVMaXZlRGF0YTxTdHJpbmc+KCkKLy8gICAgdmFsIGVycm9yTWVzc2FnZTogTGl2ZURhdGE8U3RyaW5nPiA9IF9lcnJvck1lc3NhZ2UKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZShwaG9uZVNlbmRTdWNjZXNzLCA6Om9uUGhvbmVTZW5kU3VjY2VzcykK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBvblBob25lU2VuZFN1Y2Nlc3Moc3VjY2VzczogQm9vbGVhbj8pIHsKICAgIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
