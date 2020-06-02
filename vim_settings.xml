@@ -105,9 +105,9 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="82" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A42MobileNumber.kt" timestamp="1591089985161">
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A42MobileNumber.kt" timestamp="1591091256761">
+        <mark key="[" line="87" column="26" />
+        <mark key="]" line="87" column="76" />
         <mark key="." line="99" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591025402402">
@@ -119,11 +119,11 @@
         <mark key="." line="16" column="74" />
         <mark key="^" line="16" column="75" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591086201408">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
-        <mark key="^" line="82" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591091307560">
+        <mark key="[" line="65" column="15" />
+        <mark key="]" line="67" column="46" />
+        <mark key="." line="67" column="45" />
+        <mark key="^" line="67" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/ResponseMessages.kt" timestamp="1591013524098" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/usecase/GetAccountByAccountNumberUseCase.kt" timestamp="1591020457020" />
@@ -257,17 +257,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIExpc3RlbmVycwogICAgICovCi8vCi8vICAgIGludGVyZmFjZSBMaXN0ZW5lciB7Ci8vICAgICAgICBmdW4gb25WZXJpZnlNb2JpbGVOdW1iZXIobW9iaWxlUHJlZml4OiBTdHJpbmc/LCBtb2JpbGVOdW1iZXI6IFN0cmluZz8sIGZvcm1hdHRlZE1vYmlsZU51bWJlcjogU3RyaW5nPykKLy8gICAgfQ==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>passco</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnlfbnVtYmVyX2J1dHRvbi5zaG93TG9hZGluZyhpc0xvYWRpbmcpCg==</text>
+      <register name="0" type="4">
+        <text>context.getString(R.string.a42_number_in_use_error)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAvKioKICAgICAqIExpc3RlbmVycwogICAgICovCi8vCi8vICAgIGludGVyZmFjZSBMaXN0ZW5lciB7Ci8vICAgICAgICBmdW4gb25WZXJpZnlNb2JpbGVOdW1iZXIobW9iaWxlUHJlZml4OiBTdHJpbmc/LCBtb2JpbGVOdW1iZXI6IFN0cmluZz8sIGZvcm1hdHRlZE1vYmlsZU51bWJlcjogU3RyaW5nPykKLy8gICAgfQ==</text>
