@@ -87,12 +87,17 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" timestamp="1591172521314">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" timestamp="1591175159197">
         <mark key="'" line="97" column="4" />
-        <mark key="[" line="82" column="32" />
-        <mark key="]" line="82" column="55" />
+        <mark key="[" line="97" column="18" />
+        <mark key="]" line="97" column="74" />
         <mark key="." line="97" column="53" />
         <mark key="^" line="96" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/local/syncing/PhoneNumberFormatter.kt" timestamp="1591174708729">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/CustomEditTextView.kt" timestamp="1591174037446">
         <mark key="[" line="191" column="3" />
@@ -115,16 +120,15 @@
         <mark key="]" line="35" column="55" />
         <mark key="." line="99" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/adapter/BaseMoneseSpinnerAdapter.kt" timestamp="1591097025913" />
-      <file name="/Dummy.txt" timestamp="1591168687478">
+      <file name="/Dummy.txt" timestamp="1591175188308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591173243502">
-        <mark key="'" line="64" column="42" />
-        <mark key="[" line="39" column="78" />
-        <mark key="]" line="64" column="43" />
-        <mark key="." line="64" column="42" />
-        <mark key="^" line="64" column="43" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591175293352">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="44" column="61" />
+        <mark key="." line="44" column="61" />
+        <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/layout/view_monese_spinner.xml" timestamp="1591109555431">
         <mark key="[" line="17" column="0" />
@@ -158,7 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="66" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="78" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="96" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
@@ -258,48 +261,53 @@
       <jump line="132" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A42MobileNumber.kt" />
       <jump line="158" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
       <jump line="54" column="3" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
+      <jump line="45" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>numberNoFilter</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>numberNoFilter</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>honeFo</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHByaXZhdGUgZnVuIHNldElucHV0VHlwZShpbnB1dFR5cGVTdHJpbmc6IFN0cmluZz8pIHsKICAgICAgICBpZiAoIWlucHV0VHlwZVN0cmluZy5pc051bGxPckVtcHR5KCkpIHsKICAgICAgICAgICAgdmFsIGlucHV0VHlwZSA9IHdoZW4gKGlucHV0VHlwZVN0cmluZykgewogICAgICAgICAgICAgICAgInRleHRFbWFpbEFkZHJlc3MiIC0+IElucHV0VHlwZS5UWVBFX0NMQVNTX1RFWFQgb3IgSW5wdXRUeXBlLlRZUEVfVEVYVF9WQVJJQVRJT05fRU1BSUxfQUREUkVTUwogICAgICAgICAgICAgICAgIm51bWJlciIgLT4gc2V0dXBOdW1iZXJJbnB1dFR5cGUoKQogICAgICAgICAgICAgICAgIm51bWJlck5vRmlsdGVyIiAtPiBJbnB1dFR5cGUuVFlQRV9DTEFTU19OVU1CRVIKICAgICAgICAgICAgICAgICJ0ZXh0Q2FwU2VudGVuY2VzIiAtPiBJbnB1dFR5cGUuVFlQRV9URVhUX0ZMQUdfQ0FQX1NFTlRFTkNFUwogICAgICAgICAgICAgICAgInRleHRQZXJzb25OYW1lIiAtPiBJbnB1dFR5cGUuVFlQRV9URVhUX1ZBUklBVElPTl9QRVJTT05fTkFNRSBhbmQgSW5wdXRUeXBlLlRZUEVfVEVYVF9GTEFHX0NBUF9XT1JEUwogICAgICAgICAgICAgICAgInRleHQiIC0+IElucHV0VHlwZS5UWVBFX0NMQVNTX1RFWFQKICAgICAgICAgICAgICAgICJ0ZXh0Q2FwQ2hhcmFjdGVycyIgLT4gc2V0dXBBbGxDYXBzSW5wdXRUeXBlKCkKICAgICAgICAgICAgICAgICJtdWx0aUxpbmUiIC0+IElucHV0VHlwZS5UWVBFX0NMQVNTX1RFWFQgb3IgSW5wdXRUeXBlLlRZUEVfVEVYVF9GTEFHX01VTFRJX0xJTkUKICAgICAgICAgICAgICAgIGVsc2UgLT4gSW5wdXRUeXBlLlRZUEVfQ0xBU1NfVEVYVAogICAgICAgICAgICB9CiAgICAgICAgICAgIGVkaXRfdGV4dC5pbnB1dFR5cGUgPSBpbnB1dFR5cGUKICAgICAgICB9CiAgICB9</text>
+        <text encoding="base64">cGFyZW50OiBBZGFwdGVyVmlldzwqPj8sIHZpZXc6IFZpZXc/LCBwb3NpdGlvbjogSW50LCBpZDogTG9uZw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplZGl0X3RleHRfaW5wdXRUeXBlPSJudW1iZXJOb0ZpbHRlciIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">agogICAgZnVuIHNldElucHV0VHlwZShpbnB1dFR5cGU6IFN0cmluZz8pIHsKICAgICAgICB0ZXh0X2lucHV0X2xheW91dC5lZGl0VGV4dD8uaW5wdXRUeXBlID0gaW5wdXRUeXBlPzoiIgogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gY291bnRyeV9jb2RlX3NwaW5uZXIuc2VsZWN0ZWRJdGVtUG9zaXRpb24KICAgICAgICAgICAgY291bnRyeUNvZGVBZGFwdGVyPy5sZXQgewogICAgICAgICAgICAgICAgc2VsZWN0ZWRDaXRpemVuc2hpcCA9IGl0LmdldEl0ZW0ocG9zaXRpb24pCiAgICAgICAgICAgICAgICBtb2JpbGVQcmVmaXggPSBpdC5nZXRBcmVhQ29kZShwb3NpdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICBtb2JpbGVOdW1iZXIgPSBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmdldFRleHQoKQo=</text>
+        <text>/**
+ * Formatter used for phone number syncing
+ *
+ * Created by Tom Everton on 06/08/2018
+ */</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gY291bnRyeV9jb2RlX3NwaW5uZXIuc2VsZWN0ZWRJdGVtUG9zaXRpb24KICAgICAgICAgICAgY291bnRyeUNvZGVBZGFwdGVyPy5sZXQgewogICAgICAgICAgICAgICAgc2VsZWN0ZWRDaXRpemVuc2hpcCA9IGl0LmdldEl0ZW0ocG9zaXRpb24pCiAgICAgICAgICAgICAgICBtb2JpbGVQcmVmaXggPSBpdC5nZXRBcmVhQ29kZShwb3NpdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICBtb2JpbGVOdW1iZXIgPSBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmdldFRleHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplZGl0X3RleHRfaW5wdXRUeXBlPSJudW1iZXJOb0ZpbHRlciIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">agogICAgZnVuIHNldElucHV0VHlwZShpbnB1dFR5cGU6IFN0cmluZz8pIHsKICAgICAgICB0ZXh0X2lucHV0X2xheW91dC5lZGl0VGV4dD8uaW5wdXRUeXBlID0gaW5wdXRUeXBlPzoiIgogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW5uZXIgY2xhc3MgTW9iaWxlTnVtYmVyVmFsaWRhdG9yIDogVmFsaWRhdG9yIHsKCiAgICAgICAgb3ZlcnJpZGUgZnVuIGlzVmFsaWQodmFsdWU6IFN0cmluZyk6IEJvb2xlYW4gewogICAgICAgICAgICByZXR1cm4gdmFsaWRhdGVNb2JpbGVOdW1iZXIoKQogICAgICAgIH0KCiAgICAgICAgb3ZlcnJpZGUgZnVuIGdldEVycm9yTWVzc2FnZShmaWVsZFZhbHVlOiBTdHJpbmcpOiBTdHJpbmcgewogICAgICAgICAgICByZXR1cm4gY29udGV4dC5nZXRTdHJpbmcoUi5zdHJpbmcuYTQyX21vYmlsZV9udW1iZXJfZXJyb3IpCiAgICAgICAgfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gY291bnRyeV9jb2RlX3NwaW5uZXIuc2VsZWN0ZWRJdGVtUG9zaXRpb24KICAgICAgICAgICAgY291bnRyeUNvZGVBZGFwdGVyPy5sZXQgewogICAgICAgICAgICAgICAgc2VsZWN0ZWRDaXRpemVuc2hpcCA9IGl0LmdldEl0ZW0ocG9zaXRpb24pCiAgICAgICAgICAgICAgICBtb2JpbGVQcmVmaXggPSBpdC5nZXRBcmVhQ29kZShwb3NpdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICBtb2JpbGVOdW1iZXIgPSBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmdldFRleHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gY291bnRyeV9jb2RlX3NwaW5uZXIuc2VsZWN0ZWRJdGVtUG9zaXRpb24KICAgICAgICAgICAgY291bnRyeUNvZGVBZGFwdGVyPy5sZXQgewogICAgICAgICAgICAgICAgc2VsZWN0ZWRDaXRpemVuc2hpcCA9IGl0LmdldEl0ZW0ocG9zaXRpb24pCiAgICAgICAgICAgICAgICBtb2JpbGVQcmVmaXggPSBpdC5nZXRBcmVhQ29kZShwb3NpdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICBtb2JpbGVOdW1iZXIgPSBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmdldFRleHQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
