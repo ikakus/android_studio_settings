@@ -123,12 +123,12 @@
       <file name="/Dummy.txt" timestamp="1591175188308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591175293352">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591175530119">
         <mark key="'" line="43" column="8" />
-        <mark key="[" line="67" column="41" />
-        <mark key="]" line="44" column="61" />
-        <mark key="." line="44" column="61" />
-        <mark key="^" line="45" column="29" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="56" column="22" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/layout/view_monese_spinner.xml" timestamp="1591109555431">
         <mark key="[" line="17" column="0" />
@@ -144,11 +144,12 @@
         <mark key="]" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591173939475">
-        <mark key="'" line="54" column="3" />
-        <mark key="[" line="161" column="45" />
-        <mark key="]" line="161" column="45" />
-        <mark key="." line="161" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591176100588">
+        <mark key="'" line="126" column="4" />
+        <mark key="[" line="94" column="20" />
+        <mark key="]" line="95" column="51" />
+        <mark key="^" line="95" column="51" />
+        <mark key="." line="95" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-app/src/main/java/com/monese/monese/designsystem/app/ui/component/input/TextInputFragment.kt" timestamp="1591107011790" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/values/attrs.xml" timestamp="1591174162881">
@@ -162,7 +163,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="78" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="96" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="103" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
@@ -262,15 +262,16 @@
       <jump line="158" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
       <jump line="54" column="3" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
       <jump line="45" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" />
+      <jump line="129" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>?</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB0MjogU3VnZ2VzdGVkQ291bnRyeURvbWFpbk1vZGVsLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>t1</text>
       </register>
       <register name="/" type="4">
         <text>honeFo</text>
@@ -279,35 +280,33 @@
         <text encoding="base64">cGFyZW50OiBBZGFwdGVyVmlldzwqPj8sIHZpZXc6IFZpZXc/LCBwb3NpdGlvbjogSW50LCBpZDogTG9uZw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB0MjogU3VnZ2VzdGVkQ291bnRyeURvbWFpbk1vZGVsLAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+      <register name="2" type="4">
+        <text>else {
+          
+        }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBfY291bnRyeUNvZGVMaXN0LnBvc3RWYWx1ZSgKICAgICAgICAgICAgICAgIFBhaXIoCiAgICAgICAgICAgICAgICAgICAgX2NvdW50cnlDb2RlTGlzdC52YWx1ZT8uZmlyc3QgPzogbGlzdE9mKCksCiAgICAgICAgICAgICAgICAgICAgc2VsZWN0ZWRDb3VudHJ5ID86ICIiCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICk=</text>
       </register>
       <register name="4" type="2">
-        <text>/**
- * Formatter used for phone number syncing
- *
- * Created by Tom Everton on 06/08/2018
- */</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcDplZGl0X3RleHRfaW5wdXRUeXBlPSJudW1iZXJOb0ZpbHRlciIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">agogICAgZnVuIHNldElucHV0VHlwZShpbnB1dFR5cGU6IFN0cmluZz8pIHsKICAgICAgICB0ZXh0X2lucHV0X2xheW91dC5lZGl0VGV4dD8uaW5wdXRUeXBlID0gaW5wdXRUeXBlPzoiIgogICAgfQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgICAgICB2aWV3TW9kZWwub25WZXJpZnlOdW1iZXIoKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gY291bnRyeV9jb2RlX3NwaW5uZXIuc2VsZWN0ZWRJdGVtUG9zaXRpb24KICAgICAgICAgICAgY291bnRyeUNvZGVBZGFwdGVyPy5sZXQgewogICAgICAgICAgICAgICAgc2VsZWN0ZWRDaXRpemVuc2hpcCA9IGl0LmdldEl0ZW0ocG9zaXRpb24pCiAgICAgICAgICAgICAgICBtb2JpbGVQcmVmaXggPSBpdC5nZXRBcmVhQ29kZShwb3NpdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICBtb2JpbGVOdW1iZXIgPSBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmdldFRleHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBvc2l0aW9uID0gY291bnRyeV9jb2RlX3NwaW5uZXIuc2VsZWN0ZWRJdGVtUG9zaXRpb24KICAgICAgICAgICAgY291bnRyeUNvZGVBZGFwdGVyPy5sZXQgewogICAgICAgICAgICAgICAgc2VsZWN0ZWRDaXRpemVuc2hpcCA9IGl0LmdldEl0ZW0ocG9zaXRpb24pCiAgICAgICAgICAgICAgICBtb2JpbGVQcmVmaXggPSBpdC5nZXRBcmVhQ29kZShwb3NpdGlvbikKICAgICAgICAgICAgfQogICAgICAgICAgICBtb2JpbGVOdW1iZXIgPSBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LmdldFRleHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
