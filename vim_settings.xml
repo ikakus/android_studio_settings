@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>ifnee</entry>
         <entry>sin</entry>
         <entry>deb</entry>
         <entry>plac</entry>
@@ -27,6 +26,7 @@
         <entry>TO</entry>
         <entry>honeFo</entry>
         <entry>cre</entry>
+        <entry>Ci</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -81,11 +81,10 @@
         <mark key="]" line="44" column="35" />
         <mark key="." line="44" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" timestamp="1591177742943">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="26" column="8" />
-        <mark key="^" line="26" column="8" />
-        <mark key="." line="26" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" timestamp="1591179790774">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" timestamp="1591178876919">
         <mark key="'" line="93" column="4" />
@@ -122,12 +121,12 @@
       <file name="/Dummy.txt" timestamp="1591175188308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591179029645">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591179466356">
         <mark key="'" line="48" column="8" />
-        <mark key="[" line="76" column="29" />
-        <mark key="]" line="76" column="29" />
-        <mark key="^" line="112" column="4" />
-        <mark key="." line="76" column="29" />
+        <mark key="[" line="75" column="55" />
+        <mark key="]" line="75" column="51" />
+        <mark key="^" line="75" column="51" />
+        <mark key="." line="75" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/layout/view_monese_spinner.xml" timestamp="1591178699951">
         <mark key="[" line="17" column="0" />
@@ -143,12 +142,12 @@
         <mark key="]" line="43" column="4" />
         <mark key="." line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591177485865">
-        <mark key="'" line="69" column="1" />
-        <mark key="[" line="64" column="37" />
-        <mark key="]" line="65" column="8" />
-        <mark key="^" line="65" column="8" />
-        <mark key="." line="65" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591179825196">
+        <mark key="'" line="68" column="1" />
+        <mark key="[" line="92" column="43" />
+        <mark key="]" line="92" column="47" />
+        <mark key="^" line="92" column="47" />
+        <mark key="." line="92" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-app/src/main/java/com/monese/monese/designsystem/app/ui/component/input/TextInputFragment.kt" timestamp="1591107011790" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/values/attrs.xml" timestamp="1591174162881">
@@ -162,7 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="103" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="121" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
       <jump line="123" column="50" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/navdrawer/NavigationDrawerItemFactory.kt" />
@@ -262,51 +260,51 @@
       <jump line="45" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" />
       <jump line="129" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
       <jump line="72" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
+      <jump line="120" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setT</text>
+        <text>it</text>
       </register>
       <register name="-" type="4">
-        <text>setT</text>
+        <text>it</text>
       </register>
       <register name="/" type="4">
-        <text>cre</text>
+        <text>Ci</text>
       </register>
-      <register name="0" type="4">
-        <text>auto_complete_dropdown</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBtb2RlbCA9IHJlc3VsdFZhbHVlIGFzPyBDaXRpemVuc2hpcERvbWFpbk1vZGVsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRyeV9jb2RlX3NwaW5uZXIuc2V0U2VsZWN0aW9uKDEpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGdldERpc3BsYXlOYW1lKG1vZGVsOiBDaXRpemVuc2hpcERvbWFpbk1vZGVsPyk6IFN0cmluZyB7CiAgICAgICAgcmV0dXJuICIrICR7bW9kZWw/LmRpYWx9ICR7bW9kZWw/Lm5hbWV9IgogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBtb2RlbCA9IHJlc3VsdFZhbHVlIGFzPyBDaXRpemVuc2hpcERvbWFpbk1vZGVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICBmdW4gc2V0U2VsZWN0aW9uKGluZGV4OiBJbnQpIHsKICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFRleHQoYXV0b19jb21wbGV0ZV9kcm9wZG93bi5nZXRBZGFwdGVyKCkuZ2V0SXRlbShpbmRleCkudG9TdHJpbmcoKSwgZmFsc2UpOwogICAgfQ==</text>
+        <text>list.find { 
+                        it.countryIso3 == selected
+                    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFNlbGVjdGlvbihpbmRleAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNlbGVjdGVkQ291bnRyeTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFNlbGVjdGlvbihpbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRyeV9jb2RlX3NwaW5uZXIuc2V0U2VsZWN0aW9uKDEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>getPositionForDial(
-                getCallingCode(list, suggestedCountryIso3),
-                countryCode
-            )</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblJlc3VtZSgpIHsKICAgICAgICBzdXBlci5vblJlc3VtZSgpCiAgICAgICAgdmlld01vZGVsLm9uUmVzdW1lKCkKICAgIH0=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICBmdW4gc2V0U2VsZWN0aW9uKGluZGV4OiBJbnQpIHsKICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFRleHQoYXV0b19jb21wbGV0ZV9kcm9wZG93bi5nZXRBZGFwdGVyKCkuZ2V0SXRlbShpbmRleCkudG9TdHJpbmcoKSwgZmFsc2UpOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
@@ -315,9 +313,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>cre</last-search>
+      <last-search>Ci</last-search>
       <last-offset />
-      <last-pattern>cre</last-pattern>
+      <last-pattern>Ci</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
