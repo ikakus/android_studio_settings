@@ -70,6 +70,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/widget/AutoCompleteTextView.java" timestamp="1591194456588" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" timestamp="1591193395718">
         <mark key="[" line="102" column="14" />
         <mark key="]" line="79" column="54" />
@@ -81,21 +82,17 @@
         <mark key="]" line="60" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/emailsignup/A2SignUpFragment.kt" timestamp="1591189641582" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" timestamp="1591193733912">
-        <mark key="[" line="94" column="7" />
-        <mark key="]" line="94" column="67" />
-        <mark key="." line="94" column="66" />
-        <mark key="^" line="94" column="67" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" timestamp="1591194620138">
+        <mark key="[" line="117" column="5" />
+        <mark key="]" line="120" column="41" />
+        <mark key="." line="120" column="40" />
+        <mark key="^" line="120" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/autocomplete/AutoCompleteAdapter.kt" timestamp="1591190580352" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/local/syncing/PhoneNumberFormatter.kt" timestamp="1591174708729">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/CustomEditTextView.kt" timestamp="1591174037446">
-        <mark key="[" line="191" column="3" />
-        <mark key="]" line="206" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/addcontact/A74s1IndividualContactFragment.kt" timestamp="1591191027439" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a74s1_add_contact.xml" timestamp="1591191828071">
@@ -244,11 +241,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgaXRlbSA9IGNvdW50cnlfY29kZV9zcGlubmVyLmdldEl0ZW08Q2l0aXplbnNoaXBEb21haW5Nb2RlbD4oMSkKICAgICAgICBUb2FzdC5tYWtlVGV4dChyZXF1aXJlQ29udGV4dCgpLCBpdGVtLnRvU3RyaW5nKCksIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>Ci</text>
