@@ -70,8 +70,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/grad_phone_validation_fragment.xml" timestamp="1591278892611">
-        <mark key="[" line="13" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/grad_phone_validation_fragment.xml" timestamp="1591279634769">
+        <mark key="[" line="38" column="34" />
         <mark key="]" line="13" column="8" />
         <mark key="." line="13" column="8" />
         <mark key="^" line="43" column="19" />
@@ -107,11 +107,12 @@
         <mark key="." line="48" column="49" />
         <mark key="^" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591279117267">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591279744202">
         <mark key="'" line="91" column="47" />
-        <mark key="[" line="112" column="30" />
-        <mark key="]" line="112" column="30" />
-        <mark key="." line="112" column="30" />
+        <mark key="[" line="113" column="45" />
+        <mark key="]" line="113" column="45" />
+        <mark key="." line="113" column="44" />
+        <mark key="^" line="113" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/common/usecase/MaybeNoargUseCase.kt" timestamp="1591273098895">
         <mark key="[" line="6" column="15" />
