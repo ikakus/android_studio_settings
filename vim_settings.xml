@@ -88,12 +88,6 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/MoneseApiException.kt" timestamp="1591261077207">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="38" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/phonevalidation/usecase/SendPhoneToValidateUseCase.kt" timestamp="1591269271688">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -143,14 +137,21 @@
         <mark key="]" line="348" column="7" />
         <mark key="." line="348" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591269317229">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591269938387">
         <mark key="'" line="73" column="1" />
-        <mark key="[" line="35" column="53" />
-        <mark key="]" line="32" column="48" />
+        <mark key="[" line="135" column="24" />
+        <mark key="]" line="135" column="24" />
         <mark key="^" line="32" column="48" />
-        <mark key="." line="32" column="47" />
+        <mark key="." line="135" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/smscode/SmsCodeValidationViewModel.kt" timestamp="1591265751507" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/smscode/SmsCodeValidationViewModel.kt" timestamp="1591270495095">
+        <mark key="[" line="179" column="0" />
+        <mark key="]" line="179" column="0" />
+        <mark key="." line="179" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/phonevalidation/usecase/GetCachedPhoneNumberUseCase.kt" timestamp="1591270523561">
+        <mark key="[" line="9" column="1" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/bizaccounts/bizinvoices/item/BizInvoiceItemsRepositoryImpl.kt" timestamp="1591262212541">
         <mark key="[" line="49" column="10" />
         <mark key="]" line="49" column="27" />
@@ -274,10 +275,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgcmVwb3NpdG9yeS5zYXZlUGhvbmVOdW1iZXIocHJlZml4LCBwaG9uZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>arg</text>
+        <text>::handleResendSmsError</text>
       </register>
       <register name="/" type="4">
         <text>Ci</text>
@@ -286,32 +287,28 @@
         <text encoding="base64">IHJlcXVpcmVOb3ROdWxsKF9zZWxlY3RlZENvdW50cnkudmFsdWU/LmRpYWwpLAogICAgICAgICAgICByZXF1aXJlTm90TnVsbChwaG9uZU51bWJlcik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcmVwb3NpdG9yeS5zYXZlUGhvbmVOdW1iZXIocHJlZml4LCBwaG9uZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGhhbmRsZVJlc2VuZFNtc0Vycm9yKGl0OiBUaHJvd2FibGU/ID0gbnVsbCkgewogICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYXJnID0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="4">
-        <text>SendPhoneToValidateUseCase.Arg(
-            requireNotNull(_selectedCountry.value?.dial),
-            requireNotNull(phoneNumber)
-        )</text>
+        <text encoding="base64">IGFuYWx5dGljc01hbmFnZXIudHJhY2tFeGNlcHRpb24oVEFHLCBFeGNlcHRpb24oIkVycm9yIHdoaWxlIHJlc2VuZGluZyBzbXMiLCBpdCkpCiAgICAgICAgX3Ntc1Jlc2VuZFN0YXRlLnBvc3RWYWx1ZShSZXNlbmRTdGF0ZS5SZXNlbmRBdmFpbGFibGUp</text>
       </register>
-      <register name="5" type="4">
-        <text>this.citizenshipDomainModel = citizenshipDomainModel
-        this.number = phoneNumber</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBoYW5kbGVSZXNlbmRTbXNSZXNwb25zZSgpIHsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBfc21zUmVzZW5kU3RhdGUucG9zdFZhbHVlKFJlc2VuZFN0YXRlLlJlc2VuZFN1Y2Nlc3NmdWwpCiAgICAgICAgc3RhcnROZXh0QXR0ZW1wdFRpbWVyKE5FWFRfQVRURU1QVF9SRVNFTkRfVElNRU9VVF9TKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgQXJnKAogICAgICAgIHZhbCBkaWFsOiBTdHJpbmcsCiAgICAgICAgdmFsIHBob25lOiBTdHJpbmcKICAgICkgOiBVc2VDYXNlLkFyZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VuZFBob25lVG9WYWxpZGF0ZVVzZUNhc2UuY3JlYXRlKGFyZykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
