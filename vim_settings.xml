@@ -98,11 +98,11 @@
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591256959291">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591257873374">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="93" column="100" />
-        <mark key="]" line="93" column="100" />
-        <mark key="." line="93" column="100" />
+        <mark key="[" line="56" column="50" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
         <mark key="^" line="75" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/adapter/BaseMoneseSpinnerAdapter.kt" timestamp="1591195695050">
@@ -110,7 +110,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591197741099">
+      <file name="/Dummy.txt" timestamp="1591257129550">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/GradPhoneValidationFragment.kt" timestamp="1591184696711">
@@ -127,12 +127,12 @@
         <mark key="." line="136" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/layout/layout_country_adapter_item.xml" timestamp="1591190898454" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591256133592">
-        <mark key="'" line="70" column="1" />
-        <mark key="[" line="177" column="33" />
-        <mark key="]" line="179" column="8" />
-        <mark key="^" line="179" column="8" />
-        <mark key="." line="179" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591258378984">
+        <mark key="'" line="72" column="1" />
+        <mark key="[" line="138" column="0" />
+        <mark key="]" line="138" column="0" />
+        <mark key="^" line="122" column="63" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/addcontact/adapters/ContactAutoCompleteAdapter.kt" timestamp="1591190718676">
         <mark key="[" line="18" column="0" />
@@ -244,44 +244,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>UNKNOWN_ERROR</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb2JzZXJ2ZU9uID0gc2NoZWR1bGVyUHJvdmlkZXIudWkoKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>UNKNOWN_ERROR</text>
+        <text>formattedPhone</text>
       </register>
       <register name="/" type="4">
         <text>Ci</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUb2FzdC5tYWtlVGV4dChyZXF1aXJlQ29udGV4dCgpLCBpdGVtLnRvU3RyaW5nKCksIFRvYXN0LkxFTkdUSF9MT05HKS5zaG93KCkK</text>
+      <register name="0" type="4">
+        <text>formattedMobileNumber</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb2JzZXJ2ZU9uID0gc2NoZWR1bGVyUHJvdmlkZXIudWkoKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVybmF0aW9uYWxNb2JpbGVOdW1iZXIgPSAiIgo=</text>
+        <text encoding="base64">Ly8gICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIC5kb09uRXJyb3IgewovLyAgICAgICAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgX3ZpZXdFZmZlY3QucG9zdFZhbHVlKFZpZXdFZmZlY3QuU2hvd0Vycm9yKGl0Lm1lc3NhZ2UgPzogIiAiKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHZhbCBpdGVtID0gY291bnRyeV9jb2RlX3NwaW5uZXIuZ2V0SXRlbTxDaXRpemVuc2hpcERvbWFpbk1vZGVsPigxKVYKLy8gICAgICAgIFRvYXN0Lm1ha2VUZXh0KHJlcXVpcmVDb250ZXh0KCksIGl0ZW0udG9TdHJpbmcoKSwgVG9hc3QuTEVOR1RIX0xPTkcpLnNob3coKQo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgYW5hbHl0aWNzLnRyYWNrVmVyaWZ5TW9iaWxlTnVtYmVyQ2xpY2tlZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHNlbGVjdGVkQ291bnRyeSA9IGNpdGl6ZW5zaGlwLmNvdW50cnlJc28zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBob25lVXRpbCA9IFBob25lTnVtYmVyVXRpbC5nZXRJbnN0YW5jZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudHJ5X2NvZGVfc3Bpbm5lci5nZXRBdXRvQ29tcGxldGUoKS5saXN0U2VsZWN0aW9uID0gCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB2YXIgZm9ybWF0dGVkTW9iaWxlTnVtYmVyID0KLy8gICAgICAgICAgICAgICAgcGhvbmVVdGlsLmZvcm1hdChwYXJzZWRNb2JpbGVOdW1iZXIsIFBob25lTnVtYmVyVXRpbC5QaG9uZU51bWJlckZvcm1hdC5JTlRFUk5BVElPTkFMKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFRPRE8oIm5vdCBpbXBsZW1lbnRlZCIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdiAtPiAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRvX2NvbXBsZXRlX2Ryb3Bkb3duLnNldFNlbGVjdGlvbigxKQo=</text>
+        <text encoding="base64">ICAgICAgICBzZW5kUGhvbmVUb1ZhbGlkYXRlVXNlQ2FzZS5leGVjdXRlKF9zdWdnZXN0ZWRDb3VudHJ5LnZhbHVlLCBwaG9uZU51bWJlcikK</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
