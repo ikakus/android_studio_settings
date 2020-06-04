@@ -82,10 +82,6 @@
         <mark key="^" line="75" column="72" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/MoneseTextField.kt" timestamp="1591191352413">
-        <mark key="[" line="60" column="6" />
-        <mark key="]" line="60" column="20" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" timestamp="1591196479533">
         <mark key="]" line="95" column="0" />
         <mark key="^" line="117" column="41" />
@@ -102,7 +98,7 @@
         <mark key="]" line="154" column="31" />
         <mark key="." line="154" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/MoneseApiException.kt" timestamp="1591260597870">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/MoneseApiException.kt" timestamp="1591261077207">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="38" />
         <mark key="." line="6" column="0" />
@@ -114,30 +110,34 @@
         <mark key="." line="12" column="54" />
         <mark key="^" line="14" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/addcontact/A74s1IndividualContactFragment.kt" timestamp="1591191027439" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a74s1_add_contact.xml" timestamp="1591191828071">
         <mark key="[" line="23" column="11" />
         <mark key="]" line="23" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/phonevalidation/repository/PhoneValidationRepositoryImpl.kt" timestamp="1591260250986">
-        <mark key="[" line="48" column="46" />
-        <mark key="]" line="48" column="46" />
-        <mark key="." line="48" column="46" />
-        <mark key="^" line="33" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/phonevalidation/repository/PhoneValidationRepositoryImpl.kt" timestamp="1591261146398">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591259628932">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="66" column="39" />
-        <mark key="]" line="66" column="20" />
-        <mark key="." line="66" column="20" />
-        <mark key="^" line="66" column="30" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A42MobileNumber.kt" timestamp="1591261333509">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="87" column="75" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591261550906">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="74" column="53" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/adapter/BaseMoneseSpinnerAdapter.kt" timestamp="1591195695050">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591259265850">
+      <file name="/Dummy.txt" timestamp="1591261182413">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/layout/view_monese_spinner.xml" timestamp="1591195666956">
@@ -145,17 +145,18 @@
         <mark key="]" line="18" column="59" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/settings/repository/SettingsRepositoryImpl.kt" timestamp="1591260811438" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/referral/invite/repository/InviteCodeRepositoryImpl.kt" timestamp="1591260232171">
         <mark key="[" line="21" column="11" />
         <mark key="]" line="27" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/pots/transactions/PotTransactionsRepositoryImpl.kt" timestamp="1591260112149" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591259964746">
-        <mark key="'" line="72" column="1" />
-        <mark key="[" line="82" column="35" />
-        <mark key="]" line="154" column="8" />
-        <mark key="^" line="143" column="56" />
-        <mark key="." line="143" column="56" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591261556025">
+        <mark key="'" line="74" column="1" />
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="155" column="81" />
       </file>
     </filemarks>
     <jumps>
@@ -264,45 +265,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlQ29kZSA9IHJlc3BvbnNlLm1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QgTnVtYmVySW5Vc2UgOiBWaWV3RWZmZWN0KCkK</text>
       </register>
       <register name="-" type="4">
-        <text>override</text>
+        <text>R.string.a42_number_in_use_error</text>
       </register>
       <register name="/" type="4">
         <text>Ci</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBtZXNzYWdlQ29kZSA9IHJlc3BvbnNlLm1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF9waG9uZVZhbGlkYXRpb25FcnJvci5wb3N0VmFsdWUoUi5zdHJpbmcuYTQyX251bWJlcl9pbl91c2VfZXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEucmVtb3RlLk1vbmVzZUFwaUV4Y2VwdGlvbkxlZ2FjeQo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QgTnVtYmVySW5Vc2UgOiBWaWV3RWZmZWN0KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIEV4Y2VwdGlvbiBmb3IgTW9uZXNlIGFwaSBlcnJvcnMKICoKICogQ3JlYXRlZCBieSBUb20gRXZlcnRvbiBvbiAwOC8wOC8yMDE4CiAqLwpjbGFzcyBNb25lc2VBcGlFeGNlcHRpb25MZWdhY3kocmVzcG9uc2U6IFJlc3BvbnNlRW50aXR5KSA6IEV4Y2VwdGlvbigpIHsKICAgIG92ZXJyaWRlIHZhbCBtZXNzYWdlID0gcmVzcG9uc2UubWVzc2FnZS50b1N0cmluZygpCn0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgVmlld0VmZmVjdC5OdW1iZXJJblVzZSAtPiB7CgogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>map {
-            it.mapToDomain()
-        }</text>
+        <text encoding="base64">ICAgICB2YWwgZXJyb3JNc2cgPSBjb250ZXh0Py5nZXRTdHJpbmcoUi5zdHJpbmcuYTQyX251bWJlcl9pbl91c2VfZXJyb3IpCiAgICAgICAgICAgICAgICAgICAgbW9iaWxlX251bWJlcl9lZGl0dGV4dC5zaG93RXJyb3IoZXJyb3JNc2cpCiAgICAgICAgICAgICAgICAgICAgdmVyaWZ5X251bWJlcl9idXR0b24uaXNFbmFibGVkID0gZmFsc2U=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHkuCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFwQmFzZUVudGl0eVRvRG9tYWluKGl0KQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgIHZhbCBlcnJvck1zZyA9IGNvbnRleHQ/LmdldFN0cmluZyhSLnN0cmluZy5hNDJfbnVtYmVyX2luX3VzZV9lcnJvcikKICAgICAgICAgICAgICAgICAgICBtb2JpbGVfbnVtYmVyX2VkaXR0ZXh0LnNob3dFcnJvcihlcnJvck1zZykKICAgICAgICAgICAgICAgICAgICB2ZXJpZnlfbnVtYmVyX2J1dHRvbi5pc0VuYWJsZWQgPSBmYWxzZQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjaXRpemVuc2hpcERvbWFpbk1vZGVsOiBDaXRpemVuc2hpcERvbWFpbk1vZGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdmlld0VmZmVjdC5wb3N0VmFsdWUoVmlld0VmZmVjdC5OdW1iZXJJblVzZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaXRpemVuc2hpcERvbWFpbk1vZGVsOiBDaXRpemVuc2hpcERvbWFpbk1vZGVsLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgb2JzZXJ2ZU9uID0gc2NoZWR1bGVyUHJvdmlkZXIudWkoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF92aWV3RWZmZWN0LnBvc3RWYWx1ZShWaWV3RWZmZWN0LlNob3dFcnJvcihlcnJvck1lc3NhZ2UpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
