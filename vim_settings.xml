@@ -92,10 +92,16 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="25" column="91" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/contactpayments/paycontact/currencyselector/CurrencySelectorViewModelTest.kt" timestamp="1591280645918">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/fragments/biometric/A28s1BiometricWelcomeBackFragment.kt" timestamp="1591352910409">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591353009081">
+        <mark key="[" line="450" column="32" />
+        <mark key="]" line="458" column="0" />
+        <mark key="." line="458" column="0" />
+        <mark key="^" line="465" column="71" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/mobile/A33UpdateMobile.kt" timestamp="1591342429402">
         <mark key="[" line="52" column="39" />
@@ -114,6 +120,7 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/session/model/StartSessionDomainModel.kt" timestamp="1591353085611" />
       <file name="/Dummy.txt" timestamp="1591349876352">
         <mark key="[" line="0" column="0" />
       </file>
@@ -128,7 +135,6 @@
         <mark key="]" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/strings.xml" timestamp="1591342574530" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/button/PrimaryButton.kt" timestamp="1591279104701" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/smscode/SmsCodeValidationViewModel.kt" timestamp="1591345010695">
         <mark key="[" line="120" column="0" />
         <mark key="]" line="120" column="0" />
@@ -139,11 +145,6 @@
         <mark key="]" line="11" column="64" />
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_a42_mobile_number.xml" timestamp="1591342366740">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="67" />
-        <mark key="." line="45" column="72" />
       </file>
     </filemarks>
     <jumps>
@@ -252,10 +253,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>BottomOf</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
@@ -264,31 +265,33 @@
         <text encoding="base64">ICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Cb3R0b209IjczMWRwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjQxMWRwIgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGlmIChpc1VuZGVyYWdlKHJlc3BvbnNlKSkgewogICAgICAgICAgICAgICAgICAgIG5hdmlnYXRlVG9VbmRlcmFnZSgpCiAgICAgICAgICAgICAgICB9</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA8Y29tLm1vbmVzZS5tb25lc2UuZGVzaWduc3lzdGVtLmxpYi52aWV3LmJ1dHRvbi5QcmltYXJ5QnV0dG9uCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9idG5fdmVyaWZ5X251bWJlciIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2FsaWduUGFyZW50Qm90dG9tPSJ0cnVlIgogICAgICAgIGFwcDpidXR0b25faW1hZ2U9IkBkcmF3YWJsZS9pY19hcnJvd19yaWdodF93aGl0ZV8yNV9kcCIKICAgICAgICBhcHA6YnV0dG9uX3RleHQ9IkBzdHJpbmcvYTQyX2J1dHRvbl92ZXJpZnlfbnVtYmVyIiAvPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBidG5fbG9naW4udGhyb3R0bGVDbGljayB7IHNoYXJlZFZpZXdNb2RlbC5vbldlbGNvbWVCYWNrTG9nSW5CdXR0b25DbGlja2VkKCkgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkoc3B5KS5vbkFjdGlvbkNvbXBsZXRlKGFueSgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3B5ID0gTW9ja2l0by5zcHkoY2FsbGJhY2tQcm92aWRlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwgPSBTbXNDb2RlVmFsaWRhdGlvblZpZXdNb2RlbCgKICAgICAgICAgICAgVHJhbXBvbGluZVNjaGVkdWxlclByb3ZpZGVyKCksCiAgICAgICAgICAgIGNoZWNrU21zQ29kZVVzZUNhc2UsCiAgICAgICAgICAgIHNlbmRQaG9uZVRvVmFsaWRhdGVVc2VDYXNlLAogICAgICAgICAgICBnZXRDYWNoZWRQaG9uZU51bWJlclVzZUNhc2UsCiAgICAgICAgICAgIGVycm9yTWVzc2FnZUhlbHBlciwKICAgICAgICAgICAgYW5hbHl0aWNzTWFuYWdlciwKICAgICAgICAgICAgYW5hbHl0aWNzCiAgICAgICAgKQo=</text>
+        <text>//    fun onContinueToLoginFlow(response: StartSessionDomainModel? = null) {
+//            navigateToLoginFlow(response)
+//    }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgc3B5ID0gTW9ja2l0by5zcHkodmlld01vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNb2NraXRvLmB3aGVuYChzZW5kUGhvbmVUb1ZhbGlkYXRlVXNlQ2FzZS5jcmVhdGUoYW55KCkpKS50aGVuIHsgQ29tcGxldGFibGUuY29tcGxldGUoKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
