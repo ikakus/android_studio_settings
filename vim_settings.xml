@@ -78,10 +78,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_launcher.xml" timestamp="1591353741928" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/session/model/StartSessionDomainModel.kt" timestamp="1591353085611" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1591353570038" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/connection/network/A25s2ConnectionLostActivity.kt" timestamp="1591342960805">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="45" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_a80_contact_business_details.xml" timestamp="1591356373022" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/phonevalidation/usecase/GetCachedPhoneNumberUseCase.kt" timestamp="1591347632174">
         <mark key="[" line="11" column="33" />
         <mark key="]" line="11" column="64" />
@@ -94,23 +91,18 @@
         <mark key="." line="102" column="22" />
         <mark key="^" line="102" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/grad_phone_validation_fragment.xml" timestamp="1591348402346">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/grad_phone_validation_fragment.xml" timestamp="1591356412641">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="16" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="30" column="16" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/MoneseTextField.kt" timestamp="1591356323590" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/fragments/biometric/A28s1BiometricWelcomeBackFragment.kt" timestamp="1591352910409">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591353957436">
-        <mark key="[" line="477" column="27" />
-        <mark key="]" line="477" column="27" />
-        <mark key="." line="477" column="27" />
-        <mark key="^" line="466" column="71" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/navigation-args/dev/debug/com/monese/monese/launcher/fragments/loading/LauncherLoadingFragmentDirections.java" timestamp="1591353757840" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1591348191122">
@@ -124,7 +116,7 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591349876352">
+      <file name="/Dummy.txt" timestamp="1591356506901">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/mobileentry/smscode/SmsCodeValidationViewModelTest.kt" timestamp="1591347771544">
@@ -132,11 +124,6 @@
         <mark key="]" line="106" column="31" />
         <mark key="." line="106" column="30" />
         <mark key="^" line="106" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/smscode/SmsCodeValidationViewModel.kt" timestamp="1591345010695">
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/fragments/locationpermission/LocationAccessFragment.kt" timestamp="1591353581807">
         <mark key="[" line="95" column="47" />
@@ -250,10 +237,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>response</text>
+        <text>app:showHint=&quot;true&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>app:showHint=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ma</text>
