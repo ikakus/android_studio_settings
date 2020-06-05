@@ -34,6 +34,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>258</entry>
         <entry>44</entry>
+        <entry>20</entry>
+        <entry>201</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -78,19 +80,16 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_launcher.xml" timestamp="1591353741928" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/session/model/StartSessionDomainModel.kt" timestamp="1591353085611" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1591353570038" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/modelconstants/ResponseMessages.java" timestamp="1591357838478">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_a80_contact_business_details.xml" timestamp="1591356373022" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/phonevalidation/usecase/GetCachedPhoneNumberUseCase.kt" timestamp="1591347632174">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="64" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1591357295820">
+        <mark key="[" line="188" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneViewModelTest.kt" timestamp="1591346974161">
-        <mark key="[" line="102" column="23" />
-        <mark key="]" line="102" column="23" />
-        <mark key="." line="102" column="22" />
-        <mark key="^" line="102" column="23" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/blocked/AccountBlockedActivity.kt" timestamp="1591357937921" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/grad_phone_validation_fragment.xml" timestamp="1591356412641">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="30" column="16" />
@@ -116,14 +115,13 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591356506901">
+      <file name="/Dummy.txt" timestamp="1591357367723">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/mobileentry/smscode/SmsCodeValidationViewModelTest.kt" timestamp="1591347771544">
-        <mark key="[" line="106" column="20" />
-        <mark key="]" line="106" column="31" />
-        <mark key="." line="106" column="30" />
-        <mark key="^" line="106" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/ResponseMessages.kt" timestamp="1591357846746">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/fragments/locationpermission/LocationAccessFragment.kt" timestamp="1591353581807">
         <mark key="[" line="95" column="47" />
@@ -236,8 +234,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>app:showHint=&quot;true&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLm1vZGVsY29uc3RhbnRzLlJlc3BvbnNlTWVzc2FnZXMuVU5ERVJBR0VfU1RBVFVTCg==</text>
       </register>
       <register name="-" type="4">
         <text>app:showHint=&quot;true&quot;</text>
@@ -245,40 +243,38 @@
       <register name="/" type="4">
         <text>ma</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEJvdHRvbV90b0JvdHRvbU9mPSJwYXJlbnQiCiAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b1N0YXJ0T2Y9InBhcmVudCI=</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgdmFsIE9OQk9BUkRJTkdfRkFJTEVEID0gNjAyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLm1vZGVsY29uc3RhbnRzLlJlc3BvbnNlTWVzc2FnZXMuVU5ERVJBR0VfU1RBVFVTCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGlmIChpc1VuZGVyYWdlKHJlc3BvbnNlKSkgewogICAgICAgICAgICAgICAgICAgIG5hdmlnYXRlVG9VbmRlcmFnZSgpCiAgICAgICAgICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVOREVSQUdFX1NUQVRVUyA9ICJVTkRFUkFHRSI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidG5fbG9naW4udGhyb3R0bGVDbGljayB7IHNoYXJlZFZpZXdNb2RlbC5vbldlbGNvbWVCYWNrTG9nSW5CdXR0b25DbGlja2VkKCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IGlmIChpc1VuZGVyYWdlKHJlc3BvbnNlKSkgewogICAgICAgICAgICAgICAgICAgIG5hdmlnYXRlVG9VbmRlcmFnZSgpCiAgICAgICAgICAgICAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text>//    fun onContinueToLoginFlow(response: StartSessionDomainModel? = null) {
-//            navigateToLoginFlow(response)
-//    }</text>
+        <text encoding="base64">ICAgICAgICBidG5fbG9naW4udGhyb3R0bGVDbGljayB7IHNoYXJlZFZpZXdNb2RlbC5vbldlbGNvbWVCYWNrTG9nSW5CdXR0b25DbGlja2VkKCkgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>44</text>
+        <text>201</text>
       </register>
     </registers>
   </component>
