@@ -111,7 +111,7 @@
         <mark key="[" line="18" column="21" />
         <mark key="]" line="18" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591603735281">
+      <file name="/Dummy.txt" timestamp="1591607290523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="." line="0" column="29" />
@@ -124,7 +124,7 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/elevatorpitch/ElevatorPitchViewModel.kt" timestamp="1591604957215">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/elevatorpitch/ElevatorPitchViewModel.kt" timestamp="1591607165572">
         <mark key="[" line="282" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/ActionTypeDomainModel.kt" timestamp="1591369315071">
@@ -137,7 +137,7 @@
         <mark key="." line="89" column="54" />
         <mark key="^" line="89" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591604620522">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591607178552">
         <mark key="'" line="426" column="44" />
         <mark key="[" line="716" column="1" />
         <mark key="]" line="717" column="0" />
