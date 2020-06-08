@@ -83,6 +83,7 @@
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/experiments/MixpanelExperiment.kt" timestamp="1591608310609" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591604558639">
         <mark key="[" line="540" column="0" />
         <mark key="]" line="540" column="0" />
@@ -143,11 +144,6 @@
         <mark key="]" line="717" column="0" />
         <mark key="^" line="717" column="0" />
         <mark key="." line="717" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/fragments/locationpermission/LocationAccessFragment.kt" timestamp="1591360105836">
-        <mark key="[" line="84" column="35" />
-        <mark key="]" line="84" column="35" />
-        <mark key="." line="84" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragmentViewModel.kt" timestamp="1591365910964">
         <mark key="[" line="84" column="22" />
