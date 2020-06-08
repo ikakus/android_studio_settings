@@ -78,18 +78,26 @@
         <mark key="^" line="144" column="28" />
         <mark key="." line="482" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a26_create_new_passcode.xml" timestamp="1591610222869" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" timestamp="1591601215764">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="42" />
         <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/experiments/MixpanelExperiment.kt" timestamp="1591608310609" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591604558639">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591610136153">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="42" column="5" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591608918954">
         <mark key="[" line="540" column="0" />
         <mark key="]" line="540" column="0" />
         <mark key="^" line="544" column="4" />
         <mark key="." line="540" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_change_passcode.xml" timestamp="1591609295369" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/EntitlementRequestRxHelper.kt" timestamp="1591601736463">
         <mark key="[" line="21" column="54" />
         <mark key="]" line="21" column="55" />
@@ -108,10 +116,6 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/kyc/address/location/LocationLiveData.kt" timestamp="1591365616524">
-        <mark key="[" line="18" column="21" />
-        <mark key="]" line="18" column="32" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591607290523">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
@@ -120,6 +124,7 @@
       <file name="/fragment.kt" timestamp="1591370163103">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_passcode.xml" timestamp="1591609955085" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/phone_validation_fragment.xml" timestamp="1591601298554">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -138,26 +143,15 @@
         <mark key="." line="89" column="54" />
         <mark key="^" line="89" column="55" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591607178552">
-        <mark key="'" line="426" column="44" />
-        <mark key="[" line="716" column="1" />
-        <mark key="]" line="717" column="0" />
-        <mark key="^" line="717" column="0" />
-        <mark key="." line="717" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragmentViewModel.kt" timestamp="1591365910964">
-        <mark key="[" line="84" column="22" />
-        <mark key="]" line="139" column="80" />
-        <mark key="^" line="139" column="80" />
-        <mark key="." line="139" column="79" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/account/AccountDetailsViewModel.kt" timestamp="1591365378133">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="103" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591609354715">
+        <mark key="'" line="370" column="40" />
+        <mark key="[" line="720" column="9" />
+        <mark key="]" line="720" column="10" />
+        <mark key="^" line="720" column="10" />
+        <mark key="." line="720" column="9" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="49" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
       <jump line="130" column="14" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
       <jump line="122" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
       <jump line="124" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
@@ -257,15 +251,16 @@
       <jump line="77" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" />
       <jump line="24" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" />
       <jump line="425" column="44" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" />
+      <jump line="370" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>phone_</text>
