@@ -83,10 +83,12 @@
         <mark key="^" line="115" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/LoaderHomeFragment.kt" timestamp="1591699203787" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591709472800">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591710389909">
+        <mark key="'" line="113" column="0" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="273" column="5" />
+        <mark key="." line="270" column="0" />
+        <mark key="^" line="114" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/updateaccountdetails/confirmpasscode/ConfirmPasscodeFragment.kt" timestamp="1591708320353">
         <mark key="[" line="135" column="0" />
@@ -141,7 +143,7 @@
         <mark key="." line="84" column="30" />
         <mark key="^" line="84" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591709220462">
+      <file name="/Dummy.txt" timestamp="1591709878040">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A26ChangePasscodeFragment.kt" timestamp="1591709449572">
@@ -155,7 +157,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/attrs.xml" timestamp="1591687082626">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/attrs.xml" timestamp="1591710037249">
         <mark key="[" line="313" column="20" />
         <mark key="]" line="313" column="35" />
       </file>
@@ -173,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="126" column="58" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="127" column="68" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="216" column="52" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
@@ -273,12 +274,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/util/synccall/SynchronisedSingleCall.kt" />
       <jump line="82" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/passcode/A12CreatePasscodeFragment.kt" />
       <jump line="85" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/passcode/A12CreatePasscodeFragment.kt" />
+      <jump line="113" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgREVMQVlfTVMgPSAxNTBMCg==</text>
+        <text encoding="base64">CiAgICBmdW4gc2V0VGl0bGUoc3RyaW5nOiBTdHJpbmcpIHsKICAgICAgICB0dl9wYXNzY29kZV90aXRsZS50ZXh0ID0gc3RyaW5nCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>showPassCodeNotSecure()</text>
@@ -287,34 +289,34 @@
         <text>is</text>
       </register>
       <register name="0" type="4">
-        <text>showError(resources.getString(R.string.a12_insecure_pin_error_message))</text>
+        <text>tv_passcode_title</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgREVMQVlfTVMgPSAxNTBMCg==</text>
+        <text encoding="base64">CiAgICBmdW4gc2V0VGl0bGUoc3RyaW5nOiBTdHJpbmcpIHsKICAgICAgICB0dl9wYXNzY29kZV90aXRsZS50ZXh0ID0gc3RyaW5nCiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNob3dFcnJvcihyZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmExMl9pbnNlY3VyZV9waW5fZXJyb3JfbWVzc2FnZSkpCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICBmdW4gc2V0VGV4dChzdHJpbmc6IFN0cmluZykgewogICAgICAgIHR2X3Bhc3Njb2RlX3RleHQudGV4dCA9IHN0cmluZwogICAgfQ==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGZ1biBzaG93UGFzc0NvZGVOb3RTZWN1cmUoKSB7CiAgICAgICAgY29tcG9zaXRlRGlzcG9zYWJsZS5hZGQoU2luZ2xlLnRpbWVyKERFTEFZX01TLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpCiAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAuc3Vic2NyaWJlQnkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0pCiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgREVMQVlfTVMgPSAxNTBMCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmIChlbnRyeUxvZ2luIHx8IGNoYW5nZVNldHRpbmdzIHx8IGlzUGFzc0NvZGVTYWZlKG5ld1Bhc3NDb2RlKSkgewo=</text>
+        <text encoding="base64">ICAgIHNob3dFcnJvcihyZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmExMl9pbnNlY3VyZV9waW5fZXJyb3JfbWVzc2FnZSkpCg==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICBmaXJzdFBhc3Njb2RlRW50ZXJlZCA9IHBhc3Njb2RlCgogICAgICAgICAgICAgICAgICAgICAgICBwdl9hMjZfdmlldz8uYXBwbHkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzZXRQYXNzY29kZSgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBtdF9hMjZfY3JlYXRlX25ldy5zZXROYXZpZ2F0aW9uSWNvbihSLmRyYXdhYmxlLmljX2JhY2tfcHJpbWFyeV9kYXJrXzI1X2RwKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2hvd0NvbmZpcm1QYXNzY29kZSgpCiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLm9uTmV3UGFzc2NvZGVDb25maXJtZWQoKQ==</text>
+        <text encoding="base64">IGZ1biBzaG93UGFzc0NvZGVOb3RTZWN1cmUoKSB7CiAgICAgICAgY29tcG9zaXRlRGlzcG9zYWJsZS5hZGQoU2luZ2xlLnRpbWVyKERFTEFZX01TLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpCiAgICAgICAgICAgIC5zdWJzY3JpYmVPbihTY2hlZHVsZXJzLmlvKCkpCiAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAuc3Vic2NyaWJlQnkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0pCiAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgIGlmKGlzUGFzc0NvZGVTYWZlKHBhc3Njb2RlKSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
