@@ -75,17 +75,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeKeyboard.kt" timestamp="1591697592375">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="27" column="39" />
+        <mark key="." line="27" column="38" />
+        <mark key="^" line="27" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a26_create_new_passcode.xml" timestamp="1591621729607">
         <mark key="[" line="40" column="26" />
         <mark key="]" line="40" column="30" />
         <mark key="." line="40" column="29" />
         <mark key="^" line="40" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_confirm_passcode.xml" timestamp="1591621585219">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="23" column="14" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591690612566">
         <mark key="[" line="399" column="0" />
@@ -116,10 +116,10 @@
         <mark key="'" line="370" column="40" />
         <mark key="]" line="348" column="14" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591690624683">
-        <mark key="[" line="419" column="0" />
-        <mark key="]" line="419" column="0" />
-        <mark key="." line="419" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591697270610">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="170" column="5" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/settings/privacy/Set2PrivacyAndSecurityFragment.kt" timestamp="1591623122609" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" timestamp="1591695639695">
@@ -128,7 +128,7 @@
         <mark key="." line="84" column="30" />
         <mark key="^" line="84" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591687948722">
+      <file name="/Dummy.txt" timestamp="1591696549081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A26ChangePasscodeFragment.kt" timestamp="1591621837209">
@@ -151,8 +151,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_passcode_keyboard_layout.xml" timestamp="1591688286242">
-        <mark key="[" line="154" column="33" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_passcode_keyboard_layout.xml" timestamp="1591697148924">
+        <mark key="[" line="147" column="43" />
+        <mark key="]" line="147" column="44" />
+        <mark key="^" line="147" column="44" />
+        <mark key="." line="147" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/forgotpasscode/changepasscode/ChangePasscodeActivity.kt" timestamp="1591623015872">
         <mark key="[" line="144" column="0" />
@@ -265,17 +268,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>lateinit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHZfYTE5LnNob3dCaW9tZXRyaWNMb2dpbigpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lateinit</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>onLoca</text>
       </register>
-      <register name="0" type="4">
-        <text>entry_onboarding</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHZfYTE5LnNob3dCaW9tZXRyaWNMb2dpbigpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNob3VsZFN0b3BMb2FkaW5nQW5pbWF0aW9uID0gZmFsc2UK</text>
