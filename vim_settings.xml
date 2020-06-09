@@ -82,11 +82,11 @@
         <mark key="^" line="115" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/LoaderHomeFragment.kt" timestamp="1591699203787" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591705683179">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591706912321">
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="34" />
         <mark key="^" line="227" column="5" />
-        <mark key="." line="136" column="0" />
+        <mark key="." line="37" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/passcode/A12CreatePasscodeFragment.kt" timestamp="1591687097551">
         <mark key="'" line="50" column="8" />
@@ -108,9 +108,12 @@
         <mark key="]" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591691378384">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591707223174">
         <mark key="'" line="370" column="40" />
-        <mark key="]" line="348" column="14" />
+        <mark key="[" line="133" column="21" />
+        <mark key="]" line="132" column="33" />
+        <mark key="^" line="132" column="33" />
+        <mark key="." line="132" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591706307029">
         <mark key="[" line="144" column="35" />
@@ -266,11 +269,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHZfaGlkZGVuX21lbnU=</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>onLoca</text>
