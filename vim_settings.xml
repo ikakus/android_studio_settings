@@ -67,6 +67,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -119,10 +122,11 @@
         <mark key="." line="419" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/settings/privacy/Set2PrivacyAndSecurityFragment.kt" timestamp="1591623122609" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" timestamp="1591693257730">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" timestamp="1591695639695">
+        <mark key="[" line="84" column="30" />
+        <mark key="]" line="84" column="31" />
+        <mark key="." line="84" column="30" />
+        <mark key="^" line="84" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1591687948722">
         <mark key="[" line="0" column="0" />
@@ -157,8 +161,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="18" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
-      <jump line="64" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
       <jump line="115" column="29" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
       <jump line="114" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/tls/TlsConfig.kt" />
       <jump line="342" column="16" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" />
@@ -257,15 +259,17 @@
       <jump line="46" column="1" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
       <jump line="51" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/passcode/A12CreatePasscodeFragment.kt" />
       <jump line="122" column="51" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" />
+      <jump line="35" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" />
+      <jump line="116" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBBbmltYXRpb25VdGlsLkFuaW1hdGlvbkxpc3RlbmVyPyA9IG51bGwK</text>
+      <register name="&quot;" type="4">
+        <text>lateinit</text>
       </register>
       <register name="-" type="4">
-        <text>entry_login</text>
+        <text>lateinit</text>
       </register>
       <register name="/" type="4">
         <text>onLoca</text>
@@ -274,31 +278,35 @@
         <text>entry_onboarding</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBBbmltYXRpb25VdGlsLkFuaW1hdGlvbkxpc3RlbmVyPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIHNob3VsZFN0b3BMb2FkaW5nQW5pbWF0aW9uID0gZmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2xvYWRpbmcucG9zdFZhbHVlKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBBbmltYXRpb25VdGlsLkFuaW1hdGlvbkxpc3RlbmVyPyA9IG51bGwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHB2X2ExOT8uc2V0QW5pbWF0aW9uTGlzdGVuZXIobnVsbCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZExpc3RlbmVyKG9uRW5kID0gewogICAgICAgICAgICAgICAgICAgIGlmIChuZXh0RG90UG9zaXRpb24gPT0gU1RBUlRfUE9TSVRJT04pIHsKICAgICAgICAgICAgICAgICAgICAgICAgbGlzdGVuZXI/Lm9uQW5pbWF0aW9uRmluaXNoZWQoKQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRBbmltYXRpb25MaXN0ZW5lcihsaXN0ZW5lcjogQW5pbWF0aW9uVXRpbC5BbmltYXRpb25MaXN0ZW5lcj8pIHsKICAgICAgICB0aGlzLmxpc3RlbmVyID0gbGlzdGVuZXIKICAgICAgICBzaG91bGRTdG9wTG9hZGluZ0FuaW1hdGlvbiA9IHRydWUKICAgIH0K</text>
+      <register name="5" type="4">
+        <text>addListener(onEnd = {
+                    if (nextDotPosition == START_POSITION) {
+                        listener?.onAnimationFinished()
+                    }
+                })</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRBbmltYXRpb25MaXN0ZW5lcihsaXN0ZW5lcjogQW5pbWF0aW9uVXRpbC5BbmltYXRpb25MaXN0ZW5lcj8pIHsKICAgICAgICBwZGVfaW5kaWNhdG9yLnNldEFuaW1hdGlvbkxpc3RlbmVyKGxpc3RlbmVyKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzaG91bGRTdG9wTG9hZGluZ0FuaW1hdGlvbiA9IHRydWUK</text>
+        <text encoding="base64">ICAgIGZ1biBmaW5pc2hMb2FkaW5nQW5pbWF0aW9uKGxpc3RlbmVyOiBBbmltYXRpb25VdGlsLkFuaW1hdGlvbkxpc3RlbmVyPykgewogICAgICAgIHRoaXMubGlzdGVuZXIgPSBsaXN0ZW5lcgogICAgICAgIHNob3VsZFN0b3BMb2FkaW5nQW5pbWF0aW9uID0gdHJ1ZQogICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICA8IS0tICAgIDxjb20ubW9uZXNlLm1vbmVzZS5kZXNpZ25zeXN0ZW0ubGliLnZpZXcudG9vbGJhci5Nb25lc2VUb29sYmFyLS0+CiAgICA8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rvb2xiYXIiLS0+CiAgICA8IS0tICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIi0tPgogICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiLS0+CiAgICA8IS0tICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Ii0tPgogICAgPCEtLSAgICAgICAgdG9vbHM6dmlzaWJpbGl0eT0iaW52aXNpYmxlIi0tPgogICAgPCEtLSAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiLS0+CiAgICA8IS0tICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50IiAvPi0tPgoKICAgIDwhLS0gICAgPGNvbS5tb25lc2UubW9uZXNlLmRlc2lnbnN5c3RlbS5saWIudmlldy50ZXh0dmlldy5MaW5rLS0+CiAgICA8IS0tICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X3Bhc3Njb2RlX3N3aXRjaF91c2VyIi0tPgogICAgPCEtLSAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCItLT4KICAgIDwhLS0gICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii0tPgogICAgPCEtLSAgICAgICAgYW5kcm9pZDpwYWRkaW5nU3RhcnQ9IkBkaW1lbi9jb21wb25lbnRfc3BhY2luZ18yMCItLT4KICAgIDwhLS0gICAgICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2NvbXBvbmVudF9zcGFjaW5nXzEwIi0tPgogICAgPCEtLSAgICAgICAgYW5kcm9pZDpwYWRkaW5nRW5kPSJAZGltZW4vY29tcG9uZW50X3NwYWNpbmdfMTAiLS0+CiAgICA8IS0tICAgICAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9jb21wb25lbnRfc3BhY2luZ18xMCItLT4KICAgIDwhLS0gICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9wYXNzX3N3aXRjaF91c2VyIi0tPgogICAgPCEtLSAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIi0tPgogICAgPCEtLSAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiLS0+CiAgICA8IS0tICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Ii0tPgogICAgPCEtLSAgICAgICAgdG9vbHM6dmlzaWJpbGl0eT0idmlzaWJsZSIgLz4tLT4=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>201</text>
