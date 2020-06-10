@@ -82,8 +82,8 @@
         <mark key="^" line="339" column="30" />
         <mark key="." line="339" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591778455318">
-        <mark key="[" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1591779472098">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
       </file>
@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/util/synccall/SynchronisedSingleCall.kt" timestamp="1591707398552">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591778872313">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591791752416">
         <mark key="'" line="53" column="10" />
-        <mark key="[" line="62" column="8" />
-        <mark key="]" line="62" column="9" />
-        <mark key="." line="62" column="8" />
-        <mark key="^" line="62" column="9" />
+        <mark key="[" line="272" column="19" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_passcode.xml" timestamp="1591775596050">
         <mark key="[" line="22" column="8" />
@@ -152,7 +152,7 @@
         <mark key="^" line="147" column="44" />
         <mark key="." line="145" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/forgotpasscode/changepasscode/ChangePasscodeActivity.kt" timestamp="1591711390151">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/forgotpasscode/changepasscode/ChangePasscodeActivity.kt" timestamp="1591779077574">
         <mark key="[" line="100" column="0" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
