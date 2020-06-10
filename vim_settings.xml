@@ -76,18 +76,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeKeyboard.kt" timestamp="1591704983039">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="115" column="46" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591778122317">
+        <mark key="[" line="337" column="82" />
+        <mark key="]" line="339" column="54" />
+        <mark key="^" line="339" column="30" />
+        <mark key="." line="339" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591777714256">
-        <mark key="[" line="331" column="33" />
-        <mark key="^" line="329" column="10" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591777729836">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1591778455318">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A26ChangePasscodeFragment.kt" timestamp="1591712193984">
         <mark key="[" line="98" column="28" />
@@ -107,6 +105,11 @@
         <mark key="]" line="22" column="8" />
         <mark key="." line="22" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_passcode.xml" timestamp="1591778132063">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/attrs.xml" timestamp="1591777658845">
         <mark key="[" line="308" column="0" />
         <mark key="]" line="308" column="0" />
@@ -115,11 +118,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/util/synccall/SynchronisedSingleCall.kt" timestamp="1591707398552">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591777692866">
-        <mark key="[" line="266" column="9" />
-        <mark key="]" line="265" column="45" />
-        <mark key="." line="265" column="4" />
-        <mark key="^" line="266" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591778872313">
+        <mark key="'" line="53" column="10" />
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="62" column="9" />
+        <mark key="." line="62" column="8" />
+        <mark key="^" line="62" column="9" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_passcode.xml" timestamp="1591775596050">
         <mark key="[" line="22" column="8" />
@@ -154,12 +158,11 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="100" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/passcode/A12CreatePasscodeFragment.kt" timestamp="1591777365882">
-        <mark key="'" line="92" column="0" />
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="15" />
-        <mark key="." line="83" column="15" />
-        <mark key="^" line="83" column="23" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/passcode/A12CreatePasscodeFragment.kt" timestamp="1591778264727">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a12_create_passcode.xml" timestamp="1591777400494">
         <mark key="[" line="24" column="8" />
@@ -182,8 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="52" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
-      <jump line="503" column="13" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="502" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="281" column="3" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
       <jump line="1901" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
@@ -282,48 +283,50 @@
       <jump line="113" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
       <jump line="276" column="32" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
       <jump line="110" column="32" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
+      <jump line="52" column="37" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
+      <jump line="53" column="10" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwZGVfa2V5cGFkLnNob3dCb3R0b21MZWZ0QnV0dG9uKCkK</text>
+      <register name="&quot;" type="4">
+        <text>compositeDisposable</text>
       </register>
       <register name="-" type="4">
-        <text>pde_keypad.</text>
+        <text>compositeDisposable</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICB0dl9wYXNzY29kZV90ZXh0LnRleHQgPSByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmEzMV90aXRsZSkKICAgICAgICBwZGVfa2V5cGFkLnNob3dCb3R0b21MZWZ0QnV0dG9uKCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2hvd0JvdHRvbUxlZnRCdXR0b24odHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwZGVfa2V5cGFkLnNob3dCb3R0b21MZWZ0QnV0dG9uKCkK</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgRVJST1JfTUVTU0FHRSA9ICJFcnJvciBsb2FkaW5nIGVsZW1lbnRzIHRvIFBhc3Njb2RlVmlldyIK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkZWNsYXJlLXN0eWxlYWJsZSBuYW1lPSJQYXNzY29kZVZpZXciPgogICAgICAgIDxhdHRyIG5hbWU9ImVudHJ5X2xvZ2luIiBmb3JtYXQ9ImJvb2xlYW4iIC8+CiAgICA8L2RlY2xhcmUtc3R5bGVhYmxlPgo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0dl9wYXNzY29kZV90aXRsZS52aXNpYmxlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVBdHRyaWJ1dGVWYWx1ZXMoY29udGV4dCwgYXR0cnMsIGRlZlN0eWxlQXR0cikK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmdW4gc2V0dXBGb3JUZW1wb3JhcnkoKSB7CiAgICAgICAgdHZfcGFzc2NvZGVfdGV4dC50ZXh0ID0gcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5hMTlfdGl0bGVfdGVtcG9yYXJ5X3Bhc3Njb2RlKQogICAgICAgIHBkZV9rZXlwYWQuaGlkZUJvdHRvbUxlZnRCdXR0b24oKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5oaWRlQm90dG9tTGVmdEJ1dHRvbigpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGhhbmRsZUF0dHJpYnV0ZVZhbHVlcyhjb250ZXh0OiBDb250ZXh0LCBhdHRyczogQXR0cmlidXRlU2V0PywgZGVmU3R5bGVBdHRyOiBJbnQpIHsKICAgICAgICBhdHRycz8ubGV0IHsKICAgICAgICAgICAgdmFyIGVudHJ5TG9naW4gPSBmYWxzZQogICAgICAgICAgICB2YWwgYXR0ciA9IGNvbnRleHQub2J0YWluU3R5bGVkQXR0cmlidXRlcyhpdCwgUi5zdHlsZWFibGUuUGFzc2NvZGVWaWV3LCBkZWZTdHlsZUF0dHIsIDApCgogICAgICAgICAgICB0cnkgewogICAgICAgICAgICB9IGNhdGNoIChlOiBFeGNlcHRpb24pIHsKICAgICAgICAgICAgICAgIFRpbWJlci5lKEVSUk9SX01FU1NBR0UpCiAgICAgICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgICAgICBhdHRyLnJlY3ljbGUoKQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRleHQocmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5hMTlfdGl0bGVfdGVtcG9yYXJ5X3Bhc3Njb2RlKQogICAgICAgICAgICAgICAgcGRlX2tleXBhZC5oaWRlQm90dG9tTGVmdEJ1dHRvbigpIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVudHJ5TG9naW4gPSBhdHRyLmdldEJvb2xlYW4oUi5zdHlsZWFibGUuUGFzc2NvZGVWaWV3X2VudHJ5X2xvZ2luLCBmYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHB2X2ExOS5zZXR1cEZvclRlbXBvcmFyeSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0dXBWaWV3KGVudHJ5TG9naW4pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGVudHJ5TG9naW4gPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
