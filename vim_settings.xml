@@ -76,11 +76,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591778122317">
-        <mark key="[" line="337" column="82" />
-        <mark key="]" line="339" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591854492008">
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
         <mark key="^" line="339" column="30" />
-        <mark key="." line="339" column="16" />
+        <mark key="." line="434" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591779472098">
         <mark key="[" line="0" column="0" />
@@ -118,12 +118,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/util/synccall/SynchronisedSingleCall.kt" timestamp="1591707398552">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591791752416">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591854641755">
         <mark key="'" line="53" column="10" />
-        <mark key="[" line="272" column="19" />
-        <mark key="]" line="36" column="25" />
-        <mark key="." line="36" column="24" />
-        <mark key="^" line="36" column="25" />
+        <mark key="[" line="205" column="5" />
+        <mark key="]" line="206" column="4" />
+        <mark key="." line="206" column="3" />
+        <mark key="^" line="206" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_passcode.xml" timestamp="1591775596050">
         <mark key="[" line="22" column="8" />
@@ -289,11 +289,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>compositeDisposable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1biBzaG93VGl0bGUoc2hvdzogQm9vbGVhbikgewogICAgICAgIGlmIChzaG93KSB7CiAgICAgICAgICAgIHR2X3Bhc3Njb2RlX3RpdGxlLnZpc2libGUoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHR2X3Bhc3Njb2RlX3RpdGxlLmdvbmUoKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>compositeDisposable</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
@@ -302,31 +302,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc2hvd0JvdHRvbUxlZnRCdXR0b24odHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgRVJST1JfTUVTU0FHRSA9ICJFcnJvciBsb2FkaW5nIGVsZW1lbnRzIHRvIFBhc3Njb2RlVmlldyIK</text>
+        <text encoding="base64">ICAgIGZ1biBzaG93VGl0bGUoc2hvdzogQm9vbGVhbikgewogICAgICAgIGlmIChzaG93KSB7CiAgICAgICAgICAgIHR2X3Bhc3Njb2RlX3RpdGxlLnZpc2libGUoKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIHR2X3Bhc3Njb2RlX3RpdGxlLmdvbmUoKQogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBmdW4gc2V0QWxsRG90c1RvQ29tcGxldGVTdGF0ZSgpIHsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB0dl9wYXNzY29kZV90aXRsZS52aXNpYmxlKCkK</text>
+        <text encoding="base64">ICAgICAgICBzZXRBbGxEb3RzVG9Db21wbGV0ZVN0YXRlKAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwZGVfaW5kaWNhdG9yLnNldEFsbERvdHNUb0NvbXBsZXRlU3RhdGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBmdW4gc2V0dXBGb3JUZW1wb3JhcnkoKSB7CiAgICAgICAgdHZfcGFzc2NvZGVfdGV4dC50ZXh0ID0gcmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5hMTlfdGl0bGVfdGVtcG9yYXJ5X3Bhc3Njb2RlKQogICAgICAgIHBkZV9rZXlwYWQuaGlkZUJvdHRvbUxlZnRCdXR0b24oKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0QWxsRG90c1RvQ29tcGxldGVTdGF0ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5oaWRlQm90dG9tTGVmdEJ1dHRvbigpCg==</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgRVJST1JfTUVTU0FHRSA9ICJFcnJvciBsb2FkaW5nIGVsZW1lbnRzIHRvIFBhc3Njb2RlVmlldyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldFRleHQocmVzb3VyY2VzLmdldFN0cmluZyhSLnN0cmluZy5hMTlfdGl0bGVfdGVtcG9yYXJ5X3Bhc3Njb2RlKQogICAgICAgICAgICAgICAgcGRlX2tleXBhZC5oaWRlQm90dG9tTGVmdEJ1dHRvbigpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHB2X2ExOS5zZXR1cEZvclRlbXBvcmFyeSgpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB0dl9wYXNzY29kZV90aXRsZS52aXNpYmxlKCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVudHJ5TG9naW4gPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>79</text>
