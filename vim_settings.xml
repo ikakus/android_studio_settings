@@ -120,6 +120,7 @@
         <mark key="." line="94" column="67" />
         <mark key="^" line="94" column="68" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/RegistrationViewModel.kt" timestamp="1591896706840" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/PasscodeActivity.kt" timestamp="1591859197926">
         <mark key="[" line="80" column="12" />
         <mark key="]" line="80" column="12" />
@@ -163,13 +164,6 @@
         <mark key="]" line="4" column="42" />
         <mark key="." line="4" column="42" />
         <mark key="^" line="3" column="24" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/forgotpasscode/changepasscode/ChangePasscodeActivity.kt" timestamp="1591859134782">
-        <mark key="'" line="91" column="29" />
-        <mark key="[" line="117" column="16" />
-        <mark key="]" line="117" column="33" />
-        <mark key="." line="117" column="32" />
-        <mark key="^" line="117" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a24s2_video_call_us.xml" timestamp="1591885519818">
         <mark key="[" line="7" column="24" />
