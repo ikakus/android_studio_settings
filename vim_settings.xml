@@ -87,10 +87,10 @@
         <mark key="]" line="16" column="38" />
         <mark key="." line="16" column="38" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591879602536">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591884032129">
         <mark key="'" line="52" column="10" />
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="219" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="41" />
         <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/updateaccountdetails/confirmpasscode/ConfirmPasscodeFragment.kt" timestamp="1591860155682">
@@ -119,7 +119,7 @@
         <mark key="^" line="46" column="37" />
         <mark key="." line="80" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591880995448">
+      <file name="/Dummy.txt" timestamp="1591884063998">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -130,7 +130,6 @@
         <mark key="]" line="149" column="0" />
         <mark key="." line="149" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlag.kt" timestamp="1591773951164" />
       <file name="/fragment.kt" timestamp="1591877415157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,6 +160,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="16" column="32" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/PasscodeHelper.kt" timestamp="1591884054262">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="4" column="42" />
+        <mark key="." line="4" column="42" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/forgotpasscode/changepasscode/ChangePasscodeActivity.kt" timestamp="1591859134782">
         <mark key="'" line="91" column="29" />
@@ -282,16 +287,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQW5pbWF0aW9uVXRpbC5mYWRlT3V0KHR2X3Bhc3Njb2RlX2Vycm9yX21lc3NhZ2UpCg==</text>
+        <text encoding="base64">cHJpdmF0ZSBjb25zdCB2YWwgUEFTU0NPREVfTUFYX0xFTkdUSCA9IDUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
