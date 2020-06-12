@@ -152,11 +152,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591961033244">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591962775715">
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
         <mark key="^" line="253" column="26" />
-        <mark key="." line="149" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/paycontact/makepayment/PreviewPaymentFragment.kt" timestamp="1591956375085" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/EnableBiometricLoginViewModel.kt" timestamp="1591960189735" />
@@ -267,7 +267,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Jpb21ldHJpY0VuYWJsZWQucG9zdFZhbHVlKGZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bmF2aWdhdGVUb0xvZ2luKHJlc3BvbnNlPy5zZXNzaW9uRGF0YT8uYXR0ZW1wdHMsIHRvdWNoSWRFbmFibGVkICYmIGlzVmlld1Jlb3BlbmVkLm5vdCgpKQ==</text>
@@ -279,31 +279,31 @@
         <text>signedChallenge</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgX2Jpb21ldHJpY0VuYWJsZWQucG9zdFZhbHVlKGZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9uUGFzc2NvZGVWaXNpYmlsaXR5KHZpc2libGU6IEJvb2xlYW4/KSB7CiAgICAgICAgcHZfYTE5LnNob3codmlzaWJsZSA9PSB0cnVlKQogICAgfQ==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgdmFyIHNpZ25lZENoYWxsZW5nZTogU3RyaW5nPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9uUGFzc2NvZGVWaXNpYmlsaXR5KHZpc2libGU6IEJvb2xlYW4/KSB7CiAgICAgICAgcHZfYTE5LnNob3codmlzaWJsZSA9PSB0cnVlKQogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3QgV2VsY29tZUJhY2sgOiBOYXZpZ2F0aW9uKClkZAo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgdmFyIHNpZ25lZENoYWxsZW5nZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdmlnYXRpb24uV2VsY29tZUJhY2sgLT4gb3BlbldlbGNvbWVCYWNrVmlldygpCg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QgV2VsY29tZUJhY2sgOiBOYXZpZ2F0aW9uKClkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuIHsKCiAgICAgICAgICAgIGVsc2UgLT4gCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdmlnYXRpb24uV2VsY29tZUJhY2sgLT4gb3BlbldlbGNvbWVCYWNrVmlldygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2hvd0Jpb21ldHJpY1dlbGNvbWVCYWNrVmlldygpCi8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIHsKCiAgICAgICAgICAgIGVsc2UgLT4gCiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpc0dvaW5nVG9TaG93QTI4czFGaW5nZXJwcmludFdlbGNvbWVTY3JlZW4ocmVzcG9uc2UpIC0+IHsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2hvd0Jpb21ldHJpY1dlbGNvbWVCYWNrVmlldygpCi8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
