@@ -77,11 +77,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591953111192">
-        <mark key="[" line="247" column="35" />
-        <mark key="]" line="150" column="45" />
-        <mark key="." line="150" column="45" />
-        <mark key="^" line="177" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591954207331">
+        <mark key="[" line="450" column="0" />
+        <mark key="]" line="450" column="0" />
+        <mark key="." line="450" column="0" />
+        <mark key="^" line="450" column="20" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a26_create_new_passcode.xml" timestamp="1591885626208">
         <mark key="[" line="87" column="0" />
@@ -97,11 +97,11 @@
         <mark key="." line="64" column="0" />
         <mark key="^" line="63" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591884032129">
-        <mark key="'" line="52" column="10" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="41" />
-        <mark key="." line="219" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591956156732">
+        <mark key="'" line="51" column="10" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591946872695" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/SecurityWarningDialog.kt" timestamp="1591950184383">
@@ -110,26 +110,23 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" timestamp="1591878550883">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="94" column="68" />
-        <mark key="." line="94" column="67" />
-        <mark key="^" line="94" column="68" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginViewModelEntities.kt" timestamp="1591948633155">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/RegistrationViewModel.kt" timestamp="1591900291235" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/MoneseBiometricPrompt.kt" timestamp="1591953714126" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/strings.xml" timestamp="1591879927714" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PinView.kt" timestamp="1591879643698">
-        <mark key="[" line="47" column="39" />
-        <mark key="]" line="32" column="52" />
-        <mark key="^" line="32" column="52" />
-        <mark key="." line="32" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/AnimationUtil.java" timestamp="1591956419022">
+        <mark key="[" line="198" column="54" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="198" column="45" />
+        <mark key="." line="200" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/MoneseBiometricPrompt.kt" timestamp="1591953714126" />
+      <file name="/Dummy.txt" timestamp="1591956466941">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/strings.xml" timestamp="1591879927714" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_passcode.xml" timestamp="1591885336995">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -157,13 +154,13 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591953083629">
-        <mark key="'" line="364" column="40" />
-        <mark key="[" line="688" column="29" />
-        <mark key="]" line="659" column="73" />
-        <mark key="." line="659" column="72" />
-        <mark key="^" line="659" column="73" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591957740320">
+        <mark key="[" line="542" column="0" />
+        <mark key="]" line="542" column="0" />
+        <mark key="^" line="252" column="26" />
+        <mark key="." line="542" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/paycontact/makepayment/PreviewPaymentFragment.kt" timestamp="1591956375085" />
     </filemarks>
     <jumps>
       <jump line="1901" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
@@ -270,57 +267,46 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>_passcodeVisibility</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_passcodeVisibility</text>
+        <text encoding="base64">c2lnbmVkQ2hhbGxlbmdlIA==</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
       </register>
       <register name="0" type="4">
-        <text>setListener(object : MaterialDialog.DialogListener {
-//        override fun onPositiveButtonClicked() {
-//            dismiss()
-//            viewModel.onSecurityApproved()
-//        }
-//
-//        override fun onNegativeButtonClicked() {
-//            //do nothing
-//        }
-//
-//        override fun onDialogDismissed(isActionTakenBeforeDismiss: Boolean) {
-//            //do nothing
-//        }
-//    })</text>
+        <text>signedChallenge</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZWRJbldpdGhGaW5nZXJQcmludCA9IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlTG9naW5XaXRoQmlvbWVyaWNFcnJvcigpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHNpZ25lZENoYWxsZW5nZT8ubGV0IHsKICAgICAgICAgICAgbG9naW5Vc2luZ0NoYWxsZW5nZSgpCiAgICAgICAgfSA/OiBydW4gew==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93Q29tbW9uRXJyb3IoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZShwYXNzY29kZVZpc2liaWxpdHksIDo6b25QYXNzY29kZVZpc2liaWxpdHkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBfcGFzc2NvZGVWaXNpYmlsaXR5LnBvc3RWYWx1ZSh0cnVlKQo=</text>
+        <text>//        {
+//            showCommonError()
+//        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBfcGFzc2NvZGVWaXNpYmlsaXR5LnBvc3RWYWx1ZSh0cnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9naW5Vc2luZ0NoYWxsZW5nZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfcGFzc2NvZGVWaXNpYmlsaXR5LnBvc3RWYWx1ZSghdG91Y2hJZEVuYWJsZWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgID8uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9wYXNzY29kZVZpc2liaWxpdHkgPSBTaW5nbGVMaXZlRXZlbnQ8Qm9vbGVhbj4oKQogICAgdmFsIHBhc3Njb2RlVmlzaWJpbGl0eTogTGl2ZURhdGE8Qm9vbGVhbj4gPSBfcGFzc2NvZGVWaXNpYmlsaXR5Cgo=</text>
+        <text encoding="base64">ICAgICAgICBzaWduZWRDaGFsbGVuZ2U/LmxldCB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
