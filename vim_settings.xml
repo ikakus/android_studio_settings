@@ -77,20 +77,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1591960937129">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591962125890">
         <mark key="[" line="182" column="0" />
         <mark key="]" line="182" column="0" />
         <mark key="^" line="446" column="20" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/topup/paysafe/Cash1ChooseAmountViewModel.kt" timestamp="1591964784638" />
+      <file name="/Dummy.txt" timestamp="1591965365317">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a26_create_new_passcode.xml" timestamp="1591885626208">
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="^" line="39" column="30" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/MaterialDialog.java" timestamp="1591947607645" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/util/synccall/SynchronisedSingleCall.kt" timestamp="1591946742052">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="64" column="0" />
@@ -115,28 +121,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginViewModelEntities.kt" timestamp="1591948633155">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/RegistrationViewModel.kt" timestamp="1591900291235" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/AnimationUtil.java" timestamp="1591956419022">
-        <mark key="[" line="198" column="54" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="198" column="45" />
-        <mark key="." line="200" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/MoneseBiometricPrompt.kt" timestamp="1591953714126" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1591960937129">
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591963690548">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/EnableFingerprintLoginViewModel.kt" timestamp="1591959465197" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a19_login.xml" timestamp="1591885454456">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -147,14 +131,23 @@
         <mark key="[" line="7" column="24" />
         <mark key="]" line="7" column="45" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591964711450">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginViewModelEntities.kt" timestamp="1591948633155">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/AnimationUtil.java" timestamp="1591956419022">
+        <mark key="[" line="198" column="54" />
+        <mark key="]" line="200" column="0" />
+        <mark key="^" line="198" column="45" />
+        <mark key="." line="200" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591966383425">
         <mark key="[" line="170" column="55" />
         <mark key="]" line="172" column="9" />
         <mark key="^" line="172" column="9" />
         <mark key="." line="172" column="8" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/paycontact/makepayment/PreviewPaymentFragment.kt" timestamp="1591956375085" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/EnableBiometricLoginViewModel.kt" timestamp="1591960189735" />
     </filemarks>
     <jumps>
       <jump line="1901" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
