@@ -103,7 +103,11 @@
         <mark key="]" line="222" column="0" />
         <mark key="." line="222" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591960381328" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591960990431">
+        <mark key="[" line="569" column="0" />
+        <mark key="]" line="569" column="0" />
+        <mark key="." line="569" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/SecurityWarningDialog.kt" timestamp="1591950184383">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="30" column="7" />
@@ -123,15 +127,15 @@
         <mark key="." line="200" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/MoneseBiometricPrompt.kt" timestamp="1591953714126" />
-      <file name="/Dummy.txt" timestamp="1591956466941">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherActivity.kt" timestamp="1591960937129">
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="0" />
+        <mark key="." line="192" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591961035972">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/EnableFingerprintLoginViewModel.kt" timestamp="1591959465197" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_passcode.xml" timestamp="1591885336995">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a19_login.xml" timestamp="1591885454456">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -148,11 +152,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591960307720">
-        <mark key="[" line="169" column="15" />
-        <mark key="]" line="543" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591961033244">
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
         <mark key="^" line="253" column="26" />
-        <mark key="." line="543" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/contactpayments/paycontact/makepayment/PreviewPaymentFragment.kt" timestamp="1591956375085" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/biometric/EnableBiometricLoginViewModel.kt" timestamp="1591960189735" />
@@ -263,10 +267,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgdmFyIHNpZ25lZENoYWxsZW5nZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2lnbmVkQ2hhbGxlbmdlIA==</text>
+        <text encoding="base64">bmF2aWdhdGVUb0xvZ2luKHJlc3BvbnNlPy5zZXNzaW9uRGF0YT8uYXR0ZW1wdHMsIHRvdWNoSWRFbmFibGVkICYmIGlzVmlld1Jlb3BlbmVkLm5vdCgpKQ==</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
@@ -275,33 +279,31 @@
         <text>signedChallenge</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHByaXZhdGUgdmFyIHNpZ25lZENoYWxsZW5nZTogU3RyaW5nPyA9IG51bGwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3QgV2VsY29tZUJhY2sgOiBOYXZpZ2F0aW9uKClkZAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIHNpZ25lZENoYWxsZW5nZT8ubGV0IHsKICAgICAgICAgICAgbG9naW5Vc2luZ0NoYWxsZW5nZSgpCiAgICAgICAgfSA/OiBydW4gew==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE5hdmlnYXRpb24uV2VsY29tZUJhY2sgLT4gb3BlbldlbGNvbWVCYWNrVmlldygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuIHsKCiAgICAgICAgICAgIGVsc2UgLT4gCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgc2hvd0Jpb21ldHJpY1dlbGNvbWVCYWNrVmlldygpCi8vICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text>//        {
-//            showCommonError()
-//        }</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpc0dvaW5nVG9TaG93QTI4czFGaW5nZXJwcmludFdlbGNvbWVTY3JlZW4ocmVzcG9uc2UpIC0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9naW5Vc2luZ0NoYWxsZW5nZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgID8uCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzaG93QmlvbWV0cmljV2VsY29tZUJhY2tWaWV3KCkgewogICAgICAgIF9uYXZpZ2F0aW9uLnBvc3RWYWx1ZShOYXZpZ2F0aW9uLldlbGNvbWVCYWNrKQogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduZWRDaGFsbGVuZ2U/LmxldCB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
