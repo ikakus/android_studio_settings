@@ -38,6 +38,7 @@
         <entry>201</entry>
         <entry>79</entry>
         <entry>447</entry>
+        <entry>23</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -83,13 +84,20 @@
         <mark key="^" line="446" column="20" />
         <mark key="." line="182" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/mreference/MReferenceProvider.kt" timestamp="1591973207669">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/mreference/MReferenceProvider.kt" timestamp="1591973879386">
         <mark key="'" line="33" column="37" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="31" column="61" />
-        <mark key="." line="31" column="61" />
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="37" column="24" />
+        <mark key="." line="37" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/account/selectedaccount/usecase/GetSelectedAccountMoneseReferenceUseCase.kt" timestamp="1591969991265" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/util/synccall/SynchronisedSingleCall.kt" timestamp="1591974576974">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="63" column="44" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1591956156732">
         <mark key="'" line="51" column="10" />
         <mark key="[" line="222" column="0" />
@@ -107,17 +115,6 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/avios/stores/repository/AviosStoresRepositoryImpl.kt" timestamp="1591970107227">
-        <mark key="[" line="88" column="15" />
-        <mark key="]" line="88" column="15" />
-        <mark key="." line="88" column="15" />
-        <mark key="^" line="88" column="21" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/LoginViewModelEntities.kt" timestamp="1591948633155">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/AnimationUtil.java" timestamp="1591956419022">
         <mark key="[" line="198" column="54" />
         <mark key="]" line="200" column="0" />
@@ -132,6 +129,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1591965365317">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/account/repository/AccountsDataRepositoryImpl.kt" timestamp="1591975203962">
+        <mark key="[" line="61" column="46" />
+        <mark key="]" line="61" column="40" />
+        <mark key="^" line="61" column="40" />
+        <mark key="." line="61" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/connection/network/OfflineBalanceUpdateService.kt" timestamp="1591972476267" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591966383425">
@@ -247,10 +250,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>.moneseReference</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.moneseReference</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
@@ -259,40 +262,36 @@
         <text>signedChallenge</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB2YWwgYnVzaW5lc3NSZWZlcmVuY2U6IFN0cmluZwogICAgICAgIGdldCgpID0gCgogICAgdmFsIGpvaW50UmVmZXJlbmNlOiBTdHJpbmcKICAgICAgICBnZXQoKSA9</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldFNlbGVjdGVkQWNjb3VudE1vbmVzZVJlZmVyZW5jZVVzZUNhc2U6IEdldFNlbGVjdGVkQWNjb3VudE1vbmVzZVJlZmVyZW5jZVVzZUNhc2UK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZWxlY3RlZEFjY291bnRSZWZlcmVuY2U6IFN0cmluZwogICAgICAgIGdldCgpID0gCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cm9iamVjdCBtYXBwZXIgOiBpby5yZWFjdGl2ZXguZnVuY3Rpb25zLkZ1bmN0aW9uPGluIFN0cmluZz8sIG91dCBTdHJpbmc+IHsKICAgIG92ZXJyaWRlIGZ1biBhcHBseShwMDogU3RyaW5nPyk6IFN0cmluZyB7CiAgICAgICAgcmV0dXJuIHAwID86ICIiCiAgICB9Cn0KLy9vYmplY3QgOkZ1bmN0aW9uPGluIFN0cmluZz8sIG91dCBTdHJpbmc+ewovLyAgICBvdmVycmlkZSBmdW4gYXBwbHkocDA6IFN0cmluZz8pOiBTdHJpbmcgewovLyAgICAgICAgaWYocDAgPT0gbnVsbCl7Ci8vICAgICAgICAgICAgcmV0dXJuICIiCi8vICAgICAgICB9ZWxzZXsKLy8gICAgICAgICAgICBwMAovLyAgICAgICAgfQovLyAgICB9Ci8vfQ==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICB2YWwgbW9uZXNlUmVmZXJlbmNlOiBTdHJpbmcKICAgICAgICBnZXQoKSB7CiAgICAgICAgICAgIHJldHVybiBtb25lc2VBcGlNYW5hZ2VyLmdldE1vbmVzZVJlZmVyZW5jZSgpCiAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIC0+IHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4gcmVmZXJlbmNlLm1hcCB7IHJlZiAtPgogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text>?: run {
-                FirebaseCrashlytics.getInstance().recordException(
-                    MoneseReferenceNullPointerException(&quot;getMoneseReference() null&quot;)
-                )
-                instance.clearBackStackAndStartLauncherActivity()
-                &quot;&quot;
-            }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2Jpb21ldHJpY0VuYWJsZWQucG9zdFZhbHVlKGZhbHNlKQo=</text>
+        <text>//                getAccountsDataUseCase.get().create().find {
+//                    it.businessStatus == BusinessStatusDomainModel.OPEN
+//                }?.businessRef ?: &quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>447</text>
+        <text>23</text>
       </register>
     </registers>
   </component>
