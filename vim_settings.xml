@@ -252,10 +252,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>BiometricPromptEnabled</text>
+        <text>selectedAccountReference</text>
       </register>
       <register name="-" type="4">
-        <text>BiometricPromptEnabled</text>
+        <text>selectedAccountReference</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
