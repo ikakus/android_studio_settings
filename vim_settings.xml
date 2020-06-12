@@ -77,11 +77,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591949965789">
-        <mark key="[" line="89" column="62" />
-        <mark key="]" line="89" column="62" />
-        <mark key="." line="89" column="62" />
-        <mark key="^" line="89" column="69" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1591952222333">
+        <mark key="[" line="150" column="45" />
+        <mark key="]" line="150" column="45" />
+        <mark key="." line="150" column="45" />
+        <mark key="^" line="177" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_a26_create_new_passcode.xml" timestamp="1591885626208">
         <mark key="[" line="87" column="0" />
@@ -104,13 +104,12 @@
         <mark key="." line="219" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1591946872695" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/SecurityWarningDialog.kt" timestamp="1591949911895">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/SecurityWarningDialog.kt" timestamp="1591950184383">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="30" column="7" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/updateaccountdetails/confirmpasscode/ConfirmPasscodeViewModel.kt" timestamp="1591876876435" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" timestamp="1591878550883">
         <mark key="[" line="21" column="18" />
         <mark key="]" line="94" column="68" />
@@ -123,12 +122,6 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/RegistrationViewModel.kt" timestamp="1591900291235" />
-      <file name="/Dummy.txt" timestamp="1591949182831">
-        <mark key="'" line="0" column="7" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/fragment.kt" timestamp="1591877415157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,6 +158,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591952201430">
+        <mark key="'" line="362" column="40" />
+        <mark key="[" line="683" column="8" />
+        <mark key="]" line="686" column="8" />
+        <mark key="^" line="686" column="8" />
+        <mark key="." line="686" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -273,46 +273,56 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>requirbeActivity</text>
+        <text>navigation.fingerprintLoader</text>
       </register>
       <register name="-" type="4">
-        <text>requirbeActivity</text>
+        <text>navigation.fingerprintLoader</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iP21vbmVzZUJhY2tncm91bmRDb2xvciIK</text>
+      <register name="0" type="4">
+        <text>setListener(object : MaterialDialog.DialogListener {
+//        override fun onPositiveButtonClicked() {
+//            dismiss()
+//            viewModel.onSecurityApproved()
+//        }
+//
+//        override fun onNegativeButtonClicked() {
+//            //do nothing
+//        }
+//
+//        override fun onDialogDismissed(isActionTakenBeforeDismiss: Boolean) {
+//            //do nothing
+//        }
+//    })</text>
       </register>
       <register name="1" type="2">
-        <text>return materialDialog
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JzZXJ2ZShwYXNzY29kZVZpc2liaWxpdHksIDo6b25QYXNzY29kZVZpc2liaWxpdHkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIG1hdGVyaWFsRGlhbG9nID0gTWF0ZXJpYWxEaWFsb2cocmVxdWlyZUFjdGl2aXR5KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBfcGFzc2NvZGVWaXNpYmlsaXR5LnBvc3RWYWx1ZSh0cnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBfcGFzc2NvZGVWaXNpYmlsaXR5LnBvc3RWYWx1ZSh0cnVlKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfcGFzc2NvZGVWaXNpYmlsaXR5LnBvc3RWYWx1ZSghdG91Y2hJZEVuYWJsZWQpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNldFRpdGxlKGdldFN0cmluZyhSLnN0cmluZy5hMTlfc2VjdXJpdHlfZGlhbG9nX3RpdGxlKSkKICAgIHNldE1lc3NhZ2UoZ2V0U3RyaW5nKFIuc3RyaW5nLmExOV9zZWN1cml0eV9kaWFsb2dfbWVzc2FnZSkpCiAgICBzZXRQb3NpdGl2ZUJ1dHRvblRleHQoZ2V0U3RyaW5nKFIuc3RyaW5nLmExOV9zZWN1cml0eV9kaWFsb2dfYnV0dG9uX2dvdF9pdCkpCiAgICBzZXROZWdhdGl2ZUJ1dHRvblZpc2libGUoZmFsc2UpCiAgICBzZXRDYW5jZWxhYmxlKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9wYXNzY29kZVZpc2liaWxpdHkgPSBTaW5nbGVMaXZlRXZlbnQ8Qm9vbGVhbj4oKQogICAgdmFsIHBhc3Njb2RlVmlzaWJpbGl0eTogTGl2ZURhdGE8Qm9vbGVhbj4gPSBfcGFzc2NvZGVWaXNpYmlsaXR5Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text>return materialDialog
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bhc3Njb2RlVmlzaWJpbGl0eS5wb3N0VmFsdWUoZmFsc2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text>class SecurityWarningDialog {
-}</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bhc3Njb2RlVmlzaWJpbGl0eS5wb3N0VmFsdWUoZmFsc2UpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnByaXZhdGUgdmFsIHNlY3VyaXR5V2FybmluZ0RpYWxvZzogTWF0ZXJpYWxEaWFsb2cKICAgIGdldCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bhc3Njb2RlVmlzaWJpbGl0eS5wb3N0VmFsdWUoZmFsc2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgX3Bhc3Njb2RlVmlzaWJpbGl0eS5wb3N0VmFsdWUoZmFsc2UpCg==</text>
       </register>
       <register name=":" type="4">
         <text>447</text>
