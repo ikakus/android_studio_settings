@@ -132,11 +132,11 @@
         <mark key="]" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/onfido/document/OnfidoDocumentIDScanFlowViewModel.kt" timestamp="1592209338424" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/veriff/VeriffFragment.kt" timestamp="1592214037366">
-        <mark key="[" line="24" column="50" />
-        <mark key="]" line="24" column="50" />
-        <mark key="^" line="24" column="50" />
-        <mark key="." line="24" column="50" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/veriff/VeriffFragment.kt" timestamp="1592215202658">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="22" />
+        <mark key="^" line="24" column="22" />
+        <mark key="." line="24" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1592209599302" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1591966383425">
@@ -252,10 +252,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>VeriffSdk.createLaunchIntent</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>VeriffSdk.createLaunchIntent</text>
       </register>
       <register name="/" type="4">
         <text>is</text>
