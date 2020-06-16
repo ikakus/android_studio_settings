@@ -79,18 +79,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1592302637816">
-        <mark key="'" line="52" column="35" />
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="48" />
-        <mark key="." line="54" column="47" />
-        <mark key="^" line="54" column="48" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/EntitlementRequestRxHelper.kt" timestamp="1592303279047">
-        <mark key="[" line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/navigation-args/dev/debug/com/monese/monese/gradualonboarding/entitlementservice/EntitlementLoadingFragmentDirections.java" timestamp="1592307126005" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" timestamp="1592307345285">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" timestamp="1592312028792">
         <mark key="[" line="59" column="91" />
         <mark key="]" line="59" column="91" />
         <mark key="^" line="59" column="91" />
@@ -102,19 +92,8 @@
         <mark key="." line="211" column="97" />
         <mark key="^" line="211" column="98" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592308570292">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1592304049044">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-        <mark key="^" line="187" column="84" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/helpers/OnboardingAnalytics.kt" timestamp="1592303264782" />
-      <file name="/fragment.java" timestamp="1592306293137">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/verification/onfidoflow/OnfidoCountryHelper.kt" timestamp="1592312146227" />
+      <file name="/fragment.java" timestamp="1592311555261">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
