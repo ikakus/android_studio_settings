@@ -85,9 +85,6 @@
         <mark key="." line="211" column="97" />
         <mark key="^" line="211" column="98" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592382594115">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/arcore-android-sdk/samples/verifftest/app/build.gradle" timestamp="1592377047938">
         <mark key="[" line="42" column="59" />
         <mark key="]" line="42" column="61" />
@@ -102,10 +99,10 @@
         <mark key="." line="90" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/settings/privacy/Set2PrivacyAndSecurityFragment.kt" timestamp="1592380266092" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1592382160787">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeView.kt" timestamp="1592387372934">
+        <mark key="[" line="220" column="26" />
+        <mark key="]" line="215" column="0" />
+        <mark key="." line="215" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_change_passcode.xml" timestamp="1592380167725" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeDot.kt" timestamp="1592381422805" />
@@ -129,11 +126,17 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/AnimationUtil.java" timestamp="1592382179760">
-        <mark key="[" line="146" column="9" />
-        <mark key="]" line="147" column="8" />
-        <mark key="." line="147" column="7" />
-        <mark key="^" line="147" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/passcode/view/PasscodeIndicator.kt" timestamp="1592387342419">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="134" column="32" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/utils/AnimationUtil.java" timestamp="1592386167732">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
+        <mark key="^" line="142" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" timestamp="1592315297279">
         <mark key="[" line="59" column="91" />
@@ -251,45 +254,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNldEluZGljYXRvcigpIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>INVISIBLE</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>twil</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlldy5nZXRBbmltYXRpb24oKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmICh2aWV3LmdldEFuaW1hdGlvbigpLmhhc1N0YXJ0ZWQoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBwZGVfaW5kaWNhdG9yLnNldEluZGljYXRvckNvdW50KDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNldEluZGljYXRvcigpIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGRlX2luZGljYXRvci5pcykK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlldy5nZXRWaXNpYmlsaXR5KCkgPT0gVmlldy5HT05FKSByZXR1cm47Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlldy5nZXRBbmltYXRpb24oKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmICh2aWV3LmdldEFuaW1hdGlvbigpLmhhc1N0YXJ0ZWQoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlldy5nZXRBbmltYXRpb24oKSAhPSBudWxsKSB7CiAgICAgICAgICAgIGlmICh2aWV3LmdldEFuaW1hdGlvbigpLmhhc1N0YXJ0ZWQoKSkgewogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlldyA9PSBudWxsKSByZXR1cm47CiAgICAgICAgaWYgKHZpZXcuZ2V0VmlzaWJpbGl0eSgpID09IFZJU0lCTEUpIHJldHVybjsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RPZkRvdFZpZXdzPy5mb3JFYWNoIHsgc2V0VG9WaWV3c0luaXRpYWxTdGF0ZShpdCkgfQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICBjb21wb3NpdGVEaXNwb3NhYmxlLmFkZChTaW5nbGUudGltZXIoUkVTRVRfREVMQVlfTVMsIFRpbWVVbml0Lk1JTExJU0VDT05EUykKICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAgICAgLm9ic2VydmVPbihBbmRyb2lkU2NoZWR1bGVycy5tYWluVGhyZWFkKCkpCiAgICAgICAgICAgIC5zdWJzY3JpYmVCeSB7CiAgICAgICAgICAgICAgICBsaXN0T2ZEb3RWaWV3cz8uZm9yRWFjaCB7IHNldFRvVmlld3NJbml0aWFsU3RhdGUoaXQpIH0KICAgICAgICAgICAgfSk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBbmltYXRpb25VdGlsLmZhZGVPdXQodHZfcGFzc2NvZGVfZXJyb3JfbWVzc2FnZSkKICAgICAgICBpdl9wYXNzY29kZV9lcnJvcl9pY29uLmdvbmUoKQogICAgICAgIGl2X3Bhc3Njb2RlX2Vycm9yX3RyaWFuZ2xlLmdvbmUoKQogICAgICAgIHBkZV9pbmRpY2F0b3IudmlzaWJsZSgpCiAgICAgICAgcGRlX2tleXBhZC5zaG93Qmx1ZUZvcmdvdCgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwZGVfaW5kaWNhdG9yLnNldEluZGljYXRvckNvdW50KDApCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNldCgpCg==</text>
       </register>
       <register name="9" type="4">
-        <text>v{
-            
-        }</text>
+        <text encoding="base64">ICBpdl9wYXNzY29kZV9lcnJvcl9pY29uLmdvbmUoKQogICAgICAgIGl2X3Bhc3Njb2RlX2Vycm9yX3RyaWFuZ2xlLmdvbmUoKQogICAgICAgIHBkZV9rZXlwYWQuc2hvd0JsdWVGb3Jnb3QoKQogICAgICAgIHBkZV9pbmRpY2F0b3Iuc2V0SW5kaWNhdG9yQ291bnQoMCk=</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
