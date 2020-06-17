@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>in</entry>
         <entry>tm</entry>
         <entry>not</entry>
         <entry>fra</entry>
@@ -25,8 +24,9 @@
         <entry>sel</entry>
         <entry>na</entry>
         <entry>nav_</entry>
-        <entry>veriff</entry>
         <entry>tod</entry>
+        <entry>veriff</entry>
+        <entry>twil</entry>
       </history-search>
       <history-cmd>
         <entry>visplit</entry>
@@ -79,7 +79,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/navigation-args/dev/debug/com/monese/monese/gradualonboarding/entitlementservice/EntitlementLoadingFragmentDirections.java" timestamp="1592307126005" />
+      <file name="$USER_HOME$/AndroidStudioProjects/arcore-android-sdk/samples/verifftest/app/build.gradle" timestamp="1592377047938">
+        <mark key="[" line="42" column="59" />
+        <mark key="]" line="42" column="61" />
+        <mark key="^" line="42" column="61" />
+        <mark key="." line="42" column="60" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" timestamp="1592315297279">
         <mark key="[" line="59" column="91" />
         <mark key="]" line="59" column="91" />
@@ -112,6 +117,13 @@
       <file name="/Dummy.txt" timestamp="1592315931908">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1592376699124">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="90" column="35" />
+        <mark key="^" line="90" column="35" />
+        <mark key="." line="90" column="34" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1592316181826">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -122,9 +134,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1896" column="8" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
-      <jump line="219" column="24" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
-      <jump line="222" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="832" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeFragment.kt" />
       <jump line="267" column="10" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
       <jump line="312" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
@@ -219,9 +228,12 @@
       <jump line="11" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_entitlement.xml" />
       <jump line="12" column="19" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_entitlement.xml" />
       <jump line="76" column="26" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
-      <jump line="90" column="4" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
       <jump line="8" column="11" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/ActionTypeDomainModel.kt" />
       <jump line="52" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" />
+      <jump line="196" column="23" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
+      <jump line="90" column="34" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
+      <jump line="107" column="31" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -233,7 +245,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>tod</text>
+        <text>twil</text>
       </register>
       <register name="0" type="4">
         <text>identityverification.</text>
@@ -272,9 +284,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>tod</last-search>
+      <last-search>twil</last-search>
       <last-offset />
-      <last-pattern>tod</last-pattern>
+      <last-pattern>twil</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
