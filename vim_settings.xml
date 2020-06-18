@@ -103,11 +103,11 @@
       <file name="/fragment.kt" timestamp="1592474323751">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanFlowViewModel.kt" timestamp="1592479041369">
-        <mark key="[" line="77" column="97" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="77" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanFlowViewModel.kt" timestamp="1592482094590">
+        <mark key="[" line="53" column="16" />
+        <mark key="]" line="78" column="55" />
+        <mark key="." line="78" column="54" />
+        <mark key="^" line="78" column="55" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/DocumentPickerViewModel.kt" timestamp="1592472251480">
         <mark key="[" line="14" column="0" />
@@ -252,10 +252,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>parcelToDocsArray(availableDocumentsParcelArray)</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>parcelToDocsArray(availableDocumentsParcelArray)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>veri</text>
@@ -264,33 +264,31 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmF2YWlsYWJsZUNvdW50cnlEb2N1bWVudHMgPSBwYXJjZWxUb0RvY3NBcnJheShhdmFpbGFibGVEb2N1bWVudHNQYXJjZWxBcnJheSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tLm1vbmVzZS5tb25lc2UuZG9tYWluLmVudGl0bGVtZW50Lm1vZGVsLkRvY3VtZW50VHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYW5kIHNraXAgY291bnRyeSBzZWxlY3Rpb24gc2NyZWVuCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmFseXRpY3MudHJhY2tJZDJDb3VudHJ5U2VsZWN0ZWQoY291bnRyeUlzbzMsIHRydWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJZiBCRSBzZW5kcyBhdmFpbGFibGUgY291bnRyeSAtPiBkb2N1bWVudCBsaXN0IGZvciB0aGlzIGNvdW50cnksIHVzZSBpdCB0byBmaWx0ZXIgaXRlbXMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBTaG93IHJldGFrZSBzY3JlZW4gaWYgQkUgc2F5cyB0aGF0IHNjYW4gZmFpbGVkCiAgICAgICAgaWYgKHRydWUpIHsKICAgICAgICAgICAgX25hdmlnYXRpb24ucG9zdFZhbHVlKE5hdmlnYXRpb24uRG9jdW1lbnRTY2FuRmFpbGVkKGNhbkNsb3NlRmxvdykpCiAgICAgICAgfSBlbHNlIGlmIChhdmFpbGFibGVDb3VudHJ5RG9jdW1lbnRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBvcGVuRG9jdW1lbnRUeXBlU2VsZWN0b3IoKQogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzaG91bGRSZXRha2UgPSB0cnVlCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2hvdWxkUmV0YWtlKSB7CiAgICAgICAgICAgIF9uYXZpZ2F0aW9uLnBvc3RWYWx1ZShOYXZpZ2F0aW9uLkRvY3VtZW50U2NhbkZhaWxlZChjYW5DbG9zZUZsb3cpKQogICAgICAgIH0K</text>
+        <text encoding="base64">CiAgICAgIApWawo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcGVuQ291bnRyeVNlbGVjdFNjcmVlbigpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBTaG93IHJldGFrZSBzY3JlZW4gaWYgQkUgc2F5cyB0aGF0IHNjYW4gZmFpbGVkCiAgICAgICAgaWYgKHRydWUpIHsKICAgICAgICAgICAgX25hdmlnYXRpb24ucG9zdFZhbHVlKE5hdmlnYXRpb24uRG9jdW1lbnRTY2FuRmFpbGVkKGNhbkNsb3NlRmxvdykpCiAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>else {
-                
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
