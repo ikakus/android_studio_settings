@@ -88,10 +88,10 @@
       <file name="/a.dummy" timestamp="1592473587872">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanFlowViewModel.kt" timestamp="1592484257580">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanFlowViewModel.kt" timestamp="1592495611709">
+        <mark key="[" line="192" column="76" />
+        <mark key="]" line="192" column="76" />
+        <mark key="." line="192" column="76" />
         <mark key="^" line="127" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/AvailableCountryDocumentsDomainModel.kt" timestamp="1592478531000">
@@ -140,6 +140,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/verification/onfidoflow/OnfidoCountryHelper.kt" timestamp="1592495534568">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="41" column="34" />
+        <mark key="." line="41" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -247,11 +252,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU3Bpbm5lclZhbHVlVmFsaWQ6IEJvb2xlYW4gPSBmYWxzZQo=</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>ChooseDocumentType</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>veri</text>
@@ -260,13 +265,13 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmF2YWlsYWJsZUNvdW50cnlEb2N1bWVudHMgPSBwYXJjZWxUb0RvY3NBcnJheShhdmFpbGFibGVEb2N1bWVudHNQYXJjZWxBcnJheSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU3Bpbm5lclZhbHVlVmFsaWQ6IEJvb2xlYW4gPSBmYWxzZQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGdldENpdGl6ZW5zaGlwTGlzdFVzZUNhc2U6IEdldENpdGl6ZW5zaGlwTGlzdFVzZUNhc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm5hdmlnYXRpb24ubmF2aWdhdGUK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU3Bpbm5lclZhbHVlVmFsaWQ6IEJvb2xlYW4gPSBmYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm5hdmlnYXRpb24ubmF2aWdhdGUK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
@@ -275,16 +280,16 @@
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLnJvbi5Sb25BY2NvdW50UGl0Y2hGcmFnbWVudERpcmVjdGlvbnMK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLnJvbi5Sb25BY2NvdW50UGl0Y2hGcmFnbWVudERpcmVjdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2RvY3VtZW50X3NlbGVjdG9yX3RvX25vdF9zdXBwb3J0ZWRfZG9jdW1lbnQiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2RvY3VtZW50X25vdF9zdXBwb3J0ZWRfZnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDplbnRlckFuaW09IkBhbmltL3NsaWRlX2luX3JpZ2h0IgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRW50ZXJBbmltPSJAYW5pbS9zbGlkZV9pbl9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9yaWdodCIgLz4KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2RvY3VtZW50X3NlbGVjdG9yX3RvX25vdF9zdXBwb3J0ZWRfZG9jdW1lbnQiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2RvY3VtZW50X25vdF9zdXBwb3J0ZWRfZnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDplbnRlckFuaW09IkBhbmltL3NsaWRlX2luX3JpZ2h0IgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRW50ZXJBbmltPSJAYW5pbS9zbGlkZV9pbl9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9yaWdodCIgLz4KCg==</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
