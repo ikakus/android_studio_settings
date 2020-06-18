@@ -97,7 +97,7 @@
         <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/AvailableCountryDocumentsPresentationModel.kt" timestamp="1592478500615" />
-      <file name="/Dummy.txt" timestamp="1592487294498">
+      <file name="/Dummy.txt" timestamp="1592488298905">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1592474323751">
@@ -134,10 +134,11 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/steps/country/GradOnfidoChooseCountryFragment.kt" timestamp="1592478377674" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1592399166079">
-        <mark key="]" line="45" column="52" />
-        <mark key="." line="45" column="51" />
-        <mark key="^" line="45" column="52" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1592488293088">
+        <mark key="[" line="169" column="57" />
+        <mark key="]" line="145" column="21" />
+        <mark key="." line="145" column="20" />
+        <mark key="^" line="145" column="21" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/steps/failed/OnfidoDocumentScanFailedFragment.kt" timestamp="1592466764648">
         <mark key="[" line="21" column="0" />
@@ -251,7 +252,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm5hdmlnYXRpb24ubmF2aWdhdGUK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU3Bpbm5lclZhbHVlVmFsaWQ6IEJvb2xlYW4gPSBmYWxzZQo=</text>
       </register>
       <register name="-" type="4">
         <text>ChooseDocumentType</text>
@@ -263,10 +264,10 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmF2YWlsYWJsZUNvdW50cnlEb2N1bWVudHMgPSBwYXJjZWxUb0RvY3NBcnJheShhdmFpbGFibGVEb2N1bWVudHNQYXJjZWxBcnJheSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm5hdmlnYXRpb24ubmF2aWdhdGUK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGlzU3Bpbm5lclZhbHVlVmFsaWQ6IEJvb2xlYW4gPSBmYWxzZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLm5hdmlnYXRpb24ubmF2aWdhdGUK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
@@ -275,19 +276,19 @@
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLnJvbi5Sb25BY2NvdW50UGl0Y2hGcmFnbWVudERpcmVjdGlvbnMK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLmNvdW50cnkuR3JhZE9uZmlkb0Nob29zZUNvdW50cnlGcmFnbWVudERpcmVjdGlvbnMuYWN0aW9uQ291bnRyeVRvTm90U3VwcG9ydGVkRG9jdW1lbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmlkZW50aXR5dmVyaWZpY2F0aW9uLnN0ZXBzLnJvbi5Sb25BY2NvdW50UGl0Y2hGcmFnbWVudERpcmVjdGlvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aW9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2RvY3VtZW50X3NlbGVjdG9yX3RvX25vdF9zdXBwb3J0ZWRfZG9jdW1lbnQiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2RvY3VtZW50X25vdF9zdXBwb3J0ZWRfZnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDplbnRlckFuaW09IkBhbmltL3NsaWRlX2luX3JpZ2h0IgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRW50ZXJBbmltPSJAYW5pbS9zbGlkZV9pbl9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9yaWdodCIgLz4KCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8YWN0aW9uCiAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX2RvY3VtZW50X3NlbGVjdG9yX3RvX25vdF9zdXBwb3J0ZWRfZG9jdW1lbnQiCiAgICAgICAgICAgIGFwcDpkZXN0aW5hdGlvbj0iQGlkL2RvY3VtZW50X25vdF9zdXBwb3J0ZWRfZnJhZ21lbnQiCiAgICAgICAgICAgIGFwcDplbnRlckFuaW09IkBhbmltL3NsaWRlX2luX3JpZ2h0IgogICAgICAgICAgICBhcHA6ZXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRW50ZXJBbmltPSJAYW5pbS9zbGlkZV9pbl9sZWZ0IgogICAgICAgICAgICBhcHA6cG9wRXhpdEFuaW09IkBhbmltL3NsaWRlX291dF9yaWdodCIgLz4KCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGNhbkNsb3NlRmxvdzogQm9vbGVhbiA9IGZhbHNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>128</text>
