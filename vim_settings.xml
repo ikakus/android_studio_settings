@@ -114,11 +114,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1592469272039">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1592469696477">
         <mark key="[" line="97" column="85" />
-        <mark key="]" line="253" column="48" />
-        <mark key="^" line="52" column="4" />
-        <mark key="." line="253" column="48" />
+        <mark key="]" line="112" column="90" />
+        <mark key="^" line="112" column="90" />
+        <mark key="." line="112" column="89" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" timestamp="1592399166079">
         <mark key="]" line="45" column="52" />
