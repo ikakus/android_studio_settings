@@ -111,6 +111,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="62" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1593418876629">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="90" column="34" />
+        <mark key="]" line="90" column="34" />
+        <mark key="." line="90" column="34" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/EntitlementOnfidoLoadingFragment.kt" timestamp="1592575963058">
         <mark key="[" line="9" column="23" />
       </file>
@@ -125,7 +131,7 @@
         <mark key="^" line="139" column="25" />
         <mark key="." line="139" column="24" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1592585842542">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1593419547423">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
@@ -190,7 +196,6 @@
       <jump line="52" column="35" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" />
       <jump line="90" column="34" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
       <jump line="107" column="31" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
       <jump line="121" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" />
       <jump line="39" column="66" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" />
       <jump line="72" column="46" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" />
@@ -254,15 +259,16 @@
       <jump line="177" column="16" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" />
       <jump line="65" column="41" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanViewModel.kt" />
       <jump line="240" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vY29tbXVuaWNhdGUgd2l0aCB5b3VyIGJhY2tlbmQgYW5kIGluaXRpYXRlIHRoZSBjaGVjawo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>parcelToDocsArray</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>veri</text>
@@ -309,7 +315,7 @@
       <last-pattern>veri</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
