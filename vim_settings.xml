@@ -40,6 +40,8 @@
         <entry>447</entry>
         <entry>23</entry>
         <entry>128</entry>
+        <entry>68</entry>
+        <entry>19</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -89,11 +91,14 @@
         <mark key="." line="1344" column="26" />
         <mark key="^" line="1356" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerFragment.kt" timestamp="1592585175359">
-        <mark key="[" line="72" column="79" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-        <mark key="^" line="72" column="79" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerFragment.kt" timestamp="1593408862168">
+        <mark key="[" line="86" column="98" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="68" column="79" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/failed/OnfidoDocumentScanFailedViewModel.kt" timestamp="1593409036606">
+        <mark key="[" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1593407833585">
         <mark key="'" line="147" column="16" />
@@ -292,7 +297,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>128</text>
+        <text>19</text>
       </register>
     </registers>
   </component>
