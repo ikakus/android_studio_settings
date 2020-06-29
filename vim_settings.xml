@@ -42,6 +42,8 @@
         <entry>128</entry>
         <entry>68</entry>
         <entry>19</entry>
+        <entry>551</entry>
+        <entry>378</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -81,6 +83,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1593427593458" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/launcher/LauncherSharedViewModel.kt" timestamp="1593427685287" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/country/GradOnfidoChooseCountryFragment.kt" timestamp="1592583906878">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="70" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/VeriffFragment.kt" timestamp="1593426651936">
+        <mark key="'" line="47" column="40" />
+        <mark key="[" line="15" column="18" />
+        <mark key="]" line="36" column="61" />
+        <mark key="." line="36" column="61" />
+        <mark key="^" line="51" column="54" />
+      </file>
+      <file name="/A19LoginViewModel.kt" timestamp="1593417387793" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" timestamp="1592582403149">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="13" column="8" />
+        <mark key="." line="13" column="7" />
+        <mark key="^" line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" timestamp="1593421423396" />
       <file name="/Dummy.txt" timestamp="1593425269291">
         <mark key="[" line="0" column="0" />
@@ -108,22 +130,11 @@
         <mark key="." line="51" column="39" />
         <mark key="^" line="102" column="76" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_onfido_document_scan.xml" timestamp="1592576534389">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="62" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1593418876629">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="90" column="34" />
         <mark key="]" line="90" column="34" />
         <mark key="." line="90" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/EntitlementOnfidoLoadingFragment.kt" timestamp="1592575963058">
-        <mark key="[" line="9" column="23" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/HomeActivity.kt" timestamp="1592576591625">
-        <mark key="[" line="379" column="0" />
-        <mark key="]" line="379" column="117" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1593419547423">
         <mark key="[" line="127" column="0" />
@@ -131,18 +142,6 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="64" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/country/GradOnfidoChooseCountryFragment.kt" timestamp="1592583906878">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="70" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/VeriffFragment.kt" timestamp="1593425195572">
-        <mark key="'" line="47" column="40" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="51" column="54" />
-      </file>
-      <file name="/A19LoginViewModel.kt" timestamp="1593417387793" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1593422101132">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1769" column="45" />
@@ -157,12 +156,7 @@
         <mark key="^" line="59" column="66" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" timestamp="1592582403149">
-        <mark key="[" line="12" column="36" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="8" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1593427815075" />
       <file name="/fragment.java" timestamp="1592586800431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,11 +266,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>Done</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ca</text>
@@ -312,7 +306,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZnVuIGhhbmRsZVJlc3VsdCgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>19</text>
+        <text>378</text>
       </register>
     </registers>
   </component>
