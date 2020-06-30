@@ -83,16 +83,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanFragment.kt" timestamp="1593436433040">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="67" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/usecase/VeriffTokenDomainModel.kt" timestamp="1593437486938">
-        <mark key="[" line="4" column="33" />
-        <mark key="]" line="4" column="51" />
-        <mark key="^" line="4" column="51" />
-        <mark key="." line="4" column="50" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/usecase/GetVeriffTokenUseCase.kt" timestamp="1593437716057">
         <mark key="'" line="8" column="27" />
         <mark key="[" line="9" column="4" />
@@ -100,19 +90,18 @@
         <mark key="^" line="9" column="12" />
         <mark key="." line="9" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/repository/VeriffRepositoryImpl.kt" timestamp="1593441800730">
-        <mark key="[" line="13" column="19" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/repository/VeriffRepositoryImpl.kt" timestamp="1593507866910">
+        <mark key="[" line="13" column="50" />
+        <mark key="]" line="13" column="124" />
+        <mark key="^" line="13" column="124" />
+        <mark key="." line="13" column="123" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentScanViewModel.kt" timestamp="1593437914769">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentScanViewModel.kt" timestamp="1593506716957">
         <mark key="[" line="39" column="77" />
         <mark key="]" line="39" column="79" />
         <mark key="." line="39" column="78" />
         <mark key="^" line="39" column="79" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/values/styles-text-base.xml" timestamp="1593433393184" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/repository/VeriffRepository.kt" timestamp="1593439348572">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -126,8 +115,36 @@
         <mark key="." line="301" column="82" />
         <mark key="^" line="301" column="83" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593500484683">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/account/model/AccountsDataEntity.kt" timestamp="1593506835041">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/deposit/createdeposit/model/CreateSofortDepositRequestEntity.kt" timestamp="1593507200352">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="61" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1593439362657">
+        <mark key="'" line="208" column="15" />
+        <mark key="[" line="509" column="65" />
+        <mark key="]" line="509" column="70" />
+        <mark key="." line="509" column="69" />
+        <mark key="^" line="509" column="70" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/GetVeriffTokenRequestEntity.kt" timestamp="1593507768330">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginFragment.kt" timestamp="1593505740653" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/usecase/VeriffTokenDomainModel.kt" timestamp="1593437486938">
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="51" />
+        <mark key="^" line="4" column="51" />
+        <mark key="." line="4" column="50" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593506148256">
+        <mark key="[" line="0" column="17" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenRequestEntity.kt" timestamp="1593441343251">
         <mark key="[" line="4" column="7" />
@@ -142,11 +159,11 @@
         <mark key="." line="191" column="85" />
         <mark key="^" line="188" column="98" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593441329258">
-        <mark key="[" line="4" column="52" />
-        <mark key="]" line="5" column="4" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593507856729">
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="55" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="14" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/remote/Remote.kt" timestamp="1593441546537">
         <mark key="'" line="228" column="10" />
@@ -155,37 +172,19 @@
         <mark key="." line="579" column="16" />
         <mark key="^" line="579" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1593504510856">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="4" />
-        <mark key="." line="46" column="3" />
-        <mark key="^" line="46" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/model/VeriffTokenDomainModel.kt" timestamp="1593506739439">
+        <mark key="[" line="4" column="68" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1593439362657">
-        <mark key="'" line="208" column="15" />
-        <mark key="[" line="509" column="65" />
-        <mark key="]" line="509" column="70" />
-        <mark key="." line="509" column="69" />
-        <mark key="^" line="509" column="70" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" timestamp="1593506097360">
+        <mark key="[" line="88" column="67" />
+        <mark key="]" line="47" column="4" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanViewModel.kt" timestamp="1593434138795">
-        <mark key="'" line="64" column="41" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="61" column="5" />
-        <mark key="^" line="59" column="66" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1593504488667">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1593505716740">
         <mark key="[" line="130" column="0" />
         <mark key="]" line="133" column="30" />
         <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentScanFragment.kt" timestamp="1593436816775">
-        <mark key="'" line="88" column="24" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="69" column="56" />
       </file>
       <file name="/fragment.java" timestamp="1593437983102">
         <mark key="[" line="0" column="0" />
@@ -296,46 +295,44 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Single</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Single</text>
+        <text>country</text>
       </register>
       <register name="/" type="4">
         <text>onf</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBQcm92aWRlcwogICAgZnVuIHByb3ZpZGVPcGVuQmFua2luZ0FwaShyZXRyb2ZpdDogUmV0cm9maXQpOiBPcGVuQmFua2luZ0FwaSA9IHJldHJvZml0LmNyZWF0ZShPcGVuQmFua2luZ0FwaTo6Y2xhc3MuamF2YSkKCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiY291bnRyeSIpIHZhbCBjb3VudHJ5OiBTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBAUGF0aCgidHJhbnNhY3Rpb25JZCIpIHRyYW5zYWN0aW9uSWQ6IExvbmcsCiAgICAgICAgQFBhdGgoImV4dHJhSWQiKSBleHRyYUlkOiBMb25nLAogICAgICAgIEBRdWVyeSgibW9uZXNlX3JlZmVyZW5jZSIpIG1vbmVzZVJlZmVyZW5jZTogU3RyaW5nCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgZnVuIGdldFRva2VuKGRvY1R5cGU6IFN0cmluZywgY291bnRyeTogU3RyaW5nKTogU2luZ2xlPFZlcmlmZlRva2VuRG9tYWluTW9kZWw+IHsKLy8gICAgfQoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiBTaW5nbGUuanVzdChWZXJpZmZUb2tlbkRvbWFpbk1vZGVsKCJ0b2tlbiIpKQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>{
-        return Single.just(VeriffTokenDomainModel(&quot;token&quot;))
-    }</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiJjb3VudHJ5IjogIkVTVCIsCiJmZWF0dXJlcyI6ICJET0NVTUVOVF9BTkRfU0VMRklFIiwKImRvY3VtZW50X3R5cGUiOiAiSURfQ0FSRCI=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IAogICA=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KSAgCiAgICA6IFJlcXVlc3RFbnRpdHkoKSA=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAKICA=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG5hdmlnYXRlVG9WZXJpZmZEb2N1bWVudFNjYW4oY291bnRyeUNvZGU6IENvdW50cnlDb2RlLCBkb2N1bWVudFR5cGU6IERvY3VtZW50VHlwZURvbWFpbk1vZGVsKSB7Ci8vICAgICAgICBjb25maWd1cmF0aW9uRmFjdG9yeS5nZXREb2N1bWVudFNjYW5Db25maWd1cmF0aW9uKGRvY3VtZW50VHlwZS50b09uZmlkbygpLCBjb3VudHJ5Q29kZSkKLy8gICAgICAgICAgICAuZG9PblN1YnNjcmliZSB7IF9sb2FkaW5nLnBvc3RWYWx1ZSh0cnVlKSB9Ci8vICAgICAgICAgICAgLmRvRmluYWxseSB7IF9sb2FkaW5nLnBvc3RWYWx1ZShmYWxzZSkgfQovLyAgICAgICAgICAgIC5iYXNlU3Vic2NyaWJlKAovLyAgICAgICAgICAgICAgICBvbkVycm9yID0geyBfZXJyb3JNZXNzYWdlLnBvc3RWYWx1ZShpdC5tZXNzYWdlKSB9Ci8vICAgICAgICAgICAgKSB7Ci8vCi8vICAgICAgICAgICAgICAgIF9uYXZpZ2F0aW9uLnBvc3RWYWx1ZShPbmZpZG9Eb2N1bWVudElEU2NhblZpZXdNb2RlbC5OYXZpZ2F0aW9uLk9uZmlkb1NkayhpdCkpCi8vICAgICAgICAgICAgfQogICAgICAgIF9uYXZpZ2F0aW9uLnBvc3RWYWx1ZShOYXZpZ2F0aW9uLlZlcmlmZlNjYW4oInRva2VuIikpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYWNjb3VudF9udW1iZXIiKQogICAgdmFsIGFjY291bnROdW1iZXI6IFN0cmluZwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIubWFwVG9Eb21haW4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>378</text>
