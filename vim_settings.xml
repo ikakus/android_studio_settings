@@ -83,13 +83,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/usecase/GetVeriffTokenUseCase.kt" timestamp="1593437716057">
-        <mark key="'" line="8" column="27" />
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="12" />
-        <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="11" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/repository/VeriffRepositoryImpl.kt" timestamp="1593510859173">
         <mark key="[" line="22" column="47" />
         <mark key="]" line="12" column="42" />
@@ -156,6 +149,13 @@
         <mark key="]" line="188" column="98" />
         <mark key="." line="191" column="85" />
         <mark key="^" line="188" column="98" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1593515404936">
+        <mark key="'" line="147" column="16" />
+        <mark key="[" line="101" column="29" />
+        <mark key="]" line="51" column="39" />
+        <mark key="." line="51" column="39" />
+        <mark key="^" line="102" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593507856729">
         <mark key="[" line="14" column="8" />
