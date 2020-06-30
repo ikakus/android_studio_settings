@@ -116,6 +116,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="61" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/verification/onfidoflow/OnfidoCountryHelper.kt" timestamp="1593517171033">
+        <mark key="[" line="12" column="10" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1593439362657">
         <mark key="'" line="208" column="15" />
         <mark key="[" line="509" column="65" />
@@ -151,11 +154,11 @@
         <mark key="^" line="188" column="98" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1593516240201">
-        <mark key="'" line="147" column="16" />
-        <mark key="[" line="101" column="29" />
-        <mark key="]" line="51" column="39" />
-        <mark key="." line="51" column="39" />
-        <mark key="^" line="102" column="76" />
+        <mark key="'" line="146" column="16" />
+        <mark key="[" line="100" column="29" />
+        <mark key="]" line="50" column="39" />
+        <mark key="." line="50" column="39" />
+        <mark key="^" line="101" column="76" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593507856729">
         <mark key="[" line="14" column="8" />
@@ -183,9 +186,6 @@
         <mark key="[" line="130" column="0" />
         <mark key="]" line="133" column="30" />
         <mark key="." line="130" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1593437983102">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
