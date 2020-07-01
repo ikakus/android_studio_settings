@@ -134,11 +134,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffCountryProvider.kt" timestamp="1593593842855">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffCountryProvider.kt" timestamp="1593595937976">
         <mark key="[" line="8" column="28" />
-        <mark key="]" line="8" column="62" />
-        <mark key="^" line="8" column="62" />
-        <mark key="." line="8" column="61" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/AvailableCountryDocumentsPresentationModel.kt" timestamp="1593525123072">
         <mark key="[" line="12" column="1" />
