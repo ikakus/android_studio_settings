@@ -114,17 +114,17 @@
         <mark key="." line="245" column="104" />
         <mark key="^" line="244" column="9" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/VerificationFlow.kt" timestamp="1593695780313">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/ActionTypeDomainModel.kt" timestamp="1593688996698">
         <mark key="[" line="55" column="37" />
         <mark key="]" line="55" column="14" />
         <mark key="^" line="55" column="14" />
         <mark key="." line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentScanFragment.kt" timestamp="1593679775097">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="^" line="115" column="16" />
-        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentIDScanFragment.kt" timestamp="1593680880846">
         <mark key="[" line="116" column="0" />
@@ -147,7 +147,7 @@
         <mark key="^" line="200" column="104" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/Entitlement.kt" timestamp="1593681470882">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/Entitlement.kt" timestamp="1593695495614">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
