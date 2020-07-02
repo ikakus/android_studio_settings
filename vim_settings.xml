@@ -132,13 +132,11 @@
         <mark key="^" line="111" column="51" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1593692461379">
-        <mark key="[" line="52" column="61" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593691316681">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1593693776001">
+        <mark key="[" line="41" column="24" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanViewModel.kt" timestamp="1593680771609">
         <mark key="[" line="17" column="26" />
@@ -272,14 +270,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgQWN0aW9uVHlwZURvbWFpbk1vZGVsLkRvY3VtZW50UGhvdG9PbmZpZG8gLT4gcG9zdFZlcmlmaWNhdGlvblZlcmlmZihhY3Rpb25UeXBlTW9kZWwpCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentPhotoOnfido</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
