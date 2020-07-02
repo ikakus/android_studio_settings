@@ -96,18 +96,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/repository/VeriffRepositoryImpl.kt" timestamp="1593690425820">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentScanViewModel.kt" timestamp="1593679015966">
-        <mark key="[" line="55" column="8" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="54" column="49" />
-        <mark key="^" line="56" column="31" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/EntitlementRequestRxHelper.kt" timestamp="1593687004619">
         <mark key="[" line="33" column="72" />
         <mark key="]" line="33" column="72" />
         <mark key="^" line="10" column="29" />
         <mark key="." line="33" column="72" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/cddquestionnaire/model/CDDQuestionnaireModel.kt" timestamp="1593691364562" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanFragment.kt" timestamp="1593680950760">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="111" column="0" />
@@ -124,12 +119,6 @@
         <mark key="]" line="55" column="14" />
         <mark key="^" line="55" column="14" />
         <mark key="." line="55" column="13" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1593681273583">
-        <mark key="'" line="633" column="0" />
-        <mark key="[" line="633" column="0" />
-        <mark key="]" line="633" column="0" />
-        <mark key="." line="633" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/document/VeriffDocumentScanFragment.kt" timestamp="1593679775097">
         <mark key="[" line="121" column="0" />
@@ -148,14 +137,14 @@
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593690391660">
+      <file name="/Dummy.txt" timestamp="1593691316681">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanViewModel.kt" timestamp="1593680771609">
         <mark key="[" line="17" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1593690270105">
-        <mark key="[" line="200" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1593691740281">
+        <mark key="[" line="49" column="22" />
         <mark key="]" line="200" column="0" />
         <mark key="^" line="200" column="104" />
         <mark key="." line="200" column="0" />
