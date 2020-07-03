@@ -140,6 +140,12 @@
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="49" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1593783867684">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+        <mark key="^" line="28" column="115" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/CrashHandlerIntialiser.kt" timestamp="1593773097452">
         <mark key="[" line="15" column="37" />
         <mark key="]" line="15" column="37" />
@@ -284,13 +290,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>BASE_URL</text>
+        <text>DocumentPhotoOnfido</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>BASE_URL</text>
+        <text>DocumentPhotoOnfido</text>
       </register>
       <register name="/" type="4">
         <text>zen</text>
