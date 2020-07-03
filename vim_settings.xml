@@ -87,6 +87,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/SecurityPatchesInitialiser.kt" timestamp="1593773526029">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="44" />
+        <mark key="^" line="17" column="62" />
+        <mark key="." line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" timestamp="1593769194170">
         <mark key="'" line="1375" column="43" />
         <mark key="[" line="1130" column="0" />
@@ -99,20 +105,28 @@
         <mark key="^" line="9" column="50" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/Initialiser.kt" timestamp="1593772153820">
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="23" column="25" />
-        <mark key="." line="23" column="24" />
-        <mark key="^" line="23" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/Initialiser.kt" timestamp="1593773187461">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="36" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/WebCheckIntialiser.kt" timestamp="1593770611269">
-        <mark key="[" line="22" column="45" />
-        <mark key="]" line="22" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/CrashHandlerIntialiser.kt" timestamp="1593773097452">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="15" column="37" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/WebCheckIntialiser.kt" timestamp="1593773541342">
+        <mark key="[" line="28" column="52" />
+        <mark key="]" line="28" column="52" />
         <mark key="^" line="11" column="33" />
-        <mark key="." line="22" column="45" />
+        <mark key="." line="28" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593772183390">
+      <file name="/Dummy.txt" timestamp="1593773638102">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/StrictModeIntialiser.kt" timestamp="1593772082189" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1593767686466">
@@ -138,6 +152,11 @@
         <mark key="]" line="12" column="41" />
         <mark key="." line="12" column="40" />
         <mark key="^" line="12" column="41" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/RxErrorHandlerInitialiser.kt" timestamp="1593773271387">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1593772098806">
         <mark key="'" line="355" column="49" />
@@ -259,53 +278,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmVTdHJpY3RNb2RlKCkK</text>
+        <text>wip</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="4">
-        <text>class SecurityPatchesInitialiser @Inject constructor(
-    val context: Context
-) : Initialisable {
-    override fun invoke() {
-        try {
-            ProviderInstaller.installIfNeeded(context)
-        } catch (e: GooglePlayServicesRepairableException) {
-            GoogleApiAvailability.getInstance()
-                .showErrorNotification(context, e.connectionStatusCode)
-        } catch (e: Exception) {
-            // do nothing
-        }
-    }
-}</text>
+        <text>@SuppressWarnings(&quot;TooGenereicExceptionCaught&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmVTdHJpY3RNb2RlKCkK</text>
+        <text>wip</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25maWd1cmVTdHJpY3RNb2RlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJUb28iKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWd1cmVTdHJpY3RNb2RlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjb25maWd1cmVTdHJpY3RNb2RlKCkgewogICAgICAgIAogICAgfQ==</text>
+        <text encoding="base64">ICAgICAgICBjb25maWd1cmVTdHJpY3RNb2RlKCkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCcmFuY2guZ2V0QXV0b0luc3RhbmNlKHRoaXMpCg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjb25maWd1cmVTdHJpY3RNb2RlKCkgewogICAgICAgIAogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnVpbGRVdGlscy5pc0RlYnVnQnVpbGQpIHsKICAgICAgICAgICAgVGltYmVyLnBsYW50KFRpbWJlci5EZWJ1Z1RyZWUoKSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBCcmFuY2guZ2V0QXV0b0luc3RhbmNlKHRoaXMpCg==</text>
