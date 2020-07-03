@@ -86,12 +86,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" timestamp="1593687676868">
-        <mark key="[" line="245" column="104" />
-        <mark key="]" line="245" column="104" />
-        <mark key="." line="245" column="104" />
-        <mark key="^" line="244" column="9" />
-      </file>
       <file name="/Dummy.txt" timestamp="1593762807843">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,7 +106,7 @@
         <mark key="." line="12" column="17" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1593763310747">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1593764562410">
         <mark key="[" line="18" column="33" />
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="33" />
@@ -133,17 +127,17 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/repository/VeriffRepositoryImpl.kt" timestamp="1593690425820">
         <mark key="[" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593764484517">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="15" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593765642867">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/EntitlementRequestRxHelper.kt" timestamp="1593687004619">
-        <mark key="[" line="33" column="72" />
-        <mark key="]" line="33" column="72" />
-        <mark key="^" line="10" column="29" />
-        <mark key="." line="33" column="72" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/model/VeriffTokenDomainModel.kt" timestamp="1593764755079">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+        <mark key="." line="7" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1593760865890">
         <mark key="'" line="82" column="19" />
@@ -181,6 +175,11 @@
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1593765086390">
+        <mark key="[" line="50" column="63" />
+        <mark key="]" line="50" column="63" />
+        <mark key="." line="50" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -288,14 +287,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jb21tb24ubW9kZWwuRG9tYWluTW9kZWwK</text>
+      <register name="&quot;" type="4">
+        <text>token</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>= null</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -304,38 +303,31 @@
         <text encoding="base64">ICAgIFBBWV9QQVlTQUZFX1JFVFJJRVZFX0FDVElWRV9CQVJDT0RFCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jb21tb24ubW9kZWwuRG9tYWluTW9kZWwK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXNzaW9uVG9rZW46IFN0cmluZz8gPSBudWxsLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAiYmFzZV91cmwiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3N0VmVyaWZpY2F0aW9uVmVyaWZmKAogICAgICAgICAgICAgICAgICAgICAgICBhY3Rpb25UeXBlTW9kZWwKICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic2Vzc2lvbl9pZCIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAic2Vzc2lvbl90b2tlbiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKc29uKG5hbWUgPSAidXJsIikK</text>
       </register>
       <register name="7" type="2">
-        <text>class GuardInitiliser @Inject constructor(
-    val sourceGuardHelper: SourceGuardHelper
-): Initialisable {
-    override fun invoke() {
-        TODO(&quot;not implemented&quot;)
-    }
-
-}</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5jb21tb24ubW9kZWwuRG9tYWluTW9kZWwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>
