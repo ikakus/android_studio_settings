@@ -93,12 +93,12 @@
         <mark key="^" line="17" column="62" />
         <mark key="." line="17" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1593781396900">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/NetworkModule.kt" timestamp="1593782784892">
         <mark key="'" line="74" column="0" />
         <mark key="[" line="282" column="21" />
-        <mark key="]" line="282" column="21" />
-        <mark key="." line="282" column="21" />
-        <mark key="^" line="279" column="32" />
+        <mark key="]" line="107" column="36" />
+        <mark key="." line="107" column="35" />
+        <mark key="^" line="107" column="36" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/Initialiser.kt" timestamp="1593773187461">
         <mark key="[" line="3" column="0" />
