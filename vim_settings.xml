@@ -93,23 +93,25 @@
         <mark key="]" line="1130" column="0" />
         <mark key="." line="1130" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/common/usecase/UseCase.kt" timestamp="1593698192213">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="17" />
-        <mark key="." line="12" column="17" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/AnalyticsIntialiser.kt" timestamp="1593770504570">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="9" column="50" />
+        <mark key="^" line="9" column="50" />
+        <mark key="." line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1593764562410">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-        <mark key="^" line="28" column="115" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/Initialiser.kt" timestamp="1593770653159">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="12" column="54" />
+        <mark key="." line="12" column="53" />
+        <mark key="^" line="12" column="54" />
       </file>
-      <file name="/EntitlementViewModel.kt" timestamp="1593767439950" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/login/usecase/LoginUsingChallengeUseCase.kt" timestamp="1593698253048">
-        <mark key="^" line="26" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/WebCheckIntialiser.kt" timestamp="1593770611269">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="22" column="45" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="22" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593767728892">
+      <file name="/Dummy.txt" timestamp="1593770072866">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlag.kt" timestamp="1593767624629">
@@ -124,31 +126,12 @@
         <mark key="^" line="18" column="91" />
         <mark key="." line="200" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1593766884683">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="35" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1593765642867">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="39" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/model/VeriffTokenDomainModel.kt" timestamp="1593764755079">
-        <mark key="[" line="7" column="28" />
-        <mark key="]" line="7" column="32" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="7" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1593760865890">
-        <mark key="'" line="82" column="19" />
-        <mark key="[" line="373" column="0" />
-        <mark key="]" line="373" column="0" />
-        <mark key="^" line="69" column="4" />
-        <mark key="." line="373" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1593770630830">
+        <mark key="'" line="355" column="49" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
+        <mark key="^" line="380" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModelTest.kt" timestamp="1593767590867">
         <mark key="[" line="3" column="60" />
@@ -162,20 +145,11 @@
         <mark key="[" line="3" column="45" />
         <mark key="]" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1593698862905">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1593766236057">
-        <mark key="[" line="50" column="63" />
-        <mark key="]" line="50" column="63" />
-        <mark key="." line="50" column="63" />
-        <mark key="^" line="49" column="15" />
+      <file name="/fragment.java" timestamp="1593770524296">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="46" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryCodeAdapter.kt" />
       <jump line="128" column="3" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationViewModel.kt" />
       <jump line="53" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/java/com/monese/monese/designsystem/lib/view/spinner/MoneseSpinnerView.kt" />
       <jump line="74" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" />
@@ -275,6 +249,7 @@
       <jump line="212" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" />
       <jump line="1757" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
       <jump line="1775" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
+      <jump line="355" column="49" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -286,40 +261,53 @@
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgZW50aXRsZW1lbnRQcm9jZWVkQ2FsbGJhY2s6IEVudGl0bGVtZW50UHJvY2VlZENhbGxiYWNrCg==</text>
+      <register name="0" type="4">
+        <text>class SecurityPatchesInitialiser @Inject constructor(
+    val context: Context
+) : Initialisable {
+    override fun invoke() {
+        try {
+            ProviderInstaller.installIfNeeded(context)
+        } catch (e: GooglePlayServicesRepairableException) {
+            GoogleApiAvailability.getInstance()
+                .showErrorNotification(context, e.connectionStatusCode)
+        } catch (e: Exception) {
+            // do nothing
+        }
+    }
+}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBAQmluZHMKICAgIEBJbnRvTWFwCiAgICBAVmlld01vZGVsS2V5KFZlcmlmaWNhdGlvbkRvY3VtZW50UGlja2VyVmlld01vZGVsOjpjbGFzcykKICAgIGludGVybmFsIGFic3RyYWN0IGZ1biBvbmZpZG9Eb2N1bWVudElEU2NhbkZsb3dWaWV3TW9kZWwoCiAgICAgICAgdmlld01vZGVsOiBWZXJpZmljYXRpb25Eb2N1bWVudFBpY2tlclZpZXdNb2RlbAogICAgKTogVmlld01vZGVs</text>
+        <text encoding="base64">ICAgICAgICBjaGVja1dlYlZpZXdQcm9jZXNzKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXMgQWN0aW9uVHlwZURvbWFpbk1vZGVsLkFkZHJlc3NFbnRyeSAtPiBwb3N0QWRkcmVzc0VudHJ5TmF2aWdhdGlvbihhY3Rpb25UeXBlTW9kZWwpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmxhdW5jaGVyLkxhdW5jaGVyQWN0aXZpdHkKaW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLnV0aWxzLkJ1aWxkVXRpbHMKaW1wb3J0IHRpbWJlci5sb2cuVGltYmVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5lbnRpdGxlbWVudC5tb2RlbC5BY3Rpb25UeXBlRG9tYWluTW9kZWwuU2VsZmllVmlkZW9WZXJpZmYK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuYXBwLkFwcGxpY2F0aW9uLmdldFByb2Nlc3NOYW1lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5lbnRpdGxlbWVudC5tb2RlbC5BY3Rpb25UeXBlRG9tYWluTW9kZWwuRG9jdW1lbnRQaG90b1ZlcmlmZgo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBjaGVja1dlYlZpZXdQcm9jZXNzKCkgewogICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBBWV9QQVlTQUZFX1JFVFJJRVZFX0FDVElWRV9CQVJDT0RFLAo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cEFuYWx5dGljcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmNvcmUuZmVhdHVyZWZsYWcuRmVhdHVyZUZsYWcK</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBzZXR1cEFuYWx5dGljcygpIHsKICAgICAgIAogICAgfQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLkluaXRpYWxpc2FibGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZlYXR1cmVGbGFnTWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICBzZXR1cENyYXNoSGFuZGxlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>38</text>
