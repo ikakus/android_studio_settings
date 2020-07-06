@@ -152,6 +152,9 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="28" column="52" />
       </file>
+      <file name="/Dummy.txt" timestamp="1594024015620">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/StrictModeIntialiser.kt" timestamp="1593772082189" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1594019478387">
         <mark key="^" line="17" column="91" />
@@ -173,10 +176,10 @@
         <mark key="." line="103" column="31" />
         <mark key="^" line="103" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1594019571631">
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="41" />
-        <mark key="." line="42" column="40" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1594023960719">
+        <mark key="[" line="48" column="77" />
+        <mark key="]" line="48" column="77" />
+        <mark key="." line="48" column="77" />
         <mark key="^" line="42" column="41" />
       </file>
     </filemarks>
@@ -286,13 +289,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>setType(Link.Type.NEGATIVE);</text>
+        <text>!!))</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>setType(Link.Type.NEGATIVE);</text>
+        <text>!!))</text>
       </register>
       <register name="/" type="4">
         <text>cance</text>
