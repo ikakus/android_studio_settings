@@ -131,10 +131,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1593772098806">
-        <mark key="'" line="502" column="49" />
-        <mark key="^" line="527" column="62" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1594020028106">
         <mark key="[" line="54" column="33" />
         <mark key="]" line="54" column="33" />
@@ -152,10 +148,9 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="28" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594024015620">
+      <file name="/Dummy.txt" timestamp="1594028679619">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/StrictModeIntialiser.kt" timestamp="1593772082189" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1594019478387">
         <mark key="^" line="17" column="91" />
       </file>
