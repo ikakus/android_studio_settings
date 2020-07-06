@@ -101,17 +101,7 @@
         <mark key="." line="107" column="35" />
         <mark key="^" line="107" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/Initialiser.kt" timestamp="1593773187461">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="36" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="36" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/MaterialDialog.java" timestamp="1594020540753">
-        <mark key="[" line="153" column="23" />
-        <mark key="]" line="153" column="23" />
-        <mark key="." line="153" column="23" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/MaterialDialog.java" timestamp="1594034115801" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/repository/VeriffRepositoryImpl.kt" timestamp="1594021905423">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="10" />
@@ -131,16 +121,15 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/base/SessionManager.kt" timestamp="1594034258844">
+        <mark key="[" line="82" column="33" />
+        <mark key="]" line="82" column="33" />
+        <mark key="." line="82" column="33" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1594020028106">
         <mark key="[" line="54" column="33" />
         <mark key="]" line="54" column="33" />
         <mark key="." line="54" column="33" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/CrashHandlerIntialiser.kt" timestamp="1593773097452">
-        <mark key="[" line="15" column="37" />
-        <mark key="]" line="15" column="37" />
-        <mark key="^" line="6" column="45" />
-        <mark key="." line="15" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/WebCheckIntialiser.kt" timestamp="1593773541342">
         <mark key="[" line="28" column="52" />
@@ -148,7 +137,7 @@
         <mark key="^" line="11" column="33" />
         <mark key="." line="28" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594028679619">
+      <file name="/Dummy.txt" timestamp="1594034511760">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1594019478387">
@@ -159,11 +148,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/intialiser/RxErrorHandlerInitialiser.kt" timestamp="1593773271387">
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="11" column="27" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieFragment.kt" timestamp="1594019662616">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="103" column="37" />
@@ -171,12 +155,14 @@
         <mark key="." line="103" column="31" />
         <mark key="^" line="103" column="32" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/SessionIsAboutToExpireDialog.java" timestamp="1594033625926" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1594023960719">
         <mark key="[" line="48" column="77" />
         <mark key="]" line="48" column="77" />
         <mark key="." line="48" column="77" />
         <mark key="^" line="42" column="41" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/dialog_material.xml" timestamp="1594034174874" />
     </filemarks>
     <jumps>
       <jump line="74" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_onfido_document_scan.xml" />
@@ -284,13 +270,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>!!))</text>
+        <text>sessionTTLSeconds</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>!!))</text>
+        <text>sessionTTLSeconds</text>
       </register>
       <register name="/" type="4">
         <text>cance</text>
