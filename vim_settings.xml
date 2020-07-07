@@ -101,16 +101,16 @@
         <mark key="[" line="129" column="0" />
         <mark key="]" line="139" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/TypeSelectionResponseEntity.kt" timestamp="1594128033216">
-        <mark key="[" line="46" column="42" />
-        <mark key="]" line="46" column="42" />
-        <mark key="." line="46" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/TypeSelectionResponseEntity.kt" timestamp="1594129497368">
+        <mark key="[" line="46" column="60" />
+        <mark key="]" line="46" column="59" />
+        <mark key="." line="46" column="59" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1594126447414">
-        <mark key="[" line="130" column="50" />
-        <mark key="]" line="130" column="67" />
-        <mark key="." line="130" column="66" />
-        <mark key="^" line="130" column="67" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1594130261385">
+        <mark key="[" line="114" column="68" />
+        <mark key="]" line="114" column="91" />
+        <mark key="." line="114" column="90" />
+        <mark key="^" line="114" column="91" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerDoneProvider.kt" timestamp="1594125480567" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/paypal/settings/PP12s1PayPalSettingsFragment.kt" timestamp="1594116017014" />
@@ -138,7 +138,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="66" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594123747248">
+      <file name="/Dummy.txt" timestamp="1594130417223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/PossibleAccountDataPresentationModel.kt" timestamp="1594127800371" />
@@ -279,14 +279,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>coordinateCountries</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZihjb29yZGluYXRlQ291bnRyeSA9PSBudWxsKXsKICAgICAgICAgICBjb29yZGluYXRlQ291bnRyeSA9IENvdW50cnkuQkVMR0lVTS5pc28zIAogICAgICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>coordinateCountries</text>
+        <text>it1</text>
       </register>
       <register name="/" type="4">
         <text>cance</text>
@@ -295,32 +295,32 @@
         <text encoding="base64">ICAgICAgICBUaW1iZXIuZSgib25FcnJvckFkZGl0aW9uYWxDYWxsOiAlcyIsIGV4Y2VwdGlvbj8ubWVzc2FnZSkKICAgICAgICBfZXJyb3JNZXNzYWdlLnBvc3RWYWx1ZShleGNlcHRpb24/Lm1lc3NhZ2UpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZihjb29yZGluYXRlQ291bnRyeSA9PSBudWxsKXsKICAgICAgICAgICBjb29yZGluYXRlQ291bnRyeSA9IENvdW50cnkuQkVMR0lVTS5pc28zIAogICAgICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">Ly8gICAgcHJpdmF0ZSBmdW4gb25BZGRBY2NvdW50UHJlZmVyZW5jZVN1Y2Nlc3MoKSB7Ci8vICAgICAgICBhZGRBY2NvdW50RW50aXRsZW1lbnRDYWxsKCkKLy8gICAgfQoKICAgIHByaXZhdGUgZnVuIG9uQWRkQWNjb3VudFByZWZlcmVuY2VFcnJvcihleGNlcHRpb246IFRocm93YWJsZT8pIHsKICAgICAgICBUaW1iZXIuZSgib25FcnJvckFkZGl0aW9uYWxDYWxsOiAlcyIsIGV4Y2VwdGlvbj8ubWVzc2FnZSkKICAgICAgICBfZXJyb3JNZXNzYWdlLnBvc3RWYWx1ZShleGNlcHRpb24/Lm1lc3NhZ2UpCiAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvb3JkaW5hdGVDb3VudHJ5TGlzdGVuZXI6IENvb3JkaW5hdGVDb3VudHJ5TGlzdGVuZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvb3JkaW5hdGVDb3VudHJ5TGlzdGVuZXI6IENvb3JkaW5hdGVDb3VudHJ5TGlzdGVuZXIsCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBkb2N1bWVudFBpY2tpbmdEb25lKGRvY3VtZW50VHlwZTogRG9jdW1lbnRUeXBlRG9tYWluTW9kZWwsIGNvdW50cnlJc28zOiBTdHJpbmcpIHsKICAgICAgICBsaXN0ZW5lcj8uZG9jdW1lbnRQaWNraW5nRG9uZShkb2N1bWVudFR5cGUsIGNvdW50cnlJc28zKQogICAgfQoK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>VerificationDocumentPickerDoneListener,
     VerificationDocumentPickerDoneCallback</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CmludGVyZmFjZSBWZXJpZmljYXRpb25Eb2N1bWVudFBpY2tlckRvbmVMaXN0ZW5lciB7CiAgICBmdW4gc2V0KGxpc3RlbmVyOiBWZXJpZmljYXRpb25Eb2N1bWVudFBpY2tlckRvbmVDYWxsYmFjaykKfQoKaW50ZXJmYWNlIFZlcmlmaWNhdGlvbkRvY3VtZW50UGlja2VyRG9uZUNhbGxiYWNrIHsKICAgIGZ1biBkb2N1bWVudFBpY2tpbmdEb25lKGRvY3VtZW50VHlwZTogRG9jdW1lbnRUeXBlRG9tYWluTW9kZWwsIGNvdW50cnlJc28zOiBTdHJpbmcpCgp9</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
