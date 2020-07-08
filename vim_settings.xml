@@ -127,7 +127,7 @@
         <mark key="." line="125" column="24" />
         <mark key="^" line="130" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594201168907">
+      <file name="/Dummy.txt" timestamp="1594207833363">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1594196816646">
@@ -157,11 +157,11 @@
         <mark key="^" line="70" column="41" />
         <mark key="." line="70" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1594205973461">
-        <mark key="[" line="196" column="27" />
-        <mark key="]" line="196" column="24" />
-        <mark key="." line="196" column="23" />
-        <mark key="^" line="196" column="24" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1594208336200">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="153" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/GradAccountSelectionHubViewModelTest.kt" timestamp="1594196954361">
         <mark key="[" line="63" column="0" />
@@ -274,8 +274,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>is</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -290,31 +290,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdmlld0VmZmVjdC5wb3N0VmFsdWUoVmlld0VmZmVjdC5TaG93VXNlckZyaWVuZGx5RXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgJXMiLCBlbnRpdGxlbWVudC5lbnRpdGxlbWVudC5uYW1lKQo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgJXMiLCByZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgJXMiLCBlbnRpdGxlbWVudC5lbnRpdGxlbWVudC5uYW1lKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKFRBRywgInByb2Nlc3NFbnRpdGxlbWVudCBTdGFydEZsb3ciKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgJXMiLCByZXN1bHQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRW50aXRsZW1lbnRFcnJvcigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIFRpbWJlci5kKFRBRywgInByb2Nlc3NFbnRpdGxlbWVudCBTdGFydEZsb3ciKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgc3RhcnRIb21lU2NyZWVuKCkiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uRW50aXRsZW1lbnRFcnJvcigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBvbkVudGl0bGVtZW50RXJyb3IoKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgc3RhcnRIb21lU2NyZWVuKCkiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkVudGl0bGVtZW50RXJyb3IoKQo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBvbkVudGl0bGVtZW50RXJyb3IoKSB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBfdmlld0VmZmVjdC5wb3N0VmFsdWUoVmlld0VmZmVjdC5TaG93VXNlckZyaWVuZGx5RXJyb3IpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkVudGl0bGVtZW50RXJyb3IoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZChUQUcsICJwcm9jZXNzRW50aXRsZW1lbnQgb25FbnRpdGxlbWVudEVycm9yIikK</text>
+        <text encoding="base64">ICAgICAgICBfdmlld0VmZmVjdC5wb3N0VmFsdWUoVmlld0VmZmVjdC5TaG93VXNlckZyaWVuZGx5RXJyb3IpCg==</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
