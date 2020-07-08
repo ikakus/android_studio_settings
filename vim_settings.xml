@@ -88,17 +88,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594196979598">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/country/GradOnfidoChooseCountryViewModel.kt" timestamp="1594125924492">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="57" column="42" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1594196816646">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" timestamp="1594125375997">
         <mark key="'" line="42" column="12" />
@@ -110,31 +104,11 @@
         <mark key="]" line="46" column="59" />
         <mark key="." line="46" column="59" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1594124187763">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/PostEntitlementUseCase.kt" timestamp="1594197926416">
-        <mark key="^" line="8" column="4" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1594193641108">
         <mark key="[" line="152" column="65" />
         <mark key="]" line="152" column="69" />
         <mark key="." line="152" column="68" />
         <mark key="^" line="152" column="69" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/AccountTypeSelectionModule.kt" timestamp="1594125825608">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="35" />
-        <mark key="^" line="23" column="35" />
-        <mark key="." line="23" column="34" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1594199338459">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/CoordinateCountryCallback.kt" timestamp="1594125838464">
         <mark key="[" line="20" column="16" />
@@ -149,27 +123,53 @@
         <mark key="^" line="29" column="77" />
         <mark key="." line="29" column="76" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/components/Injector.kt" timestamp="1594125360666">
-        <mark key="[" line="69" column="31" />
-        <mark key="]" line="70" column="41" />
-        <mark key="^" line="70" column="41" />
-        <mark key="." line="70" column="40" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/bizaccounts/postonboarding/fragments/Biz12AccountOpenFragment.kt" timestamp="1594118603559">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="26" column="69" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/GradAccountSelectionHubViewModelTest.kt" timestamp="1594196954361">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorViewModel.kt" timestamp="1594124529760">
         <mark key="'" line="64" column="41" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="66" column="87" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594201168907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.kt" timestamp="1594196816646">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1594124187763">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/helpers/OnboardingAnalytics.kt" timestamp="1594200656036" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/PostEntitlementUseCase.kt" timestamp="1594197926416">
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/AccountTypeSelectionModule.kt" timestamp="1594125825608">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="35" />
+        <mark key="^" line="23" column="35" />
+        <mark key="." line="23" column="34" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1594199338459">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanViewModel.kt" timestamp="1594201014609">
+        <mark key="[" line="49" column="111" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/components/Injector.kt" timestamp="1594125360666">
+        <mark key="[" line="69" column="31" />
+        <mark key="]" line="70" column="41" />
+        <mark key="^" line="70" column="41" />
+        <mark key="." line="70" column="40" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/GradAccountSelectionHubViewModelTest.kt" timestamp="1594196954361">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
     </filemarks>
     <jumps>
