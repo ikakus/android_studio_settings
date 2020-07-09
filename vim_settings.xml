@@ -89,7 +89,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/strings/src/main/res/values-en-rAQ/strings.xml" timestamp="1594212883326" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/IbanConfirmationDialog.kt" timestamp="1594216082518">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/IbanConfirmationDialog.kt" timestamp="1594218064813">
         <mark key="[" line="12" column="42" />
         <mark key="]" line="12" column="42" />
         <mark key="^" line="12" column="42" />
@@ -132,18 +132,19 @@
         <mark key="." line="6" column="24" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/Onb5s0s3PhoneConfirmationDialog.kt" timestamp="1594215272516" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1594216932279" />
       <file name="/Dummy.txt" timestamp="1594215594959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1594196816646">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1594215074732">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="98" column="11" />
-        <mark key="]" line="99" column="12" />
-        <mark key="." line="99" column="11" />
-        <mark key="^" line="99" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1594218067436">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="54" column="45" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/helpers/OnboardingAnalytics.kt" timestamp="1594201888293" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/PostEntitlementUseCase.kt" timestamp="1594197926416">
@@ -170,19 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="135" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="145" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="155" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="169" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="185" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="201" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="217" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="225" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="235" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="255" column="18" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="250" column="16" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
-      <jump line="239" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
       <jump line="243" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
       <jump line="258" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
       <jump line="263" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoDocumentIDScanActivity.kt" />
@@ -270,18 +258,31 @@
       <jump line="42" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" />
       <jump line="46" column="9" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/TypeSelectionResponseEntity.kt" />
       <jump line="42" column="49" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb7s1_select_iban.xml" />
+      <jump line="55" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="80" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="23" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="26" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="28" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="34" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="39" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="74" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="59" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="54" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
+      <jump line="50" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ill_phone_insured_86_dp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhc2RmIgo=</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>ill_phone_insured_86_dp</text>
+        <text>IbanConfirmationDialog</text>
       </register>
       <register name="/" type="4">
         <text>coo</text>
@@ -290,31 +291,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfdmlld0VmZmVjdC5wb3N0VmFsdWUoVmlld0VmZmVjdC5TaG93VXNlckZyaWVuZGx5RXJyb3IpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL21zdl9vbmI3czFfaWJhbl9zZWxlY3RvciIgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhc2RmIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJhc2RmIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBob25lTnVtYmVyOiBTdHJpbmcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0aXRsZVRleHRTdHJpbmcgPSBwaG9uZU51bWJlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0dl9vbmI3czFfdGl0bGUudGhyb3R0bGVDbGljayB7CgogICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ubW9uZXNlLm1vbmVzZS5ncmFkdWFsb25ib2FyZGluZy5oYW5kbGVycy5tb2JpbGVlbnRyeS5waG9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Cb3R0b21PZj0iQGlkL21zdl9vbmI3czFfaWJhbl9zZWxlY3RvciIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1vZGVscyA9IEFycmF5TGlzdChsaXN0Lm1hcCB7CiAgICAgICAgICAgICAgICB2YWwgY291bnRyeUlzbzIgPSB3aGVuIChpdCkgewogICAgICAgICAgICAgICAgICAgIENvdW50cnkuRlJBTkNFLmlzbzMgLT4gQ291bnRyeS5GUkFOQ0UuaXNvMgogICAgICAgICAgICAgICAgICAgIENvdW50cnkuQkVMR0lVTS5pc28zIC0+IENvdW50cnkuQkVMR0lVTS5pc28yCiAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiBudWxsCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB2YWwgdGV4dCA9IHdoZW4gKGl0KSB7CiAgICAgICAgICAgICAgICAgICAgQ291bnRyeS5GUkFOQ0UuaXNvMyAtPiByZXF1aXJlQ29udGV4dCgpLmdldFN0cmluZyhSLnN0cmluZy5vbmI3czFfZnJlbmNoKQogICAgICAgICAgICAgICAgICAgIENvdW50cnkuQkVMR0lVTS5pc28zIC0+IHJlcXVpcmVDb250ZXh0KCkuZ2V0U3RyaW5nKFIuc3RyaW5nLm9uYjdzMV9iZWxnaWFuKQogICAgICAgICAgICAgICAgICAgIGVsc2UgLT4gIiIKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHBob25lTnVtYmVyOiBTdHJpbmcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtc3Zfb25iN3MxX2liYW5fc2VsZWN0b3Iuc2V0T25JdGVtQ2xpY2tMaXN0ZW5lcihBZGFwdGVyVmlldy5Pbkl0ZW1DbGlja0xpc3RlbmVyIHsgcGFyZW50LCBfLCBwb3NpdGlvbiwgXyAtPgogICAgICAgICAgICB2aWV3TW9kZWwub25Db3VudHJ5U2VsZWN0ZWQocG9zaXRpb24pCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCB0aXRsZVRleHRTdHJpbmcgPSBwaG9uZU51bWJlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc3Zfb25iN3MxX2liYW5fc2VsZWN0b3Iuc2V0T25JdGVtQ2xpY2tMaXN0ZW5lcihBZGFwdGVyVmlldy5Pbkl0ZW1DbGlja0xpc3RlbmVyIHsgcGFyZW50LCBfLCBwb3NpdGlvbiwgXyAtPgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20ubW9uZXNlLm1vbmVzZS5ncmFkdWFsb25ib2FyZGluZy5oYW5kbGVycy5tb2JpbGVlbnRyeS5waG9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
