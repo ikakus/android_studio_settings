@@ -104,6 +104,11 @@
         <mark key="^" line="12" column="42" />
         <mark key="." line="12" column="42" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/design-system-lib/src/main/res/layout/view_list_item.xml" timestamp="1594298672463">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1594286360431">
         <mark key="[" line="153" column="68" />
         <mark key="]" line="153" column="73" />
@@ -123,7 +128,6 @@
         <mark key="^" line="153" column="49" />
         <mark key="." line="153" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/PhoneValidationFragment.kt" timestamp="1594216932279" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorViewModel.kt" timestamp="1594289910059">
         <mark key="[" line="58" column="8" />
         <mark key="]" line="58" column="47" />
@@ -144,11 +148,11 @@
         <mark key="^" line="5756" column="29" />
         <mark key="." line="5756" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s2IbanSelectorDialog.kt" timestamp="1594296268712">
-        <mark key="[" line="78" column="53" />
-        <mark key="]" line="78" column="72" />
-        <mark key="^" line="78" column="72" />
-        <mark key="." line="78" column="71" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s2IbanSelectorDialog.kt" timestamp="1594299109195">
+        <mark key="[" line="82" column="37" />
+        <mark key="]" line="82" column="37" />
+        <mark key="." line="82" column="37" />
+        <mark key="^" line="81" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/PossibleAccountDataPresentationModel.kt" timestamp="1594285906523">
         <mark key="[" line="13" column="34" />
@@ -290,46 +294,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>belgian_iban_subtext</text>
+        <text>ill_onboarding_romania</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>belgian_iban_subtext</text>
+        <text>ill_onboarding_romania</text>
       </register>
       <register name="/" type="4">
         <text>stri</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmRlc2NyaXB0aW9uID0gZ2V0U3RyaW5nKFIuc3RyaW5nLm9uYjdzMl9iZWxnaWFuX2liYW5fc3VidGV4dCkK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bWF4SGVpZ2h0PSIzMmRwIgogICAgICAgIGFuZHJvaWQ6bWF4V2lkdGg9IjMyZHAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ib25iN3MyX2J0bl9zZWxlY3QiPlNlbGVjdDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJvbmI3czJfZGVzY3JpcHRpb24iPiJDaG9vc2UgdGhlIElCQU4gZm9yIHlvdXIgRVVSIGFjY291bnQgIjwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBkZXNjcmlwdGlvblRleHRSZXMgPSBSLnN0cmluZy5vbmI3czFfYmVsZ2lhbgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBkZXNjcmlwdGlvblRleHRSZXMgPSBSLnN0cmluZy5vbmI1czBzM19zdWJ0aXRsZQo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMzJkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjMyZHAiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaXN0SXRlbS5pc0NoZWNrYm94Q2hlY2tlZCA9IHRydWUK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LmlzQ2hlY2tib3hDaGVja2VkID0gZmFsc2UK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnNlbGVjdGVkKGZhbHNlKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0SXRlbS5pc0NoZWNrYm94VmlzaWJsZSA9IHRydWUK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ib25iN3MyX2J0bl9zZWxlY3QiPlNlbGVjdDwvc3RyaW5nPgogICAgPHN0cmluZyBuYW1lPSJvbmI3czJfZGVzY3JpcHRpb24iPiJDaG9vc2UgdGhlIElCQU4gZm9yIHlvdXIgRVVSIGFjY291bnQgIjwvc3RyaW5nPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RJdGVtLmlzQ2hlY2tib3hWaXNpYmxlID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIHZhbCBkZXNjcmlwdGlvblRleHRSZXMgPSBSLnN0cmluZy5vbmI3czFfYmVsZ2lhbgo=</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
