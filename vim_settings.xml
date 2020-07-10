@@ -98,12 +98,6 @@
         <mark key="." line="25" column="43" />
         <mark key="^" line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/strings/src/main/res/values/strings.xml" timestamp="1594371379355">
-        <mark key="[" line="5749" column="23" />
-        <mark key="]" line="5749" column="24" />
-        <mark key="^" line="5750" column="4" />
-        <mark key="." line="5749" column="24" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s2IbanSelectorDialog.kt" timestamp="1594365617084">
         <mark key="[" line="14" column="24" />
         <mark key="]" line="107" column="9" />
@@ -135,12 +129,6 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb7s1_select_iban.xml" timestamp="1594372707358">
-        <mark key="[" line="56" column="34" />
-        <mark key="]" line="56" column="34" />
-        <mark key="^" line="55" column="64" />
-        <mark key="." line="56" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s2IbanSelectorBottomSheet.kt" timestamp="1594372879058">
         <mark key="[" line="50" column="0" />
@@ -182,12 +170,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_type_selection.xml" timestamp="1594286595400">
         <mark key="[" line="41" column="25" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorViewModel.kt" timestamp="1594371750007">
-        <mark key="[" line="50" column="62" />
-        <mark key="]" line="50" column="111" />
-        <mark key="^" line="50" column="111" />
-        <mark key="." line="50" column="110" />
       </file>
     </filemarks>
     <jumps>
