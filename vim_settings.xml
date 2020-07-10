@@ -88,7 +88,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594302630793">
+      <file name="/Dummy.txt" timestamp="1594306656725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s2IbanSelectionDialog.kt" timestamp="1594295598874">
@@ -148,18 +148,18 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb7s1_select_iban.xml" timestamp="1594304751985">
-        <mark key="[" line="47" column="25" />
-        <mark key="]" line="47" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb7s1_select_iban.xml" timestamp="1594305999042">
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="59" column="48" />
         <mark key="^" line="47" column="35" />
-        <mark key="." line="47" column="34" />
+        <mark key="." line="59" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1594305380767">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1594364419741">
         <mark key="'" line="75" column="0" />
-        <mark key="[" line="77" column="78" />
-        <mark key="]" line="58" column="39" />
-        <mark key="^" line="58" column="39" />
-        <mark key="." line="58" column="38" />
+        <mark key="[" line="79" column="29" />
+        <mark key="]" line="79" column="29" />
+        <mark key="^" line="79" column="42" />
+        <mark key="." line="79" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/onb7s2_iban_selector_dialog.xml" timestamp="1594293080757">
         <mark key="[" line="4" column="27" />
@@ -296,13 +296,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>app:layout_constraintTop_toTopOf=&quot;parent&quot;</text>
+        <text>setImageDrawable</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>StartOf</text>
+        <text>setImageDrawable</text>
       </register>
       <register name="/" type="4">
         <text>stri</text>
