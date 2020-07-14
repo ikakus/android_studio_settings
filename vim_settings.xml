@@ -100,24 +100,18 @@
         <mark key="^" line="115" column="43" />
         <mark key="." line="115" column="42" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryFragment.kt" timestamp="1594719713085">
-        <mark key="'" line="150" column="20" />
-        <mark key="[" line="145" column="36" />
-        <mark key="]" line="145" column="49" />
-        <mark key="^" line="145" column="49" />
-        <mark key="." line="145" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryFragment.kt" timestamp="1594724265713">
+        <mark key="'" line="151" column="20" />
+        <mark key="[" line="147" column="64" />
+        <mark key="]" line="147" column="64" />
+        <mark key="^" line="147" column="45" />
+        <mark key="." line="147" column="65" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_address_entry_form.xml" timestamp="1594717083335">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="17" column="32" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb2s1s1_search_places.xml" timestamp="1594717639911" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_address_lookup.xml" timestamp="1594719785810">
-        <mark key="[" line="87" column="34" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_address_lookup.xml" timestamp="1594723807239">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="0" />
+        <mark key="." line="89" column="0" />
+        <mark key="^" line="67" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/googlemap/GoogleMapFragment.kt" timestamp="1594719959250">
         <mark key="[" line="98" column="22" />
@@ -130,10 +124,11 @@
         <mark key="." line="27" column="42" />
         <mark key="^" line="27" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/xpatrio/XpatrioWelcomeViewModel.kt" timestamp="1594720257068">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/xpatrio/XpatrioWelcomeViewModel.kt" timestamp="1594722441833">
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="32" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="10" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchFragment.kt" timestamp="1594720429370">
         <mark key="[" line="30" column="35" />
@@ -141,13 +136,12 @@
         <mark key="." line="30" column="78" />
         <mark key="^" line="30" column="79" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/ukpostalcode/enter/OnbUk1EnterPostalCodeViewModel.kt" timestamp="1594717665201" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_google_map_address_search.xml" timestamp="1594717987027" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryViewModel.kt" timestamp="1594719687661">
-        <mark key="[" line="287" column="19" />
-        <mark key="]" line="301" column="20" />
-        <mark key="." line="301" column="19" />
-        <mark key="^" line="301" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryViewModel.kt" timestamp="1594724244138">
+        <mark key="[" line="88" column="41" />
+        <mark key="]" line="89" column="42" />
+        <mark key="." line="89" column="41" />
+        <mark key="^" line="89" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk1_post_code.xml" timestamp="1594717864744">
         <mark key="[" line="33" column="46" />
@@ -161,15 +155,17 @@
         <mark key="." line="25" column="47" />
         <mark key="^" line="25" column="48" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/addressform/AddressFormFragment.kt" timestamp="1594719916534">
-        <mark key="[" line="53" column="22" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build.gradle" timestamp="1594724474396" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/addressform/AddressFormFragment.kt" timestamp="1594723694256">
+        <mark key="[" line="108" column="75" />
+        <mark key="]" line="108" column="75" />
+        <mark key="." line="108" column="75" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchViewModel.kt" timestamp="1594720370748">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchViewModel.kt" timestamp="1594723089360">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="13" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1594718658943">
         <mark key="[" line="19" column="0" />
@@ -283,14 +279,15 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQo=</text>
+      <register name="&quot;" type="4">
+        <text>)
+                    .</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>args</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
@@ -298,32 +295,33 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmFkZHJlc3NlbnRyeS5BZGRyZXNzRW50cnlWaWV3TW9kZWwuTmF2aWdhdGlvbi5Va1Bvc3RDb2RlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQo=</text>
+      <register name="1" type="4">
+        <text>)
+                    .</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbk1lbnVCYWNrLnBvc3RWYWx1ZShjYW5DbG9zZUZsb3cpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBc3Npc3RlZCBwcml2YXRlIHZhbCBjYW5DbG9zZUZsb3c6IEJvb2xlYW4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IEFkZHJlc3NFbnRyeUVsZXZhdG9yUGl0Y2hGcmFnbWVudEFyZ3MgYnkgbmF2QXJncygpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQogICAgICAgIH0=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIEBBc3Npc3RlZEluamVjdC5GYWN0b3J5CiAgICBpbnRlcmZhY2UgRmFjdG9yeSB7CiAgICAgICAgZnVuIGNyZWF0ZShjYW5DbG9zZUZsb3c6IEJvb2xlYW4pOiBBZGRyZXNzRW50cnlFbGV2YXRvclBpdGNoVmlld01vZGVsCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbk1lbnVCYWNrLnBvc3RWYWx1ZShjYW5DbG9zZUZsb3cpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBBc3Npc3RlZCBwcml2YXRlIHZhbCBjYW5DbG9zZUZsb3c6IEJvb2xlYW4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF1dGhNYW5hZ2VyOiBBdXRoTWFuYWdlciwK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IEFkZHJlc3NFbnRyeUVsZXZhdG9yUGl0Y2hGcmFnbWVudEFyZ3MgYnkgbmF2QXJncygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBmdW4gb25Mb2dvdXQoKSB7CiAgICAgICAgYXV0aE1hbmFnZXIuc2hvd0xvZ291dERpYWxvZygpCiAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
