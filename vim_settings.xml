@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>nav_</entry>
         <entry>tod</entry>
         <entry>veriff</entry>
         <entry>twil</entry>
@@ -27,6 +26,7 @@
         <entry>coo</entry>
         <entry>stri</entry>
         <entry>flag_f</entry>
+        <entry>pro</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
@@ -135,10 +135,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchFragment.kt" timestamp="1594720344493">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchFragment.kt" timestamp="1594720429370">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="30" column="79" />
+        <mark key="." line="30" column="78" />
+        <mark key="^" line="30" column="79" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/ukpostalcode/enter/OnbUk1EnterPostalCodeViewModel.kt" timestamp="1594717665201" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_google_map_address_search.xml" timestamp="1594717987027" />
@@ -165,10 +166,10 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchViewModel.kt" timestamp="1594717472013">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchViewModel.kt" timestamp="1594720370748">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1594718658943">
         <mark key="[" line="19" column="0" />
@@ -178,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="11" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" />
       <jump line="456" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
       <jump line="45" column="44" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/VeriffFragment.kt" />
@@ -278,51 +278,52 @@
       <jump line="64" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" />
       <jump line="142" column="6" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalHomeViewModel.kt" />
       <jump line="149" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryFragment.kt" />
+      <jump line="22" column="20" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/elevatorpitch/AddressEntryElevatorPitchFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IEFkZHJlc3NFbnRyeUVsZXZhdG9yUGl0Y2hGcmFnbWVudEFyZ3MgYnkgbmF2QXJncygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQo=</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>XpatrioWelcomeViewModel.Factory</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>flag_f</text>
+        <text>pro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmhhbmRsZXJzLmFkZHJlc3NlbnRyeS5BZGRyZXNzRW50cnlWaWV3TW9kZWwuTmF2aWdhdGlvbi5Va1Bvc3RDb2RlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IEFkZHJlc3NFbnRyeUVsZXZhdG9yUGl0Y2hGcmFnbWVudEFyZ3MgYnkgbmF2QXJncygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQogICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF1dGhNYW5hZ2VyOiBBdXRoTWFuYWdlciwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICBmdW4gb25Mb2dvdXQoKSB7CiAgICAgICAgYXV0aE1hbmFnZXIuc2hvd0xvZ291dERpYWxvZygpCiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZ1biBvbkJhY2tQcmVzc2VkKCkgewogICAgICAgIGlmIChjYW5DbG9zZUZsb3cpIHsKICAgICAgICAgICAgX25hdmlnYXRpb24ucG9zdFZhbHVlKE5hdmlnYXRpb24uQmFjaykKICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbk1lbnVCYWNrLnBvc3RWYWx1ZShjYW5DbG9zZUZsb3cpCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIEBBc3Npc3RlZCBwcml2YXRlIHZhbCBjYW5DbG9zZUZsb3c6IEJvb2xlYW4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFyZ3M6IEFkZHJlc3NFbnRyeUVsZXZhdG9yUGl0Y2hGcmFnbWVudEFyZ3MgYnkgbmF2QXJncygpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4Lm5hdmlnYXRpb24uZnJhZ21lbnQubmF2QXJncwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgY3JlYXRlKGFyZ3MuY2FuQ2xvc2VGbG93KQogICAgICAgIH0=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGF1dGhNYW5hZ2VyOiBBdXRoTWFuYWdlciwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBmdW4gb25Mb2dvdXQoKSB7CiAgICAgICAgYXV0aE1hbmFnZXIuc2hvd0xvZ291dERpYWxvZygpCiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>37</text>
@@ -331,9 +332,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>flag_f</last-search>
+      <last-search>pro</last-search>
       <last-offset />
-      <last-pattern>flag_f</last-pattern>
+      <last-pattern>pro</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
