@@ -91,11 +91,6 @@
       <file name="/Dummy.txt" timestamp="1594802888638">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/searchplaces/Onb2s1s1SearchPlacesFragment.kt" timestamp="1594738465737">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/phone/CountryNamesHelper.kt" timestamp="1594742344105">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="36" />
@@ -106,10 +101,10 @@
         <mark key="]" line="79" column="36" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1594797463178">
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1594804308135">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1594742227693">
         <mark key="[" line="348" column="7" />
@@ -157,12 +152,7 @@
         <mark key="." line="31" column="35" />
         <mark key="^" line="31" column="36" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryViewModel.kt" timestamp="1594739375183">
-        <mark key="[" line="258" column="38" />
-        <mark key="]" line="258" column="68" />
-        <mark key="." line="258" column="67" />
-        <mark key="^" line="258" column="68" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/Entitlement.kt" timestamp="1594804306299" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_onb_uk1_post_code.xml" timestamp="1594741237553">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -175,6 +165,7 @@
         <mark key="^" line="198" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/addressform/AddressFormFragment.kt" timestamp="1594802101258" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementResponseEntity.kt" timestamp="1594804332721" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/googlepay/GooglePayTopUpUtils.kt" timestamp="1594742363333">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="40" />
