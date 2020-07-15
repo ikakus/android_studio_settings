@@ -104,6 +104,11 @@
         <mark key="]" line="79" column="36" />
         <mark key="." line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1594797463178">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_address_host.xml" timestamp="1594741524656">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="10" column="30" />
@@ -134,7 +139,7 @@
         <mark key="." line="198" column="45" />
         <mark key="^" line="198" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594742426765">
+      <file name="/Dummy.txt" timestamp="1594797551715">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/ukpostalcode/enter/OnbUk1EnterPostalCodeFragment.kt" timestamp="1594738423357">
@@ -290,7 +295,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJSZXR1cm5Db3VudCIpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbGlzdE9mKCJGUkEiLCAiQkVMIikK</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -305,31 +310,31 @@
         <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJSZXR1cm5Db3VudCIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgbGlzdE9mKCJGUkEiLCAiQkVMIikK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgPGNvbS5tb25lc2UubW9uZXNlLmRlc2lnbnN5c3RlbS5saWIudmlldy50b29sYmFyLk1vbmVzZVRvb2xiYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tdF9vbmJfdWsxIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDptZW51SWNvbj0iQGRyYXdhYmxlL2ljX2NoYXRfYmx1ZV8yNV9kcCIKICAgICAgICAgICAgYXBwOm5hdmlnYXRpb25JY29uPSJAZHJhd2FibGUvaWNfbG9nX291dF9ibHVlXzI1X2RwIiAvPg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzZXRUb29sYmFyKCkK</text>
+        <text encoding="base64">CiAgICAgICAgPGNvbS5tb25lc2UubW9uZXNlLmRlc2lnbnN5c3RlbS5saWIudmlldy50b29sYmFyLk1vbmVzZVRvb2xiYXIKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9tdF9vbmJfdWsxIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0iMGRwIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50RW5kX3RvRW5kT2Y9InBhcmVudCIKICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50U3RhcnRfdG9TdGFydE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiCiAgICAgICAgICAgIGFwcDptZW51SWNvbj0iQGRyYXdhYmxlL2ljX2NoYXRfYmx1ZV8yNV9kcCIKICAgICAgICAgICAgYXBwOm5hdmlnYXRpb25JY29uPSJAZHJhd2FibGUvaWNfbG9nX291dF9ibHVlXzI1X2RwIiAvPg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bWVudUljb249IkBkcmF3YWJsZS9pY19jaGF0X2JsdWVfMjVfZHAiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0TWVudUljb25DbGlja0xpc3RlbmVyIHsgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0TWVudUljb24obnVsbCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVzZXRUb29sYmFyKCkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHA6bWVudUljb249IkBkcmF3YWJsZS9pY19jaGF0X2JsdWVfMjVfZHAiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0TWVudUljb25DbGlja0xpc3RlbmVyIHsgfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0TWVudUljb24obnVsbCkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgPCEtLSAgICAgICAgPGFjdGlvbi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2FjdGlvbl91a19wb3N0YWxfY29kZV90b19lbGV2YXRvcl9waXRjaCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYXBwOmRlc3RpbmF0aW9uPSJAaWQvYWRkcmVzc19lbGV2YXRvcl9waXRjaCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0IiAvPi0tPgoKICAgICAgICA8IS0tICAgICAgICA8YWN0aW9uLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYWN0aW9uX3VrX3Bvc3RhbF9jb2RlX3RvX3VrX3Bvc3RhbF9saXN0X2ZyYWdtZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhcHA6ZGVzdGluYXRpb249IkBpZC91a19wb3N0YWxfbGlzdCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0IiAvPi0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzZXRUb29sYmFyKCkK</text>
       </register>
       <register name=":" type="4">
         <text>33</text>
