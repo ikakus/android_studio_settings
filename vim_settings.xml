@@ -132,7 +132,13 @@
         <mark key="." line="59" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_onfido_document_scan.xml" timestamp="1594820098398" />
-      <file name="/Dummy.txt" timestamp="1594816540863">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/primary/DocumentPhotoOnfidoViewModel.kt" timestamp="1594822452212">
+        <mark key="[" line="42" column="76" />
+        <mark key="]" line="51" column="5" />
+        <mark key="^" line="51" column="5" />
+        <mark key="." line="51" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594821312959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1594814721149">
@@ -140,12 +146,6 @@
         <mark key="]" line="405" column="32" />
         <mark key="^" line="405" column="32" />
         <mark key="." line="405" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1594812465200">
-        <mark key="[" line="65" column="16" />
-        <mark key="]" line="65" column="68" />
-        <mark key="^" line="65" column="68" />
-        <mark key="." line="65" column="67" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieFragment.kt" timestamp="1594818164570">
         <mark key="[" line="16" column="47" />
@@ -164,6 +164,9 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1594818891131" />
+      <file name="/fragment.java" timestamp="1594821410843">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="46" column="9" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/TypeSelectionResponseEntity.kt" />
@@ -270,14 +273,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20ubW9uZXNlLm1vbmVzZS5ncmFkdWFsb25ib2FyZGluZy5oYW5kbGVycy5pZGVudGl0eXZlcmlmaWNhdGlvbi5vbmZpZG8uZG9jdW1lbnQuRG9jdW1lbnRQaG90b1ByaW1hcnlPbmZpZG9BY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0icG9ydHJhaXQiIC8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>countryCode</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>_errorMessage</text>
+        <text>countryCode</text>
       </register>
       <register name="/" type="4">
         <text>pro</text>
@@ -286,31 +289,31 @@
         <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBPTkZJRE9fSURfU0NBTl9SRVFVRVNUX0NPREUgPSA1NTUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20ubW9uZXNlLm1vbmVzZS5ncmFkdWFsb25ib2FyZGluZy5oYW5kbGVycy5pZGVudGl0eXZlcmlmaWNhdGlvbi5vbmZpZG8uZG9jdW1lbnQuRG9jdW1lbnRQaG90b1ByaW1hcnlPbmZpZG9BY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0icG9ydHJhaXQiIC8+Cg==</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1biBuYXZpZ2F0ZVRvT25maWRvRG9jdW1lbnRTY2FuKGNvdW50cnlDb2RlOiBDb3VudHJ5Q29kZSwgZG9jdW1lbnRUeXBlOiBEb2N1bWVudFR5cGVEb21haW5Nb2RlbCkgewogICAgICAgCiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBuYXZpZ2F0ZVRvT25maWRvRG9jdW1lbnRTY2FuKHJlcXVpcmVOb3ROdWxsKGNvdW50cnkpLCBkb2N1bWVudFR5cGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgogICAgYWJzdHJhY3QgZnVuIGNvbnRyaWJ1dGVPbmZpZG9QcmltYXJ5U2NhbkZsb3dBY3Rpdml0eSgpOiBEb2N1bWVudFBob3RvUHJpbWFyeU9uZmlkb0FjdGl2aXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25TdWJzY3JpYmUgeyBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkgfQogICAgICAgICAgICAuZG9GaW5hbGx5IHsgX2xvYWRpbmcucG9zdFZhbHVlKGZhbHNlKSB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBfbmF2aWdhdGlvbi5wb3N0VmFsdWUoTmF2aWdhdGlvbi5GaW5pc2gpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmRvT25TdWJzY3JpYmUgeyBfbG9hZGluZy5wb3N0VmFsdWUodHJ1ZSkgfQogICAgICAgICAgICAuZG9GaW5hbGx5IHsgX2xvYWRpbmcucG9zdFZhbHVlKGZhbHNlKSB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9sb2FkaW5nID0gTXV0YWJsZUxpdmVEYXRhPEJvb2xlYW4+KCkKICAgIHZhbCBsb2FkaW5nOiBMaXZlRGF0YTxCb29sZWFuPiA9IF9sb2FkaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIF9lcnJvck1lc3NhZ2UgPSBTaW5nbGVMaXZlRXZlbnQ8U3RyaW5nPigpCiAgICB2YWwgZXJyb3JNZXNzYWdlOiBMaXZlRGF0YTxTdHJpbmc+ID0gX2Vycm9yTWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkKICAgICAgICAgICAgYW5kcm9pZDpuYW1lPSJjb20ubW9uZXNlLm1vbmVzZS5ncmFkdWFsb25ib2FyZGluZy5oYW5kbGVycy5pZGVudGl0eXZlcmlmaWNhdGlvbi5vbmZpZG8uZG9jdW1lbnQuRG9jdW1lbnRQaG90b1ByaW1hcnlPbmZpZG9BY3Rpdml0eSIKICAgICAgICAgICAgYW5kcm9pZDpzY3JlZW5PcmllbnRhdGlvbj0icG9ydHJhaXQiIC8+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgogICAgYWJzdHJhY3QgZnVuIGNvbnRyaWJ1dGVPbmZpZG9QcmltYXJ5U2NhbkZsb3dBY3Rpdml0eSgpOiBEb2N1bWVudFBob3RvUHJpbWFyeU9uZmlkb0FjdGl2aXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>33</text>
