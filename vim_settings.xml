@@ -94,7 +94,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="191" column="149" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594875256740">
+      <file name="/Dummy.txt" timestamp="1594887664107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -148,11 +148,11 @@
         <mark key="." line="258" column="67" />
         <mark key="^" line="258" column="68" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1594886076341">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="41" column="4" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1594886130550">
+        <mark key="[" line="39" column="56" />
+        <mark key="]" line="40" column="55" />
+        <mark key="^" line="40" column="55" />
+        <mark key="." line="40" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1594874024695">
         <mark key="[" line="1604" column="41" />
@@ -281,7 +281,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Pr fixes</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -296,22 +296,22 @@
         <text encoding="base64">ICAgICAgICAgICAgc2V0TWVudUljb24oUi5kcmF3YWJsZS5pY19jaGF0X2JsdWVfMjVfZHApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Pr fixes</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZlcmlmaWNhdGlvbkRvY3VtZW50UGlja2VyRG9uZUxpc3RlbmVyLnNldCh0aGlzKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJpdmF0ZSB2YWwgdmVyaWZpY2F0aW9uRmxvdyA9Cg==</text>
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZlcmlmaWNhdGlvbkRvY3VtZW50UGlja2VyRG9uZUxpc3RlbmVyLnNldCh0aGlzKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZlcmlmaWNhdGlvbkZsb3cgPSAK</text>
+        <text encoding="base64">cHJpdmF0ZSB2YWwgdmVyaWZpY2F0aW9uRmxvdyA9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZlcmkK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZlcmlmaWNhdGlvbkZsb3cgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHZlcmkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
