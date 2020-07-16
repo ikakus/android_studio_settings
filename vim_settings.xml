@@ -105,11 +105,11 @@
         <mark key="." line="55" column="49" />
         <mark key="^" line="55" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_fr_iban_2_second_id.xml" timestamp="1594893073894">
-        <mark key="[" line="89" column="66" />
-        <mark key="]" line="89" column="32" />
-        <mark key="." line="89" column="31" />
-        <mark key="^" line="89" column="32" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_fr_iban_2_second_id.xml" timestamp="1594893651432">
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1594889894487">
         <mark key="'" line="40" column="5" />
@@ -173,7 +173,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1594874121593">
         <mark key="[" line="263" column="22" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/secondid/FrIban2SecondIdFragment.kt" timestamp="1594892182129">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/secondid/FrIban2SecondIdFragment.kt" timestamp="1594893653172">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="16" column="86" />
@@ -286,13 +286,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSAgICAgICAgPGFuZHJvaWR4LmNhcmR2aWV3LndpZGdldC5DYXJkVmlldy0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ijc2ZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpjYXJkQ29ybmVyUmFkaXVzPSI0ZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpjYXJkRWxldmF0aW9uPSIwZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpjYXJkUHJldmVudENvcm5lck92ZXJsYXA9ImZhbHNlIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhcHA6Y2FyZFVzZUNvbXBhdFBhZGRpbmc9ImZhbHNlIj4tLT4KCiAgICAgICAgPCEtLSAgICAgICAgICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0LS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NsX2ZyX2liYW5fMl9zZWNvbmRfZG9jX2NvbnRhaW5lciItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+LS0+CgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgPGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3LS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pdl9mcl9pYmFuXzJfc2Vjb25kX2RvY19pY29uIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzMmRwIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzJkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGRyYXdhYmxlL2lsbF9jYW1lcmFfdXBsb2FkX2RvYyIgLz4tLT4KCiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICA8VGV4dFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2ZyX2liYW5fMl9zZWNvbmRfZG9jX3Rha2VfcGhvdG8iLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9Nb25lc2UuVGV4dEFwcGVhcmFuY2UuSGVhZGxpbmUuSW50ZXJhY3RpdmUiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTZkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjhkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvZnJfaWJhbl8yX3NlY29uZF9kb2NfdGFrZV9waG90byItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkBpZC9pdl9mcl9pYmFuXzJfc2Vjb25kX2RvY19hcnJvdyItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvaXZfZnJfaWJhbl8yX3NlY29uZF9kb2NfaWNvbiItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFZlcnRpY2FsX2NoYWluU3R5bGU9InBhY2tlZCIgLz4tLT4KCiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXctLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X2ZyX2liYW5fMl9zZWNvbmRfZG9jX2Fycm93Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyNWRwIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMjVkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGRyYXdhYmxlL2ljX2Fycm93X3JpZ2h0X2JsdWVfMjVfZHAiIC8+LS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIDwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4tLT4KICAgICAgICA8IS0tICAgICAgICA8L2FuZHJvaWR4LmNhcmR2aWV3LndpZGdldC5DYXJkVmlldz4tLT4=</text>
+        <text>dp</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>@drawable/ill_circle_documents_white_40_dp</text>
+        <text>dp</text>
       </register>
       <register name="/" type="4">
         <text>doc</text>
