@@ -180,6 +180,13 @@
         <mark key="." line="18" column="71" />
         <mark key="^" line="18" column="72" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1594903069507">
+        <mark key="'" line="457" column="15" />
+        <mark key="[" line="1769" column="17" />
+        <mark key="]" line="1769" column="27" />
+        <mark key="." line="1769" column="26" />
+        <mark key="^" line="1769" column="27" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1594899007485">
         <mark key="'" line="238" column="31" />
         <mark key="[" line="242" column="58" />
@@ -192,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="11" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/model/Country.kt" />
       <jump line="253" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/model/Country.kt" />
       <jump line="256" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/model/Country.kt" />
       <jump line="54" column="28" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s2IbanSelectionDialog.kt" />
@@ -292,12 +298,13 @@
       <jump line="221" column="33" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" />
       <jump line="340" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" />
       <jump line="243" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
+      <jump line="456" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>VeriffDocumentIDScanAndSelfieViewModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgogICAgYWJzdHJhY3QgZnVuIGNvbnRyaWJ1dGVWZXJpZmZGcmFnbWVudCgpOiBWZXJpZmZEb2N1bWVudElEU2NhbkFuZFNlbGZpZUZyYWdtZW50Cg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -309,7 +316,7 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCaW5kcwogICAgQEludG9NYXAKICAgIEBWaWV3TW9kZWxLZXkoVmVyaWZmRG9jdW1lbnRJRFNjYW5BbmRTZWxmaWVWaWV3TW9kZWw6OmNsYXNzKQogICAgaW50ZXJuYWwgYWJzdHJhY3QgZnVuIHZlcmlmZkRvY3VtZW50U2NhblZpZXdNb2RlbCh2aWV3TW9kZWw6IFZlcmlmZkRvY3VtZW50SURTY2FuQW5kU2VsZmllVmlld01vZGVsKTogVmlld01vZGVsCg==</text>
+        <text encoding="base64">ICAgIEBDb250cmlidXRlc0FuZHJvaWRJbmplY3RvcgogICAgYWJzdHJhY3QgZnVuIGNvbnRyaWJ1dGVWZXJpZmZGcmFnbWVudCgpOiBWZXJpZmZEb2N1bWVudElEU2NhbkFuZFNlbGZpZUZyYWdtZW50Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb21wbGV0ZWREb2N1bWVudD8ubWFwVG9Eb21haW4oKQo=</text>
