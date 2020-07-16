@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>twil</entry>
-        <entry>na</entry>
         <entry>it</entry>
         <entry>not</entry>
         <entry>veri</entry>
@@ -27,6 +25,8 @@
         <entry>pro</entry>
         <entry>pa</entry>
         <entry>doc</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>44</entry>
@@ -88,21 +88,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataResponseEntity.kt" timestamp="1594894995334">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="15" column="13" />
-        <mark key="^" line="15" column="13" />
-        <mark key="." line="15" column="12" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/addressentry/AddressEntryFragment.kt" timestamp="1594874902523">
-        <mark key="[" line="64" column="47" />
-        <mark key="^" line="31" column="76" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataResponseEntity.kt" timestamp="1594895090604">
+        <mark key="[" line="8" column="43" />
+        <mark key="]" line="15" column="4" />
+        <mark key="^" line="15" column="4" />
+        <mark key="." line="15" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/primary/DocumentPhotoPrimaryOnfidoFragment.kt" timestamp="1594885979267">
         <mark key="[" line="55" column="33" />
         <mark key="]" line="55" column="50" />
         <mark key="." line="55" column="49" />
         <mark key="^" line="55" column="50" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataEntity.kt" timestamp="1594896264019">
+        <mark key="'" line="39" column="46" />
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="30" />
+        <mark key="." line="22" column="29" />
+        <mark key="^" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_fr_iban_2_second_id.xml" timestamp="1594894605024">
         <mark key="[" line="23" column="36" />
@@ -136,11 +139,11 @@
         <mark key="^" line="98" column="70" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/primary/DocumentPhotoPrimaryOnfidoViewModel.kt" timestamp="1594885735887">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="41" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/SecondaryDocumentScanDataDomainModel.kt" timestamp="1594895754003">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="41" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_document_scan_secondary_onfido.xml" timestamp="1594894359842">
         <mark key="[" line="43" column="88" />
@@ -163,8 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
-      <jump line="23" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
       <jump line="39" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
       <jump line="44" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" />
@@ -263,51 +264,56 @@
       <jump line="125" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" />
       <jump line="49" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" />
       <jump line="40" column="5" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" />
+      <jump line="39" column="31" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataEntity.kt" />
+      <jump line="40" column="46" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataEntity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFZlcmlmaWNhdGlvbkZsb3coVmVyaWZpY2F0aW9uRmxvdy5PTkZJRE8pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlTm90TnVsbChkb2N1bWVudCkK</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>fragment_verification_document_picker</text>
+        <text>first</text>
       </register>
       <register name="/" type="4">
-        <text>doc</text>
+        <text encoding="base64">XDwpXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCBzZWNvbmRhcnkgbGFuZGluZyBzY3JlZW4gYmVmb2UgZG9jdW1lbnQgcGlja2luZwogICAgICAgIC8vIGFsc28gZmlsdGVyIGFscmVhZHkgc2VsZWN0ZWQgZG9jdW1lbnQvY291bnRyeQogICAgICAgIHZhbCBidW5kbGUgPSBWZXJpZmljYXRpb25Eb2N1bWVudFBpY2tlckZyYWdtZW50QXJncy5CdWlsZGVyKCkKICAgICAgICAgICAgLnNldENhbkNsb3NlRmxvdyhhcmdzLmNhbkNsb3NlRmxvdykKICAgICAgICAgICAgLnNldFJldGFrZShhcmdzLnJldGFrZSkKICAgICAgICAgICAgLnNldFN1Z2dlc3RlZENvdW50cnlJc28zKGFyZ3Muc3VnZ2VzdGVkQ291bnRyeUlzbzMpCiAgICAgICAgICAgIC5zZXRBdmFpbGFibGVDb3VudHJ5RG9jdW1lbnRzKGFyZ3MuYXZhaWxhYmxlQ291bnRyeURvY3VtZW50cykKICAgICAgICAgICAgLnNldFZlcmlmaWNhdGlvbkZsb3coVmVyaWZpY2F0aW9uRmxvdy5PTkZJRE8pCiAgICAgICAgICAgIC5idWlsZCgpCiAgICAgICAgICAgIC50b0J1bmRsZSgpCiAgICAgICAgbmF2aWdhdGlvbkNvbnRyb2xsZXI/Lm5hdmlnYXRlKFIuaWQuZnJhZ21lbnRfdmVyaWZpY2F0aW9uX2RvY3VtZW50X3BpY2tlciwgYnVuZGxlKQo=</text>
+      <register name="0" type="4">
+        <text>CompletedDocumentEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFZlcmlmaWNhdGlvbkZsb3coVmVyaWZpY2F0aW9uRmxvdy5PTkZJRE8pCg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlTm90TnVsbChkb2N1bWVudCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFJldGFrZShhcmdzLnJldGFrZSkK</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGRvY3VtZW50KXsKICAgICAgICAgIERvY3VtZW50VHlwZURvbWFpbk1vZGVsLlBBU1NQT1JULm5hbWUgPSAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldEF2YWlsYWJsZUNvdW50cnlEb2N1bWVudHMoYXJncy5hdmFpbGFibGVDb3VudHJ5RG9jdW1lbnRzKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldFN1Z2dlc3RlZENvdW50cnlJc28zKGFyZ3Muc3VnZ2VzdGVkQ291bnRyeUlzbzMpCg==</text>
+        <text>//&quot;completed_document&quot;: {
+//    &quot;iso3&quot;: &quot;EST&quot;
+//    &quot;document&quot;: &quot;NATIONAL_IDENTITY_CARD&quot;
+//},</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnNldENhbkNsb3NlRmxvdyhhcmdzLmNhbkNsb3NlRmxvdykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PCEtLSAgICAgICAgPGFuZHJvaWR4LmNhcmR2aWV3LndpZGdldC5DYXJkVmlldy0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0ibWF0Y2hfcGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Ijc2ZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpjYXJkQ29ybmVyUmFkaXVzPSI0ZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpjYXJkRWxldmF0aW9uPSIwZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIGFwcDpjYXJkUHJldmVudENvcm5lck92ZXJsYXA9ImZhbHNlIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICBhcHA6Y2FyZFVzZUNvbXBhdFBhZGRpbmc9ImZhbHNlIj4tLT4KCiAgICAgICAgPCEtLSAgICAgICAgICAgIDxhbmRyb2lkeC5jb25zdHJhaW50bGF5b3V0LndpZGdldC5Db25zdHJhaW50TGF5b3V0LS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2NsX2ZyX2liYW5fMl9zZWNvbmRfZG9jX2NvbnRhaW5lciItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9Im1hdGNoX3BhcmVudCI+LS0+CgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgPGFuZHJvaWR4LmFwcGNvbXBhdC53aWRnZXQuQXBwQ29tcGF0SW1hZ2VWaWV3LS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9pdl9mcl9pYmFuXzJfc2Vjb25kX2RvY19pY29uIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIzMmRwIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMzJkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFN0YXJ0X3RvU3RhcnRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGRyYXdhYmxlL2lsbF9jYW1lcmFfdXBsb2FkX2RvYyIgLz4tLT4KCiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICA8VGV4dFZpZXctLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X2ZyX2liYW5fMl9zZWNvbmRfZG9jX3Rha2VfcGhvdG8iLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgc3R5bGU9IkBzdHlsZS9Nb25lc2UuVGV4dEFwcGVhcmFuY2UuSGVhZGxpbmUuSW50ZXJhY3RpdmUiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IjBkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMTZkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjhkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHQ9IkBzdHJpbmcvZnJfaWJhbl8yX3NlY29uZF9kb2NfdGFrZV9waG90byItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Cb3R0b21PZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludEVuZF90b1N0YXJ0T2Y9IkBpZC9pdl9mcl9pYmFuXzJfc2Vjb25kX2RvY19hcnJvdyItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRTdGFydF90b0VuZE9mPSJAaWQvaXZfZnJfaWJhbl8yX3NlY29uZF9kb2NfaWNvbiItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRUb3BfdG9Ub3BPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFZlcnRpY2FsX2NoYWluU3R5bGU9InBhY2tlZCIgLz4tLT4KCiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICA8YW5kcm9pZHguYXBwY29tcGF0LndpZGdldC5BcHBDb21wYXRJbWFnZVZpZXctLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2l2X2ZyX2liYW5fMl9zZWNvbmRfZG9jX2Fycm93Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIyNWRwIi0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iMjVkcCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYXBwOmxheW91dF9jb25zdHJhaW50Qm90dG9tX3RvQm90dG9tT2Y9InBhcmVudCItLT4KICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRFbmRfdG9FbmRPZj0icGFyZW50Ii0tPgogICAgICAgIDwhLS0gICAgICAgICAgICAgICAgICAgIGFwcDpsYXlvdXRfY29uc3RyYWludFRvcF90b1RvcE9mPSJwYXJlbnQiLS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgICAgICAgICAgYXBwOnNyY0NvbXBhdD0iQGRyYXdhYmxlL2ljX2Fycm93X3JpZ2h0X2JsdWVfMjVfZHAiIC8+LS0+CiAgICAgICAgPCEtLSAgICAgICAgICAgIDwvYW5kcm9pZHguY29uc3RyYWludGxheW91dC53aWRnZXQuQ29uc3RyYWludExheW91dD4tLT4KICAgICAgICA8IS0tICAgICAgICA8L2FuZHJvaWR4LmNhcmR2aWV3LndpZGdldC5DYXJkVmlldz4tLT4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnJpZ2h0X2ltYWdlPSJAZHJhd2FibGUvaWNfYXJyb3dfcmlnaHRfYmx1ZV8yNV9kcCIK</text>
+        <text encoding="base64">ZnVuIFNlY29uZGFyeURvY3VtZW50U2NhbkRhdGFFbnRpdHkudG9Eb21haW4oKSA9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnJpZ2h0X2ltYWdlPSJAZHJhd2FibGUvaWNfdGlja19ncmVlbl8yNV9kcCIK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOmRlc2NyaXB0aW9uPSJEZXNjcmlwdGlvbiIK</text>
+        <text encoding="base64">ICAgIFNlY29uZGFyeURvY3VtZW50U2NhbkRhdGFEb21haW5Nb2RlbCgKICAgICAgICBzdWdnZXN0ZWRDb3VudHJ5LAogICAgICAgIGF2YWlsYWJsZUNvdW50cmllcz8ubWFwIHsgaXQudG9Eb21haW4oKSB9LAogICAgICAgIHJldGFrZQogICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>33</text>
@@ -316,12 +322,12 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>doc</last-search>
+      <last-search encoding="base64">XDwpXD4=</last-search>
       <last-offset />
-      <last-pattern>doc</last-pattern>
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
   </component>
