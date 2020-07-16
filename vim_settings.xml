@@ -120,23 +120,22 @@
         <mark key="^" line="50" column="29" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1594898012711">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="245" column="0" />
-        <mark key="]" line="245" column="0" />
-        <mark key="^" line="252" column="33" />
-        <mark key="." line="245" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1594909205775">
-        <mark key="[" line="59" column="82" />
-        <mark key="]" line="59" column="72" />
-        <mark key="^" line="59" column="72" />
-        <mark key="." line="59" column="71" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1594910156221">
+        <mark key="[" line="70" column="73" />
+        <mark key="]" line="70" column="73" />
+        <mark key="^" line="70" column="73" />
+        <mark key="." line="70" column="72" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1594904980523">
         <mark key="[" line="210" column="0" />
         <mark key="]" line="210" column="0" />
         <mark key="." line="210" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/OnfidoCountryProvider.kt" timestamp="1594910854916">
+        <mark key="[" line="54" column="57" />
+        <mark key="]" line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+        <mark key="." line="55" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/monesehub/savings/fragments/KYC3SourceOfFundsFragment.kt" timestamp="1594908180498">
         <mark key="[" line="23" column="0" />
@@ -157,6 +156,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/AvailableCountryDocumentProvider.kt" timestamp="1594910323956">
+        <mark key="[" line="7" column="91" />
+        <mark key="]" line="10" column="74" />
+        <mark key="^" line="10" column="74" />
+        <mark key="." line="10" column="73" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1594908982766">
         <mark key="'" line="45" column="5" />
@@ -180,13 +185,6 @@
         <mark key="^" line="41" column="62" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/AvailableCountryDocumentsResponseEntity.kt" timestamp="1594908886102" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1594899007485">
-        <mark key="'" line="238" column="31" />
-        <mark key="[" line="242" column="58" />
-        <mark key="]" line="243" column="51" />
-        <mark key="." line="243" column="50" />
-        <mark key="^" line="243" column="51" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="256" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/model/Country.kt" />
@@ -293,14 +291,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVkVmlld01vZGVsLm9uU2NhblNlY29uZGFyeUNsaWNrZWQoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ISEg</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>sharedViewModelProvider</text>
+        <text encoding="base64">ISEg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
