@@ -104,10 +104,6 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/monesehub/savings/fragments/KYC3SourceOfFundsFragment.kt" timestamp="1594908180498">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="60" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" timestamp="1594981409737">
         <mark key="[" line="144" column="0" />
         <mark key="]" line="144" column="0" />
@@ -115,6 +111,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_veriff_document_scan.xml" timestamp="1594971233260">
         <mark key="[" line="34" column="111" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_fr_iban_2_second_id.xml" timestamp="1594982444088">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="0" />
+        <mark key="." line="113" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1594981430840">
         <mark key="'" line="46" column="5" />
@@ -134,7 +135,7 @@
         <mark key="]" line="61" column="7" />
         <mark key="." line="61" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594978612304">
+      <file name="/Dummy.txt" timestamp="1594982209249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/secondid/FrIban2SecondIdViewModel.kt" timestamp="1594981480485">
@@ -286,7 +287,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiCg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -301,31 +302,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2aWV3c1tkb2NdPy5wb3N0VmFsdWUodHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RvZG8K</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5TdGFydD0iMjBkcCIKICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5FbmQ9IjIwZHAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNjYW5TZWNvbmRhcnlDbGlja0xpc3RlbmVyLCBTY2FuU2Vjb25kYXJ5Q2xpY2tQcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAvL3RvZG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgIFNjYW5TZWNvbmRhcnlDbGlja0xpc3RlbmVyLCBTY2FuU2Vjb25kYXJ5Q2xpY2tQcm92aWRlcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVkVmlld01vZGVsLm9uU2NhblNlY29uZGFyeUNsaWNrZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2hhcmVkVmlld01vZGVsLm9uU2NhblNlY29uZGFyeUNsaWNrZWQoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaGFyZWRWaWV3TW9kZWwgPSB3aXRoU2hhcmVkVmlld01vZGVsKHZpZXdNb2RlbEZhY3RvcnkpIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaGFyZWRWaWV3TW9kZWwgPSB3aXRoU2hhcmVkVmlld01vZGVsKHZpZXdNb2RlbEZhY3RvcnkpIHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>33</text>
