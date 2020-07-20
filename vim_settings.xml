@@ -137,16 +137,20 @@
         <mark key="^" line="137" column="39" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/xpatriofreeze/XpatrioFreezeFragment.kt" timestamp="1594987877911" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1594983049767">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="48" />
-        <mark key="." line="34" column="56" />
-        <mark key="^" line="34" column="57" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595243352187">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/test/java/com/monese/monese/data/entitlement/EntitlementMapperKtTest.kt" timestamp="1595067549343">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/helpers/OnboardingAnalytics.kt" timestamp="1595242994222">
+        <mark key="[" line="784" column="0" />
+        <mark key="]" line="784" column="0" />
+        <mark key="." line="784" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/secondid/FrIban2SecondIdFragment.kt" timestamp="1594989501861">
         <mark key="[" line="73" column="61" />
@@ -260,26 +264,26 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>?: return null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZG9jdW1lbnRPcmRlciA9IGlmICgpCg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>?: return null</text>
+        <text>OnfidoDocumentTypi</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFjdGl2aXR5KEN1c3RvbWVyU3VwcG9ydEFjdGl2aXR5LmdldEludGVudChyZXF1aXJlQ29udGV4dCgpKSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFuYWx5dGljcy5oZWxwZXJzLk9uYm9hcmRpbmdQcm9wZXJ0eS5PbmZpZG9Eb2N1bWVudFR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZG9jdW1lbnRPcmRlciA9IGlmICgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2Nfb3JkZXIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
@@ -291,16 +295,16 @@
         <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHZhbCByZXNwb25zZSA9ICIiInsKICAgICAgICAiYWN0aW9uIjogIlZFUklGSUNBVElPTl9IVUIiLAogICAgICAgICJkYXRhIjogewogICAgICAgICJlbnRpdGxlbWVudHMiOiBbewogICAgICAgICJ0eXBlIjogIkFERFJFU1MiLAogICAgICAgICJzdGF0dXMiOiAiQ09NUExFVEVEIgogICAgfSwKICAgICAgICB7CiAgICAgICAgICAgICJ0eXBlIjogIkRPQ1VNRU5UX1BIT1RPIiwKICAgICAgICAgICAgInN0YXR1cyI6ICJQUk9DRVNTSU5HIgogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgICAidHlwZSI6ICJWSURFT19TRUxGSUUiLAogICAgICAgICAgICAic3RhdHVzIjogIkFWQUlMQUJMRSIKICAgICAgICB9XQogICAgfQogICAgfSAiIg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIgo=</text>
       </register>
       <register name=":" type="4">
         <text>33</text>
