@@ -109,15 +109,14 @@
         <mark key="." line="7" column="58" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/TypeSelectionResponseEntity.kt" timestamp="1595252565650">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="11" column="43" />
+        <mark key="." line="11" column="43" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1595252812067">
-        <mark key="[" line="169" column="11" />
-        <mark key="]" line="170" column="4" />
-        <mark key="." line="170" column="3" />
-        <mark key="^" line="170" column="4" />
+        <mark key="]" line="79" column="4" />
+        <mark key="." line="79" column="3" />
+        <mark key="^" line="79" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1595248836049">
         <mark key="'" line="47" column="5" />
@@ -130,11 +129,6 @@
         <mark key="[" line="10" column="64" />
         <mark key="]" line="10" column="64" />
         <mark key="." line="10" column="64" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1595252138320">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/secondid/FrIban2SecondIdViewModel.kt" timestamp="1595248113080">
         <mark key="[" line="45" column="9" />
@@ -176,7 +170,12 @@
         <mark key="." line="38" column="44" />
         <mark key="^" line="38" column="35" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/helpers/OnboardingAnalytics.kt" timestamp="1595248561252" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/analytics/src/main/java/com/monese/monese/analytics/helpers/OnboardingAnalytics.kt" timestamp="1595252953881">
+        <mark key="[" line="231" column="0" />
+        <mark key="]" line="231" column="39" />
+        <mark key="^" line="231" column="37" />
+        <mark key="." line="231" column="36" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_document_scan_primary_onfido.xml" timestamp="1595247261638">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
@@ -291,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGFjY291bnRTZWxlY3Rpb25EYXRhPy5zdWdnZXN0ZWRDdXJyZW5jeQogICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJlYWRPcGVyYXRvciIpCg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -304,7 +303,7 @@
         <text encoding="base64">XDwpXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFuYWx5dGljcy5oZWxwZXJzLlZlcmlmaWNhdGlvblNkay5WZXJpZmYK</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzc1dhcm5pbmdzKCJTcHJlYWRPcGVyYXRvciIpCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGFjY291bnRTZWxlY3Rpb25EYXRhPy5zdWdnZXN0ZWRDdXJyZW5jeQogICAgICAgIH0=</text>
