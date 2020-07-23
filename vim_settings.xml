@@ -168,6 +168,11 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/MoneseToolbarController.kt" timestamp="1595425535846" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_verification_document_picker.xml" timestamp="1595428723855">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="4" />
+        <mark key="." line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/failed/OnfidoDocumentScanFailedFragment.kt" timestamp="1595423409112">
         <mark key="[" line="74" column="19" />
         <mark key="]" line="74" column="19" />
@@ -177,13 +182,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/ron/RonAccountPitchFragment.kt" timestamp="1595421846594">
-        <mark key="'" line="43" column="5" />
-        <mark key="[" line="53" column="19" />
-        <mark key="]" line="53" column="19" />
-        <mark key="^" line="55" column="20" />
-        <mark key="." line="53" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595428137762">
         <mark key="[" line="33" column="0" />
@@ -297,13 +295,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>navigationController</text>
+        <text>app:startDestination=&quot;@+id/fragment_loading&quot;</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>navigationController</text>
+        <text>app:startDestination=&quot;@+id/fragment_loading&quot;</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
