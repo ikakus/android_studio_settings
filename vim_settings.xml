@@ -133,10 +133,11 @@
       <file name="/Dummy.txt" timestamp="1595503249213">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerFragment.kt" timestamp="1595504939694">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerFragment.kt" timestamp="1595506017172">
         <mark key="[" line="153" column="27" />
-        <mark key="]" line="153" column="27" />
-        <mark key="." line="153" column="27" />
+        <mark key="]" line="151" column="16" />
+        <mark key="." line="151" column="15" />
+        <mark key="^" line="151" column="16" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1595504488930">
         <mark key="[" line="238" column="16" />
@@ -155,6 +156,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595506062322">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
+        <mark key="^" line="41" column="62" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_document_scan_secondary_onfido.xml" timestamp="1595504612436" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_document_scan_primary_onfido.xml" timestamp="1595504577990" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/ActionTypeDomainModel.kt" timestamp="1595504058777" />
@@ -163,12 +170,6 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
         <mark key="^" line="82" column="28" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/steps/ron/RonAccountPitchViewModel.kt" timestamp="1595428122509">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="15" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -277,13 +278,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>CompletedDocumentDomainModel</text>
+        <text>DomainModel</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>CompletedDocumentDomainModel</text>
+        <text>DomainModel</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
