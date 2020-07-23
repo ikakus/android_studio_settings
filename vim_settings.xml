@@ -88,15 +88,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/CompletedDocumentPresentationModel.kt" timestamp="1595512181753">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/CompletedDocumentPresentationModel.kt" timestamp="1595513312454">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_verification_document_picker.xml" timestamp="1595504626277">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataEntity.kt" timestamp="1595514215957">
+        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" timestamp="1595507468268">
         <mark key="[" line="253" column="97" />
@@ -124,11 +122,11 @@
         <mark key="." line="151" column="15" />
         <mark key="^" line="151" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1595512215263">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1595514098076">
         <mark key="[" line="238" column="42" />
         <mark key="]" line="238" column="42" />
         <mark key="." line="238" column="42" />
-        <mark key="^" line="240" column="33" />
+        <mark key="^" line="241" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595507106285">
         <mark key="[" line="12" column="0" />
