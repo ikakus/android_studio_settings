@@ -103,11 +103,14 @@
         <mark key="^" line="82" column="95" />
         <mark key="." line="82" column="94" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1595847844398">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="116" column="57" />
+      <file name="/Dummy.txt" timestamp="1595849235921">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1595848798829">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="128" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595839525650">
         <mark key="'" line="202" column="0" />
@@ -283,7 +286,7 @@
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>popBackStack</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
         <text>bac</text>
@@ -294,29 +297,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGlmIChuYXZDb250cm9sbGVyVGVzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyLnBvcEJhY2tTdGFjaygpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG5hdkNvbnRyb2xsZXJQcm92aWRlcj8ubmF2Q29udHJvbGxlcj8ucG9wQmFja1N0YWNrKCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25FdmVudENhbGxhYmFja1Byb3ZpZGVyLm9uQWN0aW9uRXZlbnQoQWN0aW9uRXZlbnQuQ2FuY2VsZWQoRW50aXRsZW1lbnRBY3Rpb24uRE9DVU1FTlRfUEhPVE9fUFJJTUFSWSkpCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGlmIChuYXZDb250cm9sbGVyVGVzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyLnBvcEJhY2tTdGFjaygpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhY3Rpb25FdmVudENhbGxhYmFja1Byb3ZpZGVyLm9uQWN0aW9uRXZlbnQoQWN0aW9uRXZlbnQuQ2FuY2VsZWQoRW50aXRsZW1lbnRBY3Rpb24uRE9DVU1FTlRfUEhPVE9fUFJJTUFSWSkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
