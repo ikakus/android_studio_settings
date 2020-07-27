@@ -103,11 +103,11 @@
         <mark key="^" line="82" column="95" />
         <mark key="." line="82" column="94" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1595847173748">
-        <mark key="[" line="116" column="45" />
-        <mark key="]" line="116" column="45" />
-        <mark key="." line="116" column="45" />
-        <mark key="^" line="114" column="74" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1595847844398">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="116" column="57" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595839525650">
         <mark key="'" line="202" column="0" />
@@ -276,8 +276,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>popBackStack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -289,40 +289,34 @@
         <text>bac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBlbnRpdGxlbWVudEFjdGlvbiB0aGF0IHdhcyBEb25lIGFuZCB0cmlnZ2VyZWQgYWN0aW9uRG9uZUV2ZW50UHJvdmlkZXIgY2FsbGJhY2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmF2aWdhdGlvbkNvbnRyb2xsZXIubmF2aWdhdGVVcCgpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIGlmIChuYXZDb250cm9sbGVyVGVzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyLnBvcEJhY2tTdGFjaygpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGlmIChuYXZDb250cm9sbGVyVGVzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyLnBvcEJhY2tTdGFjaygpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25FdmVudENhbGxhYmFja1Byb3ZpZGVyLm9uQWN0aW9uRXZlbnQoQWN0aW9uRXZlbnQuQ2FuY2VsZWQoRW50aXRsZW1lbnRBY3Rpb24uRE9DVU1FTlRfUEhPVE9fUFJJTUFSWSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25FdmVudENhbGxhYmFja1Byb3ZpZGVyLm9uQWN0aW9uRXZlbnQoQWN0aW9uRXZlbnQuQ2FuY2VsZWQoRW50aXRsZW1lbnRBY3Rpb24uRE9DVU1FTlRfUEhPVE9fUFJJTUFSWSkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGNvbnRleHQ6IENvbnRleHQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>try {
-            val rep = stack.peek()
-            repeatEntitlement(rep)
-        } catch (ex: EmptyStackException) {
-            Timber.tag(TAG).d(&quot;callObserver onSuccess action: on stack.empty()&quot;)
-            _navigation.postValue(Navigation.Close(false))
-        }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
