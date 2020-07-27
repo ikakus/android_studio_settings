@@ -106,12 +106,6 @@
         <mark key="^" line="82" column="95" />
         <mark key="." line="82" column="94" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1595839961982">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="57" column="57" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1595839525650">
         <mark key="'" line="202" column="0" />
         <mark key="[" line="121" column="0" />
@@ -168,10 +162,10 @@
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/Stack.java" timestamp="1595838860956" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1595835655917">
-        <mark key="[" line="60" column="104" />
-        <mark key="]" line="60" column="105" />
-        <mark key="^" line="60" column="105" />
-        <mark key="." line="60" column="104" />
+        <mark key="[" line="10" column="104" />
+        <mark key="]" line="10" column="105" />
+        <mark key="^" line="10" column="105" />
+        <mark key="." line="10" column="104" />
       </file>
     </filemarks>
     <jumps>
