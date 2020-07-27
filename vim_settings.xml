@@ -91,11 +91,20 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoViewModel.kt" timestamp="1595839472820">
         <mark key="^" line="95" column="103" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/ParentNavControllerHolder.kt" timestamp="1595851448792">
+        <mark key="[" line="5" column="42" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/NavControllerProvider.kt" timestamp="1595850985440">
         <mark key="[" line="4" column="25" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_document_photo_primary_onfido.xml" timestamp="1595851384114">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1595849306525">
         <mark key="[" line="0" column="0" />
@@ -106,8 +115,8 @@
         <mark key="." line="93" column="18" />
         <mark key="^" line="93" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1595850599418">
-        <mark key="[" line="215" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/DocumentPhotoSecondaryOnfidoFragment.kt" timestamp="1595851459233">
+        <mark key="[" line="126" column="5" />
         <mark key="]" line="215" column="12" />
         <mark key="." line="215" column="12" />
         <mark key="^" line="187" column="54" />
@@ -131,12 +140,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/handlers/cddquestionnaire/CDDQuestionnaireViewModelTest.kt" timestamp="1595835695340">
         <mark key="[" line="38" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/mobileentry/common/VerifyPhoneFlowViewModel.kt" timestamp="1595835672262">
-        <mark key="[" line="45" column="87" />
-        <mark key="]" line="45" column="88" />
-        <mark key="^" line="45" column="88" />
-        <mark key="." line="45" column="87" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModelTest.kt" timestamp="1595840403562">
         <mark key="[" line="129" column="41" />
         <mark key="]" line="133" column="5" />
@@ -156,11 +159,10 @@
         <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/Stack.java" timestamp="1595838860956" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1595835655917">
-        <mark key="[" line="10" column="104" />
-        <mark key="]" line="10" column="105" />
-        <mark key="^" line="10" column="105" />
-        <mark key="." line="10" column="104" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_document_photo_secondary_onfido.xml" timestamp="1595851379653">
+        <mark key="[" line="18" column="7" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
     </filemarks>
     <jumps>
@@ -268,8 +270,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>childNavController = navigationController</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -284,28 +286,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmF2aWdhdGlvbkNvbnRyb2xsZXIubmF2aWdhdGVVcCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYocGFyZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYocGFyZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG5hdkNvbnRyb2xsZXJQcm92aWRlcj8ubmF2Q29udHJvbGxlcj8ucG9wQmFja1N0YWNrKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG5hdkNvbnRyb2xsZXJQcm92aWRlcj8ubmF2Q29udHJvbGxlcj8ucG9wQmFja1N0YWNrKCkK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIGlmIChuYXZDb250cm9sbGVyVGVzdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG5hdmlnYXRpb25Db250cm9sbGVyLnBvcEJhY2tTdGFjaygpCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb25FdmVudENhbGxhYmFja1Byb3ZpZGVyLm9uQWN0aW9uRXZlbnQoQWN0aW9uRXZlbnQuQ2FuY2VsZWQoRW50aXRsZW1lbnRBY3Rpb24uRE9DVU1FTlRfUEhPVE9fUFJJTUFSWSkpCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpb25FdmVudENhbGxhYmFja1Byb3ZpZGVyLm9uQWN0aW9uRXZlbnQoQWN0aW9uRXZlbnQuQ2FuY2VsZWQoRW50aXRsZW1lbnRBY3Rpb24uRE9DVU1FTlRfUEhPVE9fUFJJTUFSWSkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXI6IEFjdGlvbkV2ZW50Q2FsbGFiYWNrUHJvdmlkZXIsCg==</text>
