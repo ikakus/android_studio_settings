@@ -103,31 +103,17 @@
         <mark key="." line="195" column="49" />
         <mark key="^" line="197" column="49" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/SecondaryDocumentScanDataEntity.kt" timestamp="1595932264583">
-        <mark key="[" line="22" column="46" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/secondid/ScanSecondaryClickProvider.kt" timestamp="1595928609211">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="18" column="39" />
-        <mark key="." line="18" column="38" />
-        <mark key="^" line="18" column="39" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_document_photo_primary_onfido.xml" timestamp="1595937795657">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="^" line="17" column="9" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/secondid/FrIban2SecondIdViewModel.kt" timestamp="1595928520601">
-        <mark key="[" line="77" column="22" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="65" column="54" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/strings/src/main/res/values/strings.xml" timestamp="1595937608642">
         <mark key="'" line="5634" column="18" />
         <mark key="[" line="5783" column="101" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-android/src/main/java/com/badoo/mvicore/android/AndroidBinderLifecycle.kt" timestamp="1595944517144" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/strings.xml" timestamp="1595937574174">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -140,12 +126,7 @@
         <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1595942823577" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1595932165374">
-        <mark key="[" line="49" column="61" />
-        <mark key="]" line="68" column="4" />
-        <mark key="." line="68" column="3" />
-        <mark key="^" line="68" column="4" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-demo/mvicore-demo-app/src/main/java/com/badoo/mvicoredemo/auth/Auth.kt" timestamp="1595945195388" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_fr_iban_2_second_id.xml" timestamp="1595936960887">
         <mark key="[" line="128" column="22" />
         <mark key="]" line="128" column="22" />
@@ -154,18 +135,25 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/ParentNavControllerHolder.kt" timestamp="1595939556782">
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/featureflag/FeatureFlag.kt" timestamp="1595933724647">
-        <mark key="'" line="14" column="11" />
-        <mark key="[" line="37" column="27" />
-        <mark key="]" line="37" column="28" />
-        <mark key="^" line="37" column="28" />
-        <mark key="." line="37" column="27" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/build.gradle" timestamp="1595944619553">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="11" column="61" />
+        <mark key="." line="11" column="61" />
+        <mark key="^" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-demo/mvicore-demo-app/src/main/java/com/badoo/mvicoredemo/di/ScopedComponent.kt" timestamp="1595945152382" />
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-demo/mvicore-demo-app/src/main/java/com/badoo/mvicoredemo/App.kt" timestamp="1595944809893">
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="38" column="34" />
+        <mark key="^" line="38" column="34" />
+        <mark key="." line="38" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/identityverification/onfido/document/secondary/secondid/FrIban2SecondIdFragment.kt" timestamp="1595939393177">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-android/src/main/java/com/badoo/mvicore/android/AndroidBindings.kt" timestamp="1595944518771" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_document_photo_secondary_onfido.xml" timestamp="1595937810776">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -278,13 +266,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>animate = true</text>
+        <text>1</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>animate = true</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
