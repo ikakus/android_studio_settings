@@ -115,11 +115,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-android/src/main/java/com/badoo/mvicore/android/AndroidBinderLifecycle.kt" timestamp="1595944517144" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/PossibleAccountDataPresentationModel.kt" timestamp="1595946214401" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/values/strings.xml" timestamp="1595937574174">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1595942823577" />
       <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-demo/mvicore-demo-app/src/main/java/com/badoo/mvicoredemo/auth/Auth.kt" timestamp="1595945195388" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1595946539746" />
@@ -144,6 +139,7 @@
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-demo/mvicore-demo-feature2/src/main/java/com/badoo/feature2/Feature2.kt" timestamp="1596008644475" />
       <file name="$USER_HOME$/AndroidStudioProjects/MVICore/mvicore-android/src/main/java/com/badoo/mvicore/android/AndroidBindings.kt" timestamp="1595944518771" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/fragment_document_photo_secondary_onfido.xml" timestamp="1595937810776">
         <mark key="[" line="10" column="0" />
