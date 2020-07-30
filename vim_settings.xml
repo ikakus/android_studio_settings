@@ -96,6 +96,12 @@
         <mark key="]" line="135" column="63" />
         <mark key="." line="135" column="63" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/AccountSelectionDataPresentationModel.kt" timestamp="1596104585504">
+        <mark key="[" line="16" column="52" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/addmoney/add1addmoney/ADD1AddMoneyViewModel.kt" timestamp="1596102391050">
         <mark key="[" line="572" column="71" />
         <mark key="]" line="572" column="71" />
@@ -106,17 +112,11 @@
         <mark key="]" line="539" column="62" />
         <mark key="." line="539" column="62" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/exception/CustomException.kt" timestamp="1596095540723" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/PossibleAccountDataPresentationModel.kt" timestamp="1596104307921" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/createnewaccount/model/AccountCurrencyDomainModel.kt" timestamp="1596102824170">
         <mark key="[" line="16" column="4" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/AccountCurrency.kt" timestamp="1596102042297">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="26" column="55" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1596102545094">
         <mark key="[" line="96" column="100" />
@@ -134,6 +134,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/AccountSelectionDataDomainModel.kt" timestamp="1596104552609" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1596102259991">
         <mark key="[" line="150" column="12" />
         <mark key="]" line="7" column="0" />
@@ -144,12 +145,6 @@
         <mark key="[" line="172" column="63" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/moneymanagement/src/main/java/com/monese/monese/moneymanagement/setbudget/MM4s1SetBudgetViewModel.kt" timestamp="1596101940462">
-        <mark key="'" line="126" column="48" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1596103146855">
         <mark key="[" line="0" column="0" />
@@ -165,16 +160,15 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596104486006">
+        <mark key="[" line="283" column="55" />
+        <mark key="]" line="283" column="55" />
+        <mark key="." line="283" column="55" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1596102828405">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/learnmre/ONB3LearnMoreActivity.kt" timestamp="1596096785580">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/verification/nuxcard1roadblock/NuxCard1ActivationRoadblockViewModel.kt" timestamp="1596102758054">
         <mark key="[" line="184" column="71" />
@@ -292,26 +286,26 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuYWNjb3VudEN1cnJlbmN5RnJvbVN0cmluZwo=</text>
+      <register name="&quot;" type="4">
+        <text>forEach</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>.toDomainModel()</text>
+        <text>forEach</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBzaGFyZWRQcmVmZXJlbmNlc0hlbHBlcjogU2hhcmVkUHJlZmVyZW5jZXNIZWxwZXIK</text>
+        <text encoding="base64">ICAgIHZhbCBzdWdnZXN0ZWRBY2NvdW50OiBBY2NvdW50U2VsZWN0aW9uUHJlc2VudGF0aW9uTW9kZWw/Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuYWNjb3VudEN1cnJlbmN5RnJvbVN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuYWNjb3VudEN1cnJlbmN5RnJvbVN0cmluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zc2libGVBY2NvdW50RGF0YS5hZGQoCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmFjY291bnQuYWNjb3VudEN1cnJlbmN5RnJvbVN0cmluZwo=</text>
