@@ -91,11 +91,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/movemoney/MoveMoneyViewModel.kt" timestamp="1596102850334">
-        <mark key="[" line="135" column="63" />
-        <mark key="]" line="135" column="63" />
-        <mark key="." line="135" column="63" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/AccountSelectionDataPresentationModel.kt" timestamp="1596105062989">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -108,6 +103,7 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/AccountCurrency.kt" timestamp="1596109122572" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/navigation-args/dev/debug/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubFragmentDirections.java" timestamp="1596105976174">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
@@ -129,36 +125,16 @@
         <mark key="]" line="17" column="32" />
         <mark key="." line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/nocard/OrderDebitCardViewModel.kt" timestamp="1596102744437">
-        <mark key="[" line="172" column="63" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorViewModel.kt" timestamp="1596106727621" />
-      <file name="/Dummy.txt" timestamp="1596107510777">
+      <file name="/Dummy.txt" timestamp="1596109369673">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/pots/home/PotHome1s3ViewModel.kt" timestamp="1596102872346">
-        <mark key="[" line="131" column="102" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596107362379">
         <mark key="[" line="284" column="0" />
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/home/homeaccount/personal/PersonalAccountViewModel.kt" timestamp="1596102828405">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1596106711956" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/debitcard/verification/nuxcard1roadblock/NuxCard1ActivationRoadblockViewModel.kt" timestamp="1596102758054">
-        <mark key="[" line="184" column="71" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_type_selection.xml" timestamp="1596106730957" />
       <file name="/fragment.java" timestamp="1596105976452">
         <mark key="[" line="0" column="0" />
