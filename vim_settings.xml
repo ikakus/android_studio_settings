@@ -91,23 +91,35 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementEventBus.kt" timestamp="1596110814583">
+        <mark key="[" line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" timestamp="1596111259024">
+        <mark key="[" line="58" column="54" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementRely.kt" timestamp="1596110488295">
+        <mark key="[" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/AccountSelectionDataPresentationModel.kt" timestamp="1596105062989">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="^" line="56" column="12" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/PossibleAccountDataPresentationModel.kt" timestamp="1596104307921" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/accountsdata/createnewaccount/model/AccountCurrencyDomainModel.kt" timestamp="1596102824170">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/GetLastEntitlementDataUseCase.kt" timestamp="1596110969869">
+        <mark key="[" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/AccountCurrency.kt" timestamp="1596109122572" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1596111260203">
+        <mark key="[" line="516" column="89" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/navigation-args/dev/debug/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubFragmentDirections.java" timestamp="1596105976174">
         <mark key="[" line="26" column="16" />
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementRelyPostProvider.kt" timestamp="1596110520182">
+        <mark key="[" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/AccountSelectionDomainModel.kt" timestamp="1596105500307">
         <mark key="[" line="12" column="28" />
@@ -126,7 +138,7 @@
         <mark key="." line="17" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorViewModel.kt" timestamp="1596106727621" />
-      <file name="/Dummy.txt" timestamp="1596109369673">
+      <file name="/Dummy.txt" timestamp="1596110832284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596107362379">
@@ -135,6 +147,9 @@
         <mark key="." line="284" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1596106711956" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/PostEntitlementUseCase.kt" timestamp="1596111009469">
+        <mark key="[" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_type_selection.xml" timestamp="1596106730957" />
       <file name="/fragment.java" timestamp="1596105976452">
         <mark key="[" line="0" column="0" />
