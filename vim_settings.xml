@@ -95,22 +95,21 @@
         <mark key="[" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" timestamp="1596113092276">
-        <mark key="[" line="32" column="8" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementRely.kt" timestamp="1596113010680">
-        <mark key="[" line="6" column="17" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/AccountSelectionDataPresentationModel.kt" timestamp="1596116333982">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="56" column="12" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/GetLastEntitlementDataUseCase.kt" timestamp="1596110969869">
         <mark key="[" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/AccountCurrency.kt" timestamp="1596109122572" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1596112062700">
-        <mark key="[" line="526" column="91" />
-        <mark key="]" line="529" column="104" />
-        <mark key="." line="526" column="89" />
-        <mark key="^" line="525" column="10" />
+        <mark key="]" line="40" column="104" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementBusPostProvider.kt" timestamp="1596113071740" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementBusProvider.kt" timestamp="1596113034477" />
@@ -119,11 +118,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementRelyPostProvider.kt" timestamp="1596113062518">
-        <mark key="[" line="4" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementRelyPostProvider.kt" timestamp="1596115289384">
+        <mark key="[" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorViewModel.kt" timestamp="1596106727621" />
-      <file name="/Dummy.txt" timestamp="1596112744004">
+      <file name="/Dummy.txt" timestamp="1596115650232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596107362379">
@@ -131,7 +130,6 @@
         <mark key="]" line="284" column="0" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/ibanselector/Onb7s1IbanSelectorFragment.kt" timestamp="1596106711956" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/PostEntitlementUseCase.kt" timestamp="1596111009469">
         <mark key="[" line="9" column="28" />
       </file>
@@ -242,14 +240,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5idXMuZW50aXRsZW1lbnRyZWxheS5FbnRpdGxlbWVudEJ1c1Bvc3RQcm92aWRlcgo=</text>
+      <register name="&quot;" type="4">
+        <text>EntitlementRely</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>EntitlementRely</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
@@ -258,15 +256,21 @@
         <text encoding="base64">ICBAQmluZHMKICAgIGFic3RyYWN0IGZ1biBiaW5kRW50aXRsZW1lbnRSZXBvc2l0b3J5KHJlcG9zaXRvcnk6IEVudGl0bGVtZW50UmVwb3NpdG9yeUltcGwpOiBFbnRpdGxlbWVudFJlcG9zaXRvcnk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5idXMuZW50aXRsZW1lbnRyZWxheS5FbnRpdGxlbWVudEJ1c1Bvc3RQcm92aWRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5idXMuZW50aXRsZW1lbnRyZWxheS5FbnRpdGxlbWVudFJlbHkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5lbnRpdGxlbWVudC5tb2RlbC5FbnRpbGVtZW50QWN0aW9uRG9tYWluTW9kZWwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5idXMuZW50aXRsZW1lbnRyZWxheS5FbnRpdGxlbWVudEJ1c1Bvc3RQcm92aWRlcgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>//    @Provides
 //    fun provideGetLastEntitlementData(
 //        entitlementRepository: EntitlementRepository
@@ -293,13 +297,13 @@
 //        )
 //    }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>//    @Singleton
 //    @Provides
 //    fun provideGeoLocationRepository(
@@ -321,12 +325,6 @@
 //            ukPostCodePlacesManager
 //        )
 //    }</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLkVudGl0bGVtZW50UmVzdWx0Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLkVudGl0bGVtZW50UmVxdWVzdFJ4SGVscGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
