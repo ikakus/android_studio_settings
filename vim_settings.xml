@@ -94,24 +94,31 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementEventBus.kt" timestamp="1596110814583">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" timestamp="1596111259024">
-        <mark key="[" line="58" column="54" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/di/EntitlementModule.kt" timestamp="1596112427693">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/bus/entitlementrelay/EntitlementRely.kt" timestamp="1596110488295">
         <mark key="[" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/model/AccountSelectionDataPresentationModel.kt" timestamp="1596105062989">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="56" column="12" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/repository/EntitlementRepositoryImpl.kt" timestamp="1596112440757">
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/GetLastEntitlementDataUseCase.kt" timestamp="1596110969869">
         <mark key="[" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/account/AccountCurrency.kt" timestamp="1596109122572" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1596111260203">
-        <mark key="[" line="516" column="89" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/RepositoryModule.kt" timestamp="1596112062700">
+        <mark key="[" line="526" column="91" />
+        <mark key="]" line="529" column="104" />
+        <mark key="." line="526" column="89" />
+        <mark key="^" line="525" column="10" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateAccountViewModelTest.kt" timestamp="1596111739514">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build/generated/source/navigation-args/dev/debug/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubFragmentDirections.java" timestamp="1596105976174">
         <mark key="[" line="26" column="16" />
@@ -126,11 +133,6 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/entitlement/model/AccountSelectionDataDomainModel.kt" timestamp="1596105161466">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/TypeSelectionResponseEntity.kt" timestamp="1596105472875">
         <mark key="[" line="20" column="75" />
@@ -272,38 +274,79 @@
       <register name="/" type="4">
         <text encoding="base64">Pg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdWdnZXN0ZWRBY2NvdW50OiBBY2NvdW50U2VsZWN0aW9uUHJlc2VudGF0aW9uTW9kZWw/Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBAQmluZHMKICAgIGFic3RyYWN0IGZ1biBiaW5kRW50aXRsZW1lbnRSZXBvc2l0b3J5KHJlcG9zaXRvcnk6IEVudGl0bGVtZW50UmVwb3NpdG9yeUltcGwpOiBFbnRpdGxlbWVudFJlcG9zaXRvcnk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>AccountSelectionDataPresentationModel(
-                    possibleAccountData,
-                    suggestedAccount
-                )</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHZhbCBwb3NzaWJsZUFjY291bnREYXRhID0KICAgICAgICAgICAgYWN0aW9uLmFjY291bnRTZWxlY3Rpb25EYXRhPy5wb3NzaWJsZUFjY291bnRzPy5tYXAgeyBpdCAtPgogICAgICAgICAgICAgICAgUG9zc2libGVBY2NvdW50RGF0YVByZXNlbnRhdGlvbk1vZGVsKAogICAgICAgICAgICAgICAgICAgIGl0LmFjY291bnRUeXBlLAogICAgICAgICAgICAgICAgICAgIGl0LmFjY291bnRDdXJyZW5jeSwKICAgICAgICAgICAgICAgICAgICBpdC5jb29yZGluYXRlQ291bnRyaWVzPy5tYXAgeyBjb3VudHJ5SXNvMyAtPgogICAgICAgICAgICAgICAgICAgICAgICBDb3VudHJ5LnZhbHVlcygpLmZpcnN0IHsgY291bnRyeSAtPiBjb3VudHJ5LmlzbzMgPT0gY291bnRyeUlzbzMgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQoKICAgICAgICB2YWwgc3VnZ2VzdGVkQWNjb3VudCA9IEFjY291bnRTZWxlY3Rpb25QcmVzZW50YXRpb25Nb2RlbCgKICAgICAgICAgICAgYWN0aW9uLmFjY291bnRTZWxlY3Rpb25EYXRhPy5zdWdnZXN0ZWRBY2NvdW50Py5hY2NvdW50VHlwZSwKICAgICAgICAgICAgYWN0aW9uLmFjY291bnRTZWxlY3Rpb25EYXRhPy5zdWdnZXN0ZWRBY2NvdW50Py5hY2NvdW50Q3VycmVuY3kKICAgICAgICAgICAgICAgID86IGFjdGlvbi5hY2NvdW50U2VsZWN0aW9uRGF0YT8uc3VnZ2VzdGVkQ3VycmVuY3ksCiAgICAgICAgICAgIGFjdGlvbi5hY2NvdW50U2VsZWN0aW9uRGF0YT8uc3VnZ2VzdGVkQWNjb3VudD8uY29vcmRpbmF0ZUNvdW50cnkKICAgICAgICAp</text>
+      <register name="3" type="2">
+        <text>//    @Provides
+//    fun provideGetLastEntitlementData(
+//        entitlementRepository: EntitlementRepository
+//    ): GetLastEntitlementDataUseCase {
+//        return GetLastEntitlementDataUseCase(entitlementRepository)
+//    }
+
+//    @Provides
+//    fun provideAccessIntentUseCase(
+//        entitlementRepository: EntitlementRepository
+//    ): PostEntitlementUseCase {
+//        return PostEntitlementUseCase(entitlementRepository)
+//    }
+
+//    @Provides
+//    @Singleton
+//    fun provideAccessRepository(
+//        api: EntitlementApi,
+//        remoteHelper: RemoteHelper
+//    ): EntitlementRepository {
+//        return EntitlementRepositoryImpl(
+//            api,
+//            remoteHelper
+//        )
+//    }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpb24uYWNjb3VudFNlbGVjdGlvbkRhdGE/LnN1Z2dlc3RlZEFjY291bnQ/LmFjY291bnRUeXBlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VnZ2VzdGVkQ3VycmVuY3ksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdWdnZXN0ZWRDdXJyZW5jeTogU3RyaW5nPywK</text>
+        <text>//    @Singleton
+//    @Provides
+//    fun provideGeoLocationRepository(
+//        locationManager: GeoLocationManager
+//    ): GeoLocationRepository {
+//        return GeoLocationRepositoryImpl(
+//            locationManager
+//        )
+//    }
+
+//    @Singleton
+//    @Provides
+//    fun provideGooglePlacesRepository(
+//        placesManager: PlacesManager,
+//        ukPostCodePlacesManager: UkPostCodePlacesManager
+//    ): PlacesRepository {
+//        return PlacesRepositoryImpl(
+//            placesManager,
+//            ukPostCodePlacesManager
+//        )
+//    }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLkVudGl0bGVtZW50UmVzdWx0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLkVudGl0bGVtZW50UmVxdWVzdFJ4SGVscGVyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zc2libGVBY2NvdW50RGF0YS5hZGQoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
