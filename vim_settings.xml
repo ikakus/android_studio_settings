@@ -118,13 +118,13 @@
         <mark key="]" line="193" column="0" />
         <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/common/GradAccountCreationFragment.kt" timestamp="1596193324221">
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/common/GradAccountCreationFragment.kt" timestamp="1596195030490">
+        <mark key="[" line="26" column="42" />
         <mark key="]" line="49" column="0" />
         <mark key="^" line="26" column="4" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_creation.xml" timestamp="1596193060744" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_creation.xml" timestamp="1596195006048" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/activity_pt_pricing.xml" timestamp="1596193187313" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/common/GradAccountCreationViewModel.kt" timestamp="1596192708133">
         <mark key="[" line="28" column="0" />
