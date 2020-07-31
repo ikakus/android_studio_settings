@@ -91,6 +91,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" timestamp="1596186033527">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/forgotpasscode/repository/ForgotPasscodeRepositoryImpl.kt" timestamp="1596181130641">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="8" column="63" />
@@ -101,14 +106,25 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/interfaces/EntitlementService.kt" timestamp="1596121205283">
         <mark key="[" line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1596185551702">
+        <mark key="[" line="40" column="4" />
+        <mark key="]" line="79" column="24" />
+        <mark key="." line="79" column="23" />
+        <mark key="^" line="79" column="24" />
+      </file>
       <file name="/Dummy.txt" timestamp="1596183778326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596120972028">
-        <mark key="[" line="54" column="20" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementViewModel.kt" timestamp="1596185058866">
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" timestamp="1596120852135">
-        <mark key="[" line="39" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_type_selection.xml" timestamp="1596186049808">
+        <mark key="[" line="8" column="105" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="10" column="15" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="/fragment.java" timestamp="1596183537120">
         <mark key="[" line="0" column="0" />
@@ -220,13 +236,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGYWxsYmFjayBpZiBCRSBkb2VzIG5vdCByZXR1cm4gYXZhaWxhYmxlIGFjY291bnQgdHlwZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentVerificationExceededException</text>
+        <text>coordinateCountryListener</text>
       </register>
       <register name="/" type="4">
         <text>sm</text>
@@ -235,32 +251,31 @@
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuZm9yZ290cGFzc2NvZGUuY29tbW9uLmV4Y2VwdGlvbnMuRG9jdW1lbnRWZXJpZmljYXRpb25FeGNlZWRlZEV4Y2VwdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGYWxsYmFjayBpZiBCRSBkb2VzIG5vdCByZXR1cm4gYXZhaWxhYmxlIGFjY291bnQgdHlwZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlbW90ZUhlbHBlcjogUmVtb3RlSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHJlbW90ZUhlbHBlcjogUmVtb3RlSGVscGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRhdGEuZm9yZ290cGFzc2NvZGUuY29tbW9uLmV4Y2VwdGlvbnMuKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNhbGxiYWNrIGdldHMgdHJpZ2dlcmVkIHdoZW4gdGhlcmUgaXMgbm8gYWN0aW9uIHRvIGJlIGRvbmUgKFNlcnZlciByZXNwb25kZWQgd2l0aCBOT05FKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogICAgICAgICAgICAgICAgICB1c2VyIGNhbiBwcm9jZWVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
-      <register name="7" type="4">
-        <text>@param callback gets triggered when there is no action to be done (Server responded with NONE)
- *                  user can proceed</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCiAgICBsYXRlaW5pdCB2YXIgZW50aXRsZW1lbnRQcm9jZWVkQ2FsbGJhY2s6IEVudGl0bGVtZW50UHJvY2VlZENhbGxiYWNrCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOmVudGVyQW5pbT0iQGFuaW0vc2xpZGVfaW5fcmlnaHQiCiAgICAgICAgICAgIGFwcDpleGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFbnRlckFuaW09IkBhbmltL3NsaWRlX2luX2xlZnQiCiAgICAgICAgICAgIGFwcDpwb3BFeGl0QW5pbT0iQGFuaW0vc2xpZGVfb3V0X3JpZ2h0Igo=</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
