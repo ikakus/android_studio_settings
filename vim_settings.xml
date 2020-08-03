@@ -104,32 +104,36 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="14" column="70" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1596460884347">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubViewModel.kt" timestamp="1596464204547">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="71" column="8" />
-        <mark key="]" line="70" column="24" />
-        <mark key="." line="70" column="23" />
-        <mark key="^" line="70" column="24" />
+        <mark key="[" line="126" column="20" />
+        <mark key="]" line="191" column="27" />
+        <mark key="m" line="196" column="4" />
+        <mark key="." line="191" column="26" />
+        <mark key="^" line="191" column="27" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubFragment.kt" timestamp="1596461398746">
-        <mark key="[" line="92" column="26" />
-        <mark key="]" line="92" column="73" />
-        <mark key="." line="92" column="72" />
-        <mark key="^" line="92" column="73" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/GradAccountSelectionHubFragment.kt" timestamp="1596463870209">
+        <mark key="[" line="92" column="24" />
+        <mark key="]" line="92" column="47" />
+        <mark key="." line="92" column="46" />
+        <mark key="^" line="92" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/ONB7s0s1ConfirmDialog.kt" timestamp="1596461665808">
+      <file name="/Dummy.txt" timestamp="1596464031860">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/accountselector/ONB7s0s1ConfirmDialog.kt" timestamp="1596463803777">
         <mark key="'" line="10" column="41" />
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="12" column="75" />
-        <mark key="." line="12" column="74" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="7" column="47" />
+        <mark key="^" line="7" column="47" />
+        <mark key="." line="7" column="46" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/HelperModule.kt" timestamp="1596453724225">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/strings/src/main/res/values/strings.xml" timestamp="1596461774771">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/strings/src/main/res/values/strings.xml" timestamp="1596463692265">
         <mark key="'" line="5817" column="18" />
         <mark key="[" line="5834" column="49" />
         <mark key="]" line="5834" column="49" />
@@ -259,13 +263,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>eefore you start, make sure to have 2 separate ID documents to hand.</text>
+        <text>readyClickListener</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>eefore you start, make sure to have 2 separate ID documents to hand.</text>
+        <text>readyClickListener</text>
       </register>
       <register name="/" type="4">
         <text>sm</text>
