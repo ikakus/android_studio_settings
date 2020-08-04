@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>view</entry>
         <entry>main</entry>
         <entry>zen</entry>
         <entry>cance</entry>
@@ -27,6 +26,7 @@
         <entry>sm</entry>
         <entry>add</entry>
         <entry>ent</entry>
+        <entry>ty</entry>
       </history-search>
       <history-cmd>
         <entry>79</entry>
@@ -109,12 +109,12 @@
         <mark key="^" line="76" column="36" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModelTest.kt" timestamp="1596546917968">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="109" column="29" />
-        <mark key="]" line="109" column="29" />
-        <mark key="." line="109" column="29" />
-        <mark key="^" line="120" column="29" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModelTest.kt" timestamp="1596548467006">
+        <mark key="'" line="75" column="12" />
+        <mark key="[" line="75" column="76" />
+        <mark key="]" line="75" column="80" />
+        <mark key="." line="75" column="79" />
+        <mark key="^" line="75" column="80" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/onboarding/registration/RegistrationViewModel.kt" timestamp="1596546094368">
         <mark key="[" line="23" column="0" />
@@ -140,11 +140,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/usecase/GetLastEntitlementDataUseCase.kt" timestamp="1596541171837">
         <mark key="[" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1596539769833">
-        <mark key="[" line="87" column="25" />
-        <mark key="]" line="88" column="36" />
-        <mark key="^" line="88" column="36" />
-        <mark key="." line="88" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateAccountViewModelTest.kt" timestamp="1596548034708">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="120" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/repository/EntitlementRepository.kt" timestamp="1596540417971">
         <mark key="[" line="10" column="69" />
@@ -173,10 +173,10 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="12" column="54" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementService.kt" timestamp="1596539776175">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementService.kt" timestamp="1596548008283">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/model/ActionTypeDomainModel.kt" timestamp="1596544793861">
         <mark key="[" line="66" column="34" />
@@ -192,7 +192,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="234" column="31" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHostActivity.kt" />
       <jump line="221" column="33" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" />
       <jump line="340" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_entitlement.xml" />
       <jump line="243" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
@@ -292,51 +291,58 @@
       <jump line="107" column="40" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModelTest.kt" />
       <jump line="149" column="76" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModelTest.kt" />
       <jump line="152" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModelTest.kt" />
+      <jump line="75" column="12" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModelTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZyhvdGhlcndpc2UgPSBWaXNpYmxlRm9yVGVzdGluZy5QUklWQVRFKQo=</text>
+      <register name="&quot;" type="4">
+        <text>type</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>getHandlerAndExecute</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
-        <text>ent</text>
+        <text>ty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QFN1cHByZXNzV2FybmluZ3MoIkxvbmdQYXJhbWV0ZXJMaXN0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExhc3RFbnRpdGxlbWVudERhdGFEb21haW5Nb2RlbCgKICAgICAgICAgICAgICAgICAgICBlbnRpdGxlbWVudCA9IEVudGl0bGVtZW50LkFERFJFU1MsCiAgICAgICAgICAgICAgICAgICAgYWN0aW9uVHlwZURvbWFpbk1vZGVsID0gQWN0aW9uVHlwZURvbWFpbk1vZGVsLkFkZHJlc3NFbnRyeSgpCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZyhvdGhlcndpc2UgPSBWaXNpYmxlRm9yVGVzdGluZy5QUklWQVRFKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5reWMuZW50aXRsZW1lbnQubW9kZWwuQWN0aW9uVHlwZURvbWFpbk1vZGVsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZyhvdGhlcndpc2UgPSBWaXNpYmxlRm9yVGVzdGluZy5QUklWQVRFKQo=</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7CiAgICAgICAgICAgIGVudGl0bGVtZW50U2VydmljZShhbnkoKSkKICAgICAgICB9IHJldHVybnMgU2luZ2xlLmp1c3QoCiAgICAgICAgICAgIEFjdGlvblR5cGVEb21haW5Nb2RlbC5Ob25lCiAgICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmRvbWFpbi5reWMuZW50aXRsZW1lbnQudXNlY2FzZS5BcmcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVySGFuZGxlclZpZXdNb2RlbC5yZXNvbHZlKEVudGl0bGVtZW50V2l0aERhdGEoRW50aXRsZW1lbnQuQ0REX1FVRVNUSU9OTkFJUkUpKQo=</text>
+        <text encoding="base64">ICAgICAgICBldmVyeSB7CiAgICAgICAgICAgIGVudGl0bGVtZW50U2VydmljZShhbnkoKSkKICAgICAgICB9IHJldHVybnMgU2luZ2xlLmp1c3QoCiAgICAgICAgICAgIEFjdGlvblR5cGVEb21haW5Nb2RlbC5Ob25lCiAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>sealed class EntitlementServiceEvent {
+    object Done : EntitlementServiceEvent()
+    object Canceled : EntitlementServiceEvent()
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVySGFuZGxlclZpZXdNb2RlbC5yZXNvbHZlKEVudGl0bGVtZW50V2l0aERhdGEoZW50aXRsZW1lbnQpKQo=</text>
+        <text>sealed class EntitlementServiceEvent {
+    object Done : EntitlementServiceEvent()
+    object Canceled : EntitlementServiceEvent()
+}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVySGFuZGxlclZpZXdNb2RlbCA9CiAgICAgICAgICAgIEVudGl0bGVtZW50SGFuZGxlclZpZXdNb2RlbCgKICAgICAgICAgICAgICAgIHJlc29sdmVFbnRpdGxlbWVudFVzZUNhc2UsCiAgICAgICAgICAgICAgICB0YWtlTGFzdEVudGl0bGVtZW50RGF0YVVzZUNhc2UsCiAgICAgICAgICAgICAgICBhY3Rpb25Eb25lRXZlbnRQcm92aWRlciwKICAgICAgICAgICAgICAgIGZlYXR1cmVGbGFnTWFuYWdlciwKICAgICAgICAgICAgICAgIGVudGl0bGVtZW50SGFuZGxlckhhbmRsZXJCdXMsCiAgICAgICAgICAgICAgICBzY2hlZHVsZXJQcm92aWRlciwKICAgICAgICAgICAgICAgIHRydWUKICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZyhvdGhlcndpc2UgPSBWaXNpYmxlRm9yVGVzdGluZy5QUklWQVRFKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYW5kbGVySGFuZGxlclZpZXdNb2RlbC5yZXNvbHZlKEVudGl0bGVtZW50V2l0aERhdGEoRW50aXRsZW1lbnQuQUREUkVTUykpCg==</text>
+        <text encoding="base64">ICAgIEBWaXNpYmxlRm9yVGVzdGluZyhvdGhlcndpc2UgPSBWaXNpYmxlRm9yVGVzdGluZy5QUklWQVRFKQo=</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
@@ -345,9 +351,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>ent</last-search>
+      <last-search>ty</last-search>
       <last-offset />
-      <last-pattern>ent</last-pattern>
+      <last-pattern>ty</last-pattern>
       <last-replace>assertEquals</last-replace>
       <last-substitute>assert</last-substitute>
       <last-dir>1</last-dir>
