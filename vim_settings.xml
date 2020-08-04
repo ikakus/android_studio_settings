@@ -163,8 +163,10 @@
         <mark key="^" line="55" column="80" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596528025760">
-        <mark key="[" line="146" column="84" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementHandlerViewModel.kt" timestamp="1596529329628">
+        <mark key="[" line="384" column="0" />
+        <mark key="]" line="384" column="0" />
+        <mark key="." line="384" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/PostAccessEntitlementsUseCase.kt" timestamp="1596524724498">
         <mark key="[" line="16" column="32" />
@@ -284,7 +286,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGVudGl0bGVtZW50UmVzb2x2ZXJDYWxsYmFjazogRW50aXRsZW1lbnRSZXNvbHZlckNhbGxiYWNrPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLnRhZyhUQUcpLmQoImNhbGxPYnNlcnZlciBvblN1Y2Nlc3MgYWN0aW9uOiBvbiBzdGFjay5lbXB0eSgpIikK</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -299,31 +301,31 @@
         <text encoding="base64">ICAgIGZ1biBvbkRvbmUoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGVudGl0bGVtZW50UmVzb2x2ZXJDYWxsYmFjazogRW50aXRsZW1lbnRSZXNvbHZlckNhbGxiYWNrPyA9IG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVGltYmVyLnRhZyhUQUcpLmQoImNhbGxPYnNlcnZlciBvblN1Y2Nlc3MgYWN0aW9uOiBvbiBzdGFjay5lbXB0eSgpIikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSBlbnRpdGxlbWVudCBFbnRpdGxlbWVudCB0aGFudCB3aWxsIGJlIHNlbnQgdG8gYmFja2VuZAogKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW50aXRsZW1lbnRSZXNvbHZlckNhbGxiYWNrPy5vbkNhbmNlbGVkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHBhcmFtIGNhbGxiYWNrIGdldHMgdHJpZ2dlcmVkIHdoZW4gdGhlcmUgaXMgbm8gYWN0aW9uIHRvIGJlIGRvbmUgKFNlcnZlciByZXNwb25kZWQgd2l0aCBOT05FKQogKiAgICAgICAgICAgICAgICAgIHVzZXIgY2FuIHByb2NlZWQK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGVudGl0bGVtZW50UmVzb2x2ZXJDYWxsYmFjazogRW50aXRsZW1lbnRSZXNvbHZlckNhbGxiYWNrPyA9IG51bGwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNsb3NlQWN0aXZpdHkoKQo=</text>
+        <text encoding="base64">LyoqCiAqIEBwYXJhbSBlbnRpdGxlbWVudCBFbnRpdGxlbWVudCB0aGFudCB3aWxsIGJlIHNlbnQgdG8gYmFja2VuZAogKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIGNhbGxiYWNrIGdldHMgdHJpZ2dlcmVkIHdoZW4gdGhlcmUgaXMgbm8gYWN0aW9uIHRvIGJlIGRvbmUgKFNlcnZlciByZXNwb25kZWQgd2l0aCBOT05FKQogKiAgICAgICAgICAgICAgICAgIHVzZXIgY2FuIHByb2NlZWQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9uQ2xvc2VBY3Rpdml0eSgpIHsKICAgICAgICBmaW5pc2goKQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvbkNsb3NlQWN0aXZpdHkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzIEFjdGlvbkhhbmRsZXJOYXZpZ2F0aW9uLkNsb3NlIC0+IG9uQ2xvc2VBY3Rpdml0eShpdC5oYXNFcnJvcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9hY3Rpb25IYW5kbGVyTmF2aWdhdGlvbi5wb3N0VmFsdWUoQWN0aW9uSGFuZGxlck5hdmlnYXRpb24uQ2xvc2UpCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIG9uQ2xvc2VBY3Rpdml0eSgpIHsKICAgICAgICBmaW5pc2goKQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX2FjdGlvbkhhbmRsZXJOYXZpZ2F0aW9uLnBvc3RWYWx1ZShBY3Rpb25IYW5kbGVyTmF2aWdhdGlvbi5DbG9zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzIEFjdGlvbkhhbmRsZXJOYXZpZ2F0aW9uLkNsb3NlIC0+IG9uQ2xvc2VBY3Rpdml0eShpdC5oYXNFcnJvcikK</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
