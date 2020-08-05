@@ -134,11 +134,11 @@
         <mark key="^" line="32" column="35" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1596552278578">
-        <mark key="[" line="87" column="25" />
-        <mark key="]" line="88" column="36" />
-        <mark key="^" line="88" column="36" />
-        <mark key="." line="88" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1596616013527">
+        <mark key="[" line="84" column="35" />
+        <mark key="]" line="85" column="38" />
+        <mark key="^" line="85" column="38" />
+        <mark key="." line="85" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/common/GradAccountCreationViewModel.kt" timestamp="1596613129125">
         <mark key="[" line="14" column="56" />
@@ -159,12 +159,17 @@
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="/EntitlementRepositoryImpl.kt" timestamp="1596544401981" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/PreLoginEntitlementsManager.kt" timestamp="1596616039340">
+        <mark key="[" line="51" column="24" />
+        <mark key="]" line="51" column="12" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="51" column="12" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/EntitlementLoadingFragment.kt" timestamp="1596613997557" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementService.kt" timestamp="1596615201282">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="18" column="4" />
-        <mark key="." line="18" column="3" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementService.kt" timestamp="1596615981576">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="47" />
+        <mark key="." line="7" column="47" />
         <mark key="^" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/common/GradAccountCreationFragment.kt" timestamp="1596613424396">
@@ -290,13 +295,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>canCloseFlow</text>
+        <text>= EntitlementContext.ONBOARDING</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>canCloseFlow</text>
+        <text>= EntitlementContext.ONBOARDING</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
