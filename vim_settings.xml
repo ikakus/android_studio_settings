@@ -140,6 +140,11 @@
       <file name="/fragment.java" timestamp="1596626324637">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/anctionhandler/ActionHandlerViewModel.kt" timestamp="1596629760143">
+        <mark key="]" line="56" column="47" />
+        <mark key="^" line="56" column="47" />
+        <mark key="." line="56" column="46" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="243" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
