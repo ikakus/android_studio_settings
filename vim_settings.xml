@@ -161,10 +161,11 @@
       </file>
       <file name="/EntitlementRepositoryImpl.kt" timestamp="1596544401981" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/EntitlementLoadingFragment.kt" timestamp="1596613997557" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementService.kt" timestamp="1596614183628">
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementService.kt" timestamp="1596615201282">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="18" column="4" />
+        <mark key="." line="18" column="3" />
+        <mark key="^" line="18" column="4" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/handlers/accounttypeselection/common/GradAccountCreationFragment.kt" timestamp="1596613424396">
         <mark key="[" line="13" column="0" />
@@ -175,11 +176,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/model/ActionTypeDomainModel.kt" timestamp="1596544793861">
         <mark key="[" line="66" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementServiceImpl.kt" timestamp="1596551178745">
-        <mark key="'" line="94" column="4" />
-        <mark key="[" line="23" column="35" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="35" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/EntitlementServiceImpl.kt" timestamp="1596615632225">
+        <mark key="'" line="100" column="4" />
+        <mark key="[" line="66" column="88" />
+        <mark key="]" line="66" column="87" />
+        <mark key="^" line="66" column="84" />
+        <mark key="." line="66" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -287,14 +289,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5FbnRpdGxlbWVudExvYWRpbmdGcmFnbWVudERpcmVjdGlvbnMK</text>
+      <register name="&quot;" type="4">
+        <text>canCloseFlow</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>SchedulerProvider</text>
+        <text>canCloseFlow</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
@@ -303,28 +305,28 @@
         <text encoding="base64">ICAgICAgICByeFJ1bGUudGVzdFNjaGVkdWxlci5hZHZhbmNlVGltZUJ5KDEsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5FbnRpdGxlbWVudExvYWRpbmdGcmFnbWVudERpcmVjdGlvbnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbCBjYW5DbG9zZUZsb3cgPSBpZihlbnRpdGNvKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5idXMuZW50aXRsZW1lbnRyZWxheS5FbnRpdGxlbWVudEJ1c1Bvc3RQcm92aWRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5FbnRpdGxlbWVudExvYWRpbmdGcmFnbWVudERpcmVjdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAZ2V0OlJ1bGUKICAgIHZhbCBydWxlID0gSW5zdGFudFRhc2tFeGVjdXRvclJ1bGUoKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5idXMuZW50aXRsZW1lbnRyZWxheS5FbnRpdGxlbWVudEJ1c1Bvc3RQcm92aWRlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBAZ2V0OlJ1bGUKICAgIHZhbCBydWxlID0gSW5zdGFudFRhc2tFeGVjdXRvclJ1bGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBlbnRpdGxlbWVudFNlcnZpY2U6IEVudGl0bGVtZW50U2VydmljZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRW50aXRsZW1lbnRBY3Rpb25Ebwo=</text>
+        <text encoding="base64">ICAgIGxhdGVpbml0IHZhciBlbnRpdGxlbWVudFNlcnZpY2U6IEVudGl0bGVtZW50U2VydmljZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmNvcmUuc2NoZWR1bGVycy5TY2hlZHVsZXJQcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRW50aXRsZW1lbnRBY3Rpb25Ebwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmNvcmUuc2NoZWR1bGVycy5TY2hlZHVsZXJQcm92aWRlcgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
