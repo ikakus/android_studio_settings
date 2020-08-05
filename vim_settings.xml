@@ -91,7 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1596627142333">
+      <file name="/Dummy.txt" timestamp="1596628594245">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementservice/EntitlementService.kt" timestamp="1596626626176">
@@ -100,14 +100,29 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="20" column="30" />
       </file>
+      <file name="/fragment.kt" timestamp="1596628646215">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/PreLoginEntitlementsManager.kt" timestamp="1596628423527">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="19" column="71" />
+        <mark key="^" line="19" column="71" />
+        <mark key="." line="19" column="70" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/entitlementbus/EntitlementHandlerHandlerBus.kt" timestamp="1596620702804">
         <mark key="[" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/bus/EntitlementHandlerBus.kt" timestamp="1596626979686">
         <mark key="[" line="14" column="83" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/EntitlementHandlerActivity.kt" timestamp="1596625650862">
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/ActionHandlerActivity.kt" timestamp="1596629261144">
+        <mark key="[" line="34" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/EntitlementHandlerViewModel.kt" timestamp="1596629279921">
+        <mark key="[" line="49" column="12" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/EntitlementHandlerActivity.kt" timestamp="1596629129614">
+        <mark key="[" line="34" column="20" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
