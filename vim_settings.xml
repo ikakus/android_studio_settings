@@ -91,21 +91,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1596627142333">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementservice/EntitlementService.kt" timestamp="1596626626176">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="20" column="31" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="20" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/entitlementbus/EntitlementHandlerHandlerBus.kt" timestamp="1596620702804">
+        <mark key="[" line="8" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/bus/EntitlementHandlerBus.kt" timestamp="1596626979686">
+        <mark key="[" line="14" column="83" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/EntitlementHandlerActivity.kt" timestamp="1596625650862">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596621375230">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/bus/EntitlementHandlerCallbackBus.kt" timestamp="1596627039740">
+        <mark key="[" line="13" column="76" />
+        <mark key="]" line="13" column="76" />
+        <mark key="." line="13" column="76" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/entitlementbus/EntitlementHandlerHandlerBus.kt" timestamp="1596620702804">
-        <mark key="[" line="8" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/bus/EntitlementActionEventBus.kt" timestamp="1596627117806">
+        <mark key="[" line="19" column="84" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/entitlementbus/EntitlementHandlerBus.kt" timestamp="1596620717268">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1596621946535">
+      <file name="/fragment.java" timestamp="1596626324637">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -214,14 +231,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c2VydmljZS5lbnRpdGxlbWVudGhhbmRsZXIuRW50aXRsZW1lbnRMb2FkaW5nRnJhZ21lbnREaXJlY3Rpb25zCg==</text>
+      <register name="&quot;" type="4">
+        <text>notify</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>notify</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
