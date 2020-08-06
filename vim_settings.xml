@@ -109,6 +109,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/bus/EntitlementHandlerCallbackBus.kt" timestamp="1596705687991">
         <mark key="[" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/build.gradle" timestamp="1596717838372">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="36" column="39" />
+        <mark key="." line="34" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="243" column="15" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/ViewModelModule.kt" />
@@ -216,7 +221,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c3lzdGVtLmFjdGlvbmhhbmRsZXIuYnVzLkVudGl0bGVtZW50SGFuZGxlckJ1c1Byb3ZpZGVyZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5pZnlFbmFibGVkIHRydWUKICAgICAgICAgICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -228,7 +233,7 @@
         <text>ty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByeFJ1bGUudGVzdFNjaGVkdWxlci5hZHZhbmNlVGltZUJ5KDEsIFRpbWVVbml0LlNFQ09ORFMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtaW5pZnlFbmFibGVkIHRydWUKICAgICAgICAgICAgICAgICAgICBwcm9ndWFyZEZpbGVzIGdldERlZmF1bHRQcm9ndWFyZEZpbGUoJ3Byb2d1YXJkLWFuZHJvaWQudHh0JyksICdwcm9ndWFyZC1ydWxlcy5wcm8nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c3lzdGVtLmFjdGlvbmhhbmRsZXIuYnVzLkVudGl0bGVtZW50SGFuZGxlckJ1c1Byb3ZpZGVyZAo=</text>
