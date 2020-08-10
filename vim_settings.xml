@@ -97,7 +97,12 @@
       <file name="/Dummy.txt" timestamp="1597049289140">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/base/SessionManager.kt" timestamp="1597049361192" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/base/SessionManager.kt" timestamp="1597052072649">
+        <mark key="[" line="85" column="13" />
+        <mark key="]" line="85" column="36" />
+        <mark key="^" line="85" column="36" />
+        <mark key="." line="85" column="35" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/addressview/CustomAddressForm.kt" timestamp="1596786724887">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -109,6 +114,7 @@
         <mark key="." line="244" column="36" />
         <mark key="^" line="112" column="8" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/processing/GradualOnboardingProcessingViewModel.kt" timestamp="1597052447107" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/model/EntitlementActionDomainModel.kt" timestamp="1596813384024">
         <mark key="[" line="8" column="6" />
       </file>
@@ -119,12 +125,6 @@
         <mark key="^" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/core/src/main/java/com/monese/monese/core/connection/SessionEventPublisher.kt" timestamp="1597049414344" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/common/AccountCreationFragment.kt" timestamp="1596721891295">
-        <mark key="[" line="55" column="66" />
-        <mark key="]" line="55" column="67" />
-        <mark key="^" line="55" column="67" />
-        <mark key="." line="55" column="66" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/ActionHandlerActivity.kt" timestamp="1596813122527">
         <mark key="[" line="290" column="19" />
         <mark key="]" line="290" column="19" />
@@ -247,19 +247,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>InsufficientFunds</text>
+        <text>essionTTLSeconds</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>InsufficientFunds</text>
+        <text>essionTTLSeconds</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXN0VXRpbHMuc2V0dXBMaWZlY3ljbGVPd25lcihsaWZlY3ljbGVPd25lcikK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNlc3Npb25UVExTZWNvbmRzID0gNjAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIGFzc2VydFRoYXQodmlld01vZGVsLmxvYWRpbmcudmFsdWUsIElzRXF1YWwodHJ1ZSkpCg==</text>
