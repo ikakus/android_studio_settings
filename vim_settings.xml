@@ -121,16 +121,14 @@
         <mark key="^" line="290" column="19" />
         <mark key="." line="290" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/model/Entitlement.kt" timestamp="1596808661836">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1597074690748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1597055666931">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementservice/EntitlementServiceImpl.kt" timestamp="1597133836175">
+        <mark key="[" line="67" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/auth/MoneseApiManager.kt" timestamp="1597065799139" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1597068620489">
