@@ -129,19 +129,19 @@
         <mark key="." line="26" column="8" />
         <mark key="^" line="26" column="9" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectionHubViewModel.kt" timestamp="1597154717117">
-        <mark key="'" line="224" column="0" />
-        <mark key="[" line="97" column="51" />
-        <mark key="]" line="98" column="18" />
-        <mark key="." line="98" column="17" />
-        <mark key="^" line="98" column="18" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectionHubViewModel.kt" timestamp="1597154873136">
+        <mark key="'" line="221" column="0" />
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="84" column="48" />
+        <mark key="." line="84" column="47" />
+        <mark key="^" line="84" column="48" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597154560810">
+      <file name="/Dummy.txt" timestamp="1597154885539">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="/fragment.kt" timestamp="1597055666931">
+      <file name="/fragment.kt" timestamp="1597155372904">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectorListener.kt" timestamp="1597151016844" />
@@ -269,8 +269,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>accountSelectionData?.possibleAccounts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ci8vICAgICAgICBhY2NvdW50U2VsZWN0aW9uRGF0YT8ucG9zc2libGVBY2NvdW50cz8ubGV0IHsKLy8gICAgICAgICAgICBpdC5mb3JFYWNoIHsgbW9kZWwgLT4KLy8gICAgICAgICAgICAgICAgd2hlbiAobW9kZWwuYWNjb3VudEN1cnJlbmN5KSB7Ci8vICAgICAgICAgICAgICAgICAgICBFVVJfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICAgICAgICAgICAgICBHQlBfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICAgICAgICAgIFJPTl9DVVJSRU5DWV9DT0RFIC0+IGFjY291bnRUeXBlcy5hZGQoT25ib2FyZGluZ0FjY291bnRUeXBlLlJPTikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0gPzogcnVuIHsKLy8gICAgICAgICAgICAvLyBGYWxsYmFjayBpZiBCRSBkb2VzIG5vdCByZXR1cm4gYXZhaWxhYmxlIGFjY291bnQgdHlwZXMKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICB9Ci8vCg==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
@@ -285,28 +285,28 @@
         <text encoding="base64">ICAgICAgICB2aWV3QWRhcHRlciA9IEFjY291bnRUeXBlc0FkYXB0ZXIoYWNjb3VudFR5cGVzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vICAgICAgICBhY2NvdW50U2VsZWN0aW9uRGF0YT8ucG9zc2libGVBY2NvdW50cz8ubGV0IHsKLy8gICAgICAgICAgICBpdC5mb3JFYWNoIHsgbW9kZWwgLT4KLy8gICAgICAgICAgICAgICAgd2hlbiAobW9kZWwuYWNjb3VudEN1cnJlbmN5KSB7Ci8vICAgICAgICAgICAgICAgICAgICBFVVJfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICAgICAgICAgICAgICBHQlBfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICAgICAgICAgIFJPTl9DVVJSRU5DWV9DT0RFIC0+IGFjY291bnRUeXBlcy5hZGQoT25ib2FyZGluZ0FjY291bnRUeXBlLlJPTikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0gPzogcnVuIHsKLy8gICAgICAgICAgICAvLyBGYWxsYmFjayBpZiBCRSBkb2VzIG5vdCByZXR1cm4gYXZhaWxhYmxlIGFjY291bnQgdHlwZXMKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICB9Ci8vCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBfcG9zc2libGVBY2NvdW50cy5wb3N0VmFsdWUoYWNjb3VudFNlbGVjdGlvbkRhdGE/LnBvc3NpYmxlQWNjb3VudHMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfcG9zc2libGVBY2NvdW50cy5wb3N0VmFsdWUoYWNjb3VudFNlbGVjdGlvbkRhdGE/LnBvc3NpYmxlQWNjb3VudHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBhY2NvdW50VHlwZXMuc29ydFdpdGgoQ29tcGFyYXRvciB7IHAxOiBQb3NzaWJsZUFjY291bnREYXRhUHJlc2VudGF0aW9uTW9kZWwsIF8gLT4KLy8gICAgICAgICAgICAgICAgd2hlbiAocDEpIHsKLy8gICAgICAgICAgICAgICAgICAgIHN1Z2dlc3RlZCAtPiAtMQovLyAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiAwCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0QWNjb3VudHNCeVN1Z2dlc3RlZChhY2NvdW50VHlwZXMpCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBhY2NvdW50VHlwZXMuc29ydFdpdGgoQ29tcGFyYXRvciB7IHAxOiBQb3NzaWJsZUFjY291bnREYXRhUHJlc2VudGF0aW9uTW9kZWwsIF8gLT4KLy8gICAgICAgICAgICAgICAgd2hlbiAocDEpIHsKLy8gICAgICAgICAgICAgICAgICAgIHN1Z2dlc3RlZCAtPiAtMQovLyAgICAgICAgICAgICAgICAgICAgZWxzZSAtPiAwCi8vICAgICAgICAgICAgICAgIH0KLy8gICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0QWNjb3VudHNCeVN1Z2dlc3RlZChhY2NvdW50VHlwZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBzb3J0U3VnZ2VzdGVkT25Ub3BPZkxpc3QoYWNjb3VudFR5cGVzLCBpdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBzb3J0U3VnZ2VzdGVkT25Ub3BPZkxpc3QoYWNjb3VudFR5cGVzLCBpdCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
