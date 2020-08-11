@@ -121,14 +121,16 @@
         <mark key="^" line="290" column="19" />
         <mark key="." line="290" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597136100228">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1597136919507">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="/fragment.kt" timestamp="1597055666931">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementservice/EntitlementServiceImpl.kt" timestamp="1597136849804">
-        <mark key="[" line="69" column="28" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementservice/EntitlementServiceImpl.kt" timestamp="1597136886281">
+        <mark key="[" line="76" column="75" />
         <mark key="]" line="69" column="28" />
         <mark key="^" line="68" column="39" />
         <mark key="." line="69" column="28" />
@@ -250,13 +252,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>it</text>
+        <text encoding="base64">IGh0dHBzOi8vZGV2ZWxvcGVyLmFuZHJvaWQuY29tL3JlZmVyZW5jZS9hbmRyb2lkL2NvbnRlbnQvSW50ZW50Iw==</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text encoding="base64">IGh0dHBzOi8vZGV2ZWxvcGVyLmFuZHJvaWQuY29tL3JlZmVyZW5jZS9hbmRyb2lkL2NvbnRlbnQvSW50ZW50Iw==</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
