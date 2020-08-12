@@ -141,7 +141,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597224507487">
+      <file name="/Dummy.txt" timestamp="1597226118450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -177,12 +177,12 @@
         <mark key="." line="81" column="23" />
         <mark key="^" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1597135868584" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_account_card_view.xml" timestamp="1597217122460">
-        <mark key="[" line="69" column="42" />
-        <mark key="]" line="69" column="42" />
-        <mark key="^" line="52" column="48" />
-        <mark key="." line="69" column="42" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1597226505784" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_account_card_view.xml" timestamp="1597226115840">
+        <mark key="[" line="55" column="44" />
+        <mark key="]" line="55" column="44" />
+        <mark key="^" line="55" column="44" />
+        <mark key="." line="55" column="43" />
       </file>
     </filemarks>
     <jumps>
@@ -290,14 +290,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgYWNjb3VudFR5cGUgPSBDUkVBVEVfQUNDT1VOVF9UWVBFX1BFUlNPTkFMCg==</text>
+      <register name="&quot;" type="4">
+        <text>gone</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;PERSONAL&quot;</text>
+        <text>gone</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
