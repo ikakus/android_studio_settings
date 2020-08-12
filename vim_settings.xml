@@ -134,10 +134,10 @@
         <mark key="." line="17" column="11" />
         <mark key="^" line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectionHubViewModel.kt" timestamp="1597217280914">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectionHubViewModel.kt" timestamp="1597220226129">
         <mark key="'" line="215" column="0" />
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
+        <mark key="[" line="104" column="56" />
+        <mark key="]" line="104" column="91" />
         <mark key="^" line="84" column="48" />
         <mark key="." line="159" column="0" />
       </file>
@@ -162,11 +162,16 @@
         <mark key="^" line="68" column="39" />
         <mark key="." line="69" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/test/java/com/monese/monese/gradualonboarding/entitlementsystem/entitlementhandler/handlers/accounttypeselection/AccountSelectionHubViewModelTest.kt" timestamp="1597220552140">
+        <mark key="[" line="111" column="30" />
+        <mark key="]" line="111" column="30" />
+        <mark key="^" line="113" column="43" />
+        <mark key="." line="111" column="30" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/auth/MoneseApiManager.kt" timestamp="1597065799139" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/MoneseApp.kt" timestamp="1597068620489">
         <mark key="[" line="380" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/dialogs/SessionIsAboutToExpireDialog.java" timestamp="1597065544351" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1597135868584" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_account_card_view.xml" timestamp="1597217122460">
         <mark key="[" line="69" column="42" />
@@ -280,51 +285,51 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXcoCiAgICAgICAgaW5mbGF0ZXI6IExheW91dEluZmxhdGVyLAogICAgICAgIGNvbnRhaW5lcjogVmlld0dyb3VwPywKICAgICAgICBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8KICAgICk6IFZpZXc/ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9hY2NvdW50X3NlbGVjdGlvbl9odWIsIGNvbnRhaW5lciwgZmFsc2UpCgo=</text>
+      <register name="&quot;" type="4">
+        <text>GBP_CURRENCY_CODE</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>pt5_promo_limited_time</text>
+        <text>GBP_CURRENCY_CODE</text>
       </register>
       <register name="/" type="4">
         <text>ty</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYTE2MF9mcmFfaWJhbl9oaW50Ij5Mb2NhbCBGcmVuY2ggSUJBTiBhdmFpbGFibGU8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWNjb3VudCA9IFBvc3NpYmxlQWNjb3VudERhdGFQcmVzZW50YXRpb25Nb2RlbCgKICAgICAgICAgICAgYWNjb3VudFR5cGUgPSAiUEVSU09OQUwiLAogICAgICAgICAgICBhY2NvdW50Q3VycmVuY3kgPSBHQlBfQ1VSUkVOQ1lfQ09ERQogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXcoCiAgICAgICAgaW5mbGF0ZXI6IExheW91dEluZmxhdGVyLAogICAgICAgIGNvbnRhaW5lcjogVmlld0dyb3VwPywKICAgICAgICBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8KICAgICk6IFZpZXc/ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9hY2NvdW50X3NlbGVjdGlvbl9odWIsIGNvbnRhaW5lciwgZmFsc2UpCgo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5tb25lc2UubW9uZXNlLmdyYWR1YWxvbmJvYXJkaW5nLmVudGl0bGVtZW50c3lzdGVtLmFjdGlvbmhhbmRsZXIuaGFuZGxlcnMuYWNjb3VudHR5cGVzZWxlY3Rpb24ubW9kZWwuT25ib2FyZGluZ0FjY291bnRUeXBlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZVZpZXcoCiAgICAgICAgaW5mbGF0ZXI6IExheW91dEluZmxhdGVyLAogICAgICAgIGNvbnRhaW5lcjogVmlld0dyb3VwPywKICAgICAgICBzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8KICAgICk6IFZpZXc/ID0gaW5mbGF0ZXIuaW5mbGF0ZShSLmxheW91dC5mcmFnbWVudF9hY2NvdW50X3NlbGVjdGlvbl9odWIsIGNvbnRhaW5lciwgZmFsc2UpCgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text>//    private fun getAccountCurrency(suggestedCurrency: String?): AccountCurrency {
 //        return suggestedCurrency?.let {
 //            accountCurrencyFromString(it).toPresentation()
 //        } ?: AccountCurrency.EUR
 //    }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIExvY2FsIEZyZW5jaCBJQkFOCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">PC9MaW5lYXJMYXlvdXQ+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBhY2NvdW50U2VsZWN0aW9uRGF0YT8ucG9zc2libGVBY2NvdW50cz8ubGV0IHsKLy8gICAgICAgICAgICBpdC5mb3JFYWNoIHsgbW9kZWwgLT4KLy8gICAgICAgICAgICAgICAgd2hlbiAobW9kZWwuYWNjb3VudEN1cnJlbmN5KSB7Ci8vICAgICAgICAgICAgICAgICAgICBFVVJfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICAgICAgICAgICAgICBHQlBfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICAgICAgICAgIFJPTl9DVVJSRU5DWV9DT0RFIC0+IGFjY291bnRUeXBlcy5hZGQoT25ib2FyZGluZ0FjY291bnRUeXBlLlJPTikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0gPzogcnVuIHsKLy8gICAgICAgICAgICAvLyBGYWxsYmFjayBpZiBCRSBkb2VzIG5vdCByZXR1cm4gYXZhaWxhYmxlIGFjY291bnQgdHlwZXMKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICB9Ci8vCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBfcG9zc2libGVBY2NvdW50cy5wb3N0VmFsdWUoYWNjb3VudFNlbGVjdGlvbkRhdGE/LnBvc3NpYmxlQWNjb3VudHMpCg==</text>
+        <text encoding="base64">Ci8vICAgICAgICBhY2NvdW50U2VsZWN0aW9uRGF0YT8ucG9zc2libGVBY2NvdW50cz8ubGV0IHsKLy8gICAgICAgICAgICBpdC5mb3JFYWNoIHsgbW9kZWwgLT4KLy8gICAgICAgICAgICAgICAgd2hlbiAobW9kZWwuYWNjb3VudEN1cnJlbmN5KSB7Ci8vICAgICAgICAgICAgICAgICAgICBFVVJfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICAgICAgICAgICAgICBHQlBfQ1VSUkVOQ1lfQ09ERSAtPiBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICAgICAgICAgIFJPTl9DVVJSRU5DWV9DT0RFIC0+IGFjY291bnRUeXBlcy5hZGQoT25ib2FyZGluZ0FjY291bnRUeXBlLlJPTikKLy8gICAgICAgICAgICAgICAgfQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0gPzogcnVuIHsKLy8gICAgICAgICAgICAvLyBGYWxsYmFjayBpZiBCRSBkb2VzIG5vdCByZXR1cm4gYXZhaWxhYmxlIGFjY291bnQgdHlwZXMKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5VSykKLy8gICAgICAgICAgICBhY2NvdW50VHlwZXMuYWRkKE9uYm9hcmRpbmdBY2NvdW50VHlwZS5FVVIpCi8vICAgICAgICB9Ci8vCg==</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
