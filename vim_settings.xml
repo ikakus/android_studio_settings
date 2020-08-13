@@ -146,6 +146,15 @@
         <mark key="]" line="119" column="95" />
         <mark key="." line="40" column="19" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/veriff/model/VeriffTokenResponseEntity.kt" timestamp="1597314908433">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="21" />
+        <mark key="^" line="20" column="22" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/veriff/model/VeriffTokenDomainModel.kt" timestamp="1597314953028">
+        <mark key="[" line="5" column="8" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="139" column="0" filename="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementservice/entitlementhandler/EntitlementHandlerViewModel.kt" />
@@ -252,14 +261,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentPhotoPrimaryOnfidoViewModel</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>na</text>
