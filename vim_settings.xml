@@ -110,13 +110,6 @@
         <mark key="^" line="104" column="30" />
         <mark key="." line="104" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1597317701089">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="88" column="34" />
-        <mark key="]" line="54" column="63" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="54" column="63" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/onfido/document/primary/DocumentPhotoPrimaryOnfidoViewModel.kt" timestamp="1597311934866" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/MoneseAutoCompleteTextView.java" timestamp="1597240675181">
         <mark key="[" line="13" column="0" />
@@ -135,7 +128,7 @@
         <mark key="." line="156" column="86" />
         <mark key="^" line="156" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597313886878">
+      <file name="/Dummy.txt" timestamp="1597317755341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
