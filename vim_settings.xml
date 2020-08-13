@@ -128,13 +128,13 @@
         <mark key="." line="156" column="86" />
         <mark key="^" line="156" column="87" />
       </file>
-      <file name="/Dummy.txt" timestamp="1597320783825">
+      <file name="/Dummy.txt" timestamp="1597322654413">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/dependencies.gradle" timestamp="1597312468517" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/AmountEditText.kt" timestamp="1597320459339">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/AmountEditText.kt" timestamp="1597322652367">
         <mark key="[" line="116" column="0" />
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
@@ -279,29 +279,29 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1biBzZXRMaXN0ZW5lcihsaXN0ZW5lcjogQW1vdW50RWRpdFRleHRMaXN0ZW5lcikgewogICAgICAgIHRoaXMubGlzdGVuZXIgPSBsaXN0ZW5lcgogICAgfQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBmdW4gc2V0TGlzdGVuZXIobGlzdGVuZXI6IEFtb3VudEVkaXRUZXh0TGlzdGVuZXIpIHsKICAgICAgICB0aGlzLmxpc3RlbmVyID0gbGlzdGVuZXIKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBpbnRlcmZhY2UgQW1vdW50RWRpdFRleHRMaXN0ZW5lciB7CiAgICB9Cgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBBbW91bnRFZGl0VGV4dExpc3RlbmVyPyA9IG51bGwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGludGVyZmFjZSBBbW91bnRFZGl0VGV4dExpc3RlbmVyIHsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5mcmFnbWVudF9kb2N1bWVudF9waG90b19zZWNvbmRhcnlfb25maWRvLioK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZ1biBzZXRMaXN0ZW5lcihsaXN0ZW5lcjogQW1vdW50RWRpdFRleHRMaXN0ZW5lcikgewogICAgICAgIHRoaXMubGlzdGVuZXIgPSBsaXN0ZW5lcgogICAgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICAgIG92ZXJyaWRlIGZ1biBoYW5kbGVCYWNrTmF2aWdhdGlvbigpIHsKICAgICAgICBUT0RPKCJub3QgaW1wbGVtZW50ZWQiKQogICAgfQoKCg==</text>
+        <text encoding="base64">CiAgICBpbnRlcmZhY2UgQW1vdW50RWRpdFRleHRMaXN0ZW5lciB7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGxpc3RlbmVyOiBBbW91bnRFZGl0VGV4dExpc3RlbmVyPyA9IG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>202</text>
