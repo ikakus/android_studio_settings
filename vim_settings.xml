@@ -98,24 +98,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/strings/src/main/res/values/strings.xml" timestamp="1597229906737">
-        <mark key="[" line="5828" column="0" />
-        <mark key="]" line="5828" column="74" />
-        <mark key="." line="5827" column="3" />
-        <mark key="^" line="5827" column="4" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/createaccount/createnewaccount/HUB3CreateNewAccountViewModel.kt" timestamp="1597224188290">
-        <mark key="[" line="81" column="23" />
-        <mark key="]" line="81" column="23" />
-        <mark key="." line="81" column="23" />
-        <mark key="^" line="12" column="18" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/login/A19LoginViewModel.kt" timestamp="1597226505784" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/layout/view_account_card_view.xml" timestamp="1597226115840">
-        <mark key="[" line="55" column="44" />
-        <mark key="]" line="55" column="44" />
-        <mark key="^" line="55" column="44" />
-        <mark key="." line="55" column="43" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/model/EntitlementActionDomainModel.kt" timestamp="1597308921796">
+        <mark key="[" line="45" column="82" />
+        <mark key="]" line="44" column="38" />
+        <mark key="^" line="44" column="38" />
+        <mark key="." line="44" column="37" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/helpers/ConversionHelper.java" timestamp="1597238773563">
         <mark key="[" line="7" column="0" />
@@ -128,10 +115,25 @@
         <mark key="." line="174" column="27" />
         <mark key="^" line="174" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/data/src/main/java/com/monese/monese/data/entitlement/model/EntitlementMapper.kt" timestamp="1597308243414">
+        <mark key="[" line="101" column="21" />
+        <mark key="]" line="104" column="30" />
+        <mark key="^" line="104" column="30" />
+        <mark key="." line="104" column="29" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/veriff/documentandselfie/VeriffDocumentIDScanAndSelfieViewModel.kt" timestamp="1597308897792">
+        <mark key="[" line="60" column="113" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/views/MoneseAutoCompleteTextView.java" timestamp="1597240675181">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/domain/src/main/java/com/monese/monese/domain/kyc/entitlement/model/Entitlement.kt" timestamp="1597307967335">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="4" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1597241583936">
         <mark key="[" line="0" column="0" />
