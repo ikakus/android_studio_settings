@@ -91,7 +91,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1597397263083">
+      <file name="/Dummy.txt" timestamp="1597400814501">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -156,11 +156,12 @@
         <mark key="]" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectionHubViewModel.kt" timestamp="1597396885279">
-        <mark key="'" line="193" column="0" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/accounttypeselection/accountselector/AccountSelectionHubViewModel.kt" timestamp="1597401376989">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="105" column="64" />
+        <mark key="]" line="105" column="65" />
+        <mark key="." line="105" column="64" />
+        <mark key="^" line="105" column="65" />
       </file>
       <file name="/fragment.java" timestamp="1597395660374">
         <mark key="[" line="0" column="0" />
