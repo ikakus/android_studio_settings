@@ -91,18 +91,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/newdocumentpicker/VerificationDocumentPickerNewViewModel.kt" timestamp="1598869058223">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/newdocumentpicker/VerificationDocumentPickerNewViewModel.kt" timestamp="1598872965571">
         <mark key="[" line="64" column="26" />
         <mark key="]" line="64" column="33" />
         <mark key="^" line="64" column="33" />
         <mark key="." line="64" column="32" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/documentpicker/steps/document/GradOnfidoChooseDocumentTypeFragment.kt" timestamp="1598872244648" />
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/newdocumentpicker/VerificationDocumentPickerNewFragment.kt" timestamp="1598869926366">
-        <mark key="[" line="68" column="90" />
-        <mark key="]" line="43" column="51" />
-        <mark key="." line="43" column="50" />
-        <mark key="^" line="43" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/newdocumentpicker/VerificationDocumentPickerNewFragment.kt" timestamp="1598872518360">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="64" column="5" />
+        <mark key="." line="64" column="4" />
+        <mark key="^" line="64" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_verification_document_picker.xml" timestamp="1598870423612" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_account_creation.xml" timestamp="1597396177804">
@@ -159,7 +159,7 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1598868012169">
+      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/documentpicker/VerificationDocumentPickerViewModel.kt" timestamp="1598872965201">
         <mark key="[" line="182" column="3" />
         <mark key="]" line="194" column="5" />
       </file>
@@ -291,13 +291,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>DocumentCountryPickerFragment</text>
+        <text>onLoading</text>
       </register>
       <register name="c" type="4">
         <text>TODO()</text>
       </register>
       <register name="-" type="4">
-        <text>DocumentCountryPickerFragment</text>
+        <text>onLoading</text>
       </register>
       <register name="/" type="4">
         <text>na</text>
