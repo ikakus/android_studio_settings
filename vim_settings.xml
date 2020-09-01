@@ -98,7 +98,6 @@
         <mark key="^" line="92" column="44" />
         <mark key="." line="92" column="43" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/documentpicker/steps/document/GradOnfidoChooseDocumentTypeFragment.kt" timestamp="1598872244648" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/newdocumentpicker/VerificationDocumentPickerNewFragment.kt" timestamp="1598949205655">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="23" column="0" />
@@ -107,6 +106,7 @@
         <mark key="^" line="74" column="65" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/documentpicker/steps/country/GradOnfidoChooseCountryViewModel.kt" timestamp="1598949135978" />
+      <file name="$USER_HOME$/AndroidStudioProjects/mvi_sandbox/gradlew.bat" timestamp="1598957565251" />
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/gradualonboarding/entitlementsystem/actionhandler/handlers/identityverification/documentpicker/VerificationDocumentPickerFragment.kt" timestamp="1598945234915">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="55" />
@@ -153,6 +153,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/mvi_sandbox/app/src/main/res/values/strings.xml" timestamp="1598957875179">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="28" />
+        <mark key="^" line="1" column="28" />
+        <mark key="." line="1" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1598954225875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
@@ -179,12 +185,6 @@
         <mark key="]" line="140" column="84" />
         <mark key="." line="140" column="84" />
         <mark key="^" line="104" column="50" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/res/navigation/nav_document_scan_primary_onfido.xml" timestamp="1598877395784">
-        <mark key="[" line="46" column="138" />
-        <mark key="]" line="46" column="138" />
-        <mark key="^" line="46" column="167" />
-        <mark key="." line="46" column="138" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/monese-android-app/app/src/main/java/com/monese/monese/di/modules/FragmentBuilderModule.kt" timestamp="1598878815281">
         <mark key="'" line="1002" column="58" />
