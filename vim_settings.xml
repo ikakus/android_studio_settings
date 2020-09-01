@@ -163,11 +163,11 @@
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/mvi_sandbox/app/src/main/java/com/example/mvisandbox/userscreen/UserFeature.kt" timestamp="1598965665348">
+      <file name="$USER_HOME$/AndroidStudioProjects/mvi_sandbox/app/src/main/java/com/example/mvisandbox/userscreen/UserFeature.kt" timestamp="1598969050963">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/mvi_sandbox/app/src/main/res/layout/activity_main.xml" timestamp="1598962922233">
         <mark key="[" line="7" column="16" />
